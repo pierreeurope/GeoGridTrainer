@@ -1,0 +1,184 @@
+{
+  "grid_id": "406",
+  "rows": [
+    {
+      "id": "name_length",
+      "name": "Name is 8 letters long",
+      "variantId": 4
+    },
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    },
+    {
+      "id": "same_sex_activities_illegal",
+      "name": "Same-sex activities are illegal",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Botswana",
+      "Cameroon",
+      "Colombia",
+      "Ethiopia",
+      "Malaysia",
+      "Mongolia",
+      "Pakistan",
+      "Paraguay",
+      "Tanzania",
+      "Thailand",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Cameroon",
+      "Eswatini",
+      "Ethiopia",
+      "Kiribati",
+      "Malaysia",
+      "Maldives",
+      "Pakistan",
+      "Sri Lanka",
+      "Tanzania",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Botswana",
+      "Cameroon",
+      "Djibouti",
+      "Eswatini",
+      "Ethiopia",
+      "Tanzania",
+      "Zimbabwe"
+    ],
+    "match_box_4": [
+      "Greenland",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "New Zealand",
+      "Papua New Guinea",
+      "Philippines",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Brunei",
+      "Comoros",
+      "Grenada",
+      "Indonesia",
+      "Jamaica",
+      "Kiribati",
+      "Maldives",
+      "Niue",
+      "Papua New Guinea",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Solomon Islands",
+      "Sri Lanka",
+      "Tonga",
+      "Tuvalu"
+    ],
+    "match_box_6": [
+      "Cabo Verde",
+      "Comoros",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_7": [
+      "Angola",
+      "Botswana",
+      "Chile",
+      "Egypt",
+      "Finland",
+      "Gabon",
+      "Ghana",
+      "Guyana",
+      "Indonesia",
+      "Malaysia",
+      "Mauritania",
+      "Mexico",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Norway",
+      "Oman",
+      "Pakistan",
+      "Paraguay",
+      "Somalia",
+      "Sweden",
+      "Thailand",
+      "Turkmenistan",
+      "Venezuela",
+      "Vietnam",
+      "Western Sahara",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Burundi",
+      "Egypt",
+      "Eritrea",
+      "Ghana",
+      "Guyana",
+      "Indonesia",
+      "Liberia",
+      "Malawi",
+      "Malaysia",
+      "Mauritania",
+      "Morocco",
+      "Nigeria",
+      "Oman",
+      "Pakistan",
+      "Palestine",
+      "Somalia",
+      "Togo",
+      "Turkmenistan",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Benin",
+      "Botswana",
+      "Burundi",
+      "Djibouti",
+      "Egypt",
+      "Eritrea",
+      "Gabon",
+      "Ghana",
+      "Liberia",
+      "Malawi",
+      "Mauritania",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Rwanda",
+      "Somalia",
+      "Togo",
+      "Western Sahara",
+      "Zimbabwe"
+    ]
+  }
+}

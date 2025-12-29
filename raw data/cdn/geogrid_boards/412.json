@@ -1,0 +1,136 @@
+{
+  "grid_id": "412",
+  "rows": [
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Congo River system",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Angola",
+      "Benin",
+      "Botswana",
+      "Côte d'Ivoire",
+      "Egypt",
+      "Kenya",
+      "Mauritania",
+      "Namibia",
+      "Nigeria",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Spain",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Benin",
+      "Côte d'Ivoire",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Angola",
+      "Argentina",
+      "Bolivia",
+      "Botswana",
+      "Colombia",
+      "Egypt",
+      "Kazakhstan",
+      "Kenya",
+      "Mauritania",
+      "Myanmar",
+      "Namibia",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Spain",
+      "Thailand"
+    ],
+    "match_box_4": [
+      "Angola",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "Rwanda",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "Rwanda"
+    ],
+    "match_box_6": [
+      "Angola",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Egypt",
+      "Equatorial Guinea",
+      "Ethiopia",
+      "Mozambique",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Spain"
+    ],
+    "match_box_8": [
+      "Equatorial Guinea",
+      "French Polynesia",
+      "Haiti",
+      "Saint Barthélemy",
+      "Saint Martin"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Bolivia",
+      "Brazil",
+      "Egypt",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "Mozambique",
+      "Peru",
+      "Spain"
+    ]
+  }
+}

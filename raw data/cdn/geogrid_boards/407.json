@@ -1,0 +1,176 @@
+{
+  "grid_id": "407",
+  "rows": [
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 1,000 km",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "air_pollution_over_x",
+      "name": "Air pollution over 10 μg/m³",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Mekong River system",
+      "variantId": 6
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "population_under_x",
+      "name": "Population under 1 million",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Cambodia",
+      "China",
+      "Myanmar",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Canada",
+      "China",
+      "Denmark",
+      "Federated States of Micronesia",
+      "Finland",
+      "Greece",
+      "Greenland",
+      "Honduras",
+      "Indonesia",
+      "Japan",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Palau",
+      "Poland",
+      "Saudi Arabia",
+      "Somalia",
+      "Sweden",
+      "Tunisia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Åland",
+      "Bahamas",
+      "Cabo Verde",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Federated States of Micronesia",
+      "Fiji",
+      "French Polynesia",
+      "French Southern Territories",
+      "Greenland",
+      "Guyana",
+      "Iceland",
+      "Kiribati",
+      "Maldives",
+      "Marshall Islands",
+      "New Caledonia",
+      "Northern Mariana Islands",
+      "Palau",
+      "Solomon Islands",
+      "Svalbard and Jan Mayen",
+      "Vanuatu",
+      "Western Sahara"
+    ],
+    "match_box_4": [
+      "Cambodia",
+      "China",
+      "Laos",
+      "Myanmar",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Bahrain",
+      "Bangladesh",
+      "China",
+      "Georgia",
+      "Hong Kong",
+      "Indonesia",
+      "Israel",
+      "Japan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Pakistan",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Macau",
+      "Maldives"
+    ],
+    "match_box_7": [
+      "Cambodia",
+      "China",
+      "Laos",
+      "Myanmar",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Bahrain",
+      "Bangladesh",
+      "China",
+      "Georgia",
+      "Greece",
+      "Honduras",
+      "Hong Kong",
+      "Indonesia",
+      "Israel",
+      "Japan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Latvia",
+      "Nigeria",
+      "North Macedonia",
+      "Pakistan",
+      "Poland",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "Tunisia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Bhutan",
+      "Cyprus",
+      "Liechtenstein",
+      "Macau",
+      "Montenegro",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Vatican City"
+    ]
+  }
+}

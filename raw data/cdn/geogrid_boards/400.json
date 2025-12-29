@@ -1,0 +1,197 @@
+{
+  "grid_id": "400",
+  "rows": [
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 10 Olympic medals",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Caribbean Sea",
+      "variantId": 6
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Barbados",
+      "Caribbean Netherlands",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Curaçao",
+      "Grenada",
+      "Jamaica",
+      "Martinique",
+      "Panama",
+      "Puerto Rico",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Angola",
+      "Benin",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Gabon",
+      "Guinea",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritania",
+      "Mayotte",
+      "Niger",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Senegal",
+      "Sierra Leone"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Côte d'Ivoire",
+      "Malta",
+      "Nauru",
+      "New Zealand",
+      "Taiwan",
+      "Trinidad and Tobago",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Antigua and Barbuda",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Dominican Republic",
+      "Guadeloupe",
+      "Martinique",
+      "Montserrat",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_5": [
+      "Burkina Faso",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Madagascar",
+      "Mauritania",
+      "Mozambique",
+      "Republic of the Congo",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "Sierra Leone",
+      "South Africa",
+      "South Sudan",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "Federated States of Micronesia",
+      "Guadeloupe",
+      "Kazakhstan",
+      "Liechtenstein",
+      "Montserrat",
+      "New Zealand",
+      "Philippines",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "South Africa",
+      "Switzerland",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Colombia",
+      "Cuba",
+      "Dominican Republic",
+      "Jamaica",
+      "Mexico",
+      "Puerto Rico",
+      "Trinidad and Tobago",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Morocco",
+      "Nigeria",
+      "South Africa",
+      "Spain",
+      "Tunisia",
+      "Uganda"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Dominican Republic",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Switzerland",
+      "Taiwan",
+      "Trinidad and Tobago",
+      "Türkiye",
+      "United States of America"
+    ]
+  }
+}

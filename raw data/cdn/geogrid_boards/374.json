@@ -1,0 +1,186 @@
+{
+  "grid_id": "374",
+  "rows": [
+    {
+      "id": "top_20_oil_production",
+      "name": "Top 20 in oil production",
+      "variantId": null
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 60",
+      "variantId": 4
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 5 tCO₂/year",
+      "variantId": 5
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "Mexico",
+      "Qatar",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Canada",
+      "China",
+      "Iran",
+      "Kazakhstan",
+      "Kuwait",
+      "Libya",
+      "Norway",
+      "Oman",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Angola",
+      "Canada",
+      "China",
+      "Libya",
+      "Nigeria",
+      "Russia",
+      "Saudi Arabia",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "Chile",
+      "France",
+      "Germany",
+      "Japan",
+      "South Korea",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Canada",
+      "Estonia",
+      "Finland",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Japan",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Seychelles",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Austria",
+      "Canada",
+      "Estonia",
+      "Lithuania",
+      "South Korea",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Chile",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Belarus",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Cook Islands",
+      "Curaçao",
+      "Cyprus",
+      "Czechia",
+      "Estonia",
+      "Germany",
+      "Iceland",
+      "Iran",
+      "Ireland",
+      "Italy",
+      "Luxembourg",
+      "Maldives",
+      "Mongolia",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Russia",
+      "Slovakia",
+      "Taiwan",
+      "Trinidad and Tobago",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Angola",
+      "Armenia",
+      "Australia",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Bulgaria",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Czechia",
+      "Estonia",
+      "French Guiana",
+      "Grenada",
+      "Guinea",
+      "Jamaica",
+      "Liberia",
+      "Lithuania",
+      "Malta",
+      "Mauritania",
+      "Mongolia",
+      "North Korea",
+      "Panama",
+      "Romania",
+      "Russia",
+      "Rwanda",
+      "Samoa",
+      "Slovakia",
+      "United States of America",
+      "Wallis and Futuna"
+    ]
+  }
+}

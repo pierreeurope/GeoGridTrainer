@@ -1,0 +1,185 @@
+{
+  "grid_id": "372",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $40k",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Gabon",
+      "Guinea",
+      "Madagascar",
+      "Mayotte",
+      "Niger",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Senegal",
+      "Seychelles",
+      "Togo"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Benin",
+      "Cameroon",
+      "Canada",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "France",
+      "French Guiana",
+      "Gabon",
+      "Guadeloupe",
+      "Guinea",
+      "Haiti",
+      "Martinique",
+      "Republic of the Congo",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Senegal",
+      "Togo"
+    ],
+    "match_box_3": [
+      "Belgium",
+      "Canada",
+      "France",
+      "Luxembourg",
+      "Monaco",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Angola",
+      "Burkina Faso",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Ghana",
+      "Kenya",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Morocco",
+      "Mozambique",
+      "Niger",
+      "Nigeria",
+      "South Africa",
+      "Spain",
+      "Sudan",
+      "Tanzania",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Argentina",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Germany",
+      "Ghana",
+      "Morocco",
+      "Nigeria",
+      "South Africa",
+      "Spain",
+      "United Kingdom",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Canada",
+      "France",
+      "Germany",
+      "Italy",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Egypt",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Spain",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Bermuda",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Malta",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "U.S. Virgin Islands"
+    ]
+  }
+}

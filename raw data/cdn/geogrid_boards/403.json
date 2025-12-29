@@ -1,0 +1,186 @@
+{
+  "grid_id": "403",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "population_under_x",
+      "name": "Population under 10 million",
+      "variantId": 4
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.65",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_equator",
+      "name": "Touches the Equator",
+      "variantId": null
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Democratic Republic of the Congo",
+      "Gabon",
+      "Kenya",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia",
+      "Uganda"
+    ],
+    "match_box_2": [
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Angola",
+      "Botswana",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mozambique",
+      "Namibia",
+      "Niger",
+      "Nigeria",
+      "Somalia",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_4": [
+      "Gabon",
+      "Kiribati",
+      "Maldives",
+      "Republic of the Congo",
+      "São Tomé and Príncipe"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Belarus",
+      "Bhutan",
+      "Botswana",
+      "Central African Republic",
+      "Eswatini",
+      "Hungary",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Laos",
+      "Lesotho",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "Mongolia",
+      "North Macedonia",
+      "Paraguay",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Turkmenistan",
+      "Vatican City"
+    ],
+    "match_box_6": [
+      "Botswana",
+      "Central African Republic",
+      "Greenland",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Namibia"
+    ],
+    "match_box_7": [
+      "Democratic Republic of the Congo",
+      "Kenya",
+      "Kiribati",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia",
+      "Uganda"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Laos",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Angola",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Kenya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mozambique",
+      "Myanmar",
+      "Niger",
+      "Nigeria",
+      "Pakistan",
+      "Somalia",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Yemen",
+      "Zambia"
+    ]
+  }
+}

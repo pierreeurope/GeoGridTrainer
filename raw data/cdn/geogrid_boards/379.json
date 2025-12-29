@@ -1,0 +1,172 @@
+{
+  "grid_id": "379",
+  "rows": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Amazon River system",
+      "variantId": 1
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    },
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Bolivia",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "match_box_4": [
+      "Bolivia",
+      "Brazil",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname"
+    ],
+    "match_box_5": [
+      "Bolivia",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Mexico",
+      "Nicaragua",
+      "Paraguay",
+      "Peru",
+      "Spain",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Bolivia",
+      "Brazil",
+      "Bulgaria",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Ecuador",
+      "El Salvador",
+      "Ghana",
+      "Haiti",
+      "Hungary",
+      "Iran",
+      "Iraq",
+      "Ireland",
+      "Italy",
+      "Jamaica",
+      "Kuwait",
+      "Mexico",
+      "Morocco",
+      "Nigeria",
+      "Paraguay",
+      "Peru",
+      "Portugal",
+      "Saudi Arabia",
+      "Senegal",
+      "South Africa",
+      "Spain",
+      "Togo",
+      "United Arab Emirates"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Chile",
+      "Dominican Republic",
+      "Equatorial Guinea",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "Chile",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Denmark",
+      "France",
+      "Germany",
+      "Ghana",
+      "Haiti",
+      "Iceland",
+      "Ireland",
+      "Morocco",
+      "Netherlands",
+      "Nigeria",
+      "Norway",
+      "Portugal",
+      "Senegal",
+      "South Africa",
+      "Spain",
+      "Togo",
+      "Trinidad and Tobago",
+      "United Kingdom",
+      "United States of America",
+      "Uruguay"
+    ]
+  }
+}

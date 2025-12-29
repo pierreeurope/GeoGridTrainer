@@ -1,0 +1,142 @@
+{
+  "grid_id": "370",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Amazon River system",
+      "variantId": 1
+    },
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x",
+      "name": "Borders Brazil",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Mexico",
+      "Nicaragua",
+      "Paraguay",
+      "Peru",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Peru",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ]
+  }
+}

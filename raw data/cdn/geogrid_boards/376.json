@@ -1,0 +1,167 @@
+{
+  "grid_id": "376",
+  "rows": [
+    {
+      "id": "bottom_20_population_density",
+      "name": "Bottom 20 in population density",
+      "variantId": null
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 5,000 km",
+      "variantId": 4
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 50 Olympic medals",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 1 million km²",
+      "variantId": 7
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "Greenland",
+      "Kazakhstan",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Russia"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Canada",
+      "Niue",
+      "Pitcairn Islands",
+      "Russia"
+    ],
+    "match_box_3": [
+      "Central African Republic",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Gabon",
+      "Guyana",
+      "Kazakhstan",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Niue",
+      "Pitcairn Islands",
+      "Suriname"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Colombia",
+      "Egypt",
+      "Greenland",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "Russia",
+      "Saudi Arabia",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "French Polynesia",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "New Zealand",
+      "Panama",
+      "Papua New Guinea",
+      "Philippines",
+      "Russia",
+      "Solomon Islands",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Argentina",
+      "Bahamas",
+      "Brazil",
+      "China",
+      "Colombia",
+      "Croatia",
+      "Egypt",
+      "French Polynesia",
+      "Malaysia",
+      "Mexico",
+      "Mozambique",
+      "Myanmar",
+      "Papua New Guinea",
+      "Philippines",
+      "Solomon Islands",
+      "Spain",
+      "Sweden",
+      "Venezuela",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Ethiopia",
+      "Iran",
+      "Kazakhstan",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Canada",
+      "Japan",
+      "Mexico",
+      "New Zealand",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "China",
+      "Croatia",
+      "Ethiopia",
+      "Germany",
+      "Jamaica",
+      "Kazakhstan",
+      "Mexico",
+      "Romania",
+      "Slovenia",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Ukraine"
+    ]
+  }
+}

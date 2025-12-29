@@ -1,0 +1,183 @@
+{
+  "grid_id": "409",
+  "rows": [
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $20k",
+      "variantId": 2
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Caribbean Sea",
+      "variantId": 6
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Barbados",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Curaçao",
+      "Guadeloupe",
+      "Martinique",
+      "Panama",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Sint Maarten",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Austria",
+      "Czechia",
+      "Hungary",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Slovakia",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Belgium",
+      "Croatia",
+      "Czechia",
+      "Greece",
+      "Israel",
+      "Latvia",
+      "Lithuania",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Belize",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Dominica",
+      "Dominican Republic",
+      "Grenada",
+      "Guadeloupe",
+      "Guatemala",
+      "Haiti",
+      "Jamaica",
+      "Martinique",
+      "Mexico",
+      "Montserrat",
+      "Nicaragua",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Ethiopia",
+      "Hungary",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Moldova",
+      "Niger",
+      "Paraguay",
+      "Rwanda",
+      "San Marino",
+      "South Sudan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Azerbaijan",
+      "Belarus",
+      "Benin",
+      "Bolivia",
+      "Bulgaria",
+      "Côte d'Ivoire",
+      "Guatemala",
+      "Jordan",
+      "Kenya",
+      "Lithuania",
+      "Mauritania",
+      "Montenegro",
+      "Myanmar",
+      "Namibia",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Spain",
+      "Syria",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Belize",
+      "Caribbean Netherlands",
+      "Dominican Republic",
+      "Guadeloupe",
+      "Montserrat",
+      "Sint Maarten",
+      "Trinidad and Tobago"
+    ],
+    "match_box_8": [
+      "Bolivia",
+      "Burundi",
+      "Kazakhstan",
+      "Liechtenstein",
+      "San Marino",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Benin",
+      "Bolivia",
+      "Côte d'Ivoire",
+      "Kazakhstan",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Switzerland"
+    ]
+  }
+}

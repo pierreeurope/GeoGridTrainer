@@ -1,0 +1,187 @@
+{
+  "grid_id": "371",
+  "rows": [
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 40",
+      "variantId": 2
+    },
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_sahara",
+      "name": "Touches the Sahara Desert",
+      "variantId": null
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Niger",
+      "Sudan",
+      "Tunisia"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Ethiopia",
+      "Kyrgyzstan",
+      "Laos",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Mongolia",
+      "Nepal",
+      "Niger",
+      "Paraguay",
+      "Serbia",
+      "South Sudan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Colombia",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Indonesia",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Papua New Guinea",
+      "Peru",
+      "Philippines",
+      "Russia"
+    ],
+    "match_box_4": [
+      "Chad",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Bhutan",
+      "Bolivia",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Laos",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Rwanda",
+      "South Sudan",
+      "Vatican City"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Cook Islands",
+      "El Salvador",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Guam",
+      "Honduras",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Caledonia",
+      "Nicaragua",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Palau",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "Timor-Leste",
+      "Tokelau",
+      "Tuvalu",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Chad",
+      "Mali",
+      "Mauritania",
+      "Niger"
+    ],
+    "match_box_8": [
+      "Armenia",
+      "Belarus",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Chad",
+      "Czechia",
+      "Hungary",
+      "Kosovo",
+      "Laos",
+      "Luxembourg",
+      "Malawi",
+      "Mali",
+      "Mongolia",
+      "Nepal",
+      "Niger",
+      "Rwanda",
+      "Slovakia"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Chile",
+      "Colombia",
+      "Cook Islands",
+      "Costa Rica",
+      "Marshall Islands",
+      "Nauru",
+      "New Zealand",
+      "Panama",
+      "Russia",
+      "Samoa",
+      "Taiwan",
+      "Tokelau",
+      "United States of America",
+      "Wallis and Futuna"
+    ]
+  }
+}

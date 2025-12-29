@@ -1,0 +1,164 @@
+{
+  "grid_id": "378",
+  "rows": [
+    {
+      "id": "top_20_wheat_production",
+      "name": "Top 20 in wheat production",
+      "variantId": null
+    },
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    },
+    {
+      "id": "coastline_length_under_x",
+      "name": "Has coastline, with length less than 500 km",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "France",
+      "Germany",
+      "Iran",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Canada",
+      "France",
+      "Germany",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Canada",
+      "China",
+      "Kazakhstan",
+      "Pakistan",
+      "Poland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "Panama",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Türkiye",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Canada",
+      "Hong Kong",
+      "Japan",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Canada",
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Democratic Republic of the Congo",
+      "Iraq",
+      "Israel",
+      "Slovenia",
+      "Togo"
+    ],
+    "match_box_8": [
+      "Aruba",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Christmas Island",
+      "Gibraltar",
+      "Guam",
+      "Isle of Man",
+      "Israel",
+      "Jersey",
+      "Lithuania",
+      "Macau",
+      "Malta",
+      "Martinique",
+      "Monaco",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Singapore",
+      "Sint Maarten",
+      "Slovenia",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_9": [
+      "Bahrain",
+      "Georgia",
+      "Israel",
+      "Monaco",
+      "Norfolk Island",
+      "Singapore"
+    ]
+  }
+}

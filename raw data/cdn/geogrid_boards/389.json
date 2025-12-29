@@ -1,0 +1,203 @@
+{
+  "grid_id": "389",
+  "rows": [
+    {
+      "id": "top_20_population_density",
+      "name": "Top 20 in population density",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $40k",
+      "variantId": 4
+    },
+    {
+      "id": "size_under_x",
+      "name": "Area less than 50,000 km²",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Jersey",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan"
+    ],
+    "match_box_2": [
+      "Aruba",
+      "Bahrain",
+      "Bangladesh",
+      "Barbados",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Palestine",
+      "Taiwan",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Gibraltar",
+      "Hong Kong",
+      "Jersey",
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Monaco",
+      "Palestine",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Azerbaijan",
+      "Belarus",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Estonia",
+      "Georgia",
+      "Greece",
+      "Hungary",
+      "Kazakhstan",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Montenegro",
+      "North Macedonia",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "Vatican City"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Albania",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Denmark",
+      "Estonia",
+      "Faroe Islands",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Moldova",
+      "Monaco",
+      "Montenegro",
+      "Netherlands",
+      "North Macedonia",
+      "San Marino",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_7": [
+      "Brunei",
+      "Cyprus",
+      "Jersey",
+      "Taiwan",
+      "Tuvalu"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Belize",
+      "Bhutan",
+      "Brazil",
+      "Brunei",
+      "Greece",
+      "Guinea",
+      "Guyana",
+      "Jordan",
+      "Kosovo",
+      "Kuwait",
+      "Latvia",
+      "Malawi",
+      "Mexico",
+      "Panama",
+      "Poland",
+      "Russia",
+      "Rwanda",
+      "Serbia",
+      "Taiwan",
+      "Tuvalu",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Belize",
+      "Bhutan",
+      "Brunei",
+      "Cyprus",
+      "Israel",
+      "Jersey",
+      "Kosovo",
+      "Kuwait",
+      "Monaco",
+      "Rwanda",
+      "Taiwan",
+      "Tuvalu"
+    ]
+  }
+}

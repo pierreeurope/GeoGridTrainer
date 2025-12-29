@@ -1,0 +1,170 @@
+{
+  "grid_id": "399",
+  "rows": [
+    {
+      "id": "flag_has_x_or_more_colors",
+      "name": "Flag with 5+ colors",
+      "variantId": 0
+    },
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Falkland Islands (Malvinas)",
+      "Guam",
+      "Guyana",
+      "New Caledonia",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Sint Maarten",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Bolivia",
+      "Central African Republic",
+      "Eswatini",
+      "Moldova",
+      "Paraguay",
+      "San Marino",
+      "South Sudan",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Mexico",
+      "Mozambique",
+      "Peru",
+      "South Africa",
+      "Spain",
+      "Uganda"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Canada",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Gibraltar",
+      "Guyana",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Singapore",
+      "Turks and Caicos Islands",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Malawi",
+      "Rwanda",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Bangladesh",
+      "Cameroon",
+      "Canada",
+      "Ghana",
+      "India",
+      "Kenya",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Uganda",
+      "United Kingdom",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Czechia",
+      "Finland",
+      "Guyana",
+      "Lithuania",
+      "Luxembourg",
+      "Norway",
+      "Slovenia",
+      "Sweden"
+    ],
+    "match_box_8": [
+      "Armenia",
+      "Botswana",
+      "Burundi",
+      "Czechia",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Luxembourg",
+      "Malawi",
+      "Paraguay",
+      "Rwanda",
+      "Tajikistan",
+      "Turkmenistan",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Egypt",
+      "Ghana",
+      "Indonesia",
+      "Malawi",
+      "Malaysia",
+      "Mexico",
+      "Morocco",
+      "Nigeria",
+      "North Korea",
+      "Pakistan",
+      "Thailand",
+      "Venezuela",
+      "Vietnam"
+    ]
+  }
+}

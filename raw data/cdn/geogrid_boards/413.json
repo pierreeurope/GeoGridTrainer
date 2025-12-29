@@ -1,0 +1,161 @@
+{
+  "grid_id": "413",
+  "rows": [
+    {
+      "id": "has_nuclear_weapons",
+      "name": "Has nuclear weapons",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 60",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 2,000 km",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "China",
+      "Israel",
+      "North Korea",
+      "Pakistan",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "China",
+      "France",
+      "India",
+      "Israel",
+      "Russia"
+    ],
+    "match_box_3": [
+      "China",
+      "France",
+      "India",
+      "North Korea",
+      "Pakistan",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Bulgaria",
+      "Croatia",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Kazakhstan",
+      "Montenegro",
+      "North Macedonia",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Spain",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Croatia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Norway",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Cabo Verde",
+      "Chile",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "New Zealand",
+      "Singapore",
+      "Taiwan",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_8": [
+      "Austria",
+      "France",
+      "Germany",
+      "Israel",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Bahamas",
+      "Canada",
+      "Chile",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Japan",
+      "New Zealand",
+      "Norway",
+      "South Korea",
+      "Sweden",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "grid_id": "382",
+  "rows": [
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_obesity_rate",
+      "name": "Top 20 in obesity rate",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 8 letters long",
+      "variantId": 4
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 100,000 km²",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bahamas",
+      "Cook Islands",
+      "Kiribati",
+      "Nauru",
+      "Niue",
+      "Saint Kitts and Nevis",
+      "Samoa",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu"
+    ],
+    "match_box_2": [
+      "Anguilla",
+      "Barbados",
+      "Botswana",
+      "Dominica",
+      "Eswatini",
+      "Hong Kong",
+      "Kiribati",
+      "Malaysia",
+      "Maldives",
+      "Pakistan",
+      "Sri Lanka",
+      "Suriname",
+      "Tanzania",
+      "Thailand",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Bangladesh",
+      "Botswana",
+      "Guyana",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Kenya",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "Namibia",
+      "Nepal",
+      "New Zealand",
+      "Pakistan",
+      "Papua New Guinea",
+      "South Africa",
+      "Suriname",
+      "Tanzania",
+      "Thailand",
+      "Uganda",
+      "United Kingdom",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_4": [
+      "American Samoa",
+      "Bahamas",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "Niue",
+      "Saint Kitts and Nevis",
+      "Samoa",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu"
+    ],
+    "match_box_5": [
+      "Anguilla",
+      "Barbados",
+      "Dominica",
+      "Kiribati",
+      "Maldives",
+      "Sri Lanka"
+    ],
+    "match_box_6": [
+      "Cuba",
+      "Greenland",
+      "Iceland",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "New Zealand",
+      "Papua New Guinea",
+      "Philippines",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Belize",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "Niue",
+      "Saint Kitts and Nevis",
+      "Tokelau",
+      "Tuvalu"
+    ],
+    "match_box_8": [
+      "Anguilla",
+      "Cambodia",
+      "Eswatini",
+      "Honduras",
+      "Kiribati",
+      "Maldives"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Bangladesh",
+      "Benin",
+      "Bolivia",
+      "Cambodia",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Greenland",
+      "Guinea",
+      "Honduras",
+      "Laos",
+      "Liberia",
+      "Libya",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritania",
+      "Myanmar",
+      "Nepal",
+      "Nicaragua",
+      "Oman",
+      "Papua New Guinea",
+      "Republic of the Congo",
+      "Somalia",
+      "South Sudan",
+      "Western Sahara",
+      "Yemen"
+    ]
+  }
+}

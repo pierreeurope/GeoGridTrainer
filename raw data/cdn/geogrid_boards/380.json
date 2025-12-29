@@ -1,0 +1,151 @@
+{
+  "grid_id": "380",
+  "rows": [
+    {
+      "id": "air_pollution_over_x",
+      "name": "Air pollution over 10 μg/m³",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 100 Olympic medals",
+      "variantId": 5
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 8 letters long",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "China",
+      "Czechia",
+      "Greece",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Poland",
+      "Türkiye"
+    ],
+    "match_box_2": [
+      "Brazil",
+      "Bulgaria",
+      "China",
+      "Czechia",
+      "Greece",
+      "Hungary",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Poland",
+      "Romania",
+      "South Korea",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Botswana",
+      "Bulgaria",
+      "Cambodia",
+      "Cameroon",
+      "Colombia",
+      "Djibouti",
+      "Eswatini",
+      "Ethiopia",
+      "Honduras",
+      "Hong Kong",
+      "Malaysia",
+      "Mongolia",
+      "Pakistan",
+      "Paraguay",
+      "Slovakia",
+      "Slovenia",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Zimbabwe"
+    ],
+    "match_box_4": [
+      "China",
+      "India",
+      "Iran",
+      "Japan",
+      "Russia",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "China",
+      "Japan",
+      "Russia",
+      "South Korea",
+      "Türkiye"
+    ],
+    "match_box_6": [
+      "Cambodia",
+      "Hong Kong",
+      "Malaysia",
+      "Maldives",
+      "Mongolia",
+      "Pakistan",
+      "Sri Lanka",
+      "Thailand"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "India",
+      "Iran",
+      "Mexico",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Kenya",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Botswana",
+      "Colombia",
+      "Ethiopia",
+      "Mongolia",
+      "Pakistan",
+      "Tanzania",
+      "Thailand"
+    ]
+  }
+}

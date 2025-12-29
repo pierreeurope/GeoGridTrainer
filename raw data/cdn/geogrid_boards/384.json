@@ -1,0 +1,203 @@
+{
+  "grid_id": "384",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Oceania",
+      "variantId": 6
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Cook Islands",
+      "Fiji",
+      "Kiribati",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu"
+    ],
+    "match_box_2": [
+      "American Samoa",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Marshall Islands",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "Northern Mariana Islands",
+      "Papua New Guinea",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tuvalu",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bangladesh",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Kenya",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "Nepal",
+      "Pakistan",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Uganda",
+      "United Kingdom",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "North Korea",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "Sri Lanka",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Bangladesh",
+      "Brazil",
+      "Burkina Faso",
+      "Cameroon",
+      "China",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Ghana",
+      "Japan",
+      "Kazakhstan",
+      "Malawi",
+      "Malaysia",
+      "Morocco",
+      "Mozambique",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Pakistan",
+      "Philippines",
+      "Syria",
+      "Taiwan",
+      "Türkiye",
+      "United States of America",
+      "Uzbekistan",
+      "Venezuela",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Botswana",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Mozambique",
+      "Namibia",
+      "Pakistan",
+      "South Africa",
+      "Tanzania",
+      "Thailand",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Saudi Arabia",
+      "South Africa",
+      "South Sudan",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Bolivia",
+      "Brazil",
+      "Central African Republic",
+      "Chile",
+      "China",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Greenland",
+      "Kazakhstan",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Mozambique",
+      "Myanmar",
+      "Namibia",
+      "Pakistan",
+      "Somalia",
+      "South Sudan",
+      "Türkiye",
+      "United States of America",
+      "Venezuela"
+    ]
+  }
+}

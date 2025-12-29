@@ -1,0 +1,150 @@
+{
+  "grid_id": "408",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "top_20_wheat_production",
+      "name": "Top 20 in wheat production",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 100 Olympic medals",
+      "variantId": 5
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Hungary",
+      "Kazakhstan",
+      "Moldova",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Bulgaria",
+      "Czechia",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Italy",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "France",
+      "Greece",
+      "Jersey",
+      "Kosovo",
+      "Latvia",
+      "Monaco",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Sweden"
+    ],
+    "match_box_4": [
+      "China",
+      "Kazakhstan",
+      "Romania",
+      "Russia",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Poland",
+      "Russia"
+    ],
+    "match_box_7": [
+      "Austria",
+      "China",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Canada",
+      "China",
+      "Denmark",
+      "Finland",
+      "Greece",
+      "Japan",
+      "Poland",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_9": [
+      "Canada",
+      "Greece",
+      "Israel",
+      "Latvia",
+      "Monaco",
+      "Poland",
+      "Sweden"
+    ]
+  }
+}

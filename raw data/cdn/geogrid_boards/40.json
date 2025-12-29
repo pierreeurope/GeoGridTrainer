@@ -1,0 +1,156 @@
+{
+  "grid_id": "40",
+  "rows": [
+    {
+      "name": "Member of the Commonwealth",
+      "id": "commonwealth_member",
+      "variantId": null
+    },
+    {
+      "name": "In Africa",
+      "id": "continent",
+      "variantId": 2
+    },
+    {
+      "name": "Flag with black",
+      "id": "color_on_flag",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 50 million",
+      "id": "population_over_x",
+      "variantId": 6
+    },
+    {
+      "name": "Coastline on the Indian Ocean",
+      "id": "coastline_on_x",
+      "variantId": 1
+    },
+    {
+      "name": "Capital city population over 2 million",
+      "id": "capital_population_over_x",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "India",
+      "Kenya",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Tanzania",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Heard Island and McDonald Islands",
+      "India",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Pakistan",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania"
+    ],
+    "match_box_3": [
+      "Bangladesh",
+      "Cameroon",
+      "Ghana",
+      "Kenya",
+      "Malaysia",
+      "Singapore",
+      "South Africa",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Nigeria",
+      "South Africa",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_5": [
+      "Comoros",
+      "Djibouti",
+      "Kenya",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Mozambique",
+      "Réunion",
+      "Seychelles",
+      "Somalia",
+      "South Africa",
+      "Tanzania"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Burkina Faso",
+      "Cameroon",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Ghana",
+      "Kenya",
+      "Mali",
+      "Republic of the Congo",
+      "Somalia",
+      "South Africa",
+      "Spain",
+      "Sudan"
+    ],
+    "match_box_7": [
+      "Egypt",
+      "Germany",
+      "Kenya",
+      "South Africa",
+      "South Korea",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_8": [
+      "Kenya",
+      "Mozambique",
+      "South Africa",
+      "Tanzania",
+      "Timor-Leste",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Angola",
+      "Cambodia",
+      "Egypt",
+      "Germany",
+      "Ghana",
+      "Iraq",
+      "Jordan",
+      "Kenya",
+      "Kuwait",
+      "South Africa",
+      "South Korea",
+      "Sudan",
+      "Syria",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "grid_id": "393",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Oceania",
+      "variantId": 6
+    },
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 40",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Marshall Islands",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Fiji",
+      "New Zealand",
+      "Solomon Islands",
+      "United States of America",
+      "Vanuatu"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "Northern Mariana Islands",
+      "Papua New Guinea",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tuvalu",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Luxembourg",
+      "Madagascar",
+      "Martinique",
+      "New Caledonia",
+      "Republic of the Congo",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Switzerland",
+      "Wallis and Futuna"
+    ],
+    "match_box_5": [
+      "Belgium",
+      "Benin",
+      "Canada",
+      "Côte d'Ivoire",
+      "France",
+      "Luxembourg",
+      "Rwanda",
+      "Senegal",
+      "Seychelles",
+      "Switzerland",
+      "Vanuatu"
+    ],
+    "match_box_6": [
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Rwanda",
+      "Saint Martin",
+      "Senegal",
+      "Togo"
+    ],
+    "match_box_7": [
+      "Azerbaijan",
+      "Côte d'Ivoire",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mauritania",
+      "Montenegro",
+      "North Macedonia",
+      "Republic of the Congo",
+      "Switzerland",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Armenia",
+      "Belgium",
+      "Benin",
+      "Botswana",
+      "Bulgaria",
+      "Côte d'Ivoire",
+      "Croatia",
+      "Czechia",
+      "Georgia",
+      "Greece",
+      "Israel",
+      "Jordan",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Malaysia",
+      "Montenegro",
+      "Namibia",
+      "Romania",
+      "Rwanda",
+      "Senegal",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Argentina",
+      "Azerbaijan",
+      "Bolivia",
+      "Croatia",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Malaysia",
+      "Mauritania",
+      "Myanmar",
+      "Namibia",
+      "North Macedonia",
+      "Pakistan",
+      "Rwanda",
+      "Senegal",
+      "Slovenia",
+      "Syria",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Zimbabwe"
+    ]
+  }
+}

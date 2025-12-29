@@ -1,0 +1,162 @@
+{
+  "grid_id": "381",
+  "rows": [
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with blue",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Moldova",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Armenia",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Moldova",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Armenia",
+      "Azerbaijan",
+      "Estonia",
+      "Kazakhstan",
+      "Moldova",
+      "Russia",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Austria",
+      "Hungary",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Moldova",
+      "Mongolia",
+      "Serbia",
+      "Slovakia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Belarus",
+      "Bolivia",
+      "Burundi",
+      "Czechia",
+      "Hungary",
+      "Lesotho",
+      "Moldova"
+    ],
+    "match_box_6": [
+      "Andorra",
+      "Armenia",
+      "Azerbaijan",
+      "Bolivia",
+      "Botswana",
+      "Central African Republic",
+      "Chad",
+      "Czechia",
+      "Eswatini",
+      "Ethiopia",
+      "Kazakhstan",
+      "Kosovo",
+      "Laos",
+      "Lesotho",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "Mongolia",
+      "Nepal",
+      "Paraguay",
+      "Rwanda",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "South Sudan",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "China",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_8": [
+      "Armenia",
+      "Bahrain",
+      "Georgia",
+      "Lebanon",
+      "Myanmar",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Armenia",
+      "Azerbaijan",
+      "British Indian Ocean Territory",
+      "Cambodia",
+      "Christmas Island",
+      "India",
+      "Israel",
+      "Kazakhstan",
+      "Laos",
+      "Malaysia",
+      "Mongolia",
+      "Nepal",
+      "North Korea",
+      "Philippines",
+      "Russia",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Uzbekistan"
+    ]
+  }
+}

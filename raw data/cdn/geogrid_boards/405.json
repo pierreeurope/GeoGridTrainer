@@ -1,0 +1,171 @@
+{
+  "grid_id": "405",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Oceania",
+      "variantId": 6
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "top_20_obesity_rate",
+      "name": "Top 20 in obesity rate",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Caledonia",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Palau",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "Tokelau",
+      "Tuvalu",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Cook Islands",
+      "New Zealand",
+      "Samoa",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "American Samoa",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "Niue",
+      "Samoa",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "American Samoa",
+      "Belize",
+      "Benin",
+      "Bolivia",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Federated States of Micronesia",
+      "Guadeloupe",
+      "Guam",
+      "Malta",
+      "Montserrat",
+      "Myanmar",
+      "Nauru",
+      "Palau",
+      "Palestine",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "The Gambia",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Caribbean Netherlands",
+      "New Zealand",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Belize",
+      "Federated States of Micronesia",
+      "Nauru",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Andorra",
+      "Angola",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Cambodia",
+      "Equatorial Guinea",
+      "Federated States of Micronesia",
+      "French Guiana",
+      "French Polynesia",
+      "Guinea",
+      "Liberia",
+      "Libya",
+      "Malta",
+      "Mauritania",
+      "New Caledonia",
+      "Nicaragua",
+      "Papua New Guinea",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Somalia",
+      "The Gambia",
+      "Wallis and Futuna",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Costa Rica",
+      "Cuba",
+      "Czechia",
+      "Liberia",
+      "North Korea",
+      "Panama",
+      "Russia",
+      "Samoa",
+      "Slovakia",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Samoa",
+      "Saudi Arabia",
+      "Tonga",
+      "United States of America"
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "grid_id": "394",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.65",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Laos",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Cambodia",
+      "Laos",
+      "Myanmar",
+      "Nepal",
+      "Pakistan",
+      "Syria",
+      "Timor-Leste",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Bhutan",
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Malawi",
+      "Nepal",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Cook Islands",
+      "Nepal",
+      "New Zealand",
+      "Samoa",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Kenya",
+      "Kiribati",
+      "Lesotho",
+      "Malawi",
+      "Mozambique",
+      "Nepal",
+      "Pakistan",
+      "Papua New Guinea",
+      "Solomon Islands",
+      "Tanzania",
+      "Timor-Leste",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Bolivia",
+      "Botswana",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Kazakhstan",
+      "Mali",
+      "Mongolia",
+      "Niger",
+      "South Sudan",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Chile",
+      "France",
+      "Russia",
+      "Thailand",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Angola",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Kenya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mozambique",
+      "Myanmar",
+      "Niger",
+      "Nigeria",
+      "Pakistan",
+      "Somalia",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Yemen",
+      "Zambia"
+    ]
+  }
+}

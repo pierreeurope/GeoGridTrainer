@@ -1,0 +1,170 @@
+{
+  "grid_id": "388",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Heard Island and McDonald Islands",
+      "India",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Pakistan",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Malaysia",
+      "Maldives",
+      "Myanmar",
+      "Oman",
+      "Pakistan",
+      "Singapore",
+      "Sri Lanka",
+      "Thailand",
+      "Timor-Leste",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Comoros",
+      "Mayotte",
+      "Myanmar",
+      "Réunion",
+      "Somalia"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Canada",
+      "Cyprus",
+      "Gibraltar",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Turks and Caicos Islands",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Cyprus",
+      "Egypt",
+      "Israel",
+      "Lebanon",
+      "Palestine"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Andorra",
+      "Austria",
+      "Bahamas",
+      "Belgium",
+      "Bermuda",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Germany",
+      "Hungary",
+      "Ireland",
+      "Lebanon",
+      "Moldova",
+      "Romania",
+      "Ukraine"
+    ],
+    "match_box_7": [
+      "Cameroon",
+      "India",
+      "Kenya",
+      "Mozambique",
+      "South Africa",
+      "Tanzania",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Azerbaijan",
+      "China",
+      "India",
+      "Iran",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Laos",
+      "Myanmar",
+      "Russia",
+      "Saudi Arabia",
+      "Syria",
+      "Türkiye",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Austria",
+      "Belarus",
+      "Bolivia",
+      "Croatia",
+      "Germany",
+      "Hungary",
+      "Myanmar",
+      "Romania",
+      "Senegal",
+      "Türkiye",
+      "Ukraine"
+    ]
+  }
+}

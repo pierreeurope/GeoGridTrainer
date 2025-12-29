@@ -1,0 +1,161 @@
+{
+  "grid_id": "383",
+  "rows": [
+    {
+      "id": "top_20_rail_size",
+      "name": "Top 20 in rail transport network size",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "hosted_olympics",
+      "name": "Has hosted the Olympics",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "France",
+      "Germany",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine"
+    ],
+    "match_box_4": [
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Korea",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Kenya",
+      "Myanmar",
+      "Russia",
+      "South Africa",
+      "Sudan",
+      "Tanzania",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Canada",
+      "China",
+      "Finland",
+      "Greece",
+      "Hong Kong",
+      "Japan",
+      "Sweden",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Austria",
+      "Denmark",
+      "Finland",
+      "Georgia",
+      "Greece",
+      "Kazakhstan",
+      "Latvia",
+      "Monaco",
+      "North Macedonia",
+      "Poland",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_9": [
+      "Austria",
+      "China",
+      "Israel",
+      "Kazakhstan",
+      "North Macedonia",
+      "Poland",
+      "Saudi Arabia",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ]
+  }
+}

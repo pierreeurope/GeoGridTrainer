@@ -1,0 +1,194 @@
+{
+  "grid_id": "404",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "top_20_rail_size",
+      "name": "Top 20 in rail transport network size",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 4 colors",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 2,000 km",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Armenia",
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Iran",
+      "Japan",
+      "Pakistan",
+      "Russia",
+      "South Korea",
+      "Türkiye",
+      "United Arab Emirates"
+    ],
+    "match_box_2": [
+      "Bahrain",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Cambodia",
+      "Christmas Island",
+      "Cocos Islands",
+      "Japan",
+      "Jordan",
+      "Kuwait",
+      "Malaysia",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "Thailand",
+      "United Arab Emirates"
+    ],
+    "match_box_3": [
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Malaysia",
+      "Maldives",
+      "Myanmar",
+      "North Korea",
+      "Oman",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Sri Lanka",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "India",
+      "Iran",
+      "Japan",
+      "Mexico",
+      "Romania",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Canada",
+      "Japan",
+      "Spain",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Brazil",
+      "Egypt",
+      "India",
+      "Slovenia",
+      "South Korea",
+      "United Arab Emirates"
+    ],
+    "match_box_8": [
+      "Aruba",
+      "Bhutan",
+      "Brunei",
+      "Cambodia",
+      "Christmas Island",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Jordan",
+      "Kuwait",
+      "Lesotho",
+      "Liechtenstein",
+      "Malaysia",
+      "Niue",
+      "Papua New Guinea",
+      "Saint Lucia",
+      "Solomon Islands",
+      "United Arab Emirates",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Brazil",
+      "Egypt",
+      "Eritrea",
+      "French Polynesia",
+      "Guinea-Bissau",
+      "India",
+      "Libya",
+      "Malaysia",
+      "Myanmar",
+      "Papua New Guinea",
+      "Philippines",
+      "Solomon Islands",
+      "South Korea",
+      "Sri Lanka",
+      "Sudan",
+      "Tanzania",
+      "United Arab Emirates",
+      "Vanuatu",
+      "Venezuela"
+    ]
+  }
+}

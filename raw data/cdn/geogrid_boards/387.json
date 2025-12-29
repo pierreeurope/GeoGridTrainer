@@ -1,0 +1,179 @@
+{
+  "grid_id": "387",
+  "rows": [
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $10k",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Niger River system",
+      "variantId": 4
+    },
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_or_more_colors",
+      "name": "Flag with 5+ colors",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Benin",
+      "Burkina Faso",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Guinea",
+      "Mali",
+      "Niger",
+      "Nigeria"
+    ],
+    "match_box_2": [
+      "Cabo Verde",
+      "Comoros",
+      "Dominica",
+      "Federated States of Micronesia",
+      "Fiji",
+      "Haiti",
+      "Indonesia",
+      "Jamaica",
+      "Kiribati",
+      "Madagascar",
+      "Marshall Islands",
+      "Montserrat",
+      "Papua New Guinea",
+      "Philippines",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "Sri Lanka",
+      "Timor-Leste",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "match_box_3": [
+      "Belize",
+      "Bolivia",
+      "Central African Republic",
+      "Comoros",
+      "Dominica",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Fiji",
+      "Guatemala",
+      "Haiti",
+      "Kiribati",
+      "Moldova",
+      "Montserrat",
+      "Mozambique",
+      "Namibia",
+      "Nicaragua",
+      "Paraguay",
+      "Peru",
+      "South Africa",
+      "South Sudan",
+      "Tuvalu",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Benin",
+      "Burkina Faso",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Guinea",
+      "Mali",
+      "Niger",
+      "Nigeria"
+    ],
+    "match_box_5": [
+      "Cabo Verde",
+      "Comoros",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_6": [
+      "Central African Republic",
+      "Comoros",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Mozambique",
+      "Namibia",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Benin",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Guinea",
+      "Niger"
+    ],
+    "match_box_8": [
+      "Comoros",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Haiti",
+      "Madagascar",
+      "Martinique",
+      "Mayotte",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Central African Republic",
+      "Comoros",
+      "Equatorial Guinea",
+      "Haiti",
+      "New Caledonia",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles"
+    ]
+  }
+}

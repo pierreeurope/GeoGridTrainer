@@ -1,0 +1,187 @@
+{
+  "grid_id": "4",
+  "rows": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "name": "Spanish is an official language",
+      "id": "official_language",
+      "variantId": 1
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "Ends with letter A",
+      "id": "ending_letter",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Papua New Guinea",
+      "Philippines",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "American Samoa",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Bermuda",
+      "Cuba",
+      "Dominica",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Grenada",
+      "Indonesia",
+      "Jamaica",
+      "Malta",
+      "New Caledonia",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Samoa",
+      "Sri Lanka",
+      "Tonga",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Dominican Republic",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Haiti",
+      "Jersey",
+      "Montserrat",
+      "Pitcairn Islands",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Dominican Republic",
+      "Ecuador",
+      "Guatemala",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Nicaragua",
+      "Panama",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "Bolivia",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Mexico",
+      "Nicaragua",
+      "Paraguay",
+      "Peru",
+      "Spain"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bolivia",
+      "Burkina Faso",
+      "Burundi",
+      "Chad",
+      "Czechia",
+      "Ethiopia",
+      "Kazakhstan",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Tajikistan",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Bolivia",
+      "Botswana",
+      "Czechia",
+      "Ethiopia",
+      "Moldova",
+      "Mongolia",
+      "North Macedonia",
+      "Rwanda",
+      "Serbia",
+      "Slovakia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Andorra",
+      "Bolivia",
+      "Ethiopia",
+      "Moldova",
+      "Paraguay",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Vatican City"
+    ]
+  }
+}

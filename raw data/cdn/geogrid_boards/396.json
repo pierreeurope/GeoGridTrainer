@@ -1,0 +1,154 @@
+{
+  "grid_id": "396",
+  "rows": [
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "hosted_f1",
+      "name": "Has hosted a Formula 1 Grand Prix",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Kazakhstan",
+      "Liechtenstein",
+      "Malta",
+      "San Marino",
+      "Switzerland",
+      "Türkiye"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "India",
+      "Morocco",
+      "South Africa",
+      "Switzerland",
+      "Türkiye",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Bermuda",
+      "Canada",
+      "Guam",
+      "Liechtenstein",
+      "Malta",
+      "New Zealand",
+      "San Marino",
+      "Sint Maarten",
+      "Switzerland",
+      "Taiwan",
+      "Turks and Caicos Islands",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "France",
+      "Kazakhstan",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "India",
+      "Mexico",
+      "Russia",
+      "Saudi Arabia",
+      "South Africa",
+      "Spain",
+      "Türkiye",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Canada",
+      "France",
+      "Greenland",
+      "Saudi Arabia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Faroe Islands",
+      "Isle of Man",
+      "North Macedonia",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Bailiwick of Guernsey",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Hong Kong",
+      "Isle of Man",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Saudi Arabia",
+      "Sint Maarten",
+      "South Korea",
+      "Svalbard and Jan Mayen",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "grid_id": "391",
+  "rows": [
+    {
+      "id": "olympic_medals_under_x",
+      "name": "Fewer than 20 Olympic medals",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 500k",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_length",
+      "name": "Name is 5 letters long",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Aruba",
+      "Benin",
+      "Chile",
+      "Gabon",
+      "Ghana",
+      "Haiti",
+      "Libya",
+      "Macau",
+      "Malta",
+      "Nauru",
+      "Nepal",
+      "Niger",
+      "Palau",
+      "Qatar",
+      "Samoa",
+      "Sudan",
+      "Syria",
+      "Tonga",
+      "Yemen"
+    ],
+    "match_box_2": [
+      "Albania",
+      "Angola",
+      "Benin",
+      "Bolivia",
+      "Botswana",
+      "Côte d'Ivoire",
+      "Guatemala",
+      "Jordan",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Laos",
+      "Malaysia",
+      "Mauritania",
+      "Montenegro",
+      "Myanmar",
+      "Namibia",
+      "North Macedonia",
+      "Pakistan",
+      "Peru",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Syria",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Chile",
+      "Cook Islands",
+      "Costa Rica",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iceland",
+      "Laos",
+      "Liberia",
+      "Luxembourg",
+      "Mayotte",
+      "Nepal",
+      "Panama",
+      "Puerto Rico",
+      "Samoa",
+      "Svalbard and Jan Mayen",
+      "Wallis and Futuna"
+    ],
+    "match_box_4": [
+      "China",
+      "Egypt",
+      "India",
+      "Japan",
+      "Macau",
+      "Nepal",
+      "Qatar",
+      "Syria",
+      "Yemen"
+    ],
+    "match_box_5": [
+      "Armenia",
+      "Azerbaijan",
+      "Egypt",
+      "Georgia",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Malaysia",
+      "Myanmar",
+      "Pakistan",
+      "Syria",
+      "Tajikistan",
+      "Thailand",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Laos",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Aruba",
+      "Benin",
+      "India",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Samoa",
+      "Tonga"
+    ],
+    "match_box_8": [
+      "Benin",
+      "Bolivia",
+      "Botswana",
+      "Côte d'Ivoire",
+      "Kosovo",
+      "Malaysia",
+      "Montenegro",
+      "Namibia",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Cook Islands",
+      "Costa Rica",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Iceland",
+      "Luxembourg",
+      "Mayotte",
+      "New Zealand",
+      "Panama",
+      "Puerto Rico",
+      "Samoa",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "Wallis and Futuna"
+    ]
+  }
+}

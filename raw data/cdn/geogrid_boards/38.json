@@ -1,0 +1,179 @@
+{
+  "grid_id": "38",
+  "rows": [
+    {
+      "name": "Was part of the USSR",
+      "id": "was_ussr",
+      "variantId": null
+    },
+    {
+      "name": "Population over 100 million",
+      "id": "population_over_x",
+      "variantId": 7
+    },
+    {
+      "name": "Human Development Index over 0.85",
+      "id": "hdi_over_x",
+      "variantId": 9
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with green",
+      "id": "color_on_flag",
+      "variantId": 4
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "name": "GDP per capita under $30k",
+      "id": "gdp_per_capita_under_x",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Azerbaijan",
+      "Belarus",
+      "Lithuania",
+      "Moldova",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Armenia",
+      "Azerbaijan",
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Latvia",
+      "Moldova",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Brazil",
+      "Ethiopia",
+      "India",
+      "Mexico",
+      "Nigeria",
+      "Pakistan"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "Brazil",
+      "China",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Indonesia",
+      "Mexico",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Guam",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Kuwait",
+      "Lithuania",
+      "Macau",
+      "Martinique",
+      "Montenegro",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Oman",
+      "Portugal",
+      "San Marino",
+      "Saudi Arabia",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "Kuwait",
+      "Macau",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Türkiye",
+      "United Arab Emirates"
+    ],
+    "match_box_9": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Bahrain",
+      "Caribbean Netherlands",
+      "Chile",
+      "Cocos Islands",
+      "Croatia",
+      "Greece",
+      "Hungary",
+      "Kuwait",
+      "Latvia",
+      "Montenegro",
+      "Northern Mariana Islands",
+      "Oman",
+      "Poland",
+      "Slovakia",
+      "Türkiye",
+      "Uruguay"
+    ]
+  }
+}
