@@ -1,0 +1,167 @@
+{
+  "grid_id": "33",
+  "rows": [
+    {
+      "name": "Flag with an animal",
+      "id": "flag_has_animal",
+      "variantId": null
+    },
+    {
+      "name": "Starts with letter S",
+      "id": "starting_letter",
+      "variantId": 13
+    },
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Population under 5 million",
+      "id": "population_under_x",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Albania",
+      "Andorra",
+      "Croatia",
+      "Jersey",
+      "Kazakhstan",
+      "Malta",
+      "Moldova",
+      "Montenegro",
+      "Serbia",
+      "Spain"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Bhutan",
+      "Bolivia",
+      "Kazakhstan",
+      "Moldova",
+      "Paraguay",
+      "Serbia",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Moldova",
+      "Montenegro",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_4": [
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "South Sudan",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "Sint Maarten",
+      "Slovenia",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Suriname",
+      "Svalbard and Jan Mayen"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "France",
+      "Luxembourg",
+      "Monaco",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Luxembourg",
+      "Niger",
+      "Rwanda",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Comoros",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Gabon",
+      "Guadeloupe",
+      "Luxembourg",
+      "Martinique",
+      "Mayotte",
+      "Monaco",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ]
+  }
+}

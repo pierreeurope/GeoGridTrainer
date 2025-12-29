@@ -1,0 +1,164 @@
+{
+  "grid_id": "346",
+  "rows": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 10 Olympic medals",
+      "variantId": 0
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 40",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Caribbean Sea",
+      "variantId": 6
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "name_start_end_same_letter",
+      "name": "Starts and ends with the same letter",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Colombia",
+      "Cuba",
+      "Dominican Republic",
+      "Jamaica",
+      "Mexico",
+      "Puerto Rico",
+      "Trinidad and Tobago",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Dominican Republic",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Switzerland",
+      "Taiwan",
+      "Trinidad and Tobago",
+      "Türkiye",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Argentina",
+      "Armenia",
+      "Australia",
+      "Austria"
+    ],
+    "match_box_4": [
+      "Barbados",
+      "Costa Rica",
+      "Cuba",
+      "Dominica",
+      "Grenada",
+      "Jamaica",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Benin",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "Malta",
+      "New Zealand",
+      "South Africa",
+      "Switzerland",
+      "Taiwan",
+      "Tanzania",
+      "Trinidad and Tobago",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Armenia",
+      "Australia",
+      "Austria",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands"
+    ],
+    "match_box_7": [
+      "Antigua and Barbuda",
+      "Aruba",
+      "Cayman Islands",
+      "Cuba",
+      "Curaçao",
+      "Dominica",
+      "Grenada",
+      "Guadeloupe",
+      "Honduras",
+      "Panama",
+      "Puerto Rico",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Sint Maarten",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Bolivia",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "China",
+      "Cocos Islands",
+      "Ecuador",
+      "Federated States of Micronesia",
+      "Guadeloupe",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "Nauru",
+      "New Zealand",
+      "Pakistan",
+      "Philippines",
+      "Sint Maarten",
+      "Taiwan",
+      "Türkiye",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Angola",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Aruba",
+      "Australia",
+      "Central African Republic",
+      "Saint Kitts and Nevis",
+      "Solomon Islands"
+    ]
+  }
+}

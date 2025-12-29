@@ -1,0 +1,198 @@
+{
+  "grid_id": "332",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In North America",
+      "variantId": 3
+    },
+    {
+      "id": "touches_equator",
+      "name": "Touches the Equator",
+      "variantId": null
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Antigua and Barbuda",
+      "Cayman Islands",
+      "Cuba",
+      "Dominica",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Honduras",
+      "Panama",
+      "Puerto Rico",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Sint Maarten",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Belize",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "El Salvador",
+      "Greenland",
+      "Guadeloupe",
+      "Honduras",
+      "Martinique",
+      "Montserrat",
+      "Nicaragua",
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_3": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Bermuda",
+      "British Virgin Islands",
+      "Canada",
+      "Dominica",
+      "Dominican Republic",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Haiti",
+      "Martinique",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Brazil",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Kiribati",
+      "São Tomé and Príncipe",
+      "Somalia"
+    ],
+    "match_box_5": [
+      "Democratic Republic of the Congo",
+      "Kiribati",
+      "Maldives",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "Democratic Republic of the Congo",
+      "Gabon",
+      "Republic of the Congo",
+      "São Tomé and Príncipe"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Brazil",
+      "Cameroon",
+      "Chile",
+      "China",
+      "Croatia",
+      "Cuba",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Ghana",
+      "Honduras",
+      "Israel",
+      "Japan",
+      "Morocco",
+      "New Zealand",
+      "North Korea",
+      "Panama",
+      "Paraguay",
+      "Senegal",
+      "Slovenia",
+      "Togo",
+      "Tunisia",
+      "Türkiye",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Democratic Republic of the Congo",
+      "El Salvador",
+      "Honduras"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "Chile",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Denmark",
+      "France",
+      "Germany",
+      "Ghana",
+      "Haiti",
+      "Iceland",
+      "Ireland",
+      "Morocco",
+      "Netherlands",
+      "Nigeria",
+      "Norway",
+      "Portugal",
+      "Senegal",
+      "South Africa",
+      "Spain",
+      "Togo",
+      "Trinidad and Tobago",
+      "United Kingdom",
+      "United States of America",
+      "Uruguay"
+    ]
+  }
+}

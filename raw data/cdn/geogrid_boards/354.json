@@ -1,0 +1,187 @@
+{
+  "grid_id": "354",
+  "rows": [
+    {
+      "id": "hosted_olympics",
+      "name": "Has hosted the Olympics",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_wheat_production",
+      "name": "Top 20 in wheat production",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 1 million km²",
+      "variantId": 7
+    },
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 4 tCO₂/year",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Mexico",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Canada",
+      "China",
+      "Finland",
+      "France",
+      "French Polynesia",
+      "Germany",
+      "Greece",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "Norway",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Canada",
+      "China",
+      "Kazakhstan",
+      "Pakistan",
+      "Poland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Canada",
+      "China",
+      "Greenland",
+      "Indonesia",
+      "Kazakhstan",
+      "Saudi Arabia"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Bahrain",
+      "Canada",
+      "China",
+      "Denmark",
+      "Finland",
+      "Greece",
+      "Greenland",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "Kazakhstan",
+      "Monaco",
+      "North Macedonia",
+      "Palau",
+      "Poland",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chad",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Libya",
+      "Mali",
+      "Niger",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "South Africa",
+      "Sudan"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Bulgaria",
+      "China",
+      "Croatia",
+      "France",
+      "Germany",
+      "Hungary",
+      "Iran",
+      "Iraq",
+      "Israel",
+      "Italy",
+      "Kazakhstan",
+      "Libya",
+      "Montenegro",
+      "North Macedonia",
+      "Poland",
+      "Russia",
+      "Saudi Arabia",
+      "Serbia",
+      "Slovakia",
+      "South Africa",
+      "Spain",
+      "Türkiye",
+      "Uzbekistan"
+    ]
+  }
+}

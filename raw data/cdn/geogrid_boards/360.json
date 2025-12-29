@@ -1,0 +1,169 @@
+{
+  "grid_id": "360",
+  "rows": [
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Chile",
+      "Cook Islands",
+      "Costa Rica",
+      "New Zealand",
+      "Panama",
+      "Russia",
+      "Samoa",
+      "Taiwan",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Laos",
+      "Liberia",
+      "Mayotte",
+      "Nepal",
+      "Svalbard and Jan Mayen",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "Chile",
+      "Czechia",
+      "Liberia",
+      "Luxembourg",
+      "North Korea",
+      "Norway",
+      "Thailand"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Canada",
+      "Guam",
+      "Japan",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Andorra",
+      "Aruba",
+      "Bailiwick of Guernsey",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Guam",
+      "Isle of Man",
+      "Jersey",
+      "Macau",
+      "Malta",
+      "Martinique",
+      "Monaco",
+      "New Caledonia",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_6": [
+      "Belgium",
+      "Czechia",
+      "Finland",
+      "Guyana",
+      "Lithuania",
+      "Luxembourg",
+      "Norway",
+      "Slovenia",
+      "Sweden"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Australia",
+      "Canada",
+      "Ecuador",
+      "Federated States of Micronesia",
+      "Guam",
+      "Nauru",
+      "New Zealand",
+      "Palau",
+      "Philippines",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "American Samoa",
+      "Belize",
+      "Benin",
+      "Bolivia",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Federated States of Micronesia",
+      "Guadeloupe",
+      "Guam",
+      "Malta",
+      "Montserrat",
+      "Myanmar",
+      "Nauru",
+      "Palau",
+      "Palestine",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "The Gambia",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_9": [
+      "Benin",
+      "Burundi",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Palestine",
+      "Vietnam"
+    ]
+  }
+}

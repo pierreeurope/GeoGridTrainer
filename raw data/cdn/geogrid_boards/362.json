@@ -1,0 +1,129 @@
+{
+  "grid_id": "362",
+  "rows": [
+    {
+      "id": "won_world_cup",
+      "name": "Has won the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Rhine River system",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $10k",
+      "variantId": 1
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with red",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom",
+      "Uruguay"
+    ],
+    "match_box_3": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Russia",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Estonia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Russia",
+      "Turkmenistan"
+    ],
+    "match_box_6": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Georgia",
+      "Kyrgyzstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Belgium",
+      "France",
+      "Germany",
+      "Italy",
+      "Liechtenstein",
+      "Luxembourg",
+      "Netherlands",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Belgium",
+      "France",
+      "Germany",
+      "Italy",
+      "Liechtenstein",
+      "Luxembourg",
+      "Netherlands",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Belgium",
+      "France",
+      "Germany",
+      "Italy",
+      "Liechtenstein",
+      "Luxembourg",
+      "Netherlands",
+      "Switzerland"
+    ]
+  }
+}

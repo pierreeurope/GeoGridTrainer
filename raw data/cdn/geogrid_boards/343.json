@@ -1,0 +1,179 @@
+{
+  "grid_id": "343",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    },
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burkina Faso",
+      "Cabo Verde",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Republic of the Congo",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "South Africa",
+      "South Sudan",
+      "The Gambia",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Botswana",
+      "Cameroon",
+      "Eswatini",
+      "Gabon",
+      "Ghana",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Mauritius",
+      "Mozambique",
+      "Namibia",
+      "Nigeria",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "Sierra Leone",
+      "South Africa",
+      "Tanzania",
+      "The Gambia",
+      "Togo",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_3": [
+      "Comoros",
+      "Djibouti",
+      "Kenya",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Mozambique",
+      "Réunion",
+      "Seychelles",
+      "Somalia",
+      "South Africa",
+      "Tanzania"
+    ],
+    "match_box_4": [
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "North Korea",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "Sri Lanka",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Bangladesh",
+      "Cameroon",
+      "Canada",
+      "Ghana",
+      "India",
+      "Kenya",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Uganda",
+      "United Kingdom",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Bangladesh",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Malaysia",
+      "Mozambique",
+      "Myanmar",
+      "Pakistan",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Bosnia and Herzegovina",
+      "Costa Rica",
+      "El Salvador",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Guinea-Bissau",
+      "Hong Kong",
+      "North Korea",
+      "Sierra Leone",
+      "United Arab Emirates",
+      "United States of America",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Belize",
+      "Canada",
+      "Eswatini",
+      "Gabon",
+      "Ghana",
+      "Guyana",
+      "Malawi",
+      "Sierra Leone",
+      "Togo"
+    ],
+    "match_box_9": [
+      "Bangladesh",
+      "Djibouti",
+      "Indonesia",
+      "Oman",
+      "Somalia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  }
+}

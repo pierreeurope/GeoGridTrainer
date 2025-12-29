@@ -1,0 +1,189 @@
+{
+  "grid_id": "369",
+  "rows": [
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 40",
+      "variantId": 2
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Laos",
+      "Liberia",
+      "Nepal",
+      "North Korea",
+      "Panama",
+      "Russia",
+      "Thailand"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Eswatini",
+      "Guyana",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Maldives",
+      "Mozambique",
+      "Nepal",
+      "Pakistan",
+      "Papua New Guinea",
+      "Sri Lanka",
+      "Thailand",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bangladesh",
+      "Bosnia and Herzegovina",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Dominican Republic",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Kyrgyzstan",
+      "Madagascar",
+      "Mauritania",
+      "Mozambique",
+      "North Korea",
+      "Papua New Guinea",
+      "Philippines",
+      "Republic of the Congo",
+      "Sierra Leone",
+      "South Sudan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Czechia",
+      "Laos",
+      "Luxembourg",
+      "Nepal",
+      "Slovakia"
+    ],
+    "match_box_5": [
+      "Bhutan",
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Malawi",
+      "Nepal",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Burkina Faso",
+      "Central African Republic",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Liechtenstein",
+      "Luxembourg",
+      "North Macedonia",
+      "South Sudan",
+      "Switzerland",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Vatican City"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Chile",
+      "Czechia",
+      "France",
+      "Nepal",
+      "Netherlands",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Bangladesh",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Kenya",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "Nepal",
+      "Pakistan",
+      "Papua New Guinea",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Uganda",
+      "United Kingdom",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bangladesh",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Dominican Republic",
+      "Kazakhstan",
+      "Madagascar",
+      "Mozambique",
+      "Netherlands",
+      "North Korea",
+      "Papua New Guinea",
+      "Philippines",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "South Sudan",
+      "Tajikistan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Uzbekistan"
+    ]
+  }
+}

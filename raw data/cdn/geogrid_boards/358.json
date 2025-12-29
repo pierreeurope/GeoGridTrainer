@@ -1,0 +1,181 @@
+{
+  "grid_id": "358",
+  "rows": [
+    {
+      "id": "bottom_20_population_density",
+      "name": "Bottom 20 in population density",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 5 million",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 1 million km²",
+      "variantId": 7
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 2,000 km",
+      "variantId": 3
+    },
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.7",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "Greenland",
+      "Kazakhstan",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Russia"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Canada",
+      "Gabon",
+      "Greenland",
+      "Iceland",
+      "Libya",
+      "Russia"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Botswana",
+      "Canada",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Gabon",
+      "Greenland",
+      "Guyana",
+      "Iceland",
+      "Kazakhstan",
+      "Libya",
+      "Mongolia",
+      "Niue",
+      "Russia",
+      "Suriname"
+    ],
+    "match_box_4": [
+      "Bolivia",
+      "Egypt",
+      "Kazakhstan",
+      "Mexico",
+      "Peru"
+    ],
+    "match_box_5": [
+      "Croatia",
+      "Ecuador",
+      "Egypt",
+      "Fiji",
+      "Mexico",
+      "Papua New Guinea",
+      "Peru",
+      "Spain",
+      "Sri Lanka"
+    ],
+    "match_box_6": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bolivia",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Dominica",
+      "Ecuador",
+      "Egypt",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kazakhstan",
+      "Malta",
+      "Mexico",
+      "Moldova",
+      "Montenegro",
+      "Montserrat",
+      "Paraguay",
+      "Peru",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Pierre and Miquelon",
+      "Serbia",
+      "Spain",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_7": [
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "Sudan"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Chile",
+      "China",
+      "Colombia",
+      "Egypt",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Mexico",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Sudan",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Chile",
+      "China",
+      "Colombia",
+      "Egypt",
+      "Hong Kong",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Mexico",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "Vietnam"
+    ]
+  }
+}

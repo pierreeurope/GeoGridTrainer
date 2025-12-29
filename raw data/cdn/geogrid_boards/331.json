@@ -1,0 +1,164 @@
+{
+  "grid_id": "331",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the South and East China Seas",
+      "variantId": 9
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.5",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    },
+    {
+      "id": "olympic_medals_under_x",
+      "name": "Fewer than 30 Olympic medals",
+      "variantId": 2
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with red",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Cambodia",
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "North Korea",
+      "Philippines",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Brunei",
+      "Cambodia",
+      "Hong Kong",
+      "Macau",
+      "Malaysia",
+      "Philippines",
+      "Singapore",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Brunei",
+      "Cambodia",
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "North Korea",
+      "Philippines",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Ethiopia",
+      "Madagascar",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Sierra Leone",
+      "Somalia",
+      "Yemen"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Madagascar",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Sierra Leone",
+      "Somalia",
+      "South Sudan",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Madagascar",
+      "Mali",
+      "Mozambique",
+      "South Sudan",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Aruba",
+      "Bolivia",
+      "Caribbean Netherlands",
+      "Chile",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Aruba",
+      "Bolivia",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Venezuela"
+    ]
+  }
+}

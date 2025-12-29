@@ -1,0 +1,150 @@
+{
+  "grid_id": "36",
+  "rows": [
+    {
+      "name": "Starts and ends with the same letter",
+      "id": "name_start_end_same_letter",
+      "variantId": null
+    },
+    {
+      "name": "In North America",
+      "id": "continent",
+      "variantId": 3
+    },
+    {
+      "name": "Coastline on the Mediterranean Sea",
+      "id": "coastline_on_x",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 5 million",
+      "id": "population_over_x",
+      "variantId": 3
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Has played in the Men's FIFA World Cup",
+      "id": "played_world_cup",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Central African Republic"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Angola",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Aruba",
+      "Australia",
+      "Central African Republic",
+      "Saint Kitts and Nevis",
+      "Solomon Islands"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Austria"
+    ],
+    "match_box_4": [
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "El Salvador",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Antigua and Barbuda",
+      "Cayman Islands",
+      "Cuba",
+      "Dominica",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Honduras",
+      "Panama",
+      "Puerto Rico",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Sint Maarten",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "El Salvador",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Mexico",
+      "Panama",
+      "Trinidad and Tobago",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Egypt",
+      "France",
+      "Greece",
+      "Israel",
+      "Italy",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Palestine",
+      "Spain",
+      "Syria",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Israel",
+      "Libya",
+      "Morocco",
+      "Slovenia",
+      "Syria",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Egypt",
+      "France",
+      "Greece",
+      "Israel",
+      "Italy",
+      "Morocco",
+      "Slovenia",
+      "Spain",
+      "Tunisia",
+      "Türkiye"
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "grid_id": "353",
+  "rows": [
+    {
+      "id": "size_under_x",
+      "name": "Area less than 10,000 km²",
+      "variantId": 2
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Danube River system",
+      "variantId": 2
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "San Marino",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Bouvet Island",
+      "Cyprus",
+      "Faroe Islands",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Norfolk Island",
+      "Palestine",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Turks and Caicos Islands",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Czechia",
+      "Hungary",
+      "Moldova",
+      "Serbia",
+      "Slovakia",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Moldova",
+      "Montenegro",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Moldova",
+      "Montenegro",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_7": [
+      "Czechia",
+      "Laos",
+      "Luxembourg",
+      "Nepal",
+      "Slovakia"
+    ],
+    "match_box_8": [
+      "Czechia",
+      "Faroe Islands",
+      "France",
+      "Iceland",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Russia",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Bouvet Island",
+      "Chile",
+      "Cuba",
+      "Czechia",
+      "Faroe Islands",
+      "France",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

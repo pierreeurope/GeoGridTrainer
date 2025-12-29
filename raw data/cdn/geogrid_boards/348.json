@@ -1,0 +1,174 @@
+{
+  "grid_id": "348",
+  "rows": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Nile River system",
+      "variantId": 0
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with black",
+      "variantId": 5
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.6",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_2": [
+      "Egypt",
+      "Kenya",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Eritrea",
+      "Ethiopia",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_4": [
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Bhutan",
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Liechtenstein",
+      "Malawi",
+      "Moldova",
+      "Paraguay",
+      "San Marino",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Angola",
+      "Benin",
+      "Botswana",
+      "Burundi",
+      "Djibouti",
+      "Egypt",
+      "Eritrea",
+      "Gabon",
+      "Ghana",
+      "Liberia",
+      "Malawi",
+      "Mauritania",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Rwanda",
+      "Somalia",
+      "Togo",
+      "Western Sahara",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Angola",
+      "Belgium",
+      "Botswana",
+      "Cambodia",
+      "Egypt",
+      "Ghana",
+      "Guyana",
+      "Malawi",
+      "Palestine",
+      "Paraguay",
+      "Western Sahara",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Benin",
+      "Burundi",
+      "Djibouti",
+      "Eritrea",
+      "Liberia",
+      "Malawi",
+      "Mauritania",
+      "Nigeria",
+      "Pakistan",
+      "Rwanda",
+      "Somalia",
+      "Togo",
+      "Zimbabwe"
+    ]
+  }
+}

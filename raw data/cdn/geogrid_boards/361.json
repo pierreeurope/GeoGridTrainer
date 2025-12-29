@@ -1,0 +1,145 @@
+{
+  "grid_id": "361",
+  "rows": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    },
+    {
+      "id": "co2_emissions_per_capita_under_x",
+      "name": "CO₂ emissions per capita under 3 tCO₂/year",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Amazon River system",
+      "variantId": 1
+    },
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "France",
+      "Greenland",
+      "Mexico",
+      "South Africa",
+      "Spain",
+      "Thailand",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Aruba",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Uruguay"
+    ],
+    "match_box_7": [
+      "Bolivia",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Nicaragua",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Brazil",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Ecuador",
+      "Faroe Islands",
+      "French Guiana",
+      "Guadeloupe",
+      "Martinique",
+      "Mayotte",
+      "Réunion",
+      "Uruguay",
+      "Wallis and Futuna"
+    ]
+  }
+}

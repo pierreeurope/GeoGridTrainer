@@ -1,0 +1,202 @@
+{
+  "grid_id": "339",
+  "rows": [
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $10k",
+      "variantId": 1
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_under_x",
+      "name": "Population under 100k",
+      "variantId": 0
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Dominica",
+      "Marshall Islands",
+      "Montserrat",
+      "Tokelau",
+      "Tuvalu"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Angola",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Brazil",
+      "Cameroon",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Ghana",
+      "Haiti",
+      "Honduras",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Jamaica",
+      "Morocco",
+      "Nigeria",
+      "North Korea",
+      "Paraguay",
+      "Peru",
+      "Senegal",
+      "South Africa",
+      "Togo",
+      "Tunisia",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Bosnia and Herzegovina",
+      "Burkina Faso",
+      "Cabo Verde",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Federated States of Micronesia",
+      "Guinea-Bissau",
+      "Marshall Islands",
+      "North Korea",
+      "North Macedonia",
+      "Papua New Guinea",
+      "Republic of the Congo",
+      "Saint Vincent and the Grenadines",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "Solomon Islands",
+      "South Africa",
+      "South Sudan",
+      "Sri Lanka",
+      "The Gambia",
+      "Timor-Leste"
+    ],
+    "match_box_4": [
+      "American Samoa",
+      "Cook Islands",
+      "Marshall Islands",
+      "Nauru",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Palau",
+      "Pitcairn Islands",
+      "Tokelau",
+      "Tuvalu",
+      "Wallis and Futuna"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Ecuador",
+      "El Salvador",
+      "Honduras",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "New Zealand",
+      "Panama",
+      "Peru",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Cook Islands",
+      "Costa Rica",
+      "El Salvador",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Marshall Islands",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "Timor-Leste",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Bolivia",
+      "Croatia",
+      "Ecuador",
+      "Egypt",
+      "Mexico",
+      "Paraguay",
+      "Peru",
+      "Serbia",
+      "Spain"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ]
+  }
+}

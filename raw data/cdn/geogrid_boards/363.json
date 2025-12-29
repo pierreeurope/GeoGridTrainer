@@ -1,0 +1,165 @@
+{
+  "grid_id": "363",
+  "rows": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 100 Olympic medals",
+      "variantId": 5
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.6",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Czechia",
+      "Denmark",
+      "Finland",
+      "Germany",
+      "Hungary",
+      "Romania",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Brazil",
+      "China",
+      "Germany",
+      "Romania",
+      "Spain",
+      "Sweden",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Russia",
+      "South Korea",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Armenia",
+      "Bahrain",
+      "Georgia",
+      "Lebanon",
+      "Myanmar",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "China",
+      "Christmas Island",
+      "Cocos Islands",
+      "Egypt",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Macau",
+      "Malaysia",
+      "Mongolia",
+      "Myanmar",
+      "Philippines",
+      "Sri Lanka",
+      "Tajikistan",
+      "Timor-Leste",
+      "Turkmenistan",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Myanmar",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "South Korea",
+      "Thailand",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Burundi",
+      "Eritrea",
+      "Lesotho",
+      "Liberia",
+      "Nigeria",
+      "Senegal",
+      "Somalia"
+    ],
+    "match_box_8": [
+      "Benin",
+      "Burkina Faso",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Eritrea",
+      "Ethiopia",
+      "Guinea",
+      "Guinea-Bissau",
+      "Haiti",
+      "Mali",
+      "Mauritania",
+      "Mozambique",
+      "Papua New Guinea",
+      "Rwanda",
+      "Senegal",
+      "Solomon Islands",
+      "South Sudan",
+      "Tanzania",
+      "Togo",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Nigeria",
+      "Pakistan",
+      "Sudan",
+      "Tanzania"
+    ]
+  }
+}

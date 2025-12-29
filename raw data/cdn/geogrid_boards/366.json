@@ -1,0 +1,198 @@
+{
+  "grid_id": "366",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "Arabic is an official language",
+      "variantId": 0
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 5 tCO₂/year",
+      "variantId": 5
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Chad",
+      "Comoros",
+      "Djibouti",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Somalia",
+      "Sudan",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Bahrain",
+      "Kuwait",
+      "Libya",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "match_box_3": [
+      "Comoros",
+      "Djibouti",
+      "Oman",
+      "Somalia",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Botswana",
+      "Eswatini",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Mauritius",
+      "Mozambique",
+      "Namibia",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "South Africa",
+      "Tanzania",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Bermuda",
+      "Brunei",
+      "Cayman Islands",
+      "Cook Islands",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Ireland",
+      "Japan",
+      "Malaysia",
+      "Maldives",
+      "New Zealand",
+      "Niue",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Trinidad and Tobago",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Bangladesh",
+      "Christmas Island",
+      "Cocos Islands",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Pakistan",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Timor-Leste"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Angola",
+      "Benin",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Gabon",
+      "Guinea",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritania",
+      "Mayotte",
+      "Niger",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Senegal",
+      "Sierra Leone"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Belarus",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Cook Islands",
+      "Curaçao",
+      "Cyprus",
+      "Czechia",
+      "Estonia",
+      "Germany",
+      "Iceland",
+      "Iran",
+      "Ireland",
+      "Italy",
+      "Luxembourg",
+      "Maldives",
+      "Mongolia",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Russia",
+      "Slovakia",
+      "Taiwan",
+      "Trinidad and Tobago",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iran",
+      "Madagascar",
+      "Maldives",
+      "Mayotte",
+      "Oman",
+      "Réunion",
+      "Thailand",
+      "Yemen"
+    ]
+  }
+}

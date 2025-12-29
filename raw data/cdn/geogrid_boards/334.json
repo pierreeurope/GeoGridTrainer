@@ -1,0 +1,199 @@
+{
+  "grid_id": "334",
+  "rows": [
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter D",
+      "variantId": 2
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $40k",
+      "variantId": 4
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Bouvet Island",
+      "Christmas Island",
+      "Greenland",
+      "Iceland",
+      "Ireland",
+      "New Zealand",
+      "Norfolk Island"
+    ],
+    "match_box_2": [
+      "Bouvet Island",
+      "Christmas Island",
+      "Greenland",
+      "New Zealand",
+      "Norfolk Island",
+      "Thailand"
+    ],
+    "match_box_3": [
+      "Åland",
+      "Finland",
+      "Iceland",
+      "Ireland",
+      "Poland",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Greenland",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Singapore",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "U.S. Virgin Islands",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Australia",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bermuda",
+      "Canada",
+      "Cayman Islands",
+      "Christmas Island",
+      "Denmark",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Monaco",
+      "Netherlands",
+      "New Zealand",
+      "Norfolk Island",
+      "Norway",
+      "Qatar",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Andorra",
+      "Austria",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Denmark",
+      "Faroe Islands",
+      "Finland",
+      "France",
+      "Germany",
+      "Gibraltar",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Italy",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Netherlands",
+      "Norway",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Papua New Guinea",
+      "Philippines",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Belgium",
+      "Cambodia",
+      "Canada",
+      "Japan",
+      "Jordan",
+      "Malaysia",
+      "Morocco",
+      "Netherlands",
+      "Papua New Guinea",
+      "Saudi Arabia",
+      "Spain",
+      "Sweden",
+      "Thailand",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Azerbaijan",
+      "Belgium",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Kazakhstan",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ]
+  }
+}

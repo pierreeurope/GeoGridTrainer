@@ -1,0 +1,149 @@
+{
+  "grid_id": "359",
+  "rows": [
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter D",
+      "variantId": 2
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "France",
+      "Germany",
+      "Italy",
+      "Macau",
+      "Netherlands",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Åland",
+      "Bouvet Island",
+      "Chad",
+      "Iceland",
+      "Ireland",
+      "New Zealand",
+      "Thailand"
+    ],
+    "match_box_3": [
+      "Armenia",
+      "Belarus",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Chad",
+      "Czechia",
+      "Hungary",
+      "Kosovo",
+      "Laos",
+      "Luxembourg",
+      "Malawi",
+      "Mali",
+      "Mongolia",
+      "Nepal",
+      "Niger",
+      "Rwanda",
+      "Slovakia"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Canada",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Finland",
+      "Iceland",
+      "Ireland",
+      "New Zealand",
+      "Poland",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Bhutan",
+      "Botswana",
+      "Czechia",
+      "Luxembourg",
+      "Rwanda",
+      "Switzerland"
+    ],
+    "match_box_7": [
+      "Austria",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Portugal",
+      "Spain",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Finland",
+      "Iceland",
+      "Ireland",
+      "Poland",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Vatican City"
+    ]
+  }
+}

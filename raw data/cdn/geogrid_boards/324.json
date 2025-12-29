@@ -1,0 +1,200 @@
+{
+  "grid_id": "324",
+  "rows": [
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_or_more_colors",
+      "name": "Flag with 5+ colors",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "top_20_renewable_electricity_production",
+      "name": "Top 20 in renewable electricity production",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Bhutan",
+      "Central African Republic",
+      "Eswatini",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Nepal",
+      "Paraguay",
+      "Tajikistan",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Bolivia",
+      "Botswana",
+      "Czechia",
+      "Ethiopia",
+      "Moldova",
+      "Mongolia",
+      "North Macedonia",
+      "Rwanda",
+      "Serbia",
+      "Slovakia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_4": [
+      "Angola",
+      "Benin",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Guinea",
+      "Guinea-Bissau",
+      "Lesotho",
+      "Liberia",
+      "Libya",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritania",
+      "Mayotte",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "Sierra Leone",
+      "Somalia",
+      "South Sudan",
+      "The Gambia",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Bhutan",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "El Salvador",
+      "Eswatini",
+      "Lesotho",
+      "Malawi",
+      "Nepal",
+      "Sierra Leone"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Andorra",
+      "Angola",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Cambodia",
+      "Equatorial Guinea",
+      "Federated States of Micronesia",
+      "French Guiana",
+      "French Polynesia",
+      "Guinea",
+      "Liberia",
+      "Libya",
+      "Malta",
+      "Mauritania",
+      "New Caledonia",
+      "Nicaragua",
+      "Papua New Guinea",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Somalia",
+      "The Gambia",
+      "Wallis and Futuna",
+      "Western Sahara"
+    ],
+    "match_box_7": [
+      "Central African Republic",
+      "Comoros",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Mozambique",
+      "Namibia",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Central African Republic",
+      "El Salvador",
+      "Eswatini",
+      "Namibia",
+      "Paraguay",
+      "Uganda"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bermuda",
+      "Bolivia",
+      "Croatia",
+      "Dominica",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Guyana",
+      "Moldova",
+      "Namibia",
+      "New Caledonia",
+      "Nicaragua",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Africa",
+      "Uganda"
+    ]
+  }
+}

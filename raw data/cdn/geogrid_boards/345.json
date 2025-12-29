@@ -1,0 +1,189 @@
+{
+  "grid_id": "345",
+  "rows": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "air_pollution_under_x",
+      "name": "Air pollution under 10 μg/m³",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 1-2 countries",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Australia",
+      "Burkina Faso",
+      "Canada",
+      "France",
+      "Germany",
+      "Madagascar",
+      "Mali",
+      "Morocco",
+      "Russia",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Angola",
+      "Australia",
+      "Burkina Faso",
+      "Cameroon",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Bangladesh",
+      "Canada",
+      "Nepal",
+      "South Korea",
+      "United Kingdom",
+      "United States of America",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Canada",
+      "France",
+      "Germany",
+      "Netherlands",
+      "Portugal",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "France",
+      "Germany",
+      "Italy",
+      "Macau",
+      "Netherlands",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Canada",
+      "Hong Kong",
+      "Macau",
+      "Netherlands",
+      "Portugal",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Denmark",
+      "Estonia",
+      "Faroe Islands",
+      "Finland",
+      "France",
+      "Germany",
+      "Gibraltar",
+      "Iceland",
+      "Ireland",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Netherlands",
+      "Norway",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Belarus",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Czechia",
+      "Estonia",
+      "Faroe Islands",
+      "France",
+      "Germany",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Kosovo",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Netherlands",
+      "Norway",
+      "Romania",
+      "Russia",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Denmark",
+      "Estonia",
+      "Gibraltar",
+      "Ireland",
+      "Liechtenstein",
+      "Moldova",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "San Marino",
+      "United Kingdom",
+      "Vatican City"
+    ]
+  }
+}

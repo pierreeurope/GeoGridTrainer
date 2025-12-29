@@ -1,0 +1,160 @@
+{
+  "grid_id": "325",
+  "rows": [
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.75",
+      "variantId": 7
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Caribbean Sea",
+      "variantId": 6
+    },
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter S",
+      "variantId": 13
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Antigua and Barbuda",
+      "Aruba",
+      "Cayman Islands",
+      "Cuba",
+      "Curaçao",
+      "Dominica",
+      "Grenada",
+      "Guadeloupe",
+      "Honduras",
+      "Panama",
+      "Puerto Rico",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Sint Maarten",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Cuba",
+      "Ecuador",
+      "Equatorial Guinea",
+      "Honduras",
+      "Panama",
+      "Paraguay",
+      "Puerto Rico",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_3": [
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Singapore",
+      "Sint Maarten",
+      "Slovenia",
+      "Solomon Islands",
+      "Somalia",
+      "South Sudan",
+      "Suriname",
+      "Syria"
+    ],
+    "match_box_4": [
+      "Belize",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Nicaragua",
+      "Saint Barthélemy",
+      "Saint Lucia",
+      "Saint Martin",
+      "Sint Maarten",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Bolivia",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Nicaragua",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "Saint Barthélemy",
+      "Saint Lucia",
+      "Saint Martin",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Sierra Leone",
+      "Sint Maarten",
+      "Solomon Islands",
+      "Somalia",
+      "South Africa",
+      "South Sudan",
+      "Sudan",
+      "Suriname",
+      "Syria"
+    ],
+    "match_box_7": [
+      "Colombia",
+      "Dominican Republic",
+      "Guatemala",
+      "Haiti",
+      "Mexico",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Dominican Republic",
+      "Ecuador",
+      "Guatemala",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Saudi Arabia",
+      "Senegal",
+      "Somalia",
+      "South Africa",
+      "South Korea",
+      "South Sudan",
+      "Spain",
+      "Sri Lanka",
+      "Sudan",
+      "Sweden",
+      "Syria"
+    ]
+  }
+}

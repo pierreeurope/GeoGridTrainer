@@ -1,0 +1,158 @@
+{
+  "grid_id": "341",
+  "rows": [
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 100 Olympic medals",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Hungary",
+      "Moldova",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "China",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Bulgaria",
+      "China",
+      "Hungary",
+      "Romania",
+      "Russia",
+      "Ukraine"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bouvet Island",
+      "Chile",
+      "Cuba",
+      "Czechia",
+      "Faroe Islands",
+      "France",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Laos",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Cuba",
+      "Czechia",
+      "France",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Albania",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Egypt",
+      "Greece",
+      "Israel",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Montenegro",
+      "North Macedonia",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Armenia",
+      "Azerbaijan",
+      "Egypt",
+      "Georgia",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Malaysia",
+      "Myanmar",
+      "Pakistan",
+      "Syria",
+      "Tajikistan",
+      "Thailand",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Belarus",
+      "Belgium",
+      "Bulgaria",
+      "Czechia",
+      "Greece",
+      "Kenya",
+      "Romania",
+      "Spain",
+      "Switzerland"
+    ]
+  }
+}

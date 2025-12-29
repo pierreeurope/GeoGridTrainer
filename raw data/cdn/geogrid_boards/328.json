@@ -1,0 +1,187 @@
+{
+  "grid_id": "328",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter B",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belgium",
+      "Benin",
+      "Cameroon",
+      "Canada",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "France",
+      "French Guiana",
+      "Gabon",
+      "Guadeloupe",
+      "Guinea",
+      "Haiti",
+      "Martinique",
+      "Republic of the Congo",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Senegal",
+      "Togo"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Benin",
+      "Burundi",
+      "Djibouti",
+      "Gabon",
+      "Luxembourg",
+      "Rwanda",
+      "Togo"
+    ],
+    "match_box_3": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "Côte d'Ivoire",
+      "Guadeloupe",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Angola",
+      "Argentina",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "Chile",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Gabon",
+      "Germany",
+      "Ghana",
+      "Greenland",
+      "Guinea",
+      "Guyana",
+      "Mauritania",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Norway",
+      "Republic of the Congo",
+      "South Africa",
+      "Spain",
+      "United Kingdom",
+      "United States of America",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Botswana",
+      "Chile",
+      "Egypt",
+      "Finland",
+      "Gabon",
+      "Ghana",
+      "Guyana",
+      "Indonesia",
+      "Malaysia",
+      "Mauritania",
+      "Mexico",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Norway",
+      "Oman",
+      "Pakistan",
+      "Paraguay",
+      "Somalia",
+      "Sweden",
+      "Thailand",
+      "Turkmenistan",
+      "Venezuela",
+      "Vietnam",
+      "Western Sahara",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Bolivia",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "Ecuador",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Tanzania",
+      "Türkiye",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Belgium",
+      "Benin",
+      "Bermuda",
+      "Bouvet Island",
+      "Brazil",
+      "British Virgin Islands"
+    ],
+    "match_box_8": [
+      "Belgium",
+      "Benin",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Burundi"
+    ],
+    "match_box_9": [
+      "Belize",
+      "Benin",
+      "Bermuda",
+      "Bolivia",
+      "Brazil",
+      "Burundi"
+    ]
+  }
+}

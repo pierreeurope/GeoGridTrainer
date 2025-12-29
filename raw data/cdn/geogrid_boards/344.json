@@ -1,0 +1,198 @@
+{
+  "grid_id": "344",
+  "rows": [
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 5 tCO₂/year",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Chile",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "France",
+      "Germany",
+      "South Africa",
+      "Spain",
+      "United Kingdom",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Brazil",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Belgium",
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "French Guiana",
+      "French Southern Territories",
+      "Gabon",
+      "Guinea",
+      "Luxembourg",
+      "Madagascar",
+      "Martinique",
+      "Mayotte",
+      "Niger",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Senegal",
+      "Wallis and Futuna"
+    ],
+    "match_box_5": [
+      "Belgium",
+      "Benin",
+      "Cameroon",
+      "Canada",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "France",
+      "French Guiana",
+      "Gabon",
+      "Guadeloupe",
+      "Guinea",
+      "Haiti",
+      "Martinique",
+      "Republic of the Congo",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Senegal",
+      "Togo"
+    ],
+    "match_box_6": [
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Guinea",
+      "Niger",
+      "Republic of the Congo",
+      "Senegal",
+      "Switzerland"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Belarus",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Cook Islands",
+      "Curaçao",
+      "Cyprus",
+      "Czechia",
+      "Estonia",
+      "Germany",
+      "Iceland",
+      "Iran",
+      "Ireland",
+      "Italy",
+      "Luxembourg",
+      "Maldives",
+      "Mongolia",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Russia",
+      "Slovakia",
+      "Taiwan",
+      "Trinidad and Tobago",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Belgium",
+      "Bermuda",
+      "Canada",
+      "Falkland Islands (Malvinas)",
+      "Germany",
+      "Gibraltar",
+      "Greenland",
+      "Iceland",
+      "Ireland",
+      "Netherlands",
+      "Norway",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Africa",
+      "Trinidad and Tobago",
+      "U.S. Virgin Islands",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "China",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Kazakhstan",
+      "Libya",
+      "Montenegro",
+      "Poland",
+      "Russia",
+      "Saudi Arabia",
+      "Serbia",
+      "Slovakia",
+      "South Africa",
+      "Türkiye"
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "grid_id": "347",
+  "rows": [
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 5,000 km",
+      "variantId": 4
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Japan",
+      "Qatar",
+      "Spain",
+      "Sweden",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Brazil",
+      "Germany",
+      "Mexico",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Uruguay"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bahamas",
+      "Canada",
+      "Denmark",
+      "Greenland",
+      "Japan",
+      "Malaysia",
+      "New Zealand",
+      "Norway",
+      "Papua New Guinea",
+      "Saudi Arabia",
+      "Solomon Islands",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Croatia",
+      "Denmark",
+      "Finland",
+      "France",
+      "French Polynesia",
+      "Greece",
+      "Greenland",
+      "Ireland",
+      "Italy",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Argentina",
+      "Bahamas",
+      "Brazil",
+      "China",
+      "Colombia",
+      "Croatia",
+      "Egypt",
+      "French Polynesia",
+      "Malaysia",
+      "Mexico",
+      "Mozambique",
+      "Myanmar",
+      "Papua New Guinea",
+      "Philippines",
+      "Solomon Islands",
+      "Spain",
+      "Sweden",
+      "Venezuela",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Cambodia",
+      "Luxembourg",
+      "Malaysia",
+      "Morocco",
+      "Norway",
+      "Oman",
+      "Sweden",
+      "Thailand"
+    ],
+    "match_box_8": [
+      "Belgium",
+      "Czechia",
+      "Finland",
+      "Greece",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Slovenia",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Belgium",
+      "Benin",
+      "Bosnia and Herzegovina",
+      "Egypt",
+      "Eritrea",
+      "Gabon",
+      "Ghana",
+      "Guatemala",
+      "Guyana",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Lithuania",
+      "Malaysia",
+      "Mauritania",
+      "Mexico",
+      "Namibia",
+      "Paraguay",
+      "Rwanda",
+      "Slovenia",
+      "Suriname",
+      "Sweden",
+      "Tajikistan",
+      "Togo",
+      "Turkmenistan",
+      "Venezuela",
+      "Vietnam",
+      "Zimbabwe"
+    ]
+  }
+}

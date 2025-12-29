@@ -1,0 +1,128 @@
+{
+  "grid_id": "35",
+  "rows": [
+    {
+      "name": "Flag with red",
+      "id": "color_on_flag",
+      "variantId": 0
+    },
+    {
+      "name": "Flag with only 3 colors",
+      "id": "flag_has_x_colors",
+      "variantId": 1
+    },
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "name": "Has nuclear weapons",
+      "id": "has_nuclear_weapons",
+      "variantId": null
+    },
+    {
+      "name": "Name is 4 letters long",
+      "id": "name_length",
+      "variantId": 0
+    },
+    {
+      "name": "In South America",
+      "id": "continent",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "China",
+      "France",
+      "North Korea",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Chad",
+      "Cuba",
+      "Fiji",
+      "Guam",
+      "Iran",
+      "Iraq",
+      "Laos",
+      "Mali",
+      "Niue",
+      "Oman",
+      "Peru",
+      "Togo"
+    ],
+    "match_box_3": [
+      "Aruba",
+      "Bolivia",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "France",
+      "North Korea",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Chad",
+      "Cuba",
+      "Iran",
+      "Laos",
+      "Mali",
+      "Oman"
+    ],
+    "match_box_6": [
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "French Guiana",
+      "Trinidad and Tobago"
+    ],
+    "match_box_7": [
+      "China",
+      "France",
+      "India",
+      "Israel",
+      "North Korea",
+      "Pakistan",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Chad",
+      "Iran",
+      "Iraq",
+      "Mali",
+      "Peru"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "grid_id": "349",
+  "rows": [
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_oil_production",
+      "name": "Top 20 in oil production",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Canada",
+      "Norway",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Czechia",
+      "Finland",
+      "Guyana",
+      "Lithuania",
+      "Luxembourg",
+      "Norway",
+      "Slovenia",
+      "Sweden"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Austria",
+      "Bahamas",
+      "Belgium",
+      "Bermuda",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Germany",
+      "Iceland",
+      "Ireland"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Angola",
+      "Iran",
+      "Norway",
+      "Oman",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Armenia",
+      "Belgium",
+      "Benin",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Burundi",
+      "Chile",
+      "Czechia",
+      "Gabon",
+      "Kosovo",
+      "Liberia",
+      "Lithuania",
+      "Luxembourg",
+      "Malawi",
+      "Mauritania",
+      "North Korea",
+      "Norway",
+      "Oman",
+      "Rwanda",
+      "Thailand"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Armenia",
+      "Bahamas",
+      "Belarus",
+      "Belgium",
+      "Burundi",
+      "Curaçao",
+      "Czechia",
+      "Estonia",
+      "Germany",
+      "Grenada",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Jamaica",
+      "Lebanon",
+      "Liberia",
+      "Mayotte",
+      "Réunion",
+      "Romania",
+      "Senegal",
+      "Tokelau"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Angola",
+      "Brazil",
+      "Canada",
+      "China",
+      "Iran",
+      "Iraq",
+      "Kuwait",
+      "Mexico",
+      "Nigeria",
+      "Norway",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Chile",
+      "Czechia",
+      "Egypt",
+      "Ghana",
+      "Greece",
+      "Honduras",
+      "Indonesia",
+      "Mexico",
+      "Morocco",
+      "Nigeria",
+      "North Korea",
+      "Norway",
+      "Paraguay",
+      "Slovenia",
+      "Sweden",
+      "Togo"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Austria",
+      "Belgium",
+      "Bolivia",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "Ecuador",
+      "Germany",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Jamaica",
+      "Morocco",
+      "Nigeria",
+      "Romania",
+      "Senegal",
+      "Tunisia",
+      "Türkiye",
+      "Ukraine",
+      "Uruguay"
+    ]
+  }
+}
