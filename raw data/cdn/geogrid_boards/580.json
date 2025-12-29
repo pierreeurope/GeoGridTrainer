@@ -1,0 +1,189 @@
+{
+  "grid_id": "580",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the South and East China Seas",
+      "variantId": 9
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 5 tCO₂/year",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brunei",
+      "Cambodia",
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Macau",
+      "Malaysia",
+      "North Korea",
+      "Philippines",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Bhutan",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Macau",
+      "Malaysia",
+      "Maldives",
+      "Nepal",
+      "Pakistan",
+      "Singapore",
+      "Sri Lanka",
+      "Thailand",
+      "Timor-Leste"
+    ],
+    "match_box_3": [
+      "Bahrain",
+      "Brunei",
+      "China",
+      "Cyprus",
+      "Iran",
+      "Japan",
+      "Kazakhstan",
+      "Kuwait",
+      "Malaysia",
+      "Maldives",
+      "Mongolia",
+      "Oman",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Türkiye",
+      "Turkmenistan",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Cambodia",
+      "Indonesia",
+      "Malaysia",
+      "North Korea",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Botswana",
+      "Guyana",
+      "Indonesia",
+      "Malawi",
+      "Malaysia",
+      "Namibia",
+      "Pakistan",
+      "Suriname",
+      "Thailand",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Czechia",
+      "Finland",
+      "Luxembourg",
+      "Malaysia",
+      "Norway",
+      "Oman",
+      "Slovenia",
+      "Turkmenistan"
+    ],
+    "match_box_7": [
+      "China",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Philippines",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Botswana",
+      "Guyana",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Kenya",
+      "Malaysia",
+      "Mozambique",
+      "Namibia",
+      "New Zealand",
+      "Pakistan",
+      "Papua New Guinea",
+      "South Africa",
+      "Tanzania",
+      "Thailand",
+      "Uganda",
+      "United Kingdom",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Belarus",
+      "Canada",
+      "China",
+      "Finland",
+      "Germany",
+      "Greenland",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Kazakhstan",
+      "Libya",
+      "Malaysia",
+      "Mongolia",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Poland",
+      "Russia",
+      "Saudi Arabia",
+      "South Africa",
+      "Türkiye",
+      "Turkmenistan",
+      "United States of America"
+    ]
+  }
+}

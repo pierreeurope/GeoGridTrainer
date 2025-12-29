@@ -1,0 +1,166 @@
+{
+  "grid_id": "590",
+  "rows": [
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "China",
+      "Japan",
+      "Türkiye",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Greece",
+      "Mexico",
+      "Poland",
+      "Russia"
+    ],
+    "match_box_4": [
+      "Belarus",
+      "Finland",
+      "France",
+      "Germany",
+      "Italy",
+      "Kazakhstan",
+      "Norway",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ],
+    "match_box_6": [
+      "France",
+      "Greece",
+      "Jersey",
+      "Kosovo",
+      "Latvia",
+      "Monaco",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Sweden"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Canada",
+      "Finland",
+      "France",
+      "Germany",
+      "Greenland",
+      "Guyana",
+      "Italy",
+      "Japan",
+      "New Zealand",
+      "Norway",
+      "Saudi Arabia",
+      "Spain",
+      "Sweden",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Aruba",
+      "Australia",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Greenland",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "Macau",
+      "New Zealand",
+      "Puerto Rico",
+      "Singapore",
+      "Sint Maarten",
+      "Slovenia",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Brunei",
+      "Canada",
+      "Cyprus",
+      "France",
+      "Guyana",
+      "Israel",
+      "Jersey",
+      "Monaco",
+      "Norway",
+      "Sweden",
+      "Taiwan"
+    ]
+  }
+}

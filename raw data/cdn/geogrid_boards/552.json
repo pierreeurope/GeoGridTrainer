@@ -1,0 +1,164 @@
+{
+  "grid_id": "552",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter N",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    },
+    {
+      "id": "official_language",
+      "name": "Arabic is an official language",
+      "variantId": 0
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 5-6 countries",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Egypt",
+      "France",
+      "Italy",
+      "Lebanon",
+      "Spain",
+      "Syria",
+      "Türkiye"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Egypt",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Palestine",
+      "Syria",
+      "Tunisia"
+    ],
+    "match_box_3": [
+      "Croatia",
+      "Israel",
+      "Italy",
+      "Libya",
+      "Montenegro",
+      "Spain",
+      "Syria"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Azerbaijan",
+      "Bangladesh",
+      "Bolivia",
+      "Brazil",
+      "Burkina Faso",
+      "Cameroon",
+      "Chile",
+      "China",
+      "Cuba",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Ghana",
+      "Hong Kong",
+      "Japan",
+      "Jordan",
+      "Malaysia",
+      "North Korea",
+      "Singapore",
+      "Somalia",
+      "Syria",
+      "Taiwan",
+      "Türkiye",
+      "Uzbekistan",
+      "Venezuela",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Comoros",
+      "Djibouti",
+      "Jordan",
+      "Libya",
+      "Mauritania",
+      "Morocco",
+      "Somalia",
+      "Syria",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Azerbaijan",
+      "Bolivia",
+      "Burkina Faso",
+      "Cameroon",
+      "Central African Republic",
+      "Croatia",
+      "Ethiopia",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Libya",
+      "Mozambique",
+      "Myanmar",
+      "North Macedonia",
+      "Senegal",
+      "South Sudan",
+      "Syria",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Cameroon",
+      "Iran",
+      "Japan",
+      "Jordan",
+      "Lebanon",
+      "Spain",
+      "Sudan",
+      "Taiwan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "Jordan",
+      "Lebanon",
+      "Oman",
+      "Sudan",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Cameroon",
+      "Jordan",
+      "Kazakhstan",
+      "South Sudan",
+      "Spain",
+      "Uzbekistan"
+    ]
+  }
+}

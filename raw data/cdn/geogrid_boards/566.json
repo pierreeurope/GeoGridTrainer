@@ -1,0 +1,161 @@
+{
+  "grid_id": "566",
+  "rows": [
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter N",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Cuba",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iceland",
+      "Mayotte",
+      "New Zealand",
+      "Puerto Rico",
+      "Samoa",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "United Kingdom",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Chile",
+      "Cuba",
+      "France",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Chile",
+      "Costa Rica",
+      "Cuba",
+      "Czechia",
+      "France",
+      "Iceland",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Norway",
+      "Panama",
+      "Russia",
+      "Slovakia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Cabo Verde",
+      "Comoros",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Angola",
+      "Burkina Faso",
+      "Cameroon",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Ghana",
+      "Kenya",
+      "Mali",
+      "Republic of the Congo",
+      "Somalia",
+      "South Africa",
+      "Spain",
+      "Sudan"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ghana",
+      "Morocco",
+      "Nigeria",
+      "Senegal",
+      "South Africa",
+      "Spain",
+      "Togo",
+      "Tunisia"
+    ],
+    "match_box_7": [
+      "Bahrain",
+      "Isle of Man",
+      "Japan",
+      "Réunion",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "Taiwan"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Cameroon",
+      "Iran",
+      "Japan",
+      "Jordan",
+      "Lebanon",
+      "Spain",
+      "Sudan",
+      "Taiwan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Cameroon",
+      "Iran",
+      "Japan",
+      "Spain",
+      "Sweden"
+    ]
+  }
+}

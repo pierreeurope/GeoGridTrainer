@@ -1,0 +1,179 @@
+{
+  "grid_id": "576",
+  "rows": [
+    {
+      "id": "population_under_x",
+      "name": "Population under 1 million",
+      "variantId": 1
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 1,000 km",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 60",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iceland",
+      "Luxembourg",
+      "Mayotte",
+      "Samoa",
+      "Svalbard and Jan Mayen",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Macau",
+      "Maldives"
+    ],
+    "match_box_3": [
+      "Bahamas",
+      "Barbados",
+      "Bhutan",
+      "Cabo Verde",
+      "Iceland",
+      "Luxembourg",
+      "Saint Vincent and the Grenadines",
+      "Seychelles"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Chile",
+      "France",
+      "Russia",
+      "Thailand",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kazakhstan",
+      "Mongolia",
+      "Myanmar",
+      "Pakistan",
+      "Russia",
+      "Saudi Arabia",
+      "Thailand",
+      "Türkiye",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "France",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Chile",
+      "Costa Rica",
+      "Cuba",
+      "Faroe Islands",
+      "France",
+      "French Southern Territories",
+      "Iceland",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Norway",
+      "Panama",
+      "Puerto Rico",
+      "Russia",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Cambodia",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Malaysia",
+      "Maldives",
+      "Myanmar",
+      "North Korea",
+      "Oman",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Sri Lanka",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Bahamas",
+      "Cabo Verde",
+      "Canada",
+      "Chile",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Japan",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "South Korea",
+      "Sweden",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Uruguay"
+    ]
+  }
+}

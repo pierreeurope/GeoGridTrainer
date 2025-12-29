@@ -1,0 +1,161 @@
+{
+  "grid_id": "571",
+  "rows": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Niger River system",
+      "variantId": 4
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter C",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Benin",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Guinea",
+      "Niger"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Benin",
+      "Burkina Faso",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Guinea",
+      "Mali",
+      "Niger",
+      "Nigeria"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Benin",
+      "Burkina Faso",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Guinea",
+      "Mali",
+      "Niger",
+      "Nigeria"
+    ],
+    "match_box_4": [
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "France",
+      "Madagascar",
+      "Niger"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Algeria",
+      "Bolivia",
+      "Brazil",
+      "Central African Republic",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Kenya",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mexico",
+      "Mozambique",
+      "Myanmar",
+      "Namibia",
+      "Niger",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Saudi Arabia",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Botswana",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mozambique",
+      "Namibia",
+      "Niger",
+      "Nigeria",
+      "Somalia",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Côte d'Ivoire"
+    ],
+    "match_box_8": [
+      "Cameroon",
+      "Cayman Islands",
+      "Central African Republic",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Cyprus"
+    ],
+    "match_box_9": [
+      "Cabo Verde",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Côte d'Ivoire"
+    ]
+  }
+}

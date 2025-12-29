@@ -1,0 +1,188 @@
+{
+  "grid_id": "593",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.6",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Heard Island and McDonald Islands",
+      "India",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Pakistan",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania"
+    ],
+    "match_box_2": [
+      "Australia",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Mayotte",
+      "Thailand"
+    ],
+    "match_box_3": [
+      "Djibouti",
+      "Madagascar",
+      "Mozambique",
+      "Pakistan",
+      "Somalia",
+      "Tanzania",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bangladesh",
+      "Cameroon",
+      "Canada",
+      "Ghana",
+      "India",
+      "Kenya",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Uganda",
+      "United Kingdom",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Australia",
+      "France",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Nigeria",
+      "Pakistan",
+      "Sudan",
+      "Syria",
+      "Tanzania",
+      "Uganda",
+      "Yemen",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Australia",
+      "Bermuda",
+      "Botswana",
+      "Canada",
+      "Dominica",
+      "Ghana",
+      "Grenada",
+      "Guyana",
+      "India",
+      "Jamaica",
+      "Kenya",
+      "Malaysia",
+      "Malta",
+      "Namibia",
+      "Nigeria",
+      "Papua New Guinea",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Samoa",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "The Gambia",
+      "Tonga",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Costa Rica",
+      "Cuba",
+      "Czechia",
+      "Liberia",
+      "North Korea",
+      "Panama",
+      "Russia",
+      "Samoa",
+      "Slovakia",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Eritrea",
+      "Ethiopia",
+      "Guinea",
+      "Liberia",
+      "Mauritania",
+      "Nigeria",
+      "Papua New Guinea",
+      "Rwanda",
+      "Somalia",
+      "Syria",
+      "Tanzania",
+      "The Gambia",
+      "Uganda",
+      "Zambia"
+    ]
+  }
+}

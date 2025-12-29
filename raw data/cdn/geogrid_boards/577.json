@@ -1,0 +1,175 @@
+{
+  "grid_id": "577",
+  "rows": [
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    },
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Dominican Republic",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Falkland Islands (Malvinas)",
+      "French Polynesia",
+      "Montenegro",
+      "Montserrat",
+      "Mozambique",
+      "Pitcairn Islands",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Luxembourg",
+      "Madagascar",
+      "Martinique",
+      "New Caledonia",
+      "Republic of the Congo",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Switzerland",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "American Samoa",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "Federated States of Micronesia",
+      "Guadeloupe",
+      "Kazakhstan",
+      "Liechtenstein",
+      "Montserrat",
+      "New Zealand",
+      "Philippines",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "South Africa",
+      "Switzerland",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Albania",
+      "Egypt",
+      "Guatemala",
+      "Mexico",
+      "Oman",
+      "Paraguay",
+      "Slovenia"
+    ],
+    "match_box_5": [
+      "Belgium",
+      "Benin",
+      "Burundi",
+      "Djibouti",
+      "Gabon",
+      "Luxembourg",
+      "Rwanda",
+      "Togo"
+    ],
+    "match_box_6": [
+      "Benin",
+      "Burundi",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Palestine",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Egypt",
+      "Equatorial Guinea",
+      "Ethiopia",
+      "Mozambique",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Spain"
+    ],
+    "match_box_8": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Gabon",
+      "Guinea",
+      "Madagascar",
+      "Mayotte",
+      "Niger",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Senegal",
+      "Seychelles",
+      "Togo"
+    ],
+    "match_box_9": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Morocco",
+      "Nigeria",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Africa",
+      "Tanzania",
+      "The Gambia"
+    ]
+  }
+}

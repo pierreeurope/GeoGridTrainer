@@ -1,0 +1,143 @@
+{
+  "grid_id": "56",
+  "rows": [
+    {
+      "name": "Has hosted a Formula 1 Grand Prix",
+      "id": "hosted_f1",
+      "variantId": null
+    },
+    {
+      "name": "Population over 50 million",
+      "id": "population_over_x",
+      "variantId": 6
+    },
+    {
+      "name": "Name is 6 letters long",
+      "id": "name_length",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with only red, white, and blue",
+      "id": "flag_rwb",
+      "variantId": null
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Flag with green",
+      "id": "color_on_flag",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "France",
+      "Netherlands",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Azerbaijan",
+      "Belgium",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Azerbaijan",
+      "Brazil",
+      "Hungary",
+      "India",
+      "Italy",
+      "Mexico",
+      "Morocco",
+      "Portugal",
+      "Saudi Arabia",
+      "South Africa",
+      "Spain",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "France",
+      "Russia",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "Brazil",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Italy",
+      "Kenya",
+      "Mexico",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_7": [
+      "France",
+      "Norway",
+      "Panama",
+      "Russia",
+      "Taiwan"
+    ],
+    "match_box_8": [
+      "France",
+      "Greece",
+      "Jersey",
+      "Kosovo",
+      "Latvia",
+      "Monaco",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Belize",
+      "Brazil",
+      "Cyprus",
+      "Guinea",
+      "Guyana",
+      "Jordan",
+      "Kuwait",
+      "Malawi",
+      "Mexico",
+      "Rwanda",
+      "Zambia"
+    ]
+  }
+}

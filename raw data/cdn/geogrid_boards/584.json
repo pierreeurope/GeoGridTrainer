@@ -1,0 +1,162 @@
+{
+  "grid_id": "584",
+  "rows": [
+    {
+      "id": "name_length",
+      "name": "Name is 5 letters long",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 200k",
+      "variantId": 2
+    },
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Aruba",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Samoa",
+      "Tonga"
+    ],
+    "match_box_2": [
+      "Gabon",
+      "Ghana",
+      "India",
+      "Kenya",
+      "Malta",
+      "Nauru",
+      "Samoa",
+      "Tonga"
+    ],
+    "match_box_3": [
+      "Chile",
+      "Italy",
+      "Japan",
+      "Qatar",
+      "Spain"
+    ],
+    "match_box_4": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Gibraltar",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Bailiwick of Guernsey",
+      "Gibraltar",
+      "Jersey",
+      "Malta",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Burundi",
+      "Cocos Islands",
+      "Cook Islands",
+      "Curaçao",
+      "Faroe Islands",
+      "French Guiana",
+      "French Southern Territories",
+      "Grenada",
+      "Iceland",
+      "Luxembourg",
+      "Malta",
+      "Marshall Islands",
+      "Martinique",
+      "Mayotte",
+      "Nauru",
+      "Réunion",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Svalbard and Jan Mayen",
+      "Trinidad and Tobago",
+      "Wallis and Futuna"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Botswana",
+      "Cameroon",
+      "Cocos Islands",
+      "Cyprus",
+      "Gabon",
+      "Grenada",
+      "Heard Island and McDonald Islands",
+      "Jamaica",
+      "Malawi",
+      "Maldives",
+      "Malta",
+      "Nauru",
+      "New Zealand",
+      "Rwanda",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Sierra Leone",
+      "Tokelau",
+      "Trinidad and Tobago",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Chile",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

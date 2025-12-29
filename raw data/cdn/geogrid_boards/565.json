@@ -1,0 +1,166 @@
+{
+  "grid_id": "565",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belgium",
+      "Canada",
+      "France",
+      "Haiti",
+      "Luxembourg",
+      "Monaco",
+      "Saint Pierre and Miquelon",
+      "Switzerland"
+    ],
+    "match_box_2": [
+      "Canada",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "Guinea",
+      "New Caledonia",
+      "Rwanda",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Gabon",
+      "Guinea",
+      "Madagascar",
+      "Niger",
+      "Republic of the Congo"
+    ],
+    "match_box_4": [
+      "Albania",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Cyprus",
+      "Egypt",
+      "France",
+      "Gibraltar",
+      "Greece",
+      "Israel",
+      "Italy",
+      "Lebanon",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "Palestine",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Libya",
+      "Malta",
+      "Slovenia",
+      "Syria",
+      "Tunisia"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Egypt",
+      "France",
+      "Italy",
+      "Libya",
+      "Morocco",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Albania",
+      "Austria",
+      "Canada",
+      "Denmark",
+      "Finland",
+      "Greece",
+      "Greenland",
+      "Israel",
+      "Latvia",
+      "Monaco",
+      "Norfolk Island",
+      "North Macedonia",
+      "Poland",
+      "Sweden",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Austria",
+      "Canada",
+      "China",
+      "Federated States of Micronesia",
+      "Georgia",
+      "Indonesia",
+      "Latvia",
+      "Nigeria",
+      "North Macedonia",
+      "Saudi Arabia",
+      "Somalia",
+      "Tonga",
+      "Tunisia"
+    ],
+    "match_box_9": [
+      "Canada",
+      "China",
+      "Finland",
+      "Greenland",
+      "Indonesia",
+      "Japan",
+      "Kazakhstan",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Poland",
+      "Saudi Arabia",
+      "Somalia",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ]
+  }
+}

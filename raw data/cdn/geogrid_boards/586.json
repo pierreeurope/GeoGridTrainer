@@ -1,0 +1,181 @@
+{
+  "grid_id": "586",
+  "rows": [
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $40k",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Dominican Republic",
+      "North Korea",
+      "Papua New Guinea",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "South Sudan",
+      "Sri Lanka",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Burkina Faso",
+      "Cabo Verde",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Republic of the Congo",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "South Africa",
+      "South Sudan",
+      "The Gambia",
+      "Western Sahara"
+    ],
+    "match_box_3": [
+      "Bailiwick of Guernsey",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Hong Kong",
+      "Isle of Man",
+      "New Zealand",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "U.S. Virgin Islands",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Bolivia",
+      "Brazil",
+      "Dominican Republic",
+      "Ecuador",
+      "Egypt",
+      "Ethiopia",
+      "Guatemala",
+      "Haiti",
+      "Iran",
+      "Mexico",
+      "Mozambique",
+      "Peru",
+      "Portugal",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Egypt",
+      "Equatorial Guinea",
+      "Ethiopia",
+      "Mozambique",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Spain"
+    ],
+    "match_box_6": [
+      "Andorra",
+      "Bermuda",
+      "Cayman Islands",
+      "Falkland Islands (Malvinas)",
+      "Gibraltar",
+      "Jersey",
+      "Saint Barthélemy",
+      "San Marino",
+      "Sint Maarten",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Benin",
+      "Bolivia",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "Ecuador",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Taiwan",
+      "Tanzania",
+      "Türkiye",
+      "United Arab Emirates",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Morocco",
+      "Nigeria",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Africa",
+      "Tanzania",
+      "The Gambia"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Bermuda",
+      "Canada",
+      "Liechtenstein",
+      "Malta",
+      "New Zealand",
+      "San Marino",
+      "Sint Maarten",
+      "Switzerland",
+      "United Arab Emirates",
+      "United States of America"
+    ]
+  }
+}

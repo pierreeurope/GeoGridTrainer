@@ -1,0 +1,193 @@
+{
+  "grid_id": "567",
+  "rows": [
+    {
+      "id": "size_under_x",
+      "name": "Area less than 100,000 km²",
+      "variantId": 4
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $20k",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_start_end_same_letter",
+      "name": "Starts and ends with the same letter",
+      "variantId": null
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Armenia",
+      "Aruba",
+      "Austria",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Azerbaijan",
+      "Bhutan",
+      "Burundi",
+      "Czechia",
+      "Eswatini",
+      "Hungary",
+      "Kosovo",
+      "Lesotho",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "Rwanda",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Moldova",
+      "Montenegro",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Serbia",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_4": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Australia",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_5": [
+      "Bhutan",
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Malawi",
+      "Nepal",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Anguilla",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Australia",
+      "Austria",
+      "Seychelles"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Austria",
+      "Czechia",
+      "Hungary",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Slovakia",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Malta",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ]
+  }
+}

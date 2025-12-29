@@ -1,0 +1,166 @@
+{
+  "grid_id": "591",
+  "rows": [
+    {
+      "id": "top_20_alcohol_consumption",
+      "name": "Top 20 in alcohol consumption per capita",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 50 Olympic medals",
+      "variantId": 4
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "Czechia",
+      "France",
+      "Germany",
+      "Poland",
+      "Romania",
+      "Slovenia"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Bulgaria",
+      "Czechia",
+      "Estonia",
+      "France",
+      "Germany",
+      "Ireland",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Poland",
+      "Romania",
+      "Slovenia"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "Czechia",
+      "France",
+      "Georgia",
+      "Germany",
+      "Poland",
+      "Romania",
+      "Uganda"
+    ],
+    "match_box_4": [
+      "Brazil",
+      "Croatia",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Croatia",
+      "French Polynesia",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Bolivia",
+      "Brazil",
+      "Dominican Republic",
+      "Ecuador",
+      "Egypt",
+      "Ethiopia",
+      "Guatemala",
+      "Haiti",
+      "Iran",
+      "Mexico",
+      "Mozambique",
+      "Nicaragua",
+      "Oman",
+      "Peru",
+      "Serbia",
+      "Spain"
+    ],
+    "match_box_7": [
+      "Canada",
+      "Denmark",
+      "Finland",
+      "Mexico",
+      "Netherlands",
+      "North Korea",
+      "Norway",
+      "Sweden",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "French Guiana",
+      "Luxembourg",
+      "Netherlands",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Bangladesh",
+      "Cambodia",
+      "Canada",
+      "Chile",
+      "Denmark",
+      "Ecuador",
+      "Eritrea",
+      "Ghana",
+      "Honduras",
+      "Hong Kong",
+      "Indonesia",
+      "Kuwait",
+      "Lebanon",
+      "Liberia",
+      "Mexico",
+      "Mongolia",
+      "Morocco",
+      "Nicaragua",
+      "North Korea",
+      "Oman",
+      "Sierra Leone",
+      "Somalia",
+      "Togo",
+      "United Arab Emirates",
+      "Uruguay",
+      "Venezuela",
+      "Vietnam",
+      "Yemen"
+    ]
+  }
+}

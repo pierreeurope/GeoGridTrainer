@@ -1,0 +1,189 @@
+{
+  "grid_id": "572",
+  "rows": [
+    {
+      "id": "population_under_x",
+      "name": "Population under 1 million",
+      "variantId": 1
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 1,000 km",
+      "variantId": 2
+    },
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.8",
+      "variantId": 8
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_start_end_same_letter",
+      "name": "Starts and ends with the same letter",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_2": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Maldives",
+      "Mayotte",
+      "Réunion",
+      "Seychelles"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "French Polynesia",
+      "Gibraltar",
+      "Guam",
+      "Jersey",
+      "Montenegro",
+      "Montserrat",
+      "Pitcairn Islands",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "San Marino",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Solomon Islands"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Bangladesh",
+      "French Southern Territories",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Malaysia",
+      "Maldives",
+      "Mozambique",
+      "Myanmar",
+      "Oman",
+      "Pakistan",
+      "Somalia",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "Croatia",
+      "Dominican Republic",
+      "Ecuador",
+      "Egypt",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "French Polynesia",
+      "Haiti",
+      "Iran",
+      "Mexico",
+      "Mozambique",
+      "Nicaragua",
+      "Oman",
+      "Peru",
+      "Portugal",
+      "Spain"
+    ],
+    "match_box_7": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Aruba",
+      "Australia",
+      "Austria",
+      "Saint Kitts and Nevis",
+      "Seychelles"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Christmas Island",
+      "Cocos Islands",
+      "Malaysia",
+      "Mauritius",
+      "Oman",
+      "Seychelles",
+      "Singapore",
+      "United Arab Emirates"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Andorra",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Croatia",
+      "Falkland Islands (Malvinas)",
+      "Gibraltar",
+      "Guam",
+      "Jersey",
+      "Montenegro",
+      "Montserrat",
+      "Oman",
+      "Portugal",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ]
+  }
+}

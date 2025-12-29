@@ -1,0 +1,147 @@
+{
+  "grid_id": "578",
+  "rows": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 100 Olympic medals",
+      "variantId": 5
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belarus",
+      "Belgium",
+      "Brazil",
+      "Bulgaria",
+      "Canada",
+      "China",
+      "Czechia",
+      "Finland",
+      "France",
+      "Hungary",
+      "Japan",
+      "Netherlands",
+      "Romania",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Czechia",
+      "Finland",
+      "Greece",
+      "Norway",
+      "Sweden"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Canada",
+      "China",
+      "Denmark",
+      "Finland",
+      "Greece",
+      "Japan",
+      "Poland",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Brazil",
+      "China",
+      "Egypt",
+      "France",
+      "India",
+      "Iran",
+      "Japan",
+      "Mexico",
+      "Pakistan",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Egypt",
+      "Indonesia",
+      "Mexico",
+      "Nigeria",
+      "Pakistan",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "China",
+      "Indonesia",
+      "Japan",
+      "Nigeria",
+      "Pakistan",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Egypt",
+      "France",
+      "Slovenia",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Bosnia and Herzegovina",
+      "Egypt",
+      "Greece",
+      "Morocco",
+      "Palestine",
+      "Slovenia"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Greece",
+      "Israel",
+      "Monaco",
+      "Morocco",
+      "Tunisia",
+      "Türkiye"
+    ]
+  }
+}

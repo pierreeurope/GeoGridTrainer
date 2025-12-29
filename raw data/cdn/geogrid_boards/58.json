@@ -1,0 +1,169 @@
+{
+  "grid_id": "58",
+  "rows": [
+    {
+      "name": "Borders Russia",
+      "id": "borders_x",
+      "variantId": 0
+    },
+    {
+      "name": "Ends with letter E",
+      "id": "ending_letter",
+      "variantId": 3
+    },
+    {
+      "name": "Name is 5 letters long",
+      "id": "name_length",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population under 50 million",
+      "id": "population_under_x",
+      "variantId": 6
+    },
+    {
+      "name": "Flag with blue",
+      "id": "color_on_flag",
+      "variantId": 1
+    },
+    {
+      "name": "GDP per capita under $10k",
+      "id": "gdp_per_capita_under_x",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "North Korea",
+      "Norway",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Estonia",
+      "Finland",
+      "Kazakhstan",
+      "Mongolia",
+      "North Korea",
+      "Norway",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Azerbaijan",
+      "Belarus",
+      "Georgia",
+      "Mongolia",
+      "North Korea",
+      "Ukraine"
+    ],
+    "match_box_4": [
+      "Belize",
+      "Cabo Verde",
+      "Chile",
+      "Côte d'Ivoire",
+      "Greece",
+      "Guadeloupe",
+      "Martinique",
+      "Mayotte",
+      "Mozambique",
+      "Niue",
+      "Palestine",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "Singapore",
+      "Suriname",
+      "Timor-Leste",
+      "Ukraine",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "Belize",
+      "Cabo Verde",
+      "Chile",
+      "France",
+      "Greece",
+      "Guadeloupe",
+      "Mayotte",
+      "Niue",
+      "Sierra Leone",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Belize",
+      "Cabo Verde",
+      "Côte d'Ivoire",
+      "Mozambique",
+      "Palestine",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "Suriname",
+      "Timor-Leste",
+      "Ukraine",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Aruba",
+      "Benin",
+      "Chile",
+      "Gabon",
+      "Ghana",
+      "Haiti",
+      "Libya",
+      "Macau",
+      "Malta",
+      "Nauru",
+      "Nepal",
+      "Niger",
+      "Palau",
+      "Qatar",
+      "Samoa",
+      "Spain",
+      "Syria",
+      "Tonga",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Aruba",
+      "Chile",
+      "Gabon",
+      "Haiti",
+      "India",
+      "Nauru",
+      "Nepal",
+      "Palau",
+      "Samoa",
+      "Spain"
+    ],
+    "match_box_9": [
+      "Benin",
+      "Egypt",
+      "Gabon",
+      "Ghana",
+      "Haiti",
+      "India",
+      "Kenya",
+      "Libya",
+      "Nepal",
+      "Niger",
+      "Samoa",
+      "Sudan",
+      "Syria",
+      "Tonga",
+      "Yemen"
+    ]
+  }
+}

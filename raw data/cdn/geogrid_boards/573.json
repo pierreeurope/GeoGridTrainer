@@ -1,0 +1,192 @@
+{
+  "grid_id": "573",
+  "rows": [
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    },
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the North Atlantic Ocean",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Qatar",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "United Kingdom",
+      "Uruguay"
+    ],
+    "match_box_2": [
+      "Brazil",
+      "France",
+      "Germany",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Chile",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Brazil",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "Indonesia",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Mexico",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Sudan",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Brazil",
+      "France",
+      "Germany",
+      "Nigeria",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Russia",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Burkina Faso",
+      "Democratic Republic of the Congo",
+      "Dominican Republic",
+      "Hong Kong",
+      "North Korea",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "Sierra Leone",
+      "South Africa",
+      "South Korea",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Antigua and Barbuda",
+      "Bailiwick of Guernsey",
+      "British Virgin Islands",
+      "Cabo Verde",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "Equatorial Guinea",
+      "Faroe Islands",
+      "French Guiana",
+      "Guinea-Bissau",
+      "Isle of Man",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "Sint Maarten",
+      "The Gambia",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Kingdom",
+      "United States of America",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Bouvet Island",
+      "Burkina Faso",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Cook Islands",
+      "Costa Rica",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Faroe Islands",
+      "French Guiana",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Marshall Islands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Republic of the Congo",
+      "Saint Vincent and the Grenadines",
+      "Sierra Leone",
+      "Svalbard and Jan Mayen",
+      "Trinidad and Tobago",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ]
+  }
+}

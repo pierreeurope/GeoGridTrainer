@@ -1,0 +1,187 @@
+{
+  "grid_id": "554",
+  "rows": [
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    },
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 500k",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "Finland",
+      "France",
+      "Mexico",
+      "Netherlands",
+      "Slovenia",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Taiwan",
+      "Thailand"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Bermuda",
+      "Brazil",
+      "Cayman Islands",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Polynesia",
+      "Gibraltar",
+      "Guam",
+      "Jersey",
+      "Mexico",
+      "Pitcairn Islands",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Slovenia",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Netherlands",
+      "South Africa",
+      "South Korea",
+      "Switzerland",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "North Korea",
+      "Philippines",
+      "Saudi Arabia",
+      "South Korea",
+      "Tajikistan",
+      "Timor-Leste",
+      "Turkmenistan",
+      "United Arab Emirates",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Dominican Republic",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Falkland Islands (Malvinas)",
+      "French Polynesia",
+      "Montenegro",
+      "Montserrat",
+      "Mozambique",
+      "Pitcairn Islands",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Vatican City"
+    ],
+    "match_box_7": [
+      "India",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "Bhutan",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "India",
+      "Malaysia",
+      "Maldives",
+      "Sri Lanka",
+      "Timor-Leste"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bolivia",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Equatorial Guinea",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "French Polynesia",
+      "Gibraltar",
+      "Guam",
+      "Jersey",
+      "Montenegro",
+      "Montserrat",
+      "Paraguay",
+      "Pitcairn Islands",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "San Marino",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Vatican City"
+    ]
+  }
+}

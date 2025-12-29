@@ -1,0 +1,170 @@
+{
+  "grid_id": "562",
+  "rows": [
+    {
+      "id": "top_20_oil_production",
+      "name": "Top 20 in oil production",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 1-2 countries",
+      "variantId": 0
+    },
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 40",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Brazil",
+      "Iran",
+      "Iraq",
+      "Kuwait",
+      "Libya",
+      "Mexico",
+      "Nigeria",
+      "Oman",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Angola",
+      "Brazil",
+      "Iran",
+      "Iraq",
+      "Libya",
+      "Mexico",
+      "Nigeria",
+      "Russia",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "China",
+      "Iran",
+      "Iraq",
+      "Kazakhstan",
+      "Kuwait",
+      "Oman",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Belize",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Guinea-Bissau",
+      "Haiti",
+      "Ireland",
+      "Kuwait",
+      "Lebanon",
+      "Lesotho",
+      "Macau",
+      "Moldova",
+      "Nicaragua",
+      "Portugal",
+      "Saint Martin",
+      "San Marino",
+      "Sierra Leone",
+      "Sint Maarten",
+      "The Gambia",
+      "United Arab Emirates"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Guinea-Bissau",
+      "Haiti",
+      "Lebanon",
+      "Lesotho",
+      "Mongolia",
+      "Nepal",
+      "Nicaragua",
+      "Panama",
+      "Papua New Guinea",
+      "Sierra Leone",
+      "The Gambia",
+      "Tunisia",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Bahrain",
+      "Bangladesh",
+      "Bhutan",
+      "Brunei",
+      "Hong Kong",
+      "Kuwait",
+      "Lebanon",
+      "Macau",
+      "Mongolia",
+      "Nepal",
+      "Qatar",
+      "Singapore",
+      "South Korea",
+      "Timor-Leste",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Azerbaijan",
+      "Belarus",
+      "Lithuania",
+      "Moldova",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_8": [
+      "Azerbaijan",
+      "Belarus",
+      "Kyrgyzstan",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Armenia",
+      "Azerbaijan",
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ]
+  }
+}

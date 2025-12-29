@@ -1,0 +1,158 @@
+{
+  "grid_id": "570",
+  "rows": [
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    },
+    {
+      "id": "official_language",
+      "name": "Arabic is an official language",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Colombia",
+      "France",
+      "Germany",
+      "Mexico",
+      "South Africa",
+      "Spain",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Aruba",
+      "Australia",
+      "Brazil",
+      "Cayman Islands",
+      "Chile",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cuba",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Greenland",
+      "Guadeloupe",
+      "Heard Island and McDonald Islands",
+      "New Zealand",
+      "Northern Mariana Islands",
+      "Puerto Rico",
+      "Saint Martin",
+      "Slovenia",
+      "Taiwan",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Austria",
+      "Brazil",
+      "Colombia",
+      "France",
+      "Germany",
+      "South Africa",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Paraguay",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Peru"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Egypt",
+      "Iraq",
+      "Mali",
+      "Morocco",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Comoros",
+      "Djibouti",
+      "Jordan",
+      "Libya",
+      "Mauritania",
+      "Morocco",
+      "Somalia",
+      "Syria",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Chad",
+      "Iraq",
+      "Jordan",
+      "Libya",
+      "Mali",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria"
+    ]
+  }
+}

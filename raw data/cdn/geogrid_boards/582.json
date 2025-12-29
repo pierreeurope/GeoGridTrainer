@@ -1,0 +1,187 @@
+{
+  "grid_id": "582",
+  "rows": [
+    {
+      "id": "top_20_population_density",
+      "name": "Top 20 in population density",
+      "variantId": null
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter S",
+      "variantId": 13
+    },
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with red",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Jersey",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan"
+    ],
+    "match_box_2": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Gibraltar",
+      "Jersey",
+      "Monaco",
+      "Sint Maarten",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Bangladesh",
+      "Bermuda",
+      "Gibraltar",
+      "Hong Kong",
+      "Jersey",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Monaco",
+      "Palestine",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "Singapore",
+      "Sint Maarten",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Svalbard and Jan Mayen"
+    ],
+    "match_box_5": [
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Saudi Arabia",
+      "Sint Maarten",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden"
+    ],
+    "match_box_6": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Serbia",
+      "Seychelles",
+      "Singapore",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "South Korea",
+      "South Sudan",
+      "Spain",
+      "Sri Lanka",
+      "Sudan",
+      "Suriname",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "Syria"
+    ],
+    "match_box_7": [
+      "Indonesia",
+      "Japan",
+      "Philippines",
+      "Singapore",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Cambodia",
+      "Canada",
+      "Japan",
+      "Malaysia",
+      "Qatar",
+      "Saudi Arabia",
+      "Thailand",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Cambodia",
+      "Canada",
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Panama",
+      "Philippines",
+      "Qatar",
+      "Russia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Vietnam"
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "grid_id": "558",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 4 colors",
+      "variantId": 2
+    },
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 40",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_under_x",
+      "name": "Area less than 50,000 km²",
+      "variantId": 3
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Nile River system",
+      "variantId": 0
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 5-6 countries",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burundi",
+      "Cabo Verde",
+      "Comoros",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Guinea-Bissau",
+      "Lesotho",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "The Gambia"
+    ],
+    "match_box_2": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Burkina Faso",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Ethiopia",
+      "Guinea",
+      "Kenya",
+      "Libya",
+      "Mozambique",
+      "Republic of the Congo",
+      "Senegal",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Uganda"
+    ],
+    "match_box_4": [
+      "Aruba",
+      "Bhutan",
+      "Brunei",
+      "Cabo Verde",
+      "Christmas Island",
+      "Djibouti",
+      "French Polynesia",
+      "Gibraltar",
+      "Guadeloupe",
+      "Guinea-Bissau",
+      "Isle of Man",
+      "Jersey",
+      "Kuwait",
+      "Lesotho",
+      "Liechtenstein",
+      "Mauritius",
+      "Montenegro",
+      "Niue",
+      "Palestine",
+      "Saint Lucia",
+      "São Tomé and Príncipe",
+      "Slovenia",
+      "Solomon Islands",
+      "The Gambia",
+      "Timor-Leste",
+      "Vanuatu",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Argentina",
+      "Azerbaijan",
+      "Ethiopia",
+      "India",
+      "Iraq",
+      "Jordan",
+      "Kenya",
+      "Libya",
+      "Montenegro",
+      "Myanmar",
+      "Syria",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Burundi",
+      "Comoros",
+      "Djibouti",
+      "Dominican Republic",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Guinea-Bissau",
+      "Haiti",
+      "Lebanon",
+      "Lesotho",
+      "Maldives",
+      "The Gambia"
+    ],
+    "match_box_8": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "South Sudan",
+      "Sudan",
+      "Uganda"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Argentina",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Colombia",
+      "Ethiopia",
+      "Guinea",
+      "India",
+      "Iraq",
+      "Kenya",
+      "Laos",
+      "Libya",
+      "Mozambique",
+      "Myanmar",
+      "Peru",
+      "Republic of the Congo",
+      "South Sudan",
+      "Syria",
+      "Uganda",
+      "Uzbekistan"
+    ]
+  }
+}

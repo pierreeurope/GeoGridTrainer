@@ -1,0 +1,187 @@
+{
+  "grid_id": "587",
+  "rows": [
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "co2_emissions_per_capita_under_x",
+      "name": "CO₂ emissions per capita under 2 tCO₂/year",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "name_start_end_same_letter",
+      "name": "Starts and ends with the same letter",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bermuda",
+      "Bouvet Island",
+      "British Virgin Islands",
+      "Canada",
+      "Denmark",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Grenada",
+      "Isle of Man",
+      "Jersey",
+      "Morocco",
+      "Netherlands",
+      "Norway",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "Turks and Caicos Islands",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Canada",
+      "Greenland",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Australia",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_4": [
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_5": [
+      "Bolivia",
+      "Egypt",
+      "Kazakhstan",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_7": [
+      "Angola",
+      "Anguilla",
+      "Benin",
+      "Cabo Verde",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Dominica",
+      "Faroe Islands",
+      "French Guiana",
+      "Ghana",
+      "Grenada",
+      "Guinea",
+      "Guinea-Bissau",
+      "Haiti",
+      "Liberia",
+      "Mauritania",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Republic of the Congo",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Sierra Leone",
+      "The Gambia",
+      "Togo",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Angola",
+      "Bolivia",
+      "Central African Republic",
+      "Chad",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Kenya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mozambique",
+      "Myanmar",
+      "Namibia",
+      "Niger",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Somalia",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Yemen",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Angola",
+      "Anguilla",
+      "Central African Republic",
+      "Saint Vincent and the Grenadines",
+      "Solomon Islands"
+    ]
+  }
+}

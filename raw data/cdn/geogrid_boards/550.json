@@ -1,0 +1,186 @@
+{
+  "grid_id": "550",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "France",
+      "Germany",
+      "Italy",
+      "Kazakhstan",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Belarus",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Czechia",
+      "Estonia",
+      "Faroe Islands",
+      "France",
+      "Germany",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Kosovo",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Netherlands",
+      "Norway",
+      "Romania",
+      "Russia",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Cameroon",
+      "Canada",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Madagascar",
+      "Niger"
+    ],
+    "match_box_5": [
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Luxembourg",
+      "Niger",
+      "Rwanda",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Belgium",
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "French Guiana",
+      "French Southern Territories",
+      "Gabon",
+      "Guinea",
+      "Luxembourg",
+      "Madagascar",
+      "Martinique",
+      "Mayotte",
+      "Niger",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Senegal",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Germany",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Belarus",
+      "Bolivia",
+      "Burundi",
+      "Czechia",
+      "Hungary",
+      "Lesotho",
+      "Moldova"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Armenia",
+      "Bahamas",
+      "Belarus",
+      "Belgium",
+      "Burundi",
+      "Curaçao",
+      "Czechia",
+      "Estonia",
+      "Germany",
+      "Grenada",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Jamaica",
+      "Lebanon",
+      "Liberia",
+      "Mayotte",
+      "Réunion",
+      "Romania",
+      "Senegal",
+      "Tokelau"
+    ]
+  }
+}

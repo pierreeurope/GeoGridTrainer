@@ -1,0 +1,184 @@
+{
+  "grid_id": "575",
+  "rows": [
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.8",
+      "variantId": 8
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Armenia",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Russia"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Australia",
+      "Belarus",
+      "Canada",
+      "Chile",
+      "Finland",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Kazakhstan",
+      "Malaysia",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Saudi Arabia",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "Croatia",
+      "France",
+      "Germany",
+      "Hungary",
+      "Israel",
+      "Italy",
+      "Kazakhstan",
+      "Montenegro",
+      "North Macedonia",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Saudi Arabia",
+      "Serbia",
+      "Slovakia",
+      "Spain",
+      "Switzerland",
+      "Türkiye"
+    ],
+    "match_box_4": [
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Latvia",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Canada",
+      "China",
+      "Finland",
+      "Greenland",
+      "Indonesia",
+      "Japan",
+      "Kazakhstan",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Poland",
+      "Saudi Arabia",
+      "Somalia",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Austria",
+      "China",
+      "Israel",
+      "Kazakhstan",
+      "North Macedonia",
+      "Poland",
+      "Saudi Arabia",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_7": [
+      "Estonia",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Egypt",
+      "Finland",
+      "France",
+      "Germany",
+      "Greenland",
+      "Italy",
+      "Mexico",
+      "New Zealand",
+      "Norway",
+      "Poland",
+      "Romania",
+      "Spain",
+      "Sweden",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "France",
+      "Germany",
+      "Hungary",
+      "Israel",
+      "Italy",
+      "Montenegro",
+      "North Macedonia",
+      "Poland",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Spain",
+      "Switzerland",
+      "Ukraine"
+    ]
+  }
+}

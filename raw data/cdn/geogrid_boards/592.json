@@ -1,0 +1,196 @@
+{
+  "grid_id": "592",
+  "rows": [
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Indonesia",
+      "Japan",
+      "Philippines",
+      "Singapore",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Mexico",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Cambodia",
+      "China",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Philippines",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Cuba",
+      "Haiti",
+      "Iceland",
+      "Indonesia",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "New Zealand",
+      "Trinidad and Tobago",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Denmark",
+      "Ecuador",
+      "France",
+      "Germany",
+      "Greece",
+      "Iceland",
+      "Ireland",
+      "Mexico",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Portugal",
+      "Slovenia",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_6": [
+      "China",
+      "Egypt",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Israel",
+      "Japan",
+      "Kuwait",
+      "North Korea",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Türkiye",
+      "United Arab Emirates"
+    ],
+    "match_box_7": [
+      "Greenland",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "New Zealand",
+      "Papua New Guinea",
+      "Philippines",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Finland",
+      "France",
+      "Germany",
+      "Greenland",
+      "Mexico",
+      "New Zealand",
+      "Norway",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Kazakhstan",
+      "Laos",
+      "Malaysia",
+      "Mongolia",
+      "Myanmar",
+      "Oman",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Saudi Arabia",
+      "Thailand",
+      "Türkiye",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Vietnam",
+      "Yemen"
+    ]
+  }
+}

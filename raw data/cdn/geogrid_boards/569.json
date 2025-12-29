@@ -1,0 +1,156 @@
+{
+  "grid_id": "569",
+  "rows": [
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    },
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the South and East China Seas",
+      "variantId": 9
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 100,000 km²",
+      "variantId": 4
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burkina Faso",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "New Zealand",
+      "North Korea",
+      "Papua New Guinea",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "South Africa",
+      "South Sudan",
+      "United Kingdom",
+      "United States of America",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Dominican Republic",
+      "North Korea",
+      "Papua New Guinea",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "South Sudan",
+      "Sri Lanka",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Federated States of Micronesia",
+      "Hong Kong",
+      "Norfolk Island",
+      "North Macedonia",
+      "Saudi Arabia"
+    ],
+    "match_box_4": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Canada",
+      "China",
+      "Greece",
+      "Hong Kong",
+      "Japan",
+      "Saudi Arabia",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Cambodia",
+      "China",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "North Korea",
+      "Philippines",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Cambodia",
+      "China",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "North Korea",
+      "Philippines",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Singapore",
+      "Vietnam"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "grid_id": "581",
+  "rows": [
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "coastline_length_under_x",
+      "name": "Has coastline, with length less than 1,000 km",
+      "variantId": 2
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    },
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 40",
+      "variantId": 2
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Chile",
+      "Cuba",
+      "France",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Laos",
+      "Liberia",
+      "Nepal",
+      "North Korea",
+      "Panama",
+      "Russia",
+      "Thailand"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Caribbean Netherlands",
+      "New Zealand",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Democratic Republic of the Congo",
+      "Ghana",
+      "Hong Kong",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Republic of the Congo",
+      "Singapore",
+      "Syria"
+    ],
+    "match_box_5": [
+      "Bosnia and Herzegovina",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Iraq",
+      "Lebanon",
+      "Liberia",
+      "Republic of the Congo",
+      "Syria",
+      "The Gambia",
+      "Togo"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Belize",
+      "Benin",
+      "Bermuda",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Côte d'Ivoire",
+      "Guadeloupe",
+      "Guam",
+      "Malta",
+      "Montserrat",
+      "Nauru",
+      "Palestine",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "The Gambia",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Austria",
+      "Bolivia",
+      "Germany",
+      "Lebanon",
+      "Somalia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Belarus",
+      "Bolivia",
+      "Burundi",
+      "Comoros",
+      "Ecuador",
+      "Eritrea",
+      "Lebanon",
+      "Lesotho",
+      "Liberia",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Somalia",
+      "Tunisia",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_9": [
+      "Bermuda",
+      "Bolivia",
+      "Burundi",
+      "Ecuador",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Türkiye",
+      "Vietnam"
+    ]
+  }
+}

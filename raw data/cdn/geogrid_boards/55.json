@@ -1,0 +1,179 @@
+{
+  "grid_id": "55",
+  "rows": [
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Population over 20 million",
+      "id": "population_over_x",
+      "variantId": 5
+    },
+    {
+      "name": "Ends with letter A",
+      "id": "ending_letter",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    },
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Faroe Islands",
+      "Isle of Man",
+      "North Macedonia",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Ethiopia",
+      "Kazakhstan",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Philippines",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "North Korea",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "Sri Lanka",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Bolivia",
+      "Botswana",
+      "Czechia",
+      "Ethiopia",
+      "Moldova",
+      "Mongolia",
+      "North Macedonia",
+      "Rwanda",
+      "Serbia",
+      "Slovakia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "American Samoa",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Bermuda",
+      "Cuba",
+      "Dominica",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Grenada",
+      "Indonesia",
+      "Jamaica",
+      "Malta",
+      "New Caledonia",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Samoa",
+      "Sri Lanka",
+      "Tonga",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Antigua and Barbuda",
+      "Bosnia and Herzegovina",
+      "Costa Rica",
+      "Equatorial Guinea",
+      "Federated States of Micronesia",
+      "French Guiana",
+      "French Polynesia",
+      "New Caledonia",
+      "North Korea",
+      "North Macedonia",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "Sri Lanka",
+      "The Gambia",
+      "United States of America",
+      "Wallis and Futuna",
+      "Western Sahara"
+    ]
+  }
+}

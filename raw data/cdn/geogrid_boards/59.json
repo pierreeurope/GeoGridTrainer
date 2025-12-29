@@ -1,0 +1,177 @@
+{
+  "grid_id": "59",
+  "rows": [
+    {
+      "name": "Population under 2 million",
+      "id": "population_under_x",
+      "variantId": 2
+    },
+    {
+      "name": "Area greater than 100,000 km²",
+      "id": "size_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "Flag with white",
+      "id": "color_on_flag",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "name": "In North America",
+      "id": "continent",
+      "variantId": 3
+    },
+    {
+      "name": "Starts with letter B",
+      "id": "starting_letter",
+      "variantId": 1
+    },
+    {
+      "name": "Ends with letter O",
+      "id": "ending_letter",
+      "variantId": 7
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Dominica",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Martinique",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_2": [
+      "Bahamas",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Brunei"
+    ],
+    "match_box_3": [
+      "Curaçao",
+      "Kosovo",
+      "Monaco",
+      "Montenegro",
+      "San Marino",
+      "Trinidad and Tobago"
+    ],
+    "match_box_4": [
+      "Canada",
+      "Cuba",
+      "Greenland",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "Belarus",
+      "Benin",
+      "Bolivia",
+      "Botswana",
+      "Brazil",
+      "Bulgaria",
+      "Burkina Faso"
+    ],
+    "match_box_6": [
+      "Burkina Faso",
+      "Democratic Republic of the Congo",
+      "Mexico",
+      "Morocco",
+      "Republic of the Congo"
+    ],
+    "match_box_7": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Canada",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Costa Rica",
+      "Cuba",
+      "Dominica",
+      "Dominican Republic",
+      "El Salvador",
+      "Greenland",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Mexico",
+      "Montserrat",
+      "Nicaragua",
+      "Panama",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Belarus",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Bouvet Island",
+      "Brazil",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Brunei",
+      "Bulgaria",
+      "Burundi"
+    ],
+    "match_box_9": [
+      "Curaçao",
+      "Kosovo",
+      "Lesotho",
+      "Mexico",
+      "Monaco",
+      "Puerto Rico",
+      "San Marino",
+      "Togo",
+      "Trinidad and Tobago"
+    ]
+  }
+}

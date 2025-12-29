@@ -1,0 +1,180 @@
+{
+  "grid_id": "564",
+  "rows": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brunei",
+      "Cyprus",
+      "Jersey",
+      "Taiwan",
+      "Tuvalu"
+    ],
+    "match_box_2": [
+      "Bahrain",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Indonesia",
+      "Japan",
+      "Maldives",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "Timor-Leste"
+    ],
+    "match_box_3": [
+      "American Samoa",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_4": [
+      "Angola",
+      "Greece",
+      "Guyana",
+      "Kosovo",
+      "Latvia",
+      "Malawi",
+      "Mexico",
+      "Norway",
+      "Rwanda",
+      "Sweden"
+    ],
+    "match_box_5": [
+      "Armenia",
+      "Cambodia",
+      "Egypt",
+      "Georgia",
+      "Indonesia",
+      "Kyrgyzstan",
+      "Malaysia",
+      "North Korea",
+      "Oman",
+      "Pakistan",
+      "Palestine",
+      "Tajikistan",
+      "Thailand",
+      "Turkmenistan",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Egypt",
+      "Guatemala",
+      "Mexico",
+      "Paraguay",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Bhutan",
+      "Brunei",
+      "Cyprus",
+      "Guyana",
+      "Jersey",
+      "Malawi",
+      "Tuvalu",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Bhutan",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Macau",
+      "Malaysia",
+      "Maldives",
+      "Nepal",
+      "Pakistan",
+      "Singapore",
+      "Sri Lanka",
+      "Thailand",
+      "Timor-Leste"
+    ],
+    "match_box_9": [
+      "Anguilla",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  }
+}

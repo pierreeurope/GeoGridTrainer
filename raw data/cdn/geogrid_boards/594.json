@@ -1,0 +1,182 @@
+{
+  "grid_id": "594",
+  "rows": [
+    {
+      "id": "name_start_end_same_letter",
+      "name": "Starts and ends with the same letter",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 100,000 km²",
+      "variantId": 4
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 40",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Central African Republic",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Central African Republic"
+    ],
+    "match_box_3": [
+      "Albania",
+      "Armenia",
+      "Australia",
+      "Austria",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands"
+    ],
+    "match_box_4": [
+      "Ecuador",
+      "El Salvador",
+      "Fiji",
+      "Guam",
+      "Guatemala",
+      "Mexico",
+      "New Caledonia",
+      "Nicaragua",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Peru",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "Vanuatu"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Guatemala",
+      "Honduras",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "New Zealand",
+      "Nicaragua",
+      "Papua New Guinea",
+      "Peru",
+      "Philippines",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Costa Rica",
+      "Fiji",
+      "Japan",
+      "New Zealand",
+      "Solomon Islands",
+      "Taiwan",
+      "Timor-Leste",
+      "United States of America",
+      "Vanuatu"
+    ],
+    "match_box_7": [
+      "Belize",
+      "Benin",
+      "Bermuda",
+      "Bolivia",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "Cocos Islands",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "Ecuador",
+      "Guadeloupe",
+      "Guam",
+      "India",
+      "Montserrat",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Palestine",
+      "San Marino",
+      "Sint Maarten",
+      "South Africa",
+      "Tanzania",
+      "The Gambia",
+      "Turks and Caicos Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Benin",
+      "Bolivia",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "Ecuador",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Tanzania",
+      "Türkiye",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Benin",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "Malta",
+      "New Zealand",
+      "South Africa",
+      "Switzerland",
+      "Taiwan",
+      "Tanzania",
+      "Trinidad and Tobago",
+      "United Arab Emirates",
+      "United States of America"
+    ]
+  }
+}

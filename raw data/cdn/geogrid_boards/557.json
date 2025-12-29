@@ -1,0 +1,186 @@
+{
+  "grid_id": "557",
+  "rows": [
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "hosted_f1",
+      "name": "Has hosted a Formula 1 Grand Prix",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 1-2 countries",
+      "variantId": 0
+    },
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "China",
+      "Germany",
+      "Malaysia",
+      "Mexico",
+      "Portugal",
+      "South Africa",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Belize",
+      "Bhutan",
+      "Brunei",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eswatini",
+      "French Guiana",
+      "Gibraltar",
+      "Guinea-Bissau",
+      "Haiti",
+      "Liechtenstein",
+      "Macau",
+      "Moldova",
+      "Mongolia",
+      "Nicaragua",
+      "Papua New Guinea",
+      "Portugal",
+      "Saint Martin",
+      "San Marino",
+      "Sint Maarten",
+      "Timor-Leste",
+      "Uruguay",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Brazil",
+      "China",
+      "Germany",
+      "Mexico",
+      "Portugal",
+      "Spain"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Azerbaijan",
+      "Belgium",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Denmark",
+      "Estonia",
+      "Gibraltar",
+      "Ireland",
+      "Liechtenstein",
+      "Moldova",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "San Marino",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_6": [
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Poland",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Morocco",
+      "Russia",
+      "Saudi Arabia",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Canada",
+      "Ecuador",
+      "Greenland",
+      "Mongolia",
+      "Papua New Guinea",
+      "United Kingdom",
+      "United States of America",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}
