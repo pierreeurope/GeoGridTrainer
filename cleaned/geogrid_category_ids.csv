@@ -1,0 +1,81 @@
+category_id,category_name,section_name
+color_on_flag,Flag with color,Flag
+flag_has_star,Star in flag,Flag
+flag_rwb,"Flag with only red, white, and blue",Flag
+flag_without_rwb,"Flag without red, white, or blue",Flag
+flag_has_coat_of_arms,Flag has a coat of arms,Flag
+flag_has_animal,Flag has an animal,Flag
+flag_has_x_colors,Flag with only # colors,Flag
+flag_has_x_or_more_colors,Flag with only # colors,Flag
+island_nation,Island nation,Geography
+landlocked,Landlocked,Geography
+coastline_length_over_x,Coastline length,Geography
+coastline_length_under_x,Coastline length,Geography
+coastline_on_x,Coastline on the X,Geography
+river_x_runs_through,Is part of the X River system,Geography
+continent,In X Continent,Geography
+touches_eurasian_steppe,Touches the Eurasian Steppe,Geography
+touches_equator,Touches the Equator,Geography
+touches_sahara,Touches the Sahara Desert,Geography
+hdi_over_x,Human Development Index,Economic
+hdi_under_x,Human Development Index,Economic
+gdp_per_capita_over_x,GDP per capita,Economic
+gdp_per_capita_under_x,GDP per capita,Economic
+nuclear_power,Produces Nuclear power,Economic
+top_20_wheat_production,Top 20 in wheat production,Economic
+top_20_oil_production,Top 20 in oil production,Economic
+top_20_renewable_electricity_production,Top 20 in domestic renewable energy share,Economic
+starting_letter,Starts/Ends with letter,Name
+ending_letter,Starts/Ends with letter,Name
+name_length,Name is # letters long,Name
+name_x_plus_letters_long,Name is # letters long,Name
+name_multiple_words,Name is multiple words,Name
+name_start_end_same_letter,Starts and ends with the same letter,Name
+borders_x_to_y,Borders countries,Borders
+borders_x_or_more,Borders countries,Borders
+borders_x,Borders X Country,Borders
+drives_left,Drives on the left,Facts
+50_plus_skyscrapers,Has 50+ skyscrapers,Facts
+top_20_obesity_rate,Top 20 in obesity rate,Facts
+alcohol_ban,Alcohol prohibition,Facts
+top_20_alcohol_consumption,Top 20 in alcohol consumption,Facts
+top_20_chocolate_consumption,Top 20 in chocolate consumption,Facts
+top_20_rail_size,Top 20 countries by rail transport network size,Facts
+top_20_population_density,Top/Bottom 20 in population density,Facts
+bottom_20_population_density,Top/Bottom 20 in population density,Facts
+top_20_tourism,Top 20 in annual tourist arrivals,Facts
+top_20_world_hertitage_sites,Top 20 in number of World Heritage sites,Facts
+air_pollution_over_x,Air pollution μg/m³,Facts
+air_pollution_under_x,Air pollution μg/m³,Facts
+co2_emissions_per_capita_over_x,CO₂ emissions per capita tCO₂/year,Facts
+co2_emissions_per_capita_under_x,CO₂ emissions per capita tCO₂/year,Facts
+top_10_lakes,Top 10 in number of lakes,Facts
+olympic_medals_over_x,Olympic medal count,Sports
+olympic_medals_under_x,Olympic medal count,Sports
+no_olympic_medals,Has never won an Olympic medal,Sports
+hosted_olympics,Has hosted the Olympics,Sports
+hosted_world_cup,Has hosted the Men's FIFA World Cup,Sports
+played_world_cup,Has played in the Men's FIFA World Cup,Sports
+won_world_cup,Has won the Men's FIFA World Cup,Sports
+hosted_f1,Has hosted a Formula 1 Grand Prix,Sports
+in_eu,Member of the European Union,Political
+commonwealth_member,Member of the Commonwealth,Political
+was_ussr,Was part of the USSR,Political
+is_monarchy,Is a monarchy,Political
+is_territory,Is a dependency/territory,Political
+has_nuclear_weapons,Has nuclear weapons,Political
+official_language,X is an official language,Political
+same_sex_marriage_legal,Same-sex marriage legalised,Political
+same_sex_activities_illegal,Same-sex activities are illegal,Political
+cpi_over_x,Corruption Perceptions Index,Political
+cpi_under_x,Corruption Perceptions Index,Political
+multiple_time_zones,Has more than 1 time zone,Political
+observes_x_time_zone,Observes X time zone,Political
+observes_dst,Observes Daylight Saving Time,Political
+population_over_x,Population count,Population
+population_under_x,Population count,Population
+capital_population_over_x,Capital city population,Population
+captial_population_under_x,Capital city population,Population
+capital_not_most_populated_city,Capital is not the most populated city,Population
+size_over_x,Area km²,Size
+size_under_x,Area km²,Size

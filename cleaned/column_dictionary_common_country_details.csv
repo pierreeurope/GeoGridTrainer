@@ -1,0 +1,44 @@
+table,column,display_name
+common_country_details.csv,approvedForMapster,Approved for mapster
+common_country_details.csv,autoUpdateBorders,Auto update borders
+common_country_details.csv,borderMode,Border mode
+common_country_details.csv,border_count,Border_count
+common_country_details.csv,border_countries_codes_json,Border_countries_codes_json
+common_country_details.csv,borders,Borders
+common_country_details.csv,code,Country code
+common_country_details.csv,continent,Continent
+common_country_details.csv,currencyData,Currency data
+common_country_details.csv,currencyData__code,Currency data / Code
+common_country_details.csv,currencyData__name,Currency data / Name
+common_country_details.csv,currencyData__nameChoices,Currency data / Name choices
+common_country_details.csv,difficulty,Difficulty
+common_country_details.csv,flags,Flags
+common_country_details.csv,gdpPerCapita,Gdp per capita
+common_country_details.csv,gdpPerCapitaYear,Gdp per capita year
+common_country_details.csv,images,Images
+common_country_details.csv,languageData,Language data
+common_country_details.csv,languageData__languageSources,Language data / Language sources
+common_country_details.csv,languageData__languages,Language data / Languages
+common_country_details.csv,latitude,Latitude
+common_country_details.csv,links,Links
+common_country_details.csv,longitude,Longitude
+common_country_details.csv,name,Country name
+common_country_details.csv,name_en,Country name (EN)
+common_country_details.csv,names,Names
+common_country_details.csv,names__co,Names / Co
+common_country_details.csv,names__de,Names / De
+common_country_details.csv,names__es,Names / Es
+common_country_details.csv,names__eu,Names / Eu
+common_country_details.csv,names__fr,Names / Fr
+common_country_details.csv,names__hu,Names / Hu
+common_country_details.csv,names__ie,Names / Ie
+common_country_details.csv,names__ja,Names / Ja
+common_country_details.csv,names__nl,Names / Nl
+common_country_details.csv,names__pl,Names / Pl
+common_country_details.csv,names__pt,Names / Pt
+common_country_details.csv,population,Population
+common_country_details.csv,productData,Product data
+common_country_details.csv,productData__topExports,Product data / Top exports
+common_country_details.csv,productData__totalValue,Product data / Total value
+common_country_details.csv,productData__year,Product data / Year
+common_country_details.csv,size,Size

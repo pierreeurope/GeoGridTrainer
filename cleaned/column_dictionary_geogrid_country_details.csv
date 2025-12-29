@@ -1,0 +1,58 @@
+table,column,display_name
+geogrid_country_details.csv,code,Country code
+geogrid_country_details.csv,economicInfo__GDPPerCapita,Economy / G d p per capita
+geogrid_country_details.csv,economicInfo__GDPPerCapitaYear,Economy / G d p per capita year
+geogrid_country_details.csv,economicInfo__HDI,Economy / H d i
+geogrid_country_details.csv,economicInfo__producesNuclearPower,Economy / Produces nuclear power
+geogrid_country_details.csv,economicInfo__top20OilProduction,Economy / Top20 oil production
+geogrid_country_details.csv,economicInfo__top20RenewableElectricityProduction,Economy / Top20 renewable electricity production
+geogrid_country_details.csv,economicInfo__top20WheatProduction,Economy / Top20 wheat production
+geogrid_country_details.csv,factsInfo__airPollution,Facts / Air pollution
+geogrid_country_details.csv,factsInfo__bottom20PopulationDensity,Facts / Bottom20 population density
+geogrid_country_details.csv,factsInfo__co2Emissions,Facts / Co2 emissions
+geogrid_country_details.csv,factsInfo__drivesLeft,Facts / Drives left
+geogrid_country_details.csv,factsInfo__has50Skyscrapers,Facts / Has50 skyscrapers
+geogrid_country_details.csv,factsInfo__hasAlcoholBan,Facts / Has alcohol ban
+geogrid_country_details.csv,factsInfo__top20AlcoholConsumption,Facts / Top20 alcohol consumption
+geogrid_country_details.csv,factsInfo__top20ChocolateConsumption,Facts / Top20 chocolate consumption
+geogrid_country_details.csv,factsInfo__top20ObesityRate,Facts / Top20 obesity rate
+geogrid_country_details.csv,factsInfo__top20PopulationDensity,Facts / Top20 population density
+geogrid_country_details.csv,factsInfo__top20RailSize,Facts / Top20 rail size
+geogrid_country_details.csv,factsInfo__top20TourismRate,Facts / Top20 tourism rate
+geogrid_country_details.csv,factsInfo__top20WorldHeritageSites,Facts / Top20 world heritage sites
+geogrid_country_details.csv,flagInfo__colorsOnFlag,Flag / Colors on flag
+geogrid_country_details.csv,flagInfo__hasAnimal,Flag / Has animal
+geogrid_country_details.csv,flagInfo__hasCoatOfArms,Flag / Has coat of arms
+geogrid_country_details.csv,flagInfo__hasStar,Flag / Has star
+geogrid_country_details.csv,geographyInfo__borderCount,Geography / Border count
+geogrid_country_details.csv,geographyInfo__borderCountOverride,Geography / Border count override
+geogrid_country_details.csv,geographyInfo__borderCountriesCodes_json,Geography / Border countries codes_json
+geogrid_country_details.csv,geographyInfo__coastline,Geography / Coastline
+geogrid_country_details.csv,geographyInfo__coastlineLength,Geography / Coastline length
+geogrid_country_details.csv,geographyInfo__islandNation,Geography / Island nation
+geogrid_country_details.csv,geographyInfo__landlocked,Geography / Landlocked
+geogrid_country_details.csv,geographyInfo__rivers,Geography / Rivers
+geogrid_country_details.csv,geographyInfo__top10Lakes,Geography / Top10 lakes
+geogrid_country_details.csv,geographyInfo__touchesEquator,Geography / Touches equator
+geogrid_country_details.csv,geographyInfo__touchesEurasionSteppe,Geography / Touches eurasion steppe
+geogrid_country_details.csv,geographyInfo__touchesSahara,Geography / Touches sahara
+geogrid_country_details.csv,name,Country name
+geogrid_country_details.csv,name_en,Country name (EN)
+geogrid_country_details.csv,politicalInfo__CPI,Politics / C p i
+geogrid_country_details.csv,politicalInfo__hasNuclearWeapons,Politics / Has nuclear weapons
+geogrid_country_details.csv,politicalInfo__inCommonwealth,Politics / In commonwealth
+geogrid_country_details.csv,politicalInfo__inEU,Politics / In e u
+geogrid_country_details.csv,politicalInfo__isMonarchy,Politics / Is monarchy
+geogrid_country_details.csv,politicalInfo__isTerritory,Politics / Is territory
+geogrid_country_details.csv,politicalInfo__observesDST,Politics / Observes d s t
+geogrid_country_details.csv,politicalInfo__officialLanguageCodes,Politics / Official language codes
+geogrid_country_details.csv,politicalInfo__sameSexActivitiesIllegal,Politics / Same sex activities illegal
+geogrid_country_details.csv,politicalInfo__sameSexMarriageLegal,Politics / Same sex marriage legal
+geogrid_country_details.csv,politicalInfo__timeZones,Politics / Time zones
+geogrid_country_details.csv,politicalInfo__wasUSSR,Politics / Was u s s r
+geogrid_country_details.csv,sportsInfo__hostedF1,Sports / Hosted f1
+geogrid_country_details.csv,sportsInfo__hostedMensWorldCup,Sports / Hosted mens world cup
+geogrid_country_details.csv,sportsInfo__hostedOlympics,Sports / Hosted olympics
+geogrid_country_details.csv,sportsInfo__olympicMedals,Sports / Olympic medals
+geogrid_country_details.csv,sportsInfo__playedMensWorldCup,Sports / Played mens world cup
+geogrid_country_details.csv,sportsInfo__wonMensWorldCup,Sports / Won mens world cup
