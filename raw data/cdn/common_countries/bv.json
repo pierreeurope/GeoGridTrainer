@@ -1,0 +1,74 @@
+{
+  "code": "BV",
+  "latitude": -54.423199,
+  "longitude": 3.413194,
+  "name": "Bouvet Island",
+  "names": {
+    "fr": "Île Bouvet",
+    "hu": "Norvégia Bouvet-sziget",
+    "nl": "Bouveteiland",
+    "pl": "Wyspa Bouveta",
+    "de": "Bouvetinsel",
+    "ja": "ブーベ島",
+    "co": "Isula di Bouvet",
+    "es": "Isla Bouvet",
+    "pt": "Ilha Bouvet",
+    "eu": "Bouvet Uhartea",
+    "ie": "Oileán Bouvet"
+  },
+  "flags": [
+    "ls",
+    "za",
+    "gs",
+    "sh",
+    "aq",
+    "sz",
+    "na",
+    "bv"
+  ],
+  "continent": [
+    "AN"
+  ],
+  "borders": [
+    "aq",
+    "gs",
+    "za",
+    "sh"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Bouvet_Island",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Bouvet%20Island/@-54.423199,3.413194,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "size": 49,
+  "languageData": {
+    "languageSources": [],
+    "languages": []
+  },
+  "borderMode": "nearby",
+  "population": 0,
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Bouvet_island.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Bouvet_Island_west_coast_glacier.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Antarktisk_pelssel_p%C3%A5_Bouvet%C3%B8ya,_Nyr%C3%B8ysa.jpg"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true
+}

@@ -1,0 +1,89 @@
+{
+  "code": "AQ",
+  "latitude": -75.250973,
+  "longitude": -0.071389,
+  "name": "Antarctica",
+  "names": {
+    "fr": "Antarctique",
+    "hu": "Antarktisz",
+    "pl": "Antarktyda",
+    "de": "Antarktika",
+    "ja": "南極",
+    "co": "Antartica",
+    "es": "Antártida",
+    "pt": "Antártida",
+    "eu": "Antartika",
+    "ie": "An Antartach"
+  },
+  "flags": [
+    "za",
+    "hm",
+    "bv",
+    "tf",
+    "gs",
+    "aq",
+    "ar",
+    "fk"
+  ],
+  "continent": [
+    "AN"
+  ],
+  "borders": [
+    "bv",
+    "gs",
+    "fk",
+    "hm",
+    "tf",
+    "cl",
+    "ar",
+    "tf"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Antarctica",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Antarctica/@-75.250973,-0.071389,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "size": 14200000,
+  "languageData": {
+    "languageSources": [],
+    "languages": []
+  },
+  "borderMode": "nearby",
+  "population": null,
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/LysuRGQjMwo"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/iceberg-antarctica-polar-ice-sea-404966/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/NaQMJ-xNDWI"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/3Xd5j9-drDA"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/people-on-green-grass-field-during-daytime-GJQUr0SgKi0"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-very-tall-tower-sitting-on-top-of-a-snow-covered-slope-4kOWpHOxCrQ"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true
+}

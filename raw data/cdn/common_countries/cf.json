@@ -1,0 +1,137 @@
+{
+  "code": "CF",
+  "latitude": 6.611111,
+  "longitude": 20.939444,
+  "name": "Central African Republic",
+  "names": {
+    "fr": "République centrafricaine",
+    "hu": "Közép-Afrika",
+    "nl": "Centraal-Afrikaanse Republiek",
+    "pl": "Republika Środkowoafrykańska",
+    "de": "Zentralafrikanische Republik",
+    "ja": "中央アフリカ共和国",
+    "co": "Republica Centru-Afrikarra",
+    "es": "República Centroafricana",
+    "pt": "República Centro-Africana",
+    "eu": "Afrika Erdiko Errepublika",
+    "ie": "Poblacht na hAfraice Láir"
+  },
+  "flags": [
+    "gq",
+    "cd",
+    "cm",
+    "sd",
+    "ss",
+    "cf",
+    "td",
+    "cg"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "cm",
+    "td",
+    "cg",
+    "cd",
+    "ss",
+    "sd"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Central_African_Republic",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Central%20African%20Republic/@6.611111,20.939444,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XAF",
+    "name": "Franc",
+    "nameChoices": [
+      "Rial",
+      "Cedi",
+      "Dollar"
+    ]
+  },
+  "population": 5650957,
+  "size": 622984,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_the_Central_African_Republic"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra"
+      },
+      {
+        "languageCode": "sag"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 115541406.355,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 65369533.816
+      },
+      {
+        "productCode": "87",
+        "value": 25308997.082
+      },
+      {
+        "productCode": "85",
+        "value": 8679452.122
+      },
+      {
+        "productCode": "44",
+        "value": 6052220.094
+      },
+      {
+        "productCode": "94",
+        "value": 4007494.056
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Central_African_Republic_1995.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://www.flickr.com/photos/usarmyafrica/11382638006"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Stoneworkers_in_the_Central_African_Republic_8.jpg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Central_African_Republic_1995.jpg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/gpforeducation/21630498240/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/gpforeducation/21792402066/"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 539,
+  "gdpPerCapitaYear": 2023
+}

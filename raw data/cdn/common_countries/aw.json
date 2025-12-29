@@ -1,0 +1,149 @@
+{
+  "code": "AW",
+  "latitude": 12.52111,
+  "longitude": -69.968338,
+  "name": "Aruba",
+  "names": {
+    "fr": "Aruba",
+    "es": "Aruba",
+    "eu": "Aruba",
+    "hu": "Aruba",
+    "nl": "Aruba",
+    "pl": "Aruba",
+    "pt": "Aruba",
+    "de": "Aruba",
+    "ja": "アルバ",
+    "co": "Aruba",
+    "ie": "Arúba"
+  },
+  "flags": [
+    "ve",
+    "an",
+    "aw",
+    "vi",
+    "ht",
+    "do",
+    "co",
+    "pr"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "co",
+    "cw",
+    "ve",
+    "bq"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Aruba",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/ARUBA/@12.52111,-69.968338,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "AWG",
+    "name": "Florin",
+    "nameChoices": [
+      "Dollar",
+      "Rial",
+      "Peso"
+    ]
+  },
+  "population": 108880,
+  "size": 193,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Aruba"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "pap",
+        "percentage": 69.4
+      },
+      {
+        "languageCode": "spa",
+        "percentage": 13.7
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 111004913.519,
+    "topExports": [
+      {
+        "productCode": "24",
+        "value": 58320069.01
+      },
+      {
+        "productCode": "22",
+        "value": 14949336.102
+      },
+      {
+        "productCode": "71",
+        "value": 8161809.941
+      },
+      {
+        "productCode": "72",
+        "value": 6139716.673
+      },
+      {
+        "productCode": "99",
+        "value": 4316308.878
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/Ui99Hiv3Ezg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/beach-aruba-sandy-beach-sea-26011/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/t_dfcMDZ4T8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/rfJDRWkHmKs"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/people-on-beach-during-daytime-1o7_YwVkms8"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-birds-eye-view-of-a-beach-and-resort-D5WueT15KGw"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Port_of_Oranjestad18_15_27_423000.jpeg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:View_from_above_of_colorful_buildings_in_Oranjestad_on_the_island_of_Aruba_in_the_morning_sun.jpg"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapita": 35717,
+  "gdpPerCapitaYear": 2023
+}

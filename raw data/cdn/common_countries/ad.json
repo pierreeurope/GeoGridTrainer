@@ -1,0 +1,129 @@
+{
+  "code": "AD",
+  "latitude": 42.546245,
+  "longitude": 1.601554,
+  "name": "Andorra",
+  "names": {
+    "fr": "Andorre",
+    "pl": "Andora",
+    "ja": "アンドラ",
+    "co": "Andura",
+    "ie": "Andóra"
+  },
+  "flags": [
+    "je",
+    "ch",
+    "ad",
+    "gg",
+    "li",
+    "mc",
+    "es",
+    "fr"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "fr",
+    "es"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Andorra",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Andorra/@42.546245,1.601554,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Franc",
+      "Peso",
+      "Kwanza"
+    ]
+  },
+  "population": 87486,
+  "size": 468,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Andorra"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "cat",
+        "percentage": 44
+      },
+      {
+        "languageCode": "spa",
+        "percentage": 40.3
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 252365105.054,
+    "topExports": [
+      {
+        "productCode": "87",
+        "value": 52570728.211
+      },
+      {
+        "productCode": "85",
+        "value": 51963965.695
+      },
+      {
+        "productCode": "97",
+        "value": 50996593.599
+      },
+      {
+        "productCode": "90",
+        "value": 20425666.932
+      },
+      {
+        "productCode": "91",
+        "value": 9573175.806
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/3gYKw3uAOwU"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/andorra-pyrenees-mountains-3501173/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/P2LtiQlU2Vg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/Xrcx2VINjP8"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-mountains-covered-in-snow-under-a-cloudy-sky-TrJthE2ExsU"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-winding-road-in-the-mountains-eFWINfwiZes"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 44900,
+  "gdpPerCapitaYear": 2024
+}

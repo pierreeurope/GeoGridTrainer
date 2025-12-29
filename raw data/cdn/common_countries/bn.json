@@ -1,0 +1,134 @@
+{
+  "code": "BN",
+  "latitude": 4.535277,
+  "longitude": 114.727669,
+  "name": "Brunei",
+  "names": {
+    "fr": "Brunéi",
+    "ja": "ブルネイ",
+    "co": "Brunei Darussalam",
+    "es": "Brunéi",
+    "ie": "Brúiné"
+  },
+  "flags": [
+    "sg",
+    "tl",
+    "bn",
+    "id",
+    "my",
+    "vn",
+    "ph",
+    "kh"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "my"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Brunei",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Brunei/@4.535277,114.727669,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BND",
+    "name": "Dollar",
+    "nameChoices": [
+      "Rupee",
+      "Dam",
+      "Baht"
+    ]
+  },
+  "population": 466227,
+  "size": 5765,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Brunei"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "msa"
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 11240624705.271,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 8702481628.735
+      },
+      {
+        "productCode": "29",
+        "value": 1893024664.232
+      },
+      {
+        "productCode": "31",
+        "value": 359038906.544
+      },
+      {
+        "productCode": "73",
+        "value": 64602327.993
+      },
+      {
+        "productCode": "88",
+        "value": 46547955.877
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/ship-junk-mosque-saifuddin-brunei-523587/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/brunei-empire-hotel-overseas-travel-2946137/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.pexels.com/photo/the-famous-yayasan-shopping-mall-in-brunei-6613502/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.pexels.com/photo/facade-of-a-building-under-the-blue-sky-12587133/"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-large-building-with-a-lot-of-windows-on-top-of-it-_hsVmtN4obQ"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-city-street-with-palm-trees-and-buildings-in-the-background-zUvPhMmUIAc"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://www.flickr.com/photos/ozmark17/36391312350/"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/volvob12b/9595118235/"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 34970,
+  "gdpPerCapitaYear": 2025
+}

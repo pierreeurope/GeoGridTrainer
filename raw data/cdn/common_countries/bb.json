@@ -1,0 +1,136 @@
+{
+  "code": "BB",
+  "latitude": 13.193887,
+  "longitude": -59.543198,
+  "name": "Barbados",
+  "names": {
+    "fr": "Barbade",
+    "ja": "バルバドス",
+    "ie": "Barbadós"
+  },
+  "flags": [
+    "gd",
+    "lc",
+    "tt",
+    "vc",
+    "dm",
+    "mq",
+    "gp",
+    "bb"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "lc",
+    "vc",
+    "mq",
+    "gd",
+    "dm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Barbados",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Barbados/@13.193887,-59.543198,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BBD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Real",
+      "Peso",
+      "Córdoba"
+    ]
+  },
+  "population": 281998,
+  "size": 430,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Barbados"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "bjs"
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 475842549,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 186004952
+      },
+      {
+        "productCode": "22",
+        "value": 65655991
+      },
+      {
+        "productCode": "30",
+        "value": 29650135.5
+      },
+      {
+        "productCode": "48",
+        "value": 17248227
+      },
+      {
+        "productCode": "15",
+        "value": 17155990.5
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/-76qup1BmIs"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/clearwater-villa-beach-barbados-1549544/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/qugWVn01mF4"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/20_OGkT-gl8"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-person-standing-in-an-alley-between-two-buildings-BZJSzvLsxuA"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-couple-of-horses-standing-in-a-body-of-water-rV0nFGJQM2E"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Port_St_Charles_Marina,_Barbados_1.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/bez_uk/21542673241/"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 21442,
+  "gdpPerCapitaYear": 2023
+}

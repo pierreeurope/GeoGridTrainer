@@ -1,0 +1,142 @@
+{
+  "code": "BM",
+  "latitude": 32.321384,
+  "longitude": -64.75737,
+  "name": "Bermuda",
+  "names": {
+    "fr": "Bermudes",
+    "pl": "Bermudy",
+    "ja": "バミューダ",
+    "es": "Bermudas",
+    "pt": "Bermudas",
+    "co": "Bermudes",
+    "ie": "Beirmiúda"
+  },
+  "flags": [
+    "tc",
+    "do",
+    "bs",
+    "vg",
+    "pr",
+    "bm",
+    "vi",
+    "ai"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "tc",
+    "bs",
+    "vg",
+    "vi",
+    "ai",
+    "us"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Bermuda",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Bermuda/@32.321384,-64.75737,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BMD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Dinar",
+      "Peso",
+      "Quetzal"
+    ]
+  },
+  "population": 63913,
+  "size": 53,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Bermuda"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 90
+      },
+      {
+        "languageCode": "por"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 33526784.43,
+    "topExports": [
+      {
+        "productCode": "99",
+        "value": 20683030.51
+      },
+      {
+        "productCode": "84",
+        "value": 4439080.35
+      },
+      {
+        "productCode": "22",
+        "value": 2458124.88
+      },
+      {
+        "productCode": "85",
+        "value": 2015136.39
+      },
+      {
+        "productCode": "90",
+        "value": 1530029.93
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/0a17lg30MtY"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/bermuda-pink-sand-beach-ocean-4096704/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/Ule2K_7IlV4"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/eS8CVXBA3jU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/houses-near-sea-during-daytime-COsskg4ilTQ"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/white-and-blue-sky-over-the-beach-apdbXDriykI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://www.flickr.com/photos/wesbran/32049832661/"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/teachandlearn/497209724/"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapitaYear": 2019,
+  "gdpPerCapita": 117097
+}

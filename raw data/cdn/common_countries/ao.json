@@ -1,0 +1,128 @@
+{
+  "code": "AO",
+  "latitude": -11.202692,
+  "longitude": 17.873887,
+  "name": "Angola",
+  "names": {
+    "ja": "アンゴラ",
+    "ie": "Angóla"
+  },
+  "flags": [
+    "cd",
+    "zm",
+    "bw",
+    "cg",
+    "na",
+    "ga",
+    "zw",
+    "ao"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "cg",
+    "cd",
+    "na",
+    "zm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Angola",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Angola/@-11.202692,17.873887,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "AOA",
+    "name": "Kwanza",
+    "nameChoices": [
+      "Tugrik",
+      "Dinar",
+      "Real"
+    ]
+  },
+  "population": 36604681,
+  "size": 1246700,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Angola"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "por",
+        "percentage": 71
+      },
+      {
+        "languageCode": "umb",
+        "percentage": 23
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 51274951711.647,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 47576310443.686
+      },
+      {
+        "productCode": "71",
+        "value": 1987537792.416
+      },
+      {
+        "productCode": "89",
+        "value": 1100889529.191
+      },
+      {
+        "productCode": "84",
+        "value": 129666207.506
+      },
+      {
+        "productCode": "25",
+        "value": 93822361.065
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/Tri_u7qeqGw"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/angola-landscape-sierra-da-leba-509598/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/TKsDclZ3i4o"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.pexels.com/photo/aerial-view-of-rocky-mountain-5745888/"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/white-high-rise-building-glhVDncQmhE"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/group-of-people-on-shore-EkI95WwwMjo"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2880,
+  "gdpPerCapitaYear": 2025
+}

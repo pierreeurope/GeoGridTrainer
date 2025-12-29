@@ -1,0 +1,117 @@
+{
+  "code": "CC",
+  "latitude": -12.164165,
+  "longitude": 96.870956,
+  "name": "Cocos Islands",
+  "names": {
+    "fr": "Îles Cocos",
+    "hu": "Kókusz (Keeling)-szigetek",
+    "nl": "Cocoseilanden",
+    "pl": "Wyspy Kokosowe",
+    "de": "Kokosinseln",
+    "ja": "ココス諸島",
+    "co": "Isule Cocos",
+    "es": "Islas Cocos",
+    "pt": "Ilhas Cocos",
+    "eu": "Cocosak",
+    "ie": "Oileáin Cocos"
+  },
+  "flags": [
+    "id",
+    "my",
+    "sg",
+    "bn",
+    "cx",
+    "io",
+    "lk",
+    "cc"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "cx",
+    "id"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Cocos_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Cocos%20Islands/@-12.164165,96.870956,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "AUD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Rupiah",
+      "Dinar",
+      "Baht"
+    ]
+  },
+  "population": 593,
+  "size": 14,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "msa",
+        "percentage": 68.8
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 22.3
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Cocos_%28Keeling%29_Islands_2017_%2843%29.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Cocos_%28Keeling%29_Islands_%2832206670676%29.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands#/media/File:Lagoon_Beach_(25152057091).jpg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/davidstanleytravel/24718365955"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/gobblywink/8165988151/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/nevfarquah/1320290020/"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Cocos_(Keeling)_Islands_2017_(30).jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Cocos_(Keeling)_Islands_2017_(2).jpg"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapita": 18570.91,
+  "gdpPerCapitaYear": 2010
+}

@@ -1,0 +1,135 @@
+{
+  "code": "BZ",
+  "latitude": 17.189877,
+  "longitude": -88.49765,
+  "name": "Belize",
+  "names": {
+    "ja": "ベリーズ",
+    "es": "Belice",
+    "ie": "An Bheilís"
+  },
+  "flags": [
+    "bz",
+    "gt",
+    "ky",
+    "mx",
+    "sv",
+    "hn",
+    "cr",
+    "ni"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "gt",
+    "mx"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Belize",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Belize/@17.189877,-88.49765,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BZD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Peso",
+      "Pound",
+      "Birr"
+    ]
+  },
+  "population": 397483,
+  "size": 22696,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Belize"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 62.9
+      },
+      {
+        "languageCode": "spa",
+        "percentage": 56.6
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 253373381.831,
+    "topExports": [
+      {
+        "productCode": "17",
+        "value": 86887420.018
+      },
+      {
+        "productCode": "08",
+        "value": 33237479.075
+      },
+      {
+        "productCode": "27",
+        "value": 21254346.57
+      },
+      {
+        "productCode": "03",
+        "value": 20158042.527
+      },
+      {
+        "productCode": "23",
+        "value": 16613341.555
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/erKKEmRLuV0"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/water-creek-landscape-flow-hdr-7726729/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/qVNSANBjYdI"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/RJEfkvKv2pE"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/green-trees-and-green-grass-field-xcjLPRGgZ1A"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/people-sitting-on-bench-under-green-tree-during-daytime-9Kxu9Odz4yA"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Caye_Caulker_Belize_aerial_%2820688990128%29.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Elite_Residential_Area_Ottawa_Lamanai_10.JPG"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 8355,
+  "gdpPerCapitaYear": 2025
+}

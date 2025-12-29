@@ -1,0 +1,138 @@
+{
+  "code": "BY",
+  "latitude": 53.709807,
+  "longitude": 27.953389,
+  "name": "Belarus",
+  "names": {
+    "fr": "Biélorussie",
+    "hu": "Fehéroroszország",
+    "pl": "Białoruś",
+    "ja": "ベラルーシ",
+    "co": "Bielorussia",
+    "de": "Weißrussland",
+    "es": "Bielorrusia",
+    "nl": "Wit-Rusland",
+    "pt": "Bielorrússia",
+    "eu": "Bielorrusia",
+    "ie": "An Bhealarúis"
+  },
+  "flags": [
+    "ua",
+    "ru",
+    "ee",
+    "pl",
+    "lt",
+    "lv",
+    "md",
+    "by"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "lv",
+    "lt",
+    "pl",
+    "ru",
+    "ua"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Belarus",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Belarus/@53.709807,27.953389,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BYN",
+    "name": "Ruble",
+    "nameChoices": [
+      "Lev",
+      "Euro",
+      "Hryvnia"
+    ]
+  },
+  "population": 9109280,
+  "size": 207600,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "rus",
+        "percentage": 71.4
+      },
+      {
+        "languageCode": "bel",
+        "percentage": 26
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 39889022800,
+    "topExports": [
+      {
+        "productCode": "99",
+        "value": 16042103200
+      },
+      {
+        "productCode": "04",
+        "value": 2714496000
+      },
+      {
+        "productCode": "44",
+        "value": 2329693100
+      },
+      {
+        "productCode": "84",
+        "value": 1840665100
+      },
+      {
+        "productCode": "85",
+        "value": 1418748100
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/NxFNWUMxnGM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/vilino-belarus-landscape-scenic-107571/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/GfTJ0ElQ-3U"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/jxNWI-_tbf0"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-car-parked-in-front-of-a-building-P8IgjgxMNj4"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-train-station-during-daytime-MRMnkiJE7nA"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 7477,
+  "gdpPerCapitaYear": 2023
+}

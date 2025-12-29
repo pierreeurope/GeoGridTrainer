@@ -1,0 +1,151 @@
+{
+  "code": "BF",
+  "latitude": 12.238333,
+  "longitude": -1.561593,
+  "name": "Burkina Faso",
+  "names": {
+    "fr": "Burkina Faso",
+    "es": "Burkina Faso",
+    "eu": "Burkina Faso",
+    "hu": "Burkina Faso",
+    "nl": "Burkina Faso",
+    "pl": "Burkina Faso",
+    "pt": "Burquina Fasso",
+    "de": "Burkina Faso",
+    "ja": "ブルキナファソ",
+    "co": "Burkina Faso",
+    "ie": "Buircíne Fasó"
+  },
+  "flags": [
+    "gh",
+    "ml",
+    "gn",
+    "ci",
+    "tg",
+    "bj",
+    "ne",
+    "bf"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "bj",
+    "ci",
+    "gh",
+    "ml",
+    "ne",
+    "tg"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Burkina_Faso",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/BURKINA%20FASo/@12.238333,-1.561593,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XOF",
+    "name": "Franc",
+    "nameChoices": [
+      "Real",
+      "Niara",
+      "Dollar"
+    ]
+  },
+  "population": 22489126,
+  "size": 274000,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Burkina_Faso"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "mos",
+        "percentage": 52.9
+      },
+      {
+        "languageCode": "ful",
+        "percentage": 7.8
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 4458757137.217,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 3517417513.445
+      },
+      {
+        "productCode": "52",
+        "value": 253663298.627
+      },
+      {
+        "productCode": "12",
+        "value": 148386240.008
+      },
+      {
+        "productCode": "08",
+        "value": 148079843.525
+      },
+      {
+        "productCode": "25",
+        "value": 107797487.898
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://www.flickr.com/photos/8734876@N07/25242048688/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/africa-burkina-faso-homes-205218/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/8wuOLdN77A4"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://pixabay.com/photos/africa-afrique-burkina-faso-pottery-170206/"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/130288136@N06/32477596225/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/leapingaroundtheworld/2176554472/"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Place_Memorial_auz_Heros_Nationaux_in_Burkina_Faso,_2009.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/25061723@N00/4552119456/"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1110,
+  "gdpPerCapitaYear": 2025
+}

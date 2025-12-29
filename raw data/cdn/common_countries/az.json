@@ -1,0 +1,154 @@
+{
+  "code": "AZ",
+  "latitude": 40.143105,
+  "longitude": 47.576927,
+  "name": "Azerbaijan",
+  "names": {
+    "fr": "Azerbaïdjan",
+    "hu": "Azerbajdzsán",
+    "nl": "Azerbeidzjan",
+    "pl": "Azerbejdżan",
+    "de": "Aserbaidschan",
+    "ja": "アゼルバイジャン",
+    "co": "Azerbaidzanu",
+    "es": "Azerbaiyán",
+    "pt": "Azerbaijão",
+    "ie": "An Asarbaiseáin"
+  },
+  "flags": [
+    "iq",
+    "az",
+    "tm",
+    "ir",
+    "am",
+    "ge",
+    "tr",
+    "ru"
+  ],
+  "continent": [
+    "AS",
+    "EU"
+  ],
+  "borders": [
+    "am",
+    "ge",
+    "ir",
+    "ru",
+    "tr"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Azerbaijan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Azerbaijan/@40.143105,47.576927,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "AZN",
+    "name": "Manat",
+    "nameChoices": [
+      "Ruble",
+      "Dinar",
+      "Soum"
+    ]
+  },
+  "population": 10353296,
+  "size": 86600,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Azerbaijan"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      },
+      {
+        "title": "WorldAtlas",
+        "url": "https://www.worldatlas.com/articles/what-languages-are-spoken-in-azerbaijan.html"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "aze",
+        "percentage": 92.5
+      },
+      {
+        "languageCode": "xcl",
+        "percentage": 1.4
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 33898554855.28,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 31017150741.81
+      },
+      {
+        "productCode": "08",
+        "value": 513487104.34
+      },
+      {
+        "productCode": "39",
+        "value": 460787446.76
+      },
+      {
+        "productCode": "07",
+        "value": 212414974.73
+      },
+      {
+        "productCode": "76",
+        "value": 195181684.37
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/wX_9ZhIErpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/winter-azerbaijan-horse-landscape-2048629/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/D-Zz4om1dqQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/AOWi0OXBUQo"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-large-body-of-water-and-a-ferris-wheel-ka5GnsV9CTk"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-scenic-view-of-a-forested-area-with-mountains-in-the-distance-kk0Xu9ft6PE"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Azerbajiani_landscape_-_Another_version.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Mausoleos_de_Yeddi_Gumbez,_Shamakhi,_Azerbaiy%C3%A1n,_2016-09-27,_DD_01-03_HDR.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 7604,
+  "gdpPerCapitaYear": 2024
+}

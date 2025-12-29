@@ -1,0 +1,143 @@
+{
+  "code": "CM",
+  "latitude": 7.369722,
+  "longitude": 12.354722,
+  "name": "Cameroon",
+  "names": {
+    "fr": "Cameroun",
+    "hu": "Kamerun",
+    "nl": "Kameroen",
+    "pl": "Kamerun",
+    "de": "Kamerun",
+    "ja": "カメルーン",
+    "co": "Cameruna",
+    "es": "Camerún",
+    "pt": "Camarões",
+    "eu": "Kamerun",
+    "ie": "Camarún"
+  },
+  "flags": [
+    "cm",
+    "ng",
+    "cf",
+    "td",
+    "cg",
+    "gq",
+    "ga",
+    "st"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "cf",
+    "td",
+    "cg",
+    "gq",
+    "ga",
+    "ng"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Cameroon",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Cameroon/@7.369722,12.354722,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XAF",
+    "name": "Franc",
+    "nameChoices": [
+      "Birr",
+      "Manat",
+      "Dinar"
+    ]
+  },
+  "population": 30987821,
+  "size": 475442,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Cameroon"
+      },
+      {
+        "title": "Translators without Borders",
+        "url": "https://translatorswithoutborders.org/language-data-for-cameroon"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra",
+        "percentage": 41.17
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 23
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 4294055976.357,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 2227171799.05
+      },
+      {
+        "productCode": "18",
+        "value": 700690898.6
+      },
+      {
+        "productCode": "44",
+        "value": 525357836.48
+      },
+      {
+        "productCode": "52",
+        "value": 257839848.9
+      },
+      {
+        "productCode": "76",
+        "value": 76657247.06
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/bZnciM7XIYw"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/travel-nature-landscape-skirt-3269736/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/EllfOCOSDWA"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/TdwJW7L5DXg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-small-town-from-a-hill-wqDNF4KcHuI"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-dirt-road-with-trees-on-either-side-of-it-HVytxpsuIxg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2.027,
+  "gdpPerCapitaYear": 2025
+}

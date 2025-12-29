@@ -1,0 +1,145 @@
+{
+  "code": "CI",
+  "latitude": 7.539989,
+  "longitude": -5.54708,
+  "name": "Côte d'Ivoire",
+  "names": {
+    "hu": "Elefántcsontpart",
+    "nl": "Ivoorkust",
+    "pl": "Wybrzeże Kości Słoniowej",
+    "de": "Elfenbeinküste",
+    "ja": "コートジボワール",
+    "co": "Costa d'Avoriu",
+    "es": "Costa de Marfil",
+    "pt": "Costa do Marfim",
+    "eu": "Boli Kosta",
+    "ie": "An Cósta Eabhair"
+  },
+  "flags": [
+    "ci",
+    "bf",
+    "gh",
+    "sl",
+    "tg",
+    "gn",
+    "ml",
+    "lr"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "bf",
+    "gh",
+    "gn",
+    "lr",
+    "ml"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Ivory_Coast",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/C%C3%B4te%20d'Ivoire/@7.539989,-5.54708,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XOF",
+    "name": "Franc",
+    "nameChoices": [
+      "Dinar",
+      "Kwanza",
+      "Rial"
+    ]
+  },
+  "population": 31500000,
+  "size": 322463,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Ivory_Coast"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra",
+        "percentage": 33.61
+      },
+      {
+        "languageCode": "bci",
+        "percentage": 10.38
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 16428707005.015,
+    "topExports": [
+      {
+        "productCode": "18",
+        "value": 4969652716.314
+      },
+      {
+        "productCode": "27",
+        "value": 3042320469.732
+      },
+      {
+        "productCode": "71",
+        "value": 1917868955.04
+      },
+      {
+        "productCode": "40",
+        "value": 1867342759.59
+      },
+      {
+        "productCode": "08",
+        "value": 1223998490.624
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/africa-ivory-coast-lakes-6289446/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/children-african-portrait-youth-5445501/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-van-at-road-during-daytime-NpDn3goZGRs"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/man-in-red-polo-shirt-holding-yellow-banana-bf7m8Et8ZW8"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/abqbiopark/49358662271/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/johnveerkamp/50233577818/"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Vendeur_d%27oignons_par_kilogramme.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/161070617@N08/43222835391/"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2728,
+  "gdpPerCapitaYear": 2023
+}

@@ -1,0 +1,134 @@
+{
+  "code": "AL",
+  "latitude": 41.153332,
+  "longitude": 20.168331,
+  "name": "Albania",
+  "names": {
+    "fr": "Albanie",
+    "hu": "Albánia",
+    "nl": "Albanië",
+    "de": "Albanien",
+    "ja": "アルバニア",
+    "pt": "Albânia",
+    "co": "Alba",
+    "ie": "An Albáin"
+  },
+  "flags": [
+    "gr",
+    "bg",
+    "al",
+    "me",
+    "xk",
+    "rs",
+    "ba",
+    "mk"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "gr",
+    "me",
+    "mk",
+    "xk"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Albania",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Albania/@41.153332,20.168331,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "ALL",
+    "name": "Lek",
+    "nameChoices": [
+      "Pound",
+      "Denar",
+      "Euro"
+    ]
+  },
+  "population": 2402113,
+  "size": 28748,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Albania"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "sqi",
+        "percentage": 98.7
+      },
+      {
+        "languageCode": "ell",
+        "percentage": 0.54
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 4306234747.242,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 733233136.615
+      },
+      {
+        "productCode": "64",
+        "value": 570342785.204
+      },
+      {
+        "productCode": "72",
+        "value": 552212237.979
+      },
+      {
+        "productCode": "62",
+        "value": 300849081.471
+      },
+      {
+        "productCode": "61",
+        "value": 271317910.788
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/mUATQHolSMg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/cruise-cruise-ship-sea-water-3703999/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/-TUYQ8vF0Ks"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/2lR4FexYPvA"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/river-between-green-trees-and-mountains-under-blue-sky-and-white-clouds-during-daytime-65vi3vAzAAY"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-city-next-to-a-body-of-water-JrnMqKyyoHw"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 10526,
+  "gdpPerCapitaYear": 2025
+}

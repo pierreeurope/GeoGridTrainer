@@ -1,0 +1,130 @@
+{
+  "code": "CG",
+  "latitude": -0.228021,
+  "longitude": 15.827659,
+  "name": "Republic of the Congo",
+  "names": {
+    "hu": "KONGÓI KÖZTÁRSASÁG",
+    "nl": "Congo-Brazzaville",
+    "pl": "REPUBLIKA KONGA",
+    "de": "REPUBLIK KONGO",
+    "ja": "コンゴ共和国",
+    "co": "Republica di u Congo",
+    "es": "República del Congo",
+    "eu": "Kongoko Errepublika",
+    "pt": "REPÚBLICA DO CONGO",
+    "fr": "RÉPUBLIQUE DU CONGO",
+    "ie": "An Congó"
+  },
+  "flags": [
+    "cd",
+    "cf",
+    "gq",
+    "cm",
+    "ao",
+    "cg",
+    "ga",
+    "st"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "ao",
+    "cm",
+    "cf",
+    "cd",
+    "ga"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Republic_of_the_Congo",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Republic+of+the+Congo/@-0.6803177,9.5863316,6z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XAF",
+    "name": "Franc",
+    "nameChoices": [
+      "Pula",
+      "Guarani",
+      "Dirham"
+    ]
+  },
+  "population": 6228784,
+  "size": 342000,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_the_Republic_of_the_Congo"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra",
+        "percentage": 60.69
+      },
+      {
+        "languageCode": "mkw",
+        "percentage": 50.35
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 2362230161.01,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 1301377783.33
+      },
+      {
+        "productCode": "44",
+        "value": 343567051.69
+      },
+      {
+        "productCode": "89",
+        "value": 337040317.56
+      },
+      {
+        "productCode": "87",
+        "value": 115244629.22
+      },
+      {
+        "productCode": "74",
+        "value": 76877761.71
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://en.wikipedia.org/wiki/File:Brazzaville_bird_eye_view.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://en.wikipedia.org/wiki/File:Pointe-Noire_downtown.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-bus-parked-in-front-of-a-building-dJ8uDfnaZFc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-couple-of-boats-that-are-sitting-in-the-water-Bm_0FqhVPww"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2360,
+  "gdpPerCapitaYear": 2025
+}

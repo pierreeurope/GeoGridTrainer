@@ -1,0 +1,142 @@
+{
+  "code": "BH",
+  "latitude": 25.930414,
+  "longitude": 50.637772,
+  "name": "Bahrain",
+  "names": {
+    "fr": "Bahreïn",
+    "hu": "Bahrein",
+    "nl": "Bahrein",
+    "pl": "Bahrajn",
+    "ja": "バーレーン",
+    "es": "Baréin",
+    "pt": "Bahrein",
+    "ie": "Bairéin"
+  },
+  "flags": [
+    "iq",
+    "qa",
+    "bh",
+    "om",
+    "ir",
+    "ae",
+    "sa",
+    "kw"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "qa",
+    "sa"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Bahrain",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Bahrain/@25.930414,50.637772,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BHD",
+    "name": "Dinar",
+    "nameChoices": [
+      "Riyal",
+      "Pound",
+      "Yen"
+    ]
+  },
+  "population": 1463265,
+  "size": 786,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Bahrain"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 12406927759.432,
+    "topExports": [
+      {
+        "productCode": "76",
+        "value": 4755274242.988
+      },
+      {
+        "productCode": "26",
+        "value": 1835716788.491
+      },
+      {
+        "productCode": "84",
+        "value": 748353560.411
+      },
+      {
+        "productCode": "72",
+        "value": 644907116.34
+      },
+      {
+        "productCode": "04",
+        "value": 504743214.357
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/S7FEiLILEuM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/sunset-sundown-bahrain-600769/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/rkU1mK53RBc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/eNzpsGEJr7g"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/person-riding-on-white-boat-on-sea-during-daytime-NSp34_xvNrA"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/man-in-blue-shirt-sitting-on-brown-wooden-dock-during-daytime-UiLznQavBkA"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Manama,_Bahrain_Decembre_2014.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Bahrain_Grandstands_2010.jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 29573,
+  "gdpPerCapitaYear": 2024
+}

@@ -1,0 +1,90 @@
+{
+  "code": "AX",
+  "name": "Åland",
+  "autoUpdateBorders": false,
+  "borders": [
+    "fi",
+    "se",
+    "ee"
+  ],
+  "borderMode": "nearby",
+  "continent": [
+    "EU"
+  ],
+  "currencyData": {
+    "name": "Euro",
+    "code": "EUR",
+    "nameChoices": [
+      "Krona",
+      "Pound",
+      "Krone"
+    ]
+  },
+  "flags": [
+    "ax",
+    "fi",
+    "se",
+    "ee",
+    "mc",
+    "sa",
+    "pa",
+    "tl"
+  ],
+  "languageData": {
+    "languages": [],
+    "languageSources": []
+  },
+  "latitude": 60.17454109711046,
+  "longitude": 20.419275772342356,
+  "names": {
+    "pl": "Wyspy Alandzkie",
+    "pt": "ALANDA",
+    "ja": "オーランド",
+    "co": "Ålanda",
+    "eu": "Ålandak",
+    "ie": "Oileáin Åland"
+  },
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Åland",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/%C3%85land%20Islands/@63.2455671,-1.4965668,3.91z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "population": 30654,
+  "size": 1580,
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Kumlinge,_%C3%85land_Islands_-_panoramio_%289%29.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Sea_landscape,_%C3%85land.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/FabtG4enGZQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/UVboVXvk3Yc"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-body-of-water-surrounded-by-trees-M-mupIfaVbU"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-red-building-with-a-flag-on-top-of-it-faVHb5ezd8g"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2022
+}

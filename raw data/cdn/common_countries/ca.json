@@ -1,0 +1,142 @@
+{
+  "code": "CA",
+  "latitude": 56.130366,
+  "longitude": -106.346771,
+  "name": "Canada",
+  "names": {
+    "hu": "Kanada",
+    "pl": "Kanada",
+    "de": "Kanada",
+    "ja": "カナダ",
+    "es": "Canadá",
+    "pt": "Canadá",
+    "co": "Candia",
+    "eu": "Kanada",
+    "ie": "Ceanada"
+  },
+  "flags": [
+    "gl",
+    "us",
+    "ca",
+    "mx",
+    "is",
+    "bm",
+    "pm",
+    "bs"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "us",
+    "gl",
+    "pm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Canada",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Canada/@56.130366,-106.346771,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "CAD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Pound",
+      "Euro",
+      "Krona"
+    ]
+  },
+  "population": 41651653,
+  "size": 9970610,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 87.1
+      },
+      {
+        "languageCode": "fra",
+        "percentage": 29.1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 566654692148.323,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 143426685695.378
+      },
+      {
+        "productCode": "87",
+        "value": 63680833615.465
+      },
+      {
+        "productCode": "84",
+        "value": 42457691758.254
+      },
+      {
+        "productCode": "71",
+        "value": 26740306154.391
+      },
+      {
+        "productCode": "99",
+        "value": 22049129902.867
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/uouH1bGxeeU"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/lighthouse-ocean-sea-coast-travel-1872998/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/iJTXWlMmoOg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/MQlVnTc4OBg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/scenery-of-mountain-oMneOBYhJxY"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-island-with-bridge-Yc9h5SJdEzI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Kondiaronk_Belvedere,_Montreal_city,_Canada.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 54935,
+  "gdpPerCapitaYear": 2025
+}

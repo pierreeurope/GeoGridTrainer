@@ -1,0 +1,121 @@
+{
+  "code": "AG",
+  "latitude": 17.060816,
+  "longitude": -61.796428,
+  "name": "Antigua and Barbuda",
+  "names": {
+    "fr": "Antigua-et-Barbuda",
+    "hu": "Antigua és Barbuda",
+    "nl": "Antigua en Barbuda",
+    "pl": "Antigua i Barbuda",
+    "de": "Antigua und Barbuda",
+    "ja": "アンティグア・バーブーダ",
+    "co": "Antigua è Barbuda",
+    "es": "Antigua y Barbuda",
+    "pt": "Antígua e Barbuda",
+    "eu": "Antigua eta Barbuda",
+    "ie": "Antigua agus Barbúda"
+  },
+  "flags": [
+    "kn",
+    "ai",
+    "vg",
+    "ag",
+    "gp",
+    "dm",
+    "ms",
+    "mq"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "ms",
+    "kn",
+    "gp",
+    "ai",
+    "dm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Antigua_and_Barbuda",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Antigua%20and%20Barbuda/@17.060816,-61.796428,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XCD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Zloty",
+      "Pound",
+      "Peso"
+    ]
+  },
+  "population": 100772,
+  "size": 442,
+  "languageData": {},
+  "productData": {
+    "year": 2023,
+    "totalValue": 30496874.229,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 7949233.755
+      },
+      {
+        "productCode": "03",
+        "value": 3276051.286
+      },
+      {
+        "productCode": "73",
+        "value": 3159413.371
+      },
+      {
+        "productCode": "22",
+        "value": 2559193.368
+      },
+      {
+        "productCode": "84",
+        "value": 2131350.253
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/9CJTrF-HnlU"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/devil-s-bridge-sea-barbuda-antigua-7155984/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/-4itEczXe3U"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:AIDAluna-RoyalClipper-Antigua.jpg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:AG-Stjohns-cruise-terminal-01.jpg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Antigua_-_Pearns_Bay_%E2%80%93_New_Division_Bay_%E2%80%93_Hermitage_Bay_%E2%80%93_The_Cove_%E2%80%93_Mosquito_Cove_-_panoramio.jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapita": 22630,
+  "gdpPerCapitaYear": 2025
+}

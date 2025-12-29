@@ -1,0 +1,89 @@
+{
+  "code": "BL",
+  "name": "Saint Barthélemy",
+  "autoUpdateBorders": false,
+  "borders": [
+    "kn",
+    "ag",
+    "sx",
+    "bq",
+    "mf"
+  ],
+  "borderMode": "nearby",
+  "continent": [
+    "NA"
+  ],
+  "currencyData": {
+    "name": "Euro",
+    "code": "ANG",
+    "nameChoices": [
+      "Franc",
+      "Peso",
+      "Dollar"
+    ]
+  },
+  "flags": [
+    "bl",
+    "kn",
+    "ag",
+    "sx",
+    "bq",
+    "mf",
+    "id",
+    "ie"
+  ],
+  "languageData": {
+    "languages": [],
+    "languageSources": []
+  },
+  "latitude": 17.9,
+  "longitude": -62.833333,
+  "names": {
+    "de": "Saint-Barthélemy",
+    "es": "San Bartolomé",
+    "fr": "Saint-Barthélemy",
+    "pl": "Saint-Barthélemy",
+    "hu": "SAINT-BARTHÉLEMY",
+    "pt": "São Bartolomeu",
+    "nl": "Saint-Barthélemy",
+    "ja": "サン・バルテルミー",
+    "co": "San Bartulimu",
+    "ie": "Naomh Bartalamais"
+  },
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Saint_Barthélemy",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/St%20Barth%C3%A9lemy/@17.92215,-62.8714499,12z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "population": 10967,
+  "size": 25,
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/shell-beach-saint-barth%c3%a9lemy-5140800/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Grotte_du_puits_Saint_Barth%C3%A9l%C3%A9my.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-sandy-beach-with-a-hill-in-the-background-881zmv78Asw"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-harbor-with-boats-in-the-water-zamjZ-wAjZk"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2014,
+  "gdpPerCapita": 51735
+}

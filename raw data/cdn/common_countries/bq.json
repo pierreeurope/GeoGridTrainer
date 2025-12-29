@@ -1,0 +1,75 @@
+{
+  "code": "BQ",
+  "name": "Caribbean Netherlands",
+  "autoUpdateBorders": true,
+  "borders": [
+    "aw",
+    "cw",
+    "vi",
+    "kn",
+    "bl",
+    "mf",
+    "ai",
+    "sx"
+  ],
+  "borderMode": "nearby",
+  "continent": [
+    "SA",
+    "NA"
+  ],
+  "currencyData": {
+    "name": "Dollar",
+    "code": "USD",
+    "nameChoices": [
+      "Franc",
+      "Euro",
+      "Peso"
+    ]
+  },
+  "flags": [
+    "bq",
+    "aw",
+    "cw",
+    "vi",
+    "kn",
+    "bl",
+    "mf",
+    "ai"
+  ],
+  "languageData": {
+    "languages": [],
+    "languageSources": []
+  },
+  "latitude": 12.158730898190548,
+  "longitude": -68.26160017264506,
+  "names": {
+    "fr": "Pays-Bas caribéens",
+    "de": "Karibische Niederlande",
+    "es": "Caribe Neerlandés",
+    "ja": "カリブ・オランダ",
+    "nl": "Caribisch Nederland",
+    "pl": "Karaiby Holenderskie",
+    "pt": "Países Baixos Caribenhos",
+    "hu": "KARIBI HOLLANDIA",
+    "co": "Nazione Corsa Di Caribbi",
+    "eu": "Karibe Holandarrek",
+    "ie": "Bonaire, Sint Eustatius agus Saba"
+  },
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Caribbean_Netherlands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Caribbean%20Netherlands/@14.8124,-65.71885,7z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "population": 31980,
+  "size": 322,
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2022
+}

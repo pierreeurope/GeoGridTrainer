@@ -1,0 +1,144 @@
+{
+  "code": "BE",
+  "latitude": 50.503887,
+  "longitude": 4.469936,
+  "name": "Belgium",
+  "names": {
+    "fr": "Belgique",
+    "nl": "België",
+    "pl": "Belgia",
+    "de": "Belgien",
+    "ja": "ベルギー",
+    "co": "Belgica",
+    "es": "Bélgica",
+    "pt": "Bélgica",
+    "eu": "Belgika",
+    "ie": "An Bheilg"
+  },
+  "flags": [
+    "fr",
+    "de",
+    "lu",
+    "nl",
+    "gb",
+    "ch",
+    "je",
+    "be"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "fr",
+    "de",
+    "lu",
+    "nl"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Belgium",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Belgium/@50.503887,4.469936,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Krone",
+      "Pound",
+      "Franc"
+    ]
+  },
+  "population": 11825551,
+  "size": 30518,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Belgium"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "nld",
+        "percentage": 59
+      },
+      {
+        "languageCode": "fra",
+        "percentage": 40
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 393157732896.377,
+    "topExports": [
+      {
+        "productCode": "30",
+        "value": 60469061475.769
+      },
+      {
+        "productCode": "27",
+        "value": 51785304754.659
+      },
+      {
+        "productCode": "87",
+        "value": 44133318930.593
+      },
+      {
+        "productCode": "84",
+        "value": 25805515181.525
+      },
+      {
+        "productCode": "39",
+        "value": 20088953046.152
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/_BBlUZhRzjg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/brugge-bruges-belgium-architecture-5278796/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/H6BtRELIN8U"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/ZPpC98Vus3k"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/gray-and-black-vehicles-parked-beside-road-p0oC-D6rbWs"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/white-and-yellow-concrete-houses-at-daytime-GMpcFjGbnMQ"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:1010_Church_of_Our_Lady_(Bruges)_Photo_by_Giles_Laurent.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3859).jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 58248,
+  "gdpPerCapitaYear": 2025
+}

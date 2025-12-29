@@ -1,0 +1,156 @@
+{
+  "code": "CN",
+  "latitude": 35.86166,
+  "longitude": 104.195397,
+  "name": "China",
+  "names": {
+    "fr": "Chine",
+    "hu": "Kína",
+    "pl": "Chiny",
+    "de": "Volksrepublik China",
+    "ja": "中国",
+    "co": "Cina",
+    "eu": "Txina",
+    "ie": "An tSín"
+  },
+  "flags": [
+    "kz",
+    "hk",
+    "cn",
+    "in",
+    "kg",
+    "bt",
+    "kp",
+    "af"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "af",
+    "bt",
+    "in",
+    "kp",
+    "kg",
+    "la",
+    "mn",
+    "mm",
+    "np",
+    "pk",
+    "ru",
+    "tj",
+    "vn",
+    "mo",
+    "kz",
+    "hk"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/China",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/China/@35.86166,104.195397,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "CNY",
+    "name": "Yuan ",
+    "nameChoices": [
+      "Yen",
+      "Lempira",
+      "Tenge"
+    ]
+  },
+  "population": 1408280000,
+  "size": 9572900,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_China"
+      },
+      {
+        "title": "LingoAce",
+        "url": "https://www.lingoace.com/blog/languages-in-china/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "cmn"
+      },
+      {
+        "languageCode": "yue"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 3379747834884,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 896418621480
+      },
+      {
+        "productCode": "84",
+        "value": 510620751739
+      },
+      {
+        "productCode": "87",
+        "value": 192497286190
+      },
+      {
+        "productCode": "39",
+        "value": 131450677813
+      },
+      {
+        "productCode": "94",
+        "value": 121467533649
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/Pnc2Uxb7PG0"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/yellow-mountains-mountain-ranges-532857/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/zboO0K1WfY4"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/gii7lF4y0WY"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/brown-boat-on-body-of-water-near-buildings-Y-HwuSKt6gM"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/mountain-near-on-body-of-water-photography-8BH_M-53CyA"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Lijiang_Yunnan_China-Naxi-people-carrying-baskets-01.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 13806,
+  "gdpPerCapitaYear": 2025
+}

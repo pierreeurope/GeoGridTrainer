@@ -1,0 +1,112 @@
+{
+  "code": "CK",
+  "latitude": -21.236736,
+  "longitude": -159.777671,
+  "name": "Cook Islands",
+  "names": {
+    "fr": "Îles Cook",
+    "hu": "Cook-szigetek",
+    "nl": "Cookeilanden",
+    "pl": "Wyspy Cooka",
+    "de": "Cookinseln",
+    "ja": "クック諸島",
+    "co": "Isule Cook",
+    "es": "Islas Cook",
+    "pt": "Ilhas Cook",
+    "eu": "Cook Uharteak",
+    "ie": "Oileáin Cook"
+  },
+  "flags": [
+    "tk",
+    "ws",
+    "as",
+    "wf",
+    "to",
+    "pf",
+    "ck",
+    "nu"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "nu",
+    "pf",
+    "as",
+    "ki",
+    "tk"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Cook_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Cook%20Islands/@-21.236736,-159.777671,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "NZD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Nakfa",
+      "Tala",
+      "Pound"
+    ]
+  },
+  "population": 15040,
+  "size": 236,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 86.4
+      },
+      {
+        "languageCode": "mri",
+        "percentage": 76.2
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://www.tripadvisor.com.au/Tourism-g294328-Cook_Islands-Vacations.html"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/palms-tropical-beach-tropical-sand-3242342/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/person-on-boat-at-golden-hour-mz3-0G5VhrQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/people-on-beach-during-daytime-PkgzxrkurRw"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-palm-tree-with-a-half-moon-in-the-sky-ckc9ld5cOSU"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/nullnfull/15857333430/in/photolist-ihXHYU-qanxrZ-iaCugT-i8A2WV-26Hqpyg-24aaPhf-2gTd9ZS-qafYLw-qrCSMP-qrKfYw-qrCQq4-qanjye-6yysxC-q9Qncw-q9Rfh9-q9RgsL-pupKGW-puPQ8S-qpx211-qrD9bp-qpwXud-q9Rpp7-qrkSGd-puq7DL-qp87vC-5RCqF4-6464fg-fyGecb-6HaHX9-2gSKQpm-6WqAof-GUxZke-2gSLpqc-rPTxVW-2pnLsft-2gSKueB-2gSKwBh-25oM7FG-2gSKRke-2oT35Gu-HNw7kM-qredAe-q9XEFr-q9Z85z-puPswW-6ef12D-4LJn7L-228uryW-vK2kN"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2020,
+  "gdpPerCapita": 21994
+}

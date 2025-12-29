@@ -1,0 +1,106 @@
+{
+  "code": "AI",
+  "latitude": 18.220554,
+  "longitude": -63.068615,
+  "name": "Anguilla",
+  "names": {
+    "ja": "アンギラ",
+    "es": "Anguila",
+    "eu": "Aingira",
+    "ie": "Anguilla"
+  },
+  "flags": [
+    "ai",
+    "vg",
+    "dm",
+    "ms",
+    "gp",
+    "vi",
+    "kn",
+    "ag"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "vg",
+    "ag",
+    "vi",
+    "mf",
+    "bl",
+    "sx",
+    "bq"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Anguilla",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Anguilla/@18.220554,-63.068615,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XCD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Somoni",
+      "Peso",
+      "Euro"
+    ]
+  },
+  "population": 15753,
+  "size": 91,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Anguilla"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 88.8
+      },
+      {
+        "languageCode": "spa",
+        "percentage": 5.8
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/mmGdZmFvnrE"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/bay-beach-jetty-boat-anguilla-7233153/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/qVlMhkyp9l8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/DoSGBUN4A9k"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-large-swimming-pool-with-a-view-of-the-ocean-XuI5512ta3g"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-couple-of-lawn-chairs-sitting-on-top-of-a-sandy-beach-rkl4Es1T9gI"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapitaYear": 2020
+}

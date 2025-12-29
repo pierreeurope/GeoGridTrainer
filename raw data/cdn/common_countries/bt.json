@@ -1,0 +1,117 @@
+{
+  "code": "BT",
+  "latitude": 27.514162,
+  "longitude": 90.433601,
+  "name": "Bhutan",
+  "names": {
+    "fr": "Bhoutan",
+    "hu": "Bhután",
+    "ja": "ブータン",
+    "es": "Bután",
+    "pt": "Butão",
+    "co": "Bhutanu",
+    "ie": "An Bhútáin"
+  },
+  "flags": [
+    "th",
+    "bd",
+    "np",
+    "mm",
+    "in",
+    "cn",
+    "bt",
+    "la"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "cn",
+    "in"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Bhutan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Bhutan/@27.514162,90.433601,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BTN",
+    "name": "Ngultrum",
+    "nameChoices": [
+      "Rupee",
+      "Dinar",
+      "Rial"
+    ]
+  },
+  "population": 777486,
+  "size": 47000,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Bhutan"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tsj",
+        "percentage": 28
+      },
+      {
+        "languageCode": "dzo",
+        "percentage": 24
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/ZdwVvRdel8A"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Gasa_Dzong.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/TitqIqZPcIY"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/JoIx9FWaX38"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/houses-on-green-grass-field-under-white-clouds-during-daytime-AnH_qAkPl6s"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-green-grass-field-during-daytime-BWud63Wxs5Y"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Village_in_Bhutan_01.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/mashrik/26744125668/"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4300,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,133 @@
+{
+  "code": "AE",
+  "latitude": 23.424076,
+  "longitude": 53.847818,
+  "name": "United Arab Emirates",
+  "names": {
+    "fr": "Émirats arabes unis",
+    "hu": "Egyesült Arab Emírségek",
+    "nl": "Verenigde Arabische Emiraten",
+    "pl": "Zjednoczone Emiraty Arabskie",
+    "de": "Vereinigte Arabische Emirate",
+    "ja": "アラブ首長国連邦",
+    "co": "Emirati Arabbi Uniti",
+    "es": "Emiratos Árabes Unidos",
+    "pt": "Emirados Árabes Unidos",
+    "eu": "Arabiar Emirerri Batuak",
+    "ie": "Aontas na nÉimíríochtaí Arabacha"
+  },
+  "flags": [
+    "bh",
+    "sa",
+    "kw",
+    "om",
+    "ye",
+    "qa",
+    "ae",
+    "ir"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "om",
+    "sa"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/United_Arab_Emirates",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/United%20Arab%20Emirates/@23.424076,53.847818,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "AED",
+    "name": "Dirham",
+    "nameChoices": [
+      "Dinar",
+      "Riyal",
+      "Pound"
+    ]
+  },
+  "population": 11027129,
+  "size": 83600,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates#:~:text=Common%C2%A0languages,English%5Ba%5D"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 570245383584.532,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 282076795222.039
+      },
+      {
+        "productCode": "71",
+        "value": 90203377276.687
+      },
+      {
+        "productCode": "85",
+        "value": 42277665208.502
+      },
+      {
+        "productCode": "84",
+        "value": 24365671468.569
+      },
+      {
+        "productCode": "99",
+        "value": 18107771314.771
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/Fr6zexbmjmc"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/downtown-dubai-uae-tourism-city-4045035/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/city-during-day-VbDjv8-8ibc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/vehicles-on-desert-during-daytime-nEENSEbLIsY"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-large-building-sitting-on-top-of-a-beach-next-to-a-body-of-water-tKWrQTywzJ8"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/white-and-blue-airplane-on-brown-field-during-daytime-5hz4B8WBLxc"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 49550,
+  "gdpPerCapitaYear": 2025
+}

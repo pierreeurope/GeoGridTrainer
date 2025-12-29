@@ -1,0 +1,105 @@
+{
+  "code": "AS",
+  "latitude": -14.270972,
+  "longitude": -170.132217,
+  "name": "American Samoa",
+  "names": {
+    "fr": "Samoa américaines",
+    "hu": "Amerikai Szamoa",
+    "nl": "Amerikaans-Samoa",
+    "pl": "Samoa Amerykańskie",
+    "de": "Amerikanisch-Samoa",
+    "ja": "アメリカンサモア",
+    "co": "Samoa Americana",
+    "es": "Samoa Americana",
+    "pt": "Samoa Americana",
+    "eu": "Amerikar Samoa",
+    "ie": "Samó na Meiriceá"
+  },
+  "flags": [
+    "nu",
+    "as",
+    "fj",
+    "to",
+    "wf",
+    "ws",
+    "tk",
+    "ki"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "ws",
+    "nu",
+    "tk",
+    "wf"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/American_Samoa",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/American%20Samoa/@-14.270972,-170.132217,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Ariary",
+      "Ngultrum",
+      "Som",
+      "Dollar"
+    ]
+  },
+  "population": 44620,
+  "size": 199,
+  "languageData": {
+    "languageSources": [],
+    "languages": [
+      {
+        "languageCode": "smo",
+        "percentage": 87.9
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 3.3
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:American_Samoa_tramway_remains.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Vatia_from_the_National_Park_of_American_Samoa.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Ofu_Beach_American_Samoa_US_National_Park_Service.jpg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/up70mm/5214165316"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/roger_pringle/6131448556/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/benmiller23/2296800057/"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false
+}

@@ -1,0 +1,154 @@
+{
+  "code": "CD",
+  "latitude": -4.038333,
+  "longitude": 21.758664,
+  "name": "Democratic Republic of the Congo",
+  "names": {
+    "fr": "République démocratique du Congo",
+    "hu": "Kongói Demokratikus Köztársaság (Zaire)",
+    "nl": "Congo-Kinshasa",
+    "pl": "Demokratyczna Republika Konga",
+    "de": "Demokratische Republik Kongo",
+    "ja": "コンゴ民主共和国",
+    "co": "Republica Democratica di u Congo",
+    "es": "República Democrática del Congo",
+    "pt": "República Democrática do Congo",
+    "eu": "Kongoko Errepublika Demokratikoa",
+    "ie": "Poblacht Dhaonlathach an Chongó"
+  },
+  "flags": [
+    "cf",
+    "bi",
+    "cd",
+    "cg",
+    "tz",
+    "ao",
+    "ss",
+    "rw"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "ao",
+    "bi",
+    "cf",
+    "cg",
+    "rw",
+    "ss",
+    "tz",
+    "ug",
+    "zm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Democratic%20Republic%20of%20the%20Congo/@-4.038333,21.758664,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "CDF",
+    "name": "Franc",
+    "nameChoices": [
+      "Guilder",
+      "loti",
+      "Kina"
+    ]
+  },
+  "population": 112832473,
+  "size": 2344858,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_the_Democratic_Republic_of_the_Congo"
+      },
+      {
+        "title": "Translators without Borders",
+        "url": "https://translatorswithoutborders.org/four-national-languages-drc"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "swa",
+        "percentage": 19.89
+      },
+      {
+        "languageCode": "lin",
+        "percentage": 12.9
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 15672479403.41,
+    "topExports": [
+      {
+        "productCode": "74",
+        "value": 12734875792.589
+      },
+      {
+        "productCode": "28",
+        "value": 2153470120.237
+      },
+      {
+        "productCode": "81",
+        "value": 162986778.391
+      },
+      {
+        "productCode": "71",
+        "value": 140848849.642
+      },
+      {
+        "productCode": "26",
+        "value": 139496008.475
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/river-trading-4215417/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixnio.com/travel/classrooms-at-the-lusakela-agriculture-station-democratic-republic-of-congo-africa"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/cars-on-road-under-blue-sky-and-white-clouds-during-daytime-StJWD4ci8wY"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/55055975@N07/10346895643"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/baronreznik/35258729276/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-bus-parked-in-front-of-a-building-dJ8uDfnaZFc"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Avenue_du_Colonel.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:La_paroisse_cath%C3%A9drale_de_Bukavu.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 742,
+  "gdpPerCapitaYear": 2025
+}

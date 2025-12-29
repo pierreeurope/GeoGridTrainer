@@ -1,0 +1,147 @@
+{
+  "code": "AU",
+  "latitude": -25.274398,
+  "longitude": 133.775136,
+  "name": "Australia",
+  "names": {
+    "fr": "Australie",
+    "hu": "Ausztrália",
+    "nl": "Australië",
+    "de": "Australien",
+    "ja": "オーストラリア",
+    "pt": "Austrália",
+    "ie": "An Astráil"
+  },
+  "flags": [
+    "nz",
+    "cx",
+    "sb",
+    "au",
+    "pg",
+    "nc",
+    "tl",
+    "id"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "tl",
+    "pg",
+    "sb",
+    "nc",
+    "nz",
+    "id"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Australia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Australia/@-25.274398,133.775136,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "AUD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Pound",
+      "Metical",
+      "Euro"
+    ]
+  },
+  "population": 28171900,
+  "size": 7741220,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Australia"
+      },
+      {
+        "title": "Australian Bureau of Statistics",
+        "url": "https://www.abs.gov.au/statistics/people/people-and-communities/cultural-diversity-census/2021"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 72
+      },
+      {
+        "languageCode": "cmn",
+        "percentage": 2.7
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 369235124159.052,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 129171296046.456
+      },
+      {
+        "productCode": "26",
+        "value": 103636755026.15
+      },
+      {
+        "productCode": "71",
+        "value": 20060925272.969
+      },
+      {
+        "productCode": "10",
+        "value": 12863411421.604
+      },
+      {
+        "productCode": "25",
+        "value": 12815697510.315
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/WEtXkeIlMoM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/australia-uluru-ayers-rock-mountain-630219/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-and-trees-under-blue-sky-during-daytime-EccMAZtkS7g"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/o3TZx8_j7FE"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-concrete-buildings-and-bridge-beside-ocean-under-cloudy-sky-J61Sh5YrQho"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/white-bridge-across-city-buildings--gmtAa0Q5MI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:View_of_Melbourne_skyscrapers_from_Victoria_St_20230221_1.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Albury_railway_station,_Australia.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 65946,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,136 @@
+{
+  "code": "AM",
+  "latitude": 40.069099,
+  "longitude": 45.038189,
+  "name": "Armenia",
+  "names": {
+    "fr": "Arménie",
+    "hu": "Örményország",
+    "nl": "Armenië",
+    "de": "Armenien",
+    "ja": "アルメニア",
+    "pt": "Armênia",
+    "ie": "An Airméin"
+  },
+  "flags": [
+    "sy",
+    "tr",
+    "am",
+    "lb",
+    "ir",
+    "ge",
+    "iq",
+    "az"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "az",
+    "ge",
+    "ir",
+    "tr"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Armenia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Armenia/@40.069099,45.038189,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "AMD",
+    "name": "Dram",
+    "nameChoices": [
+      "Manat",
+      "Lari",
+      "Dinar"
+    ]
+  },
+  "population": 3081100,
+  "size": 29800,
+  "languageData": {
+    "languageSources": [],
+    "languages": [
+      {
+        "languageCode": "xcl",
+        "percentage": 97.9
+      },
+      {
+        "languageCode": "kmr",
+        "percentage": 1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 8371154741.16,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 3211625645.85
+      },
+      {
+        "productCode": "85",
+        "value": 988162297.66
+      },
+      {
+        "productCode": "26",
+        "value": 802856769.38
+      },
+      {
+        "productCode": "87",
+        "value": 517145801.31
+      },
+      {
+        "productCode": "24",
+        "value": 380656811.81
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:-2025.05_%D0%A2%D0%B0%D1%82%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_1.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/armenia-yerevan-ararat-city-3721418/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/h5TdClJhDMc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/AjnjJNgD15A"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photo-of-a-village-during-daytime-VQ07UveM3-U"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-green-grass-field-during-daytime-ilBjvU0wxH4"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Zvartnots_Cathedral_ruins_in_Vagharshapat_2016.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Monasterio_de_Tatev,_Armenia,_2016-10-01,_DD_83-85_HDR.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 8969,
+  "gdpPerCapitaYear": 2025
+}

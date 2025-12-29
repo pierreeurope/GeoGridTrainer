@@ -1,0 +1,143 @@
+{
+  "code": "BG",
+  "latitude": 42.733883,
+  "longitude": 25.48583,
+  "name": "Bulgaria",
+  "names": {
+    "fr": "Bulgarie",
+    "hu": "Bulgária",
+    "nl": "Bulgarije",
+    "pl": "Bułgaria",
+    "de": "Bulgarien",
+    "ja": "ブルガリア",
+    "pt": "Bulgária",
+    "ie": "An Bhulgáir"
+  },
+  "flags": [
+    "gr",
+    "bg",
+    "rs",
+    "xk",
+    "tr",
+    "mk",
+    "al",
+    "ro"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "gr",
+    "mk",
+    "ro",
+    "rs",
+    "tr"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Bulgaria",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Bulgaria/@42.733883,25.48583,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BGN",
+    "name": "Lev",
+    "nameChoices": [
+      "Hryvnia",
+      "Euro",
+      "Leu"
+    ]
+  },
+  "population": 6437360,
+  "size": 110994,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Bulgaria"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "bul",
+        "percentage": 85.2
+      },
+      {
+        "languageCode": "tur",
+        "percentage": 9.12
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 47900556830.376,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 5384906994.238
+      },
+      {
+        "productCode": "84",
+        "value": 3879227938.385
+      },
+      {
+        "productCode": "27",
+        "value": 3786898732.459
+      },
+      {
+        "productCode": "74",
+        "value": 3707050675.725
+      },
+      {
+        "productCode": "10",
+        "value": 2300940795.53
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/UPoSvgmFKmo"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/scenic-mountain-landscape-blue-2014114/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/j1OVl4P_BQQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/gF8aHM445P4"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-blue-building-with-a-tree-in-front-of-it-SmmdNM3V8O0"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-canyon-E2pdnRw0qaI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:20100213_Zlatograd_Bulgaria_3.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Karandila.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 18522,
+  "gdpPerCapitaYear": 2025
+}

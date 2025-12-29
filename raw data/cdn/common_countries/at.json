@@ -1,0 +1,146 @@
+{
+  "code": "AT",
+  "latitude": 47.516231,
+  "longitude": 14.550072,
+  "name": "Austria",
+  "names": {
+    "fr": "Autriche",
+    "hu": "Ausztria",
+    "nl": "Oostenrijk",
+    "de": "Österreich",
+    "ja": "オーストリア",
+    "pt": "Áustria",
+    "co": "Austrìa",
+    "ie": "An Ostair"
+  },
+  "flags": [
+    "hu",
+    "it",
+    "de",
+    "li",
+    "at",
+    "sk",
+    "cz",
+    "si"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "cz",
+    "de",
+    "hu",
+    "it",
+    "li",
+    "sk",
+    "si",
+    "ch"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Austria",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Austria/@47.516231,14.550072,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Franc",
+      "Dollar",
+      "Forint"
+    ]
+  },
+  "population": 9027999,
+  "size": 83859,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "deu",
+        "percentage": 88.6
+      },
+      {
+        "languageCode": "tur",
+        "percentage": 2.3
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 216176589470.172,
+    "topExports": [
+      {
+        "productCode": "84",
+        "value": 37256421126.211
+      },
+      {
+        "productCode": "87",
+        "value": 21919197576.095
+      },
+      {
+        "productCode": "85",
+        "value": 20230512343.145
+      },
+      {
+        "productCode": "30",
+        "value": 17588010129.896
+      },
+      {
+        "productCode": "72",
+        "value": 9334218099.178
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/3wFRlwS91yk"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/mountains-alps-trees-1244132/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/ilBSVoU1mGs"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/yWkeQZ_-IdU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-body-of-water-8jp2a2hc5xs"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/photography-of-house-beside-body-of-water-tV06QVJXVxU"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Hallst%C3%A4tter_See_von_Obersee_am_17.1.2025_%282%29.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:AUT_Hall_in_Tirol,_Burg_Hasegg_007.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 58190,
+  "gdpPerCapitaYear": 2025
+}

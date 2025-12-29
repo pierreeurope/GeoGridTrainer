@@ -1,0 +1,147 @@
+{
+  "code": "BD",
+  "latitude": 23.684994,
+  "longitude": 90.356331,
+  "name": "Bangladesh",
+  "names": {
+    "hu": "Banglades",
+    "pl": "Bangladesz",
+    "de": "Bangladesch",
+    "ja": "バングラデシュ",
+    "es": "Bangladés",
+    "ie": "An Bhanglaidéis"
+  },
+  "flags": [
+    "bt",
+    "bd",
+    "th",
+    "mm",
+    "in",
+    "la",
+    "cn",
+    "np"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "in",
+    "mm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Bangladesh",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Bangladesh/@23.684994,90.356331,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BDT",
+    "name": "Taka",
+    "nameChoices": [
+      "Rial",
+      "Leu",
+      "Pa'anga",
+      "Taka"
+    ]
+  },
+  "population": 171466990,
+  "size": 143998,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Bangladesh"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      },
+      {
+        "title": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/Bangladesh_Languages#:~:text=The%20predominant%20language%20of%20Bangladesh,a%20significant%20heritage%20in%20Bangladesh."
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ben",
+        "percentage": 98.8
+      },
+      {
+        "languageCode": "ccp",
+        "percentage": 1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2015,
+    "totalValue": 31734162419,
+    "topExports": [
+      {
+        "productCode": "62",
+        "value": 13765225603
+      },
+      {
+        "productCode": "61",
+        "value": 12767099522
+      },
+      {
+        "productCode": "63",
+        "value": 818596119
+      },
+      {
+        "productCode": "64",
+        "value": 696816375
+      },
+      {
+        "productCode": "53",
+        "value": 681185497
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/DWoOJ2C2uns"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/bangladesh-lake-boat-green-boat-3543466/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/AMqrW1Sxx3g"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/gc8IPK97-hE"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-busy-city-street-with-lots-of-traffic-8yHHqi3d0pM"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-field-with-a-body-of-water-in-the-background-swAnrMQlGx8"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Jaflong_Sylhet.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Children_playing_in_the_rice_mill_(edited).jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2730,
+  "gdpPerCapitaYear": 2025
+}

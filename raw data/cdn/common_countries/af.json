@@ -1,0 +1,137 @@
+{
+  "code": "AF",
+  "latitude": 33.93911,
+  "longitude": 67.709953,
+  "name": "Afghanistan",
+  "names": {
+    "hu": "Afganisztán",
+    "pl": "Afganistan",
+    "ja": "アフガニスタン",
+    "es": "Afganistán",
+    "pt": "Afeganistão",
+    "co": "Afganistanu",
+    "eu": "Afganistan",
+    "ie": "An Afganastáin"
+  },
+  "flags": [
+    "cn",
+    "uz",
+    "ir",
+    "af",
+    "tm",
+    "kg",
+    "pk",
+    "tj"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "cn",
+    "ir",
+    "pk",
+    "tj",
+    "tm",
+    "uz"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Afghanistan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Afghanistan/@33.93911,67.709953,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "AFN",
+    "name": "Afghani",
+    "nameChoices": [
+      "Franc",
+      "Euro",
+      "Pound",
+      "Afghani"
+    ]
+  },
+  "population": 35000000,
+  "size": 652090,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Afghanistan"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "prs",
+        "percentage": 49
+      },
+      {
+        "languageCode": "pus",
+        "percentage": 40
+      }
+    ]
+  },
+  "productData": {
+    "year": 2019,
+    "totalValue": 870488512.46,
+    "topExports": [
+      {
+        "productCode": "08",
+        "value": 386982809.4
+      },
+      {
+        "productCode": "13",
+        "value": 115057325.86
+      },
+      {
+        "productCode": "07",
+        "value": 80752700.44
+      },
+      {
+        "productCode": "27",
+        "value": 69573174.51
+      },
+      {
+        "productCode": "09",
+        "value": 56291790.72
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/TLKCx6mVIHo"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/afghanistan-houses-homes-buildings-79493/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/72ccNLMJ-sU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/8A7M2u4G4d0"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-lSalVcf9-IU"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-large-body-of-water-with-a-mountain-in-the-background-s0-pTq-FjYc"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 411,
+  "gdpPerCapitaYear": 2023
+}

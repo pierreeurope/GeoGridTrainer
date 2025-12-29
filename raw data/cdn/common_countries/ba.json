@@ -1,0 +1,144 @@
+{
+  "code": "BA",
+  "latitude": 43.915886,
+  "longitude": 17.679076,
+  "name": "Bosnia and Herzegovina",
+  "names": {
+    "fr": "Bosnie-Herzégovine",
+    "hu": "Bosznia-Hercegovina",
+    "nl": "Bosnië en Herzegovina",
+    "pl": "Bośnia i Hercegowina",
+    "de": "Bosnien und Herzegowina",
+    "ja": "ボスニア・ヘルツェゴビナ",
+    "co": "Bosnia è Erzegovina",
+    "es": "Bosnia y Herzegovina",
+    "pt": "Bósnia e Herzegovina",
+    "eu": "Bosnia eta Herzegovina",
+    "ie": "An Bhoisnia agus an Heirseagaivéin"
+  },
+  "flags": [
+    "xk",
+    "hu",
+    "ba",
+    "rs",
+    "si",
+    "me",
+    "hr",
+    "al"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "hr",
+    "me",
+    "rs"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Bosnia%20and%20Herzegovina/@43.915886,17.679076,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BAM",
+    "name": "Marka",
+    "nameChoices": [
+      "Dinar",
+      "Euro",
+      "Leu"
+    ]
+  },
+  "population": 2904256,
+  "size": 51197,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "bos",
+        "percentage": 52.86
+      },
+      {
+        "languageCode": "srp",
+        "percentage": 30.76
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 9228185850.185,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 878794247.199
+      },
+      {
+        "productCode": "85",
+        "value": 785867562.686
+      },
+      {
+        "productCode": "84",
+        "value": 728168989.337
+      },
+      {
+        "productCode": "94",
+        "value": 722071109.897
+      },
+      {
+        "productCode": "73",
+        "value": 677890739.784
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:View_of_Trebinje_(51542998550).jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Sarajevo_City_Panorama.JPG"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/yvlJyrU4Fq4"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/b9pHmKun4YY"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-under-blue-sky-during-daytime-agZWht6xj-A"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/houses-near-river-and-trees-during-daytime-Bmf8Wi1VOh4"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Puente_Arslanagi%C4%87,_Trebinje,_Bosnia_y_Herzegovina,_2014-04-14,_DD_24.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:5.Trebinje.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 9659,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,142 @@
+{
+  "code": "AR",
+  "latitude": -38.416097,
+  "longitude": -63.616672,
+  "name": "Argentina",
+  "names": {
+    "fr": "Argentine",
+    "hu": "Argentína",
+    "nl": "Argentinië",
+    "pl": "Argentyna",
+    "de": "Argentinien",
+    "ja": "アルゼンチン",
+    "ie": "An Airgintín"
+  },
+  "flags": [
+    "py",
+    "fk",
+    "ar",
+    "uy",
+    "bo",
+    "gs",
+    "cl",
+    "br"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "bo",
+    "br",
+    "cl",
+    "py",
+    "uy"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Argentina",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Argentina/@-38.416097,-63.616672,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "ARS",
+    "name": "Peso",
+    "nameChoices": [
+      "Bolívar",
+      "Dollar",
+      "Dirham"
+    ]
+  },
+  "population": 46735004,
+  "size": 2780400,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Argentina"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 98
+      },
+      {
+        "languageCode": "ita",
+        "percentage": 1.5
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 66788515986.35,
+    "topExports": [
+      {
+        "productCode": "23",
+        "value": 8630613557.12
+      },
+      {
+        "productCode": "10",
+        "value": 8618150421.12
+      },
+      {
+        "productCode": "87",
+        "value": 8247645826.67
+      },
+      {
+        "productCode": "27",
+        "value": 6380764486.74
+      },
+      {
+        "productCode": "15",
+        "value": 5697830819.97
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/HGMYZ4scFkY"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/landscape-truck-andes-dessert-74572/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/2hFmlbMFD14"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/cUL8U0kAxrg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-city-under-cloudy-sky-during-daytime-z0A_IsZYXfM"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/river-in-the-middle-of-mountain-under-sky-yLyDmpfivus"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:HMS_Justice_W140_(St._Christopher).jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:160_-_Fitz_Roy_-_Janvier_2010.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 14362,
+  "gdpPerCapitaYear": 2025
+}

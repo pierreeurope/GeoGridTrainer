@@ -1,0 +1,141 @@
+{
+  "code": "BW",
+  "latitude": -22.328474,
+  "longitude": 24.684866,
+  "name": "Botswana",
+  "names": {
+    "ja": "ボツワナ",
+    "es": "Botsuana",
+    "ie": "An Bhotsuáin"
+  },
+  "flags": [
+    "zw",
+    "na",
+    "mz",
+    "ls",
+    "bw",
+    "sz",
+    "za",
+    "zm"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "na",
+    "za",
+    "zm",
+    "zw"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Botswana",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Botswana/@-22.328474,24.684866,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BWP",
+    "name": "Pula",
+    "nameChoices": [
+      "Dollar",
+      "Dinar",
+      "Cedi"
+    ]
+  },
+  "population": 2359609,
+  "size": 581730,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Botswana"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tsn",
+        "percentage": 73.3
+      },
+      {
+        "languageCode": "kck",
+        "percentage": 7.4
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 5502716523.754,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 4357365454.981
+      },
+      {
+        "productCode": "26",
+        "value": 507903421.548
+      },
+      {
+        "productCode": "85",
+        "value": 181427017.419
+      },
+      {
+        "productCode": "28",
+        "value": 56491049.804
+      },
+      {
+        "productCode": "01",
+        "value": 45727525.564
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/vcN7_lk91rM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/botswana-baobab-baobab-tree-694485/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Giraffe_crossing_a_road_in_Botswana.jpg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/0K_ZvuPzexI"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-river-running-through-a-lush-green-field-jk_2Ak2z3JY"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-flock-of-birds-standing-on-the-shore-of-a-lake-fG9ay5fcIYI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Baobab_%28Adansonia_digitata%29,_parque_nacional_Makgadikgadi_Pans,_Botsuana,_2018-07-30,_DD_03-08_PAN.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Kalahari_PICT0036.JPG"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 7859,
+  "gdpPerCapitaYear": 2024
+}

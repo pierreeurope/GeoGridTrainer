@@ -1,0 +1,138 @@
+{
+  "code": "CH",
+  "latitude": 46.818188,
+  "longitude": 8.227512,
+  "name": "Switzerland",
+  "names": {
+    "fr": "Suisse",
+    "hu": "Svájc",
+    "nl": "Zwitserland",
+    "pl": "Szwajcaria",
+    "de": "Schweiz",
+    "ja": "スイス",
+    "co": "Svizzera",
+    "es": "Suiza",
+    "pt": "Suíça",
+    "eu": "Suitza",
+    "ie": "An Eilvéis"
+  },
+  "flags": [
+    "lu",
+    "ch",
+    "it",
+    "at",
+    "li",
+    "fr",
+    "de",
+    "mc"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "at",
+    "fr",
+    "de",
+    "it",
+    "li"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Switzerland",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Switzerland/@46.818188,8.227512,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "CHF",
+    "name": "Franc",
+    "nameChoices": [
+      "Dollar",
+      "Krona",
+      "Euro"
+    ]
+  },
+  "population": 9060598,
+  "size": 41284,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "deu",
+        "percentage": 62.1
+      },
+      {
+        "languageCode": "fra",
+        "percentage": 22.8
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 419922543423.509,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 126982244357.539
+      },
+      {
+        "productCode": "30",
+        "value": 99011024931.499
+      },
+      {
+        "productCode": "29",
+        "value": 40302158392.106
+      },
+      {
+        "productCode": "91",
+        "value": 29759128424.711
+      },
+      {
+        "productCode": "84",
+        "value": 25839567468.557
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/BYPMtjYMEyk"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/buildings-city-architecture-bern-6262595/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/houses-near-road-and-mountain-under-blue-sky-during-daytime-photography-SpEQIUw7_TQ"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:CH.ZH.Zurich_Hotel_The-Dolder-Grand_3x2-R_15K.jpg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:SBB_RABDe_500_bei_Twann.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 111047,
+  "gdpPerCapitaYear": 2025
+}

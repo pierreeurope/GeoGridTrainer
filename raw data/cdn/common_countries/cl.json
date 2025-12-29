@@ -1,0 +1,142 @@
+{
+  "code": "CL",
+  "latitude": -35.675147,
+  "longitude": -71.542969,
+  "name": "Chile",
+  "names": {
+    "fr": "Chili",
+    "nl": "Chili",
+    "ja": "チリ",
+    "co": "Cile",
+    "eu": "Txile",
+    "ie": "An tSile"
+  },
+  "flags": [
+    "uy",
+    "py",
+    "pe",
+    "ar",
+    "bo",
+    "br",
+    "cl",
+    "fk"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "ar",
+    "bo",
+    "pe"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Chile",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Chile/@-35.675147,-71.542969,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "CLP",
+    "name": "Peso",
+    "nameChoices": [
+      "Real",
+      "Dollar",
+      "Sol"
+    ]
+  },
+  "population": 19629588,
+  "size": 756626,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Chile"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 99.5
+      },
+      {
+        "languageCode": "arn"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 94935525007.931,
+    "topExports": [
+      {
+        "productCode": "26",
+        "value": 28545774069.981
+      },
+      {
+        "productCode": "74",
+        "value": 19717825257.646
+      },
+      {
+        "productCode": "28",
+        "value": 9553806728.795
+      },
+      {
+        "productCode": "03",
+        "value": 7305831977.495
+      },
+      {
+        "productCode": "08",
+        "value": 7072937682.951
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/H6KJ2D0LphU"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/chile-mountains-lake-landscape-7430434/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/GU02I9D60dQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/anvAqsSbtms"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photo-of-city-Y9Wp5keJsn8"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/brown-grass-on-brown-soil-during-day-time-612hZnDoDE4"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Miscanti_Lagoon_San_Pedro_de_Atacama_Chile_Luca_Galuzzi_2006.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:SQM_GE_289A_Boxcab_Carmelita_-_Reverso.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 17936,
+  "gdpPerCapitaYear": 2024
+}

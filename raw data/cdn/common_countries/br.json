@@ -1,0 +1,155 @@
+{
+  "code": "BR",
+  "latitude": -14.235004,
+  "longitude": -51.92528,
+  "name": "Brazil",
+  "names": {
+    "fr": "Brésil",
+    "hu": "Brazília",
+    "nl": "Brazilië",
+    "pl": "Brazylia",
+    "de": "Brasilien",
+    "ja": "ブラジル",
+    "co": "Brasile",
+    "es": "Brasil",
+    "pt": "Brasil",
+    "eu": "Brasil",
+    "ie": "An Bhrasaíl"
+  },
+  "flags": [
+    "py",
+    "gf",
+    "pe",
+    "ar",
+    "bo",
+    "co",
+    "gy",
+    "br"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "ar",
+    "bo",
+    "co",
+    "gy",
+    "py",
+    "pe",
+    "sr",
+    "uy",
+    "ve",
+    "gf"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Brazil",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Brazil/@-14.235004,-51.92528,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BRL",
+    "name": "Real",
+    "nameChoices": [
+      "Dollar",
+      "Ouguiya",
+      "Peso"
+    ]
+  },
+  "population": 213421037,
+  "size": 8515767,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Brazil"
+      },
+      {
+        "title": "WorldAtlas",
+        "url": "https://www.worldatlas.com/articles/what-languages-are-spoken-in-brazil.html"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "por",
+        "percentage": 97.9
+      },
+      {
+        "languageCode": "deu",
+        "percentage": 1.9
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 339695766008,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 55165415512
+      },
+      {
+        "productCode": "12",
+        "value": 54032770158
+      },
+      {
+        "productCode": "26",
+        "value": 35053890746
+      },
+      {
+        "productCode": "02",
+        "value": 22002298535
+      },
+      {
+        "productCode": "17",
+        "value": 15982288941
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/WjvrLSTkRck"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/rio-de-janeiro-brazil-travel-rio-4566312/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/QaWSsUSJMbo"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/V7jzq-Zgrvo"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/birds-eye-photography-of-city-near-trees-JesYw3Z-vHk"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-city-with-many-buildings-and-a-hill-in-the-background-rMJquL0_Qhk"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Amanhecer_no_Hercules_--.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Historical_Center_of_Paraty_Part3_078.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 9964,
+  "gdpPerCapitaYear": 2025
+}

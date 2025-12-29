@@ -1,0 +1,135 @@
+{
+  "code": "BI",
+  "latitude": -3.373056,
+  "longitude": 29.918886,
+  "name": "Burundi",
+  "names": {
+    "ja": "ブルンジ",
+    "ie": "An Bhurúin"
+  },
+  "flags": [
+    "zm",
+    "ss",
+    "cd",
+    "tz",
+    "ug",
+    "ke",
+    "bi",
+    "rw"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "cd",
+    "tz",
+    "rw"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Burundi",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Burundi/@-3.373056,29.918886,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BIF",
+    "name": "Franc",
+    "nameChoices": [
+      "Kyat",
+      "Pound",
+      "Dong",
+      "Franc"
+    ]
+  },
+  "population": 14151540,
+  "size": 27834,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Burundi"
+      },
+      {
+        "title": "WorldAtlas",
+        "url": "https://www.worldatlas.com/articles/what-languages-are-spoken-in-burundi.html"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "run",
+        "percentage": 98
+      },
+      {
+        "languageCode": "fra"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 207868668.533,
+    "topExports": [
+      {
+        "productCode": "09",
+        "value": 77546129.826
+      },
+      {
+        "productCode": "71",
+        "value": 51899174.082
+      },
+      {
+        "productCode": "24",
+        "value": 10285463.644
+      },
+      {
+        "productCode": "22",
+        "value": 10285446.333
+      },
+      {
+        "productCode": "11",
+        "value": 9341208.765
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/wilderness-africa-nature-scenic-2434470/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/burundi-african-gitega-6878378/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-grassy-field-with-trees-and-mountains-in-the-background-ne5VdPhGRu0"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-red-and-white-house-with-a-balcony-YlzfGexgBX0"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/counterculturecoffee/7487178892/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-lush-green-hillside-covered-in-lots-of-trees-UA_RKy_75yM"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://www.flickr.com/photos/counterculturecoffee/5468908564/"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 489,
+  "gdpPerCapitaYear": 2025
+}

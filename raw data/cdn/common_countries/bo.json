@@ -1,0 +1,147 @@
+{
+  "code": "BO",
+  "latitude": -16.290154,
+  "longitude": -63.588653,
+  "name": "Bolivia",
+  "names": {
+    "fr": "Bolivie",
+    "hu": "Bolívia",
+    "pl": "Boliwia",
+    "de": "Bolivien",
+    "ja": "ボリビア",
+    "co": "Bolivia (Statu plurinaziunale di)",
+    "pt": "Bolívia",
+    "ie": "An Bholaiv"
+  },
+  "flags": [
+    "ar",
+    "bo",
+    "br",
+    "cl",
+    "ec",
+    "py",
+    "pe",
+    "uy"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "ar",
+    "br",
+    "cl",
+    "py",
+    "pe"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Bolivia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Bolivia/@-16.290154,-63.588653,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BOB",
+    "name": "Boliviano",
+    "nameChoices": [
+      "Pound",
+      "Sol",
+      "Peso"
+    ]
+  },
+  "population": 11365333,
+  "size": 1098581,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Bolivia"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 68.1
+      },
+      {
+        "languageCode": "que",
+        "percentage": 17.2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 10918688057.06,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 2614815447.62
+      },
+      {
+        "productCode": "26",
+        "value": 2524449791.93
+      },
+      {
+        "productCode": "27",
+        "value": 2133130100.52
+      },
+      {
+        "productCode": "23",
+        "value": 960223607.29
+      },
+      {
+        "productCode": "15",
+        "value": 693668434.74
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/Y_Z-ltvMjdg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/desert-landscape-sand-mountain-4388204/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/8Fs2u-4SKrs"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/NGjDM-XBc-c"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-mountain-range-from-a-distance-frymIuncA34"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/brown-rock-on-beach-pDgHGX0lxVs"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Bolivia_9.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Lama_glama_Laguna_Colorada_2.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4525,
+  "gdpPerCapitaYear": 2025
+}

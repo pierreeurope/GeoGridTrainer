@@ -1,0 +1,143 @@
+{
+  "code": "BJ",
+  "latitude": 9.30769,
+  "longitude": 2.315834,
+  "name": "Benin",
+  "names": {
+    "fr": "Bénin",
+    "ja": "ベナン",
+    "es": "Benín",
+    "co": "Beninu",
+    "ie": "Beinin"
+  },
+  "flags": [
+    "tg",
+    "bf",
+    "st",
+    "ne",
+    "gh",
+    "bj",
+    "ng",
+    "ci"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "bf",
+    "ne",
+    "ng",
+    "tg"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Benin",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Benin/@9.30769,2.315834,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XOF",
+    "name": "Franc",
+    "nameChoices": [
+      "Dollar",
+      "Kuna",
+      "Shilling"
+    ]
+  },
+  "population": 13754688,
+  "size": 112622,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Benin"
+      },
+      {
+        "title": "Translators without Borders",
+        "url": "https://translatorswithoutborders.org/language-data-for-benin"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fon",
+        "percentage": 20
+      },
+      {
+        "languageCode": "bba",
+        "percentage": 9
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 1052210913.543,
+    "topExports": [
+      {
+        "productCode": "52",
+        "value": 515518450.595
+      },
+      {
+        "productCode": "12",
+        "value": 131785863.55
+      },
+      {
+        "productCode": "08",
+        "value": 116830288.797
+      },
+      {
+        "productCode": "23",
+        "value": 49991194.481
+      },
+      {
+        "productCode": "72",
+        "value": 46416833.274
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/benign-africa-child-black-2223164/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/benin-lake-africa-water-boat-2222345/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/eIkHhNyAqqQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/d3btU_HGuAU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/map-WLblwP3mfWg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/brown-bridge-on-sunrise-tqkzjhnI9i8"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Benin_village_on_water_Ganvi%C3%A9.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Mono_river%27s_lagoon_in_Grand-Popo,_Benin.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1449,
+  "gdpPerCapitaYear": 2023
+}

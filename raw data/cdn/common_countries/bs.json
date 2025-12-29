@@ -1,0 +1,140 @@
+{
+  "code": "BS",
+  "latitude": 25.03428,
+  "longitude": -77.39628,
+  "name": "Bahamas",
+  "names": {
+    "hu": "Bahama-szigetek",
+    "nl": "Bahama's",
+    "pl": "Bahamy",
+    "ja": "バハマ",
+    "eu": "Bahamak",
+    "ie": "Na Bahámaí"
+  },
+  "flags": [
+    "jm",
+    "bs",
+    "ky",
+    "ht",
+    "tc",
+    "cu",
+    "do",
+    "pr"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "cu",
+    "tc",
+    "ht",
+    "us"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Bahamas",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Bahamas/@25.03428,-77.39628,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "BSD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Shilling",
+      "Real",
+      "Peso"
+    ]
+  },
+  "population": 412628,
+  "size": 13878,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Bahamas"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "bah",
+        "percentage": 75
+      },
+      {
+        "languageCode": "hat",
+        "percentage": 25
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 574236512,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 161075838
+      },
+      {
+        "productCode": "49",
+        "value": 111183403
+      },
+      {
+        "productCode": "03",
+        "value": 95636040
+      },
+      {
+        "productCode": "39",
+        "value": 35007170
+      },
+      {
+        "productCode": "25",
+        "value": 30200111
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/xa-fv2RQCPY"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/bahamas-lighthouse-caribbean-sea-783799/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/hpZh7Pvs9mk"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/A6bX1G3zuMA"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/white-lighthouse-on-brown-rock-formation-on-sea-during-daytime-T8mbim7bbOg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/man-standing-on-white-and-blue-rock-formation-near-body-of-water-during-daytime-cRQYPtbLLew"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon.JPG"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Welcome_Pavillon,_Ocean_Cay_MSC_Marine_Reserve_(March_12,_2024)_as_seen_from_the_cruise,_facing_east.jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapita": 35257,
+  "gdpPerCapitaYear": 2024
+}
