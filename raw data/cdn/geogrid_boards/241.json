@@ -1,0 +1,194 @@
+{
+  "grid_id": "241",
+  "rows": [
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    },
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter B",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Bosnia and Herzegovina",
+      "Canada",
+      "Chile",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Lebanon",
+      "Liechtenstein",
+      "Luxembourg",
+      "Mexico",
+      "Moldova",
+      "Netherlands",
+      "Norway",
+      "Palestine",
+      "Sweden",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Cambodia",
+      "Canada",
+      "Chile",
+      "Denmark",
+      "Ecuador",
+      "Eritrea",
+      "Ghana",
+      "Honduras",
+      "Hong Kong",
+      "Indonesia",
+      "Kuwait",
+      "Lebanon",
+      "Liberia",
+      "Mexico",
+      "Mongolia",
+      "Morocco",
+      "Nicaragua",
+      "North Korea",
+      "Oman",
+      "Sierra Leone",
+      "Somalia",
+      "Togo",
+      "United Arab Emirates",
+      "Uruguay",
+      "Venezuela",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Bangladesh",
+      "Belize",
+      "Bhutan",
+      "Bosnia and Herzegovina",
+      "Burundi"
+    ],
+    "match_box_4": [
+      "Åland",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Bouvet Island",
+      "Cuba",
+      "Cyprus",
+      "Faroe Islands",
+      "Greenland",
+      "Haiti",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Saint Pierre and Miquelon",
+      "Svalbard and Jan Mayen",
+      "Turks and Caicos Islands",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Cuba",
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Philippines",
+      "Singapore",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Bahamas",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Brunei"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Bouvet Island",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "Monaco",
+      "Norfolk Island",
+      "Palestine",
+      "Saint Pierre and Miquelon",
+      "Svalbard and Jan Mayen",
+      "Turks and Caicos Islands",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Bangladesh",
+      "Bolivia",
+      "Cambodia",
+      "Democratic Republic of the Congo",
+      "Guinea",
+      "Honduras",
+      "Liberia",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Nicaragua",
+      "Oman",
+      "Republic of the Congo",
+      "Rwanda",
+      "Sierra Leone",
+      "Somalia",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Bailiwick of Guernsey",
+      "Bangladesh",
+      "Belize",
+      "Benin",
+      "Bhutan",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Brunei"
+    ]
+  }
+}

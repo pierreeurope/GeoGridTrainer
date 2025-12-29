@@ -1,0 +1,184 @@
+{
+  "grid_id": "244",
+  "rows": [
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "multiple_time_zones",
+      "name": "Has more than 1 time zone",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 100k",
+      "variantId": 1
+    },
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Chile",
+      "Costa Rica",
+      "Cuba",
+      "Czechia",
+      "France",
+      "Iceland",
+      "Laos",
+      "Liberia",
+      "Luxembourg",
+      "Nepal",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Norway",
+      "Panama",
+      "Puerto Rico",
+      "Russia",
+      "Slovakia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Cuba",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iceland",
+      "Mayotte",
+      "New Zealand",
+      "Puerto Rico",
+      "Samoa",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "United Kingdom",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Chile",
+      "Costa Rica",
+      "Czechia",
+      "France",
+      "Iceland",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Taiwan",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Angola",
+      "Bhutan",
+      "Brazil",
+      "Brunei",
+      "Canada",
+      "Cyprus",
+      "France",
+      "Greece",
+      "Guinea",
+      "Guyana",
+      "Israel",
+      "Jordan",
+      "Kosovo",
+      "Kuwait",
+      "Latvia",
+      "Malawi",
+      "Mexico",
+      "Norway",
+      "Panama",
+      "Poland",
+      "Russia",
+      "Rwanda",
+      "Serbia",
+      "Sweden",
+      "Taiwan",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Brunei",
+      "Cyprus",
+      "Jersey",
+      "Taiwan",
+      "Tuvalu"
+    ],
+    "match_box_6": [
+      "Bhutan",
+      "Canada",
+      "Cyprus",
+      "France",
+      "Israel",
+      "Latvia",
+      "Norway",
+      "Poland",
+      "Rwanda",
+      "Sweden",
+      "Taiwan"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "France",
+      "French Polynesia",
+      "Indonesia",
+      "Mexico",
+      "Mongolia",
+      "New Zealand",
+      "Papua New Guinea",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Greenland",
+      "Indonesia",
+      "Kiribati",
+      "New Zealand",
+      "Papua New Guinea"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "France",
+      "New Zealand",
+      "Portugal",
+      "Spain",
+      "United States of America"
+    ]
+  }
+}

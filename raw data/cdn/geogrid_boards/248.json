@@ -1,0 +1,189 @@
+{
+  "grid_id": "248",
+  "rows": [
+    {
+      "id": "hosted_olympics",
+      "name": "Has hosted the Olympics",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "top_20_rail_size",
+      "name": "Top 20 in rail transport network size",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Belgium",
+      "Finland",
+      "France",
+      "French Polynesia",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Finland",
+      "Greece",
+      "Mexico",
+      "Norway",
+      "Sweden"
+    ],
+    "match_box_4": [
+      "Belgium",
+      "Denmark",
+      "France",
+      "French Guiana",
+      "Germany",
+      "Greenland",
+      "Guadeloupe",
+      "Ireland",
+      "Martinique",
+      "Netherlands",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Brazil",
+      "Canada",
+      "France",
+      "Germany",
+      "South Africa",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Angola",
+      "Belgium",
+      "Benin",
+      "Chile",
+      "Gabon",
+      "Ghana",
+      "Guyana",
+      "Liberia",
+      "Mauritania",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Norway",
+      "Suriname",
+      "Togo",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Belgium",
+      "Benin",
+      "Burundi",
+      "Cambodia",
+      "Chile",
+      "Czechia",
+      "Egypt",
+      "Ghana",
+      "Greece",
+      "Guatemala",
+      "Indonesia",
+      "Malawi",
+      "Malaysia",
+      "Mexico",
+      "Morocco",
+      "Nigeria",
+      "North Korea",
+      "Pakistan",
+      "Rwanda",
+      "Somalia",
+      "Sweden",
+      "Tajikistan",
+      "Thailand",
+      "Venezuela",
+      "Vietnam",
+      "Zimbabwe"
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "grid_id": "272",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 100,000 km²",
+      "variantId": 4
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    },
+    {
+      "id": "co2_emissions_per_capita_under_x",
+      "name": "CO₂ emissions per capita under 3 tCO₂/year",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Guatemala",
+      "Honduras",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "New Zealand",
+      "Nicaragua",
+      "Papua New Guinea",
+      "Peru",
+      "Philippines",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Guatemala",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "Papua New Guinea",
+      "Peru",
+      "Philippines",
+      "Russia",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Colombia",
+      "Costa Rica",
+      "Ecuador",
+      "El Salvador",
+      "Federated States of Micronesia",
+      "Fiji",
+      "Guatemala",
+      "Honduras",
+      "Indonesia",
+      "Kiribati",
+      "Nicaragua",
+      "Papua New Guinea",
+      "Peru",
+      "Philippines",
+      "Samoa",
+      "Solomon Islands",
+      "Timor-Leste",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Chile",
+      "Cuba",
+      "France",
+      "Iceland",
+      "Laos",
+      "Liberia",
+      "Nepal",
+      "New Zealand",
+      "North Korea",
+      "Norway",
+      "Russia",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Chile",
+      "Czechia",
+      "France",
+      "Nepal",
+      "Netherlands",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Costa Rica",
+      "Cuba",
+      "Faroe Islands",
+      "Liberia",
+      "Mayotte",
+      "Nepal",
+      "North Korea",
+      "Samoa",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Cambodia",
+      "Canada",
+      "Greenland",
+      "Japan",
+      "Malaysia",
+      "Morocco",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Papua New Guinea",
+      "Saudi Arabia",
+      "Spain",
+      "Sweden",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Belgium",
+      "Cambodia",
+      "Canada",
+      "Japan",
+      "Jordan",
+      "Malaysia",
+      "Morocco",
+      "Netherlands",
+      "Papua New Guinea",
+      "Saudi Arabia",
+      "Spain",
+      "Sweden",
+      "Thailand",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Belize",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cambodia",
+      "Eswatini",
+      "Faroe Islands",
+      "Grenada",
+      "Jamaica",
+      "Jordan",
+      "Lesotho",
+      "Morocco",
+      "Papua New Guinea",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Solomon Islands",
+      "Tonga",
+      "Turks and Caicos Islands",
+      "Tuvalu"
+    ]
+  }
+}

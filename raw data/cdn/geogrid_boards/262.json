@@ -1,0 +1,142 @@
+{
+  "grid_id": "262",
+  "rows": [
+    {
+      "id": "top_20_rail_size",
+      "name": "Top 20 in rail transport network size",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 60",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "India",
+      "Iran",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Canada",
+      "China",
+      "Japan",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine"
+    ],
+    "match_box_4": [
+      "Angola",
+      "Argentina",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "France",
+      "Greenland",
+      "Mauritania",
+      "Namibia",
+      "Nigeria",
+      "South Africa",
+      "Spain",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Canada",
+      "Denmark",
+      "Greenland",
+      "Morocco",
+      "Nigeria"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Brazil",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Germany",
+      "Guinea",
+      "Republic of the Congo",
+      "Senegal",
+      "South Africa",
+      "Spain"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "France",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Canada",
+      "Denmark",
+      "Finland",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "Singapore",
+      "Sweden",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Austria",
+      "France",
+      "Germany",
+      "Israel",
+      "Switzerland"
+    ]
+  }
+}

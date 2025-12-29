@@ -1,0 +1,163 @@
+{
+  "grid_id": "253",
+  "rows": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Nile River system",
+      "variantId": 0
+    },
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 30",
+      "variantId": 1
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "observes_x_time_zone",
+      "name": "Observes UTC+03:00 time zone",
+      "variantId": 9
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_2": [
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "South Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_4": [
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "Gabon",
+      "Guinea",
+      "Guinea-Bissau",
+      "Liberia",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mozambique",
+      "Nigeria",
+      "Republic of the Congo",
+      "Somalia",
+      "South Sudan",
+      "Sudan",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "Comoros",
+      "Eritrea",
+      "Iraq",
+      "Madagascar",
+      "Russia",
+      "Somalia",
+      "South Sudan",
+      "Uganda",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Bangladesh",
+      "Cameroon",
+      "Democratic Republic of the Congo",
+      "Iran",
+      "Iraq",
+      "Madagascar",
+      "Mali",
+      "Mexico",
+      "Mozambique",
+      "Myanmar",
+      "Nigeria",
+      "North Korea",
+      "Pakistan",
+      "Russia",
+      "Sudan",
+      "Syria",
+      "Uganda",
+      "Venezuela",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Burundi",
+      "Comoros",
+      "Eritrea",
+      "Lesotho",
+      "Liberia",
+      "Mayotte",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Réunion",
+      "Senegal",
+      "Somalia",
+      "Tunisia"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "Belarus",
+      "Comoros",
+      "Eritrea",
+      "Mayotte",
+      "Somalia",
+      "Türkiye"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Germany",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ]
+  }
+}

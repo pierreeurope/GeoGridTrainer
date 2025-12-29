@@ -1,0 +1,202 @@
+{
+  "grid_id": "266",
+  "rows": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 30 Olympic medals",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Brazil",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "Indonesia",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Sudan",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Angola",
+      "Brazil",
+      "France",
+      "Jordan",
+      "Kuwait",
+      "Mexico",
+      "Russia",
+      "Taiwan"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bangladesh",
+      "Cambodia",
+      "China",
+      "Egypt",
+      "Hong Kong",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Malaysia",
+      "North Korea",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Syria",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "Uzbekistan",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Brazil",
+      "China",
+      "Colombia",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Greece",
+      "Latvia",
+      "Mexico",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Sweden",
+      "Taiwan"
+    ],
+    "match_box_6": [
+      "Azerbaijan",
+      "China",
+      "Egypt",
+      "Georgia",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Kazakhstan",
+      "Mongolia",
+      "North Korea",
+      "Russia",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Russia",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Cyprus",
+      "France",
+      "Guinea",
+      "Kosovo",
+      "Malawi",
+      "Norway",
+      "Panama",
+      "Russia",
+      "Rwanda",
+      "Taiwan"
+    ],
+    "match_box_9": [
+      "Armenia",
+      "Cocos Islands",
+      "Cyprus",
+      "Iran",
+      "Laos",
+      "Lebanon",
+      "Macau",
+      "Maldives",
+      "Mongolia",
+      "Nepal",
+      "North Korea",
+      "Oman",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "Yemen"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "grid_id": "245",
+  "rows": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 5 million",
+      "variantId": 3
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with red",
+      "variantId": 0
+    },
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $20k",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Mekong River system",
+      "variantId": 6
+    },
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    },
+    {
+      "id": "top_20_wheat_production",
+      "name": "Top 20 in wheat production",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Cambodia",
+      "China",
+      "Laos",
+      "Myanmar",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Pakistan",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Cambodia",
+      "China",
+      "Laos",
+      "Myanmar",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Georgia",
+      "Kyrgyzstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Canada",
+      "China",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "Iran",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Cambodia",
+      "China",
+      "Laos",
+      "Myanmar",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Moldova",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Pakistan",
+      "Russia",
+      "Türkiye",
+      "Ukraine"
+    ]
+  }
+}

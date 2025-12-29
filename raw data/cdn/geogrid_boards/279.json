@@ -1,0 +1,184 @@
+{
+  "grid_id": "279",
+  "rows": [
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $40k",
+      "variantId": 4
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Christmas Island",
+      "Cyprus",
+      "Hong Kong",
+      "Israel",
+      "Macau",
+      "Qatar",
+      "Singapore",
+      "United Arab Emirates"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Australia",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bermuda",
+      "Canada",
+      "Cayman Islands",
+      "Christmas Island",
+      "Denmark",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Monaco",
+      "Netherlands",
+      "New Zealand",
+      "Norfolk Island",
+      "Norway",
+      "Qatar",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Canada",
+      "Denmark",
+      "Finland",
+      "Hong Kong",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Netherlands",
+      "Norway",
+      "Sweden",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Bhutan",
+      "Christmas Island",
+      "Egypt",
+      "Kazakhstan",
+      "Sri Lanka"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_6": [
+      "Andorra",
+      "Belize",
+      "Bhutan",
+      "Ecuador",
+      "Mexico",
+      "Moldova",
+      "Paraguay"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Kazakhstan",
+      "Malaysia",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Sri Lanka",
+      "Syria",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "Uzbekistan",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Canada",
+      "Japan",
+      "Malaysia",
+      "Morocco",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Bangladesh",
+      "Canada",
+      "Ghana",
+      "Indonesia",
+      "Malawi",
+      "Mexico",
+      "Morocco",
+      "Nepal",
+      "North Korea",
+      "United States of America",
+      "Venezuela",
+      "Vietnam",
+      "Yemen"
+    ]
+  }
+}

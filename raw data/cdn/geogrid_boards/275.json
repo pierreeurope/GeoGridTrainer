@@ -1,0 +1,148 @@
+{
+  "grid_id": "275",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Amazon River system",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bolivia",
+      "Ecuador",
+      "Guatemala",
+      "Mexico",
+      "Paraguay",
+      "Peru",
+      "Spain"
+    ],
+    "match_box_2": [
+      "Bolivia",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Chile",
+      "Costa Rica",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_4": [
+      "Bolivia",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Paraguay",
+      "Peru"
+    ],
+    "match_box_5": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Chile",
+      "Ecuador",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Bolivia",
+      "Ecuador",
+      "Egypt",
+      "Guatemala",
+      "Kazakhstan",
+      "Mexico",
+      "Peru",
+      "Serbia",
+      "Spain",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Bangladesh",
+      "Cambodia",
+      "Canada",
+      "Chile",
+      "Denmark",
+      "Ecuador",
+      "Eritrea",
+      "Ghana",
+      "Honduras",
+      "Hong Kong",
+      "Indonesia",
+      "Kuwait",
+      "Lebanon",
+      "Liberia",
+      "Mexico",
+      "Mongolia",
+      "Morocco",
+      "Nicaragua",
+      "North Korea",
+      "Oman",
+      "Sierra Leone",
+      "Somalia",
+      "Togo",
+      "United Arab Emirates",
+      "Uruguay",
+      "Venezuela",
+      "Vietnam",
+      "Yemen"
+    ]
+  }
+}

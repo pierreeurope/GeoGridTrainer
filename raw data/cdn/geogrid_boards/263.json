@@ -1,0 +1,179 @@
+{
+  "grid_id": "263",
+  "rows": [
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $40k",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "air_pollution_over_x",
+      "name": "Air pollution over 10 μg/m³",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Cambodia",
+      "Canada",
+      "Hong Kong",
+      "Indonesia",
+      "Mexico",
+      "Panama",
+      "United Arab Emirates",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Cambodia",
+      "China",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Philippines",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Brazil",
+      "Cambodia",
+      "China",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Philippines",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Indonesia",
+      "Mexico",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Myanmar",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "South Korea",
+      "Thailand",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "Brazil",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Mexico",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "South Korea",
+      "Sudan",
+      "Tanzania",
+      "Thailand",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Canada",
+      "Denmark",
+      "Finland",
+      "Hong Kong",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Netherlands",
+      "Norway",
+      "Sweden",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Christmas Island",
+      "Cyprus",
+      "Hong Kong",
+      "Israel",
+      "Macau",
+      "Qatar",
+      "Singapore",
+      "United Arab Emirates"
+    ],
+    "match_box_9": [
+      "Cyprus",
+      "Hong Kong",
+      "Israel",
+      "Italy",
+      "Liechtenstein",
+      "Macau",
+      "Qatar",
+      "San Marino",
+      "Singapore",
+      "United Arab Emirates"
+    ]
+  }
+}

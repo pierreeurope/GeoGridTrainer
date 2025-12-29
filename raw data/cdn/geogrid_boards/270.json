@@ -1,0 +1,165 @@
+{
+  "grid_id": "270",
+  "rows": [
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belgium",
+      "Canada",
+      "Czechia",
+      "Finland",
+      "France",
+      "Japan",
+      "Netherlands",
+      "Slovenia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Bangladesh",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "France",
+      "India",
+      "Iran",
+      "Japan",
+      "Mexico",
+      "Pakistan",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Brazil",
+      "Egypt",
+      "Iran",
+      "Mexico",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Bhutan",
+      "Botswana",
+      "Czechia",
+      "Luxembourg",
+      "Rwanda",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Ethiopia",
+      "Kazakhstan",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Andorra",
+      "Bolivia",
+      "Ethiopia",
+      "Moldova",
+      "Paraguay",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Vatican City"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Botswana",
+      "Czechia",
+      "Georgia",
+      "Israel",
+      "Latvia",
+      "Lithuania",
+      "Rwanda",
+      "Slovenia",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Argentina",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Egypt",
+      "Kazakhstan",
+      "Kenya",
+      "Malaysia",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Spain",
+      "Syria",
+      "Thailand",
+      "Uganda",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Bolivia",
+      "Croatia",
+      "Egypt",
+      "Guatemala",
+      "Montenegro",
+      "Peru",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ]
+  }
+}

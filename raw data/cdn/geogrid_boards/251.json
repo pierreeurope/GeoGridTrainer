@@ -1,0 +1,169 @@
+{
+  "grid_id": "251",
+  "rows": [
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 8 letters long",
+      "variantId": 4
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Azerbaijan",
+      "China",
+      "India",
+      "Iran",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Laos",
+      "Myanmar",
+      "Russia",
+      "Saudi Arabia",
+      "Syria",
+      "Türkiye",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Bulgaria",
+      "Cameroon",
+      "Colombia",
+      "Ethiopia",
+      "Slovakia",
+      "Tanzania"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Algeria",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Central African Republic",
+      "Chad",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "France",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Kenya",
+      "Libya",
+      "Mali",
+      "Mozambique",
+      "Myanmar",
+      "Niger",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Tanzania",
+      "Türkiye",
+      "Ukraine",
+      "Zambia"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Botswana",
+      "Eswatini",
+      "Ethiopia",
+      "Mongolia",
+      "Paraguay",
+      "Slovakia",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Bolivia",
+      "Botswana",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Kazakhstan",
+      "Mali",
+      "Mongolia",
+      "Niger",
+      "South Sudan",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Bahrain",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Cambodia",
+      "Christmas Island",
+      "Cocos Islands",
+      "Japan",
+      "Jordan",
+      "Kuwait",
+      "Malaysia",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "Thailand",
+      "United Arab Emirates"
+    ],
+    "match_box_8": [
+      "Anguilla",
+      "Cambodia",
+      "Eswatini",
+      "Malaysia",
+      "Thailand"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Canada",
+      "Greenland",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand"
+    ]
+  }
+}

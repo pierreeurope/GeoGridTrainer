@@ -1,0 +1,129 @@
+{
+  "grid_id": "24",
+  "rows": [
+    {
+      "name": "Starts with letter A",
+      "id": "starting_letter",
+      "variantId": 0
+    },
+    {
+      "name": "In South America",
+      "id": "continent",
+      "variantId": 4
+    },
+    {
+      "name": "Population over 100 million",
+      "id": "population_over_x",
+      "variantId": 7
+    }
+  ],
+  "columns": [
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    },
+    {
+      "name": "Ends with letter A",
+      "id": "ending_letter",
+      "variantId": 0
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Algeria",
+      "Argentina",
+      "Austria",
+      "Azerbaijan"
+    ],
+    "match_box_2": [
+      "Albania",
+      "Algeria",
+      "American Samoa",
+      "Andorra",
+      "Angola",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Aruba",
+      "Australia",
+      "Austria"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Angola",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Aruba",
+      "Australia",
+      "Azerbaijan"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Peru"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Paraguay",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Brazil",
+      "China",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "India",
+      "Russia"
+    ],
+    "match_box_8": [
+      "China",
+      "Ethiopia",
+      "India",
+      "Indonesia",
+      "Nigeria",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Bangladesh",
+      "Brazil",
+      "China",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Japan",
+      "Pakistan",
+      "Philippines",
+      "United States of America",
+      "Vietnam"
+    ]
+  }
+}

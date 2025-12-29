@@ -1,0 +1,172 @@
+{
+  "grid_id": "277",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Caribbean Sea",
+      "variantId": 6
+    },
+    {
+      "id": "air_pollution_over_x",
+      "name": "Air pollution over 20 μg/m³",
+      "variantId": 2
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 8 letters long",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "coastline_length_under_x",
+      "name": "Has coastline, with length less than 1,000 km",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Barbados",
+      "Caribbean Netherlands",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Curaçao",
+      "Grenada",
+      "Jamaica",
+      "Martinique",
+      "Panama",
+      "Puerto Rico",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago"
+    ],
+    "match_box_2": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Barbados",
+      "Belize",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Dominica",
+      "Grenada",
+      "Jamaica",
+      "Montserrat",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago"
+    ],
+    "match_box_3": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Barbados",
+      "Belize",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Curaçao",
+      "Dominica",
+      "Grenada",
+      "Guadeloupe",
+      "Guatemala",
+      "Jamaica",
+      "Martinique",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_4": [
+      "Angola",
+      "Bosnia and Herzegovina",
+      "Burundi",
+      "Cameroon",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "Gabon",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Republic of the Congo",
+      "Rwanda",
+      "Thailand"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "Cameroon",
+      "Gabon",
+      "India",
+      "Lesotho",
+      "Nigeria",
+      "Pakistan",
+      "Rwanda",
+      "South Africa",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Bahrain",
+      "Bosnia and Herzegovina",
+      "Democratic Republic of the Congo",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Iraq",
+      "Kuwait",
+      "Qatar",
+      "Republic of the Congo",
+      "Syria"
+    ],
+    "match_box_7": [
+      "Barbados",
+      "Botswana",
+      "Bulgaria",
+      "Cameroon",
+      "Colombia",
+      "Maldives",
+      "Mongolia",
+      "Slovakia",
+      "Thailand"
+    ],
+    "match_box_8": [
+      "Anguilla",
+      "Barbados",
+      "Botswana",
+      "Cameroon",
+      "Dominica",
+      "Eswatini",
+      "Kiribati",
+      "Malaysia",
+      "Maldives",
+      "Pakistan",
+      "Sri Lanka",
+      "Tanzania"
+    ],
+    "match_box_9": [
+      "Anguilla",
+      "Barbados",
+      "Bulgaria",
+      "Djibouti",
+      "Dominica",
+      "Hong Kong",
+      "Slovenia",
+      "Suriname"
+    ]
+  }
+}

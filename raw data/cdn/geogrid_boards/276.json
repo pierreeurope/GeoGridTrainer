@@ -1,0 +1,196 @@
+{
+  "grid_id": "276",
+  "rows": [
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $5k",
+      "variantId": 0
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "size_under_x",
+      "name": "Area less than 50,000 km²",
+      "variantId": 3
+    },
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Bhutan",
+      "Eswatini",
+      "India",
+      "Kenya",
+      "Kiribati",
+      "Lesotho",
+      "Malawi",
+      "Mozambique",
+      "Namibia",
+      "Nepal",
+      "Pakistan",
+      "Papua New Guinea",
+      "Samoa",
+      "Solomon Islands",
+      "Sri Lanka",
+      "Tanzania",
+      "Timor-Leste",
+      "Tonga",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Bhutan",
+      "Burundi",
+      "Cabo Verde",
+      "Comoros",
+      "Djibouti",
+      "Eswatini",
+      "Guinea-Bissau",
+      "Haiti",
+      "Kiribati",
+      "Lebanon",
+      "Lesotho",
+      "Marshall Islands",
+      "Palestine",
+      "Rwanda",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "The Gambia",
+      "Timor-Leste",
+      "Tonga",
+      "Vanuatu"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Bangladesh",
+      "Burkina Faso",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Guinea-Bissau",
+      "Kyrgyzstan",
+      "Madagascar",
+      "Marshall Islands",
+      "Mauritania",
+      "Mozambique",
+      "North Korea",
+      "Papua New Guinea",
+      "Philippines",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "Solomon Islands",
+      "South Sudan",
+      "Tajikistan",
+      "Timor-Leste",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Indonesia",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "New Zealand",
+      "South Africa",
+      "Trinidad and Tobago",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Belgium",
+      "Denmark",
+      "El Salvador",
+      "Haiti",
+      "Israel",
+      "Jamaica",
+      "Kuwait",
+      "Netherlands",
+      "Qatar",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Trinidad and Tobago"
+    ],
+    "match_box_6": [
+      "Bosnia and Herzegovina",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "El Salvador",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "Switzerland",
+      "Trinidad and Tobago",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Cook Islands",
+      "Nepal",
+      "New Zealand",
+      "Samoa",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Luxembourg",
+      "Mayotte",
+      "Netherlands",
+      "Puerto Rico",
+      "Samoa",
+      "Slovakia",
+      "Taiwan",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ]
+  }
+}

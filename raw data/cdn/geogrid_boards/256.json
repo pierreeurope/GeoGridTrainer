@@ -1,0 +1,146 @@
+{
+  "grid_id": "256",
+  "rows": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Amazon River system",
+      "variantId": 1
+    },
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $10k",
+      "variantId": 1
+    },
+    {
+      "id": "population_under_x",
+      "name": "Population under 5 million",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bolivia",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "match_box_3": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "Bolivia",
+      "Colombia",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Nicaragua",
+      "Paraguay",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Angola",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Brazil",
+      "Cameroon",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Ghana",
+      "Haiti",
+      "Honduras",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Jamaica",
+      "Morocco",
+      "Nigeria",
+      "North Korea",
+      "Paraguay",
+      "Peru",
+      "Senegal",
+      "South Africa",
+      "Togo",
+      "Tunisia",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Equatorial Guinea",
+      "Panama",
+      "Puerto Rico",
+      "Uruguay",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Iceland",
+      "Jamaica",
+      "Kuwait",
+      "Panama",
+      "Qatar",
+      "Slovenia",
+      "Trinidad and Tobago",
+      "Uruguay"
+    ],
+    "match_box_9": [
+      "Aruba",
+      "Caribbean Netherlands",
+      "Curaçao",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay"
+    ]
+  }
+}

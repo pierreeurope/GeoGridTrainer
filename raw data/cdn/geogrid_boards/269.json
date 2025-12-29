@@ -1,0 +1,169 @@
+{
+  "grid_id": "269",
+  "rows": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 20 Olympic medals",
+      "variantId": 1
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 500k",
+      "variantId": 3
+    },
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "India",
+      "Jamaica",
+      "Kenya",
+      "New Zealand",
+      "Nigeria",
+      "South Africa",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Estonia",
+      "India",
+      "New Zealand",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Cuba",
+      "Indonesia",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "New Zealand",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Heard Island and McDonald Islands",
+      "India",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Pakistan",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "French Southern Territories",
+      "India",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Seychelles",
+      "South Africa",
+      "Sri Lanka",
+      "Timor-Leste"
+    ],
+    "match_box_6": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Indonesia",
+      "Madagascar",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Seychelles",
+      "Singapore",
+      "Sri Lanka",
+      "Timor-Leste"
+    ],
+    "match_box_7": [
+      "Bahamas",
+      "Bermuda",
+      "Grenada",
+      "Jamaica",
+      "Lesotho",
+      "Namibia",
+      "Nigeria",
+      "Tokelau",
+      "Vanuatu"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Bahamas",
+      "Bahrain",
+      "Bermuda",
+      "Bolivia",
+      "Burundi",
+      "Comoros",
+      "Curaçao",
+      "Estonia",
+      "Grenada",
+      "Iceland",
+      "Lesotho",
+      "Mayotte",
+      "Namibia",
+      "Réunion",
+      "Vanuatu"
+    ],
+    "match_box_9": [
+      "Bahamas",
+      "Bahrain",
+      "Bermuda",
+      "Comoros",
+      "Curaçao",
+      "Grenada",
+      "Iceland",
+      "Ireland",
+      "Jamaica",
+      "Mayotte",
+      "Réunion",
+      "Tokelau",
+      "Vanuatu"
+    ]
+  }
+}

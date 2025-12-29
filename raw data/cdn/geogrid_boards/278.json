@@ -1,0 +1,139 @@
+{
+  "grid_id": "278",
+  "rows": [
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 5 letters long",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "Japan",
+      "Mexico",
+      "Qatar",
+      "Russia",
+      "South Korea",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "India",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Cambodia",
+      "Canada",
+      "Hong Kong",
+      "Indonesia",
+      "Mexico",
+      "Panama",
+      "United Arab Emirates",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Chile",
+      "Italy",
+      "Japan",
+      "Qatar",
+      "Spain"
+    ],
+    "match_box_5": [
+      "China",
+      "India",
+      "Italy",
+      "Japan",
+      "Spain"
+    ],
+    "match_box_6": [
+      "Chile",
+      "Gabon",
+      "Ghana",
+      "Macau",
+      "Nepal",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Chile",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Czechia",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Bosnia and Herzegovina",
+      "Burundi",
+      "Chile",
+      "Costa Rica",
+      "Estonia",
+      "French Guiana",
+      "Gabon",
+      "Lebanon",
+      "Liberia",
+      "Luxembourg",
+      "Macau",
+      "Malawi",
+      "Mongolia",
+      "Nepal",
+      "Netherlands",
+      "North Korea",
+      "Norway",
+      "Oman",
+      "Panama",
+      "Sierra Leone",
+      "United States of America",
+      "Yemen"
+    ]
+  }
+}

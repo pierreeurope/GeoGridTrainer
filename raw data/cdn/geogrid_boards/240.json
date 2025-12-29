@@ -1,0 +1,181 @@
+{
+  "grid_id": "240",
+  "rows": [
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Caribbean Sea",
+      "variantId": 6
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Caribbean Netherlands",
+      "Costa Rica",
+      "Cuba",
+      "Panama",
+      "Puerto Rico"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Caribbean Netherlands",
+      "New Zealand",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Heard Island and McDonald Islands",
+      "New Zealand",
+      "Samoa",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominica",
+      "Grenada",
+      "Guatemala",
+      "Jamaica",
+      "Nicaragua",
+      "Panama",
+      "Saint Lucia",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "American Samoa",
+      "Australia",
+      "Bermuda",
+      "Bolivia",
+      "Canada",
+      "China",
+      "Federated States of Micronesia",
+      "India",
+      "Malta",
+      "Nigeria",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Africa",
+      "Tanzania",
+      "The Gambia",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Australia",
+      "Bermuda",
+      "Botswana",
+      "Canada",
+      "Dominica",
+      "Ghana",
+      "Grenada",
+      "Guyana",
+      "India",
+      "Jamaica",
+      "Kenya",
+      "Malaysia",
+      "Malta",
+      "Namibia",
+      "Nigeria",
+      "Papua New Guinea",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Samoa",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "The Gambia",
+      "Tonga",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Colombia",
+      "Dominican Republic",
+      "Guatemala",
+      "Haiti",
+      "Mexico",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Benin",
+      "Bolivia",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "Ecuador",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Taiwan",
+      "Tanzania",
+      "Türkiye",
+      "United Arab Emirates",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Bangladesh",
+      "Cameroon",
+      "Canada",
+      "Ghana",
+      "India",
+      "Kenya",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "Nigeria",
+      "Pakistan",
+      "Papua New Guinea",
+      "Rwanda",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Uganda",
+      "United Kingdom",
+      "Zambia"
+    ]
+  }
+}

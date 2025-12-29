@@ -1,0 +1,201 @@
+{
+  "grid_id": "235",
+  "rows": [
+    {
+      "id": "touches_equator",
+      "name": "Touches the Equator",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $10k",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "co2_emissions_per_capita_under_x",
+      "name": "CO₂ emissions per capita under 4 tCO₂/year",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Gabon",
+      "Indonesia",
+      "Kenya",
+      "Kiribati",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia",
+      "Uganda"
+    ],
+    "match_box_2": [
+      "Democratic Republic of the Congo",
+      "Gabon",
+      "Kenya",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Brazil",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Gabon",
+      "Indonesia",
+      "Kenya",
+      "Kiribati",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia",
+      "Uganda"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Brazil",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Sudan",
+      "Tanzania",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Nigeria",
+      "South Africa",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "Brazil",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Mexico",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "Sudan",
+      "Tanzania",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Armenia",
+      "Belarus",
+      "Bolivia",
+      "Burundi",
+      "Comoros",
+      "Ecuador",
+      "Eritrea",
+      "Georgia",
+      "Jamaica",
+      "Lebanon",
+      "Lesotho",
+      "Liberia",
+      "Moldova",
+      "Morocco",
+      "Myanmar",
+      "Namibia",
+      "Nigeria",
+      "Senegal",
+      "Somalia",
+      "Tokelau",
+      "Tunisia",
+      "Ukraine",
+      "Vanuatu",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Burundi",
+      "Comoros",
+      "Eritrea",
+      "Lesotho",
+      "Liberia",
+      "Mayotte",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Réunion",
+      "Senegal",
+      "Somalia",
+      "Tunisia"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Algeria",
+      "Armenia",
+      "Bolivia",
+      "Burundi",
+      "Comoros",
+      "Ecuador",
+      "Eritrea",
+      "Georgia",
+      "Grenada",
+      "Jamaica",
+      "Lebanon",
+      "Lesotho",
+      "Liberia",
+      "Mayotte",
+      "Moldova",
+      "Morocco",
+      "Myanmar",
+      "Namibia",
+      "Nigeria",
+      "Réunion",
+      "Romania",
+      "Senegal",
+      "Somalia",
+      "Tunisia",
+      "Ukraine",
+      "Uruguay",
+      "Vanuatu",
+      "Vietnam"
+    ]
+  }
+}

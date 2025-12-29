@@ -1,0 +1,151 @@
+{
+  "grid_id": "239",
+  "rows": [
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Danube River system",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 50 Olympic medals",
+      "variantId": 4
+    },
+    {
+      "id": "size_under_x",
+      "name": "Area less than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "China",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Canada",
+      "China",
+      "Denmark",
+      "Finland",
+      "Greece",
+      "Japan",
+      "Kazakhstan",
+      "Poland",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Albania",
+      "Austria",
+      "Bahrain",
+      "Bangladesh",
+      "Denmark",
+      "Federated States of Micronesia",
+      "Georgia",
+      "Greece",
+      "Honduras",
+      "Hong Kong",
+      "Israel",
+      "Kyrgyzstan",
+      "Latvia",
+      "Monaco",
+      "Norfolk Island",
+      "North Macedonia",
+      "Palau",
+      "Qatar",
+      "Singapore",
+      "Switzerland",
+      "Tonga",
+      "Tunisia"
+    ],
+    "match_box_4": [
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Moldova",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Azerbaijan",
+      "Belarus",
+      "Kazakhstan",
+      "Russia",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Armenia",
+      "Azerbaijan",
+      "Estonia",
+      "Georgia",
+      "Kyrgyzstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Tajikistan"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Hungary",
+      "Moldova",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Romania",
+      "Slovenia",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Hungary",
+      "Moldova",
+      "Montenegro",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland"
+    ]
+  }
+}

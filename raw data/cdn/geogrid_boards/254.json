@@ -1,0 +1,182 @@
+{
+  "grid_id": "254",
+  "rows": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 5 tCO₂/year",
+      "variantId": 5
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 5 million",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Bahrain",
+      "Bermuda",
+      "Brunei",
+      "Cayman Islands",
+      "Cook Islands",
+      "Curaçao",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Greenland",
+      "Guam",
+      "Iceland",
+      "Ireland",
+      "Japan",
+      "Maldives",
+      "New Caledonia",
+      "New Zealand",
+      "Niue",
+      "Palau",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan",
+      "Trinidad and Tobago",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_2": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Cuba",
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Ireland",
+      "Japan",
+      "Madagascar",
+      "New Zealand",
+      "Papua New Guinea",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Germany",
+      "Italy",
+      "Japan",
+      "Qatar",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Cook Islands",
+      "Czechia",
+      "Iceland",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Russia",
+      "Slovakia",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Czechia",
+      "Faroe Islands",
+      "France",
+      "Iceland",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Russia",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Chile",
+      "Costa Rica",
+      "Cuba",
+      "Czechia",
+      "France",
+      "Laos",
+      "Liberia",
+      "Nepal",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Norway",
+      "Russia",
+      "Slovakia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

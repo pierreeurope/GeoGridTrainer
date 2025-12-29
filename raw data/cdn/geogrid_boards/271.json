@@ -1,0 +1,161 @@
+{
+  "grid_id": "271",
+  "rows": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Congo River system",
+      "variantId": 3
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter C",
+      "variantId": 2
+    },
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 40",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Angola",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "Rwanda",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_2": [
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Republic of the Congo",
+      "Rwanda",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_3": [
+      "Angola",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "Zambia"
+    ],
+    "match_box_4": [
+      "Cabo Verde",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Côte d'Ivoire"
+    ],
+    "match_box_5": [
+      "Cameroon",
+      "Cayman Islands",
+      "Central African Republic",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Cyprus"
+    ],
+    "match_box_6": [
+      "Cambodia",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Colombia",
+      "Comoros"
+    ],
+    "match_box_7": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Gabon",
+      "Guinea",
+      "Madagascar",
+      "Mayotte",
+      "Niger",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Senegal",
+      "Seychelles",
+      "Togo"
+    ],
+    "match_box_8": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Gabon",
+      "Guadeloupe",
+      "Guinea",
+      "Haiti",
+      "Madagascar",
+      "Martinique",
+      "New Caledonia",
+      "Niger",
+      "Republic of the Congo",
+      "Rwanda",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Senegal",
+      "Seychelles",
+      "Togo",
+      "Vanuatu"
+    ],
+    "match_box_9": [
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Gabon",
+      "Guinea",
+      "Haiti",
+      "Madagascar",
+      "Niger",
+      "Republic of the Congo",
+      "Togo"
+    ]
+  }
+}

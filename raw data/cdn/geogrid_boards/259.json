@@ -1,0 +1,140 @@
+{
+  "grid_id": "259",
+  "rows": [
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Danube River system",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_2": [
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Poland",
+      "Portugal",
+      "Spain"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Romania",
+      "Slovakia",
+      "Slovenia"
+    ],
+    "match_box_4": [
+      "Chile",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Czechia",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Romania",
+      "Slovakia"
+    ],
+    "match_box_7": [
+      "Chile",
+      "France",
+      "Germany",
+      "Italy",
+      "Mexico",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Canada",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Mexico",
+      "Poland",
+      "Portugal",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Moldova",
+      "Montenegro",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Ukraine"
+    ]
+  }
+}

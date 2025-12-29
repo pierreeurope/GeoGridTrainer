@@ -1,0 +1,198 @@
+{
+  "grid_id": "236",
+  "rows": [
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "air_pollution_under_x",
+      "name": "Air pollution under 10 μg/m³",
+      "variantId": 1
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 100 Olympic medals",
+      "variantId": 5
+    },
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "France",
+      "Germany",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Burkina Faso",
+      "Canada",
+      "Cuba",
+      "Denmark",
+      "Dominican Republic",
+      "France",
+      "Germany",
+      "Guinea",
+      "Haiti",
+      "Liberia",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Russia",
+      "Senegal",
+      "Sierra Leone",
+      "Somalia",
+      "Spain",
+      "United Kingdom",
+      "Uruguay"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Brazil",
+      "Bulgaria",
+      "Canada",
+      "China",
+      "Cuba",
+      "Czechia",
+      "Denmark",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Austria",
+      "Belarus",
+      "Burkina Faso",
+      "France",
+      "Germany",
+      "Guinea",
+      "Libya",
+      "Mali",
+      "Russia",
+      "Senegal",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Belarus",
+      "Brazil",
+      "Bulgaria",
+      "China",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Kenya",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_9": [
+      "Austria",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Saudi Arabia",
+      "Spain",
+      "Türkiye"
+    ]
+  }
+}

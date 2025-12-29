@@ -1,0 +1,187 @@
+{
+  "grid_id": "26",
+  "rows": [
+    {
+      "name": "Spanish is an official language",
+      "id": "official_language",
+      "variantId": 1
+    },
+    {
+      "name": "Borders China",
+      "id": "borders_x",
+      "variantId": 1
+    },
+    {
+      "name": "Member of the European Union",
+      "id": "in_eu",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 5 million",
+      "id": "population_over_x",
+      "variantId": 3
+    },
+    {
+      "name": "Capital city population over 1 million",
+      "id": "capital_population_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "Flag with yellow",
+      "id": "color_on_flag",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Paraguay",
+      "Peru",
+      "Spain",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Peru",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Mexico",
+      "Nicaragua",
+      "Paraguay",
+      "Peru",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Hong Kong",
+      "India",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Pakistan",
+      "Russia",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Hong Kong",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia",
+      "North Korea",
+      "Pakistan",
+      "Russia",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Macau",
+      "Mongolia",
+      "Myanmar",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Czechia",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Czechia",
+      "Denmark",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Spain"
+    ],
+    "match_box_9": [
+      "Åland",
+      "Aruba",
+      "Belgium",
+      "Croatia",
+      "Curaçao",
+      "French Guiana",
+      "French Polynesia",
+      "Germany",
+      "Guadeloupe",
+      "Lithuania",
+      "New Caledonia",
+      "Portugal",
+      "Réunion",
+      "Romania",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Slovenia",
+      "Spain",
+      "Sweden"
+    ]
+  }
+}

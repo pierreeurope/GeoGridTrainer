@@ -1,0 +1,173 @@
+{
+  "grid_id": "268",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with red",
+      "variantId": 0
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_sahara",
+      "name": "Touches the Sahara Desert",
+      "variantId": null
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Egypt",
+      "Libya",
+      "Morocco",
+      "Tunisia"
+    ],
+    "match_box_2": [
+      "Croatia",
+      "Cyprus",
+      "France",
+      "Greece",
+      "Italy",
+      "Malta",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_3": [
+      "France",
+      "Greece",
+      "Italy",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Sudan",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Aruba",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Caribbean Netherlands",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "France",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Germany",
+      "Greenland",
+      "Guadeloupe",
+      "Hungary",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Martinique",
+      "Mayotte",
+      "Netherlands",
+      "New Caledonia",
+      "Poland",
+      "Portugal",
+      "Réunion",
+      "Romania",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Netherlands",
+      "Portugal",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Niger",
+      "Sudan",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Finland",
+      "France",
+      "Germany",
+      "Greenland",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

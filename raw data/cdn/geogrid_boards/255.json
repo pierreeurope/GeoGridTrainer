@@ -1,0 +1,161 @@
+{
+  "grid_id": "255",
+  "rows": [
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 60",
+      "variantId": 4
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the South and East China Seas",
+      "variantId": 9
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    },
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 5 tCO₂/year",
+      "variantId": 5
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Austria",
+      "Bulgaria",
+      "China",
+      "Hungary",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Bulgaria",
+      "China",
+      "Kazakhstan",
+      "Mongolia",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Turkmenistan"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Bulgaria",
+      "China",
+      "Croatia",
+      "Moldova",
+      "Mongolia",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Slovenia"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Belgium",
+      "Canada",
+      "Chile",
+      "Denmark",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Japan",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "Uruguay"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Canada",
+      "Estonia",
+      "Finland",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Japan",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Seychelles",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Austria",
+      "Canada",
+      "Estonia",
+      "Lithuania",
+      "South Korea",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Cambodia",
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "North Korea",
+      "Philippines",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Brunei",
+      "China",
+      "Japan",
+      "Malaysia",
+      "Singapore",
+      "South Korea",
+      "Taiwan"
+    ],
+    "match_box_9": [
+      "Cambodia",
+      "China",
+      "Indonesia",
+      "Malaysia",
+      "North Korea",
+      "South Korea"
+    ]
+  }
+}
