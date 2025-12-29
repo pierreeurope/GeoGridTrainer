@@ -1,0 +1,167 @@
+{
+  "grid_id": "498",
+  "rows": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Congo River system",
+      "variantId": 3
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter N",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Angola",
+      "Burundi",
+      "Cameroon",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "Rwanda"
+    ],
+    "match_box_2": [
+      "Angola",
+      "Cameroon",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "Rwanda",
+      "Zambia"
+    ],
+    "match_box_3": [
+      "Angola",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "Rwanda",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Botswana",
+      "Cocos Islands",
+      "Cook Islands",
+      "Cyprus",
+      "Grenada",
+      "Ireland",
+      "Jamaica",
+      "Macau",
+      "Malawi",
+      "Maldives",
+      "Malta",
+      "Nauru",
+      "Nepal",
+      "New Zealand",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Thailand",
+      "Tokelau",
+      "Trinidad and Tobago",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Kenya",
+      "Malaysia",
+      "Mozambique",
+      "Pakistan",
+      "Singapore",
+      "South Africa",
+      "Thailand",
+      "Uganda",
+      "United Kingdom",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Botswana",
+      "Eswatini",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Mauritius",
+      "Mozambique",
+      "Namibia",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "South Africa",
+      "Tanzania",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Benin",
+      "Cameroon",
+      "Gabon",
+      "Iran",
+      "Lebanon",
+      "Oman",
+      "Réunion",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Cameroon",
+      "Iran",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Lebanon",
+      "Oman",
+      "Pakistan",
+      "Spain",
+      "Sudan",
+      "Taiwan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Benin",
+      "Cameroon",
+      "Gabon",
+      "Réunion",
+      "South Sudan",
+      "Spain",
+      "Sudan"
+    ]
+  }
+}

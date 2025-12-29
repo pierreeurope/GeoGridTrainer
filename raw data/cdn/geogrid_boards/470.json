@@ -1,0 +1,161 @@
+{
+  "grid_id": "470",
+  "rows": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 10 Olympic medals",
+      "variantId": 0
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 5 million",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Caribbean Sea",
+      "variantId": 6
+    },
+    {
+      "id": "name_start_end_same_letter",
+      "name": "Starts and ends with the same letter",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Bahamas",
+      "Canada",
+      "India",
+      "Jamaica",
+      "Kenya",
+      "Malaysia",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Trinidad and Tobago",
+      "Uganda",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Colombia",
+      "Cuba",
+      "Dominican Republic",
+      "Jamaica",
+      "Mexico",
+      "Puerto Rico",
+      "Trinidad and Tobago",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Argentina",
+      "Armenia",
+      "Australia",
+      "Austria"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bangladesh",
+      "Cameroon",
+      "Canada",
+      "Ghana",
+      "India",
+      "Kenya",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "Papua New Guinea",
+      "Rwanda",
+      "Sierra Leone",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Togo",
+      "Uganda",
+      "United Kingdom",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Central African Republic"
+    ],
+    "match_box_7": [
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Anguilla",
+      "Belize",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Dominica",
+      "Guatemala",
+      "Mexico",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Sint Maarten",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_9": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "South Georgia and the South Sandwich Islands"
+    ]
+  }
+}

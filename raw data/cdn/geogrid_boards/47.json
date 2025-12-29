@@ -1,0 +1,186 @@
+{
+  "grid_id": "47",
+  "rows": [
+    {
+      "name": "Flag with only 4 colors",
+      "id": "flag_has_x_colors",
+      "variantId": 2
+    },
+    {
+      "name": "Flag with green",
+      "id": "color_on_flag",
+      "variantId": 4
+    },
+    {
+      "name": "Fewer than 20 Olympic medals",
+      "id": "olympic_medals_under_x",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 50 million",
+      "id": "population_over_x",
+      "variantId": 6
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Starts with letter S",
+      "id": "starting_letter",
+      "variantId": 13
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Kenya",
+      "Myanmar",
+      "Philippines",
+      "South Korea",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Montenegro",
+      "Serbia",
+      "Slovenia",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Saint Lucia",
+      "São Tomé and Príncipe",
+      "Serbia",
+      "Slovenia",
+      "Solomon Islands",
+      "South Korea",
+      "Sri Lanka",
+      "Sudan",
+      "Suriname",
+      "Syria"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Brazil",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Italy",
+      "Kenya",
+      "Mexico",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_5": [
+      "Azerbaijan",
+      "Belarus",
+      "Bulgaria",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Lithuania",
+      "Moldova",
+      "Montenegro",
+      "Portugal",
+      "San Marino",
+      "Spain"
+    ],
+    "match_box_6": [
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Saudi Arabia",
+      "Senegal",
+      "Seychelles",
+      "Sierra Leone",
+      "Sint Maarten",
+      "Solomon Islands",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "South Sudan",
+      "Spain",
+      "Sri Lanka",
+      "Sudan",
+      "Suriname",
+      "Syria"
+    ],
+    "match_box_7": [
+      "Bangladesh",
+      "Democratic Republic of the Congo",
+      "Myanmar",
+      "Pakistan",
+      "Philippines",
+      "Sudan",
+      "Tanzania",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Albania",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Faroe Islands",
+      "Gibraltar",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Moldova",
+      "Monaco",
+      "Montenegro",
+      "North Macedonia",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Saudi Arabia",
+      "Senegal",
+      "Seychelles",
+      "Sierra Leone",
+      "Singapore",
+      "Sint Maarten",
+      "Solomon Islands",
+      "Somalia",
+      "South Georgia and the South Sandwich Islands",
+      "South Sudan",
+      "Sri Lanka",
+      "Sudan",
+      "Suriname",
+      "Svalbard and Jan Mayen",
+      "Syria"
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "grid_id": "493",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "Arabic is an official language",
+      "variantId": 0
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter N",
+      "variantId": 6
+    },
+    {
+      "id": "top_20_oil_production",
+      "name": "Top 20 in oil production",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bahrain",
+      "Jordan",
+      "Kuwait",
+      "Morocco",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "match_box_2": [
+      "Bahrain",
+      "Jordan",
+      "Lebanon",
+      "Oman",
+      "Sudan",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Iraq",
+      "Kuwait",
+      "Libya",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Belgium",
+      "Cambodia",
+      "Canada",
+      "Japan",
+      "Jordan",
+      "Malaysia",
+      "Morocco",
+      "Netherlands",
+      "Papua New Guinea",
+      "Saudi Arabia",
+      "Spain",
+      "Sweden",
+      "Thailand",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Benin",
+      "Cameroon",
+      "Iran",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Pakistan",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Sweden",
+      "Taiwan",
+      "Tajikistan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Brazil",
+      "Canada",
+      "China",
+      "Iran",
+      "Iraq",
+      "Kazakhstan",
+      "Mexico",
+      "Nigeria",
+      "Russia",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Cook Islands",
+      "Curaçao",
+      "Faroe Islands",
+      "Grenada",
+      "Heard Island and McDonald Islands",
+      "Jamaica",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Saint Vincent and the Grenadines",
+      "Svalbard and Jan Mayen",
+      "Thailand",
+      "Tokelau",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Benin",
+      "Cameroon",
+      "Gabon",
+      "Iran",
+      "Lebanon",
+      "Oman",
+      "Réunion",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Angola",
+      "Iran",
+      "Norway",
+      "Oman",
+      "Russia",
+      "United States of America"
+    ]
+  }
+}

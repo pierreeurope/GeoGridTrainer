@@ -1,0 +1,187 @@
+{
+  "grid_id": "499",
+  "rows": [
+    {
+      "id": "top_20_rail_size",
+      "name": "Top 20 in rail transport network size",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_or_more_colors",
+      "name": "Flag with 5+ colors",
+      "variantId": 0
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 1 million km²",
+      "variantId": 7
+    }
+  ],
+  "columns": [
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.75",
+      "variantId": 7
+    },
+    {
+      "id": "multiple_time_zones",
+      "name": "Has more than 1 time zone",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "France",
+      "Mexico",
+      "Russia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Bolivia",
+      "Central African Republic",
+      "Croatia",
+      "Mozambique",
+      "Peru",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Uganda"
+    ],
+    "match_box_5": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Croatia",
+      "Dominica",
+      "Dominican Republic",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Guam",
+      "Guyana",
+      "Mexico",
+      "Moldova",
+      "Montserrat",
+      "New Caledonia",
+      "Northern Mariana Islands",
+      "Paraguay",
+      "Peru",
+      "Portugal",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Seychelles",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_6": [
+      "Ecuador",
+      "Kiribati",
+      "Mexico",
+      "Portugal",
+      "Spain"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chad",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Libya",
+      "Mali",
+      "Niger",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "South Africa",
+      "Sudan"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Colombia",
+      "Egypt",
+      "Greenland",
+      "Iran",
+      "Kazakhstan",
+      "Mexico",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Democratic Republic of the Congo",
+      "Greenland",
+      "Indonesia",
+      "Mexico",
+      "Mongolia",
+      "Russia",
+      "United States of America"
+    ]
+  }
+}

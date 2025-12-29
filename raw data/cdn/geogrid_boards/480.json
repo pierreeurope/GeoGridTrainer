@@ -1,0 +1,202 @@
+{
+  "grid_id": "480",
+  "rows": [
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.75",
+      "variantId": 7
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "population_under_x",
+      "name": "Population under 1 million",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "Paraguay",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Turkmenistan"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Bosnia and Herzegovina",
+      "Canada",
+      "Chile",
+      "Costa Rica",
+      "Denmark",
+      "Ecuador",
+      "Estonia",
+      "Finland",
+      "Guyana",
+      "Hong Kong",
+      "Kuwait",
+      "Lebanon",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Mexico",
+      "Moldova",
+      "Netherlands",
+      "North Korea",
+      "Norway",
+      "Oman",
+      "Panama",
+      "Paraguay",
+      "Sweden",
+      "United Arab Emirates",
+      "United States of America",
+      "Uruguay",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Dominica",
+      "Ecuador",
+      "Egypt",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Kazakhstan",
+      "Malta",
+      "Mexico",
+      "Moldova",
+      "Montenegro",
+      "Montserrat",
+      "Paraguay",
+      "Peru",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Pierre and Miquelon",
+      "Serbia",
+      "Spain",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_4": [
+      "Bolivia",
+      "Burundi",
+      "Kazakhstan",
+      "Liechtenstein",
+      "San Marino",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Belize",
+      "Burundi",
+      "Canada",
+      "Ecuador",
+      "Liechtenstein",
+      "Morocco",
+      "Palestine",
+      "United Arab Emirates",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Belize",
+      "Bermuda",
+      "Bolivia",
+      "Ecuador",
+      "Kazakhstan",
+      "Malta",
+      "Montserrat",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Bhutan",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Belize",
+      "Bhutan",
+      "French Guiana",
+      "Guyana",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Suriname",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montenegro",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "grid_id": "496",
+  "rows": [
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $10k",
+      "variantId": 1
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 50 Olympic medals",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "Fiji",
+      "Kiribati",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Canada",
+      "Nigeria",
+      "Norfolk Island",
+      "Pakistan",
+      "Singapore",
+      "Tonga"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Canada",
+      "Jamaica",
+      "Kenya",
+      "New Zealand",
+      "South Africa",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Colombia",
+      "Ecuador",
+      "El Salvador",
+      "Federated States of Micronesia",
+      "Fiji",
+      "Guatemala",
+      "Honduras",
+      "Indonesia",
+      "Kiribati",
+      "Marshall Islands",
+      "Nicaragua",
+      "Papua New Guinea",
+      "Peru",
+      "Philippines",
+      "Samoa",
+      "Solomon Islands",
+      "Timor-Leste",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "Federated States of Micronesia",
+      "Georgia",
+      "Honduras",
+      "Indonesia",
+      "Kyrgyzstan",
+      "Morocco",
+      "Nigeria",
+      "North Macedonia",
+      "Pakistan",
+      "Somalia",
+      "Tonga",
+      "Tunisia",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Azerbaijan",
+      "Belarus",
+      "Brazil",
+      "Ethiopia",
+      "Iran",
+      "Jamaica",
+      "Kenya",
+      "North Korea",
+      "South Africa",
+      "Ukraine"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Australia",
+      "Canada",
+      "Ecuador",
+      "Federated States of Micronesia",
+      "Guam",
+      "Nauru",
+      "New Zealand",
+      "Palau",
+      "Philippines",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Canada",
+      "China",
+      "Federated States of Micronesia",
+      "Kazakhstan",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Palau",
+      "Switzerland",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Kazakhstan",
+      "New Zealand",
+      "South Africa",
+      "Switzerland",
+      "Türkiye",
+      "United States of America"
+    ]
+  }
+}

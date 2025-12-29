@@ -1,0 +1,145 @@
+{
+  "grid_id": "50",
+  "rows": [
+    {
+      "name": "Human Development Index under 0.5",
+      "id": "hdi_under_x",
+      "variantId": 2
+    },
+    {
+      "name": "Name is 6 letters long",
+      "id": "name_length",
+      "variantId": 2
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Population over 20 million",
+      "id": "population_over_x",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Ethiopia",
+      "Mozambique",
+      "Somalia",
+      "South Sudan"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Mali",
+      "Niger",
+      "South Sudan"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Ethiopia",
+      "Madagascar",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Angola",
+      "Brazil",
+      "Israel",
+      "Jordan",
+      "Kosovo",
+      "Malawi",
+      "Panama",
+      "Rwanda",
+      "Taiwan",
+      "Tuvalu"
+    ],
+    "match_box_5": [
+      "Bhutan",
+      "Kosovo",
+      "Malawi",
+      "Rwanda",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Malawi",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Taiwan",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "France",
+      "Germany",
+      "Italy",
+      "Kazakhstan",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "grid_id": "482",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    },
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 1 million",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Egypt",
+      "Libya",
+      "Morocco",
+      "Spain",
+      "Tunisia"
+    ],
+    "match_box_2": [
+      "Botswana",
+      "Cameroon",
+      "Eswatini",
+      "Gabon",
+      "Ghana",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Mauritius",
+      "Mozambique",
+      "Namibia",
+      "Nigeria",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "Sierra Leone",
+      "South Africa",
+      "Tanzania",
+      "The Gambia",
+      "Togo",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_3": [
+      "Benin",
+      "Botswana",
+      "Burundi",
+      "Cabo Verde",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Gabon",
+      "Guinea-Bissau",
+      "Lesotho",
+      "Malawi",
+      "Mauritius",
+      "Mayotte",
+      "Namibia",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "South Africa",
+      "South Sudan",
+      "Tanzania",
+      "The Gambia",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_4": [
+      "Albania",
+      "Algeria",
+      "Croatia",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "Bahamas",
+      "Bermuda",
+      "Grenada",
+      "Jamaica",
+      "Lesotho",
+      "Namibia",
+      "Nigeria",
+      "Tokelau",
+      "Vanuatu"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Andorra",
+      "Bahamas",
+      "Bahrain",
+      "Bermuda",
+      "Bolivia",
+      "Burundi",
+      "Comoros",
+      "Croatia",
+      "Curaçao",
+      "Estonia",
+      "Finland",
+      "Grenada",
+      "Iceland",
+      "Ireland",
+      "Jamaica",
+      "Lesotho",
+      "Mayotte",
+      "Moldova",
+      "Myanmar",
+      "Namibia",
+      "Réunion",
+      "Tunisia",
+      "Vanuatu"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Egypt",
+      "France",
+      "Greece",
+      "Israel",
+      "Italy",
+      "Morocco",
+      "Slovenia",
+      "Spain",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Cameroon",
+      "Canada",
+      "Ghana",
+      "Jamaica",
+      "New Zealand",
+      "Nigeria",
+      "South Africa",
+      "Togo",
+      "Trinidad and Tobago",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Costa Rica",
+      "Côte d'Ivoire",
+      "Croatia",
+      "El Salvador",
+      "Greece",
+      "Iceland",
+      "Ireland",
+      "Israel",
+      "Jamaica",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Panama",
+      "Paraguay",
+      "Portugal",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "Sweden",
+      "Switzerland",
+      "Trinidad and Tobago",
+      "Tunisia",
+      "United States of America"
+    ]
+  }
+}

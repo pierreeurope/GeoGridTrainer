@@ -1,0 +1,171 @@
+{
+  "grid_id": "481",
+  "rows": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 4 tCO₂/year",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Australia",
+      "France",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Canada",
+      "Colombia",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "Peru",
+      "Philippines",
+      "Russia",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Aruba",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Uruguay"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Chile",
+      "Costa Rica",
+      "Cuba",
+      "Faroe Islands",
+      "France",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iceland",
+      "Luxembourg",
+      "Mayotte",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Puerto Rico",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Ecuador",
+      "French Polynesia",
+      "Guam",
+      "Mexico",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Pitcairn Islands",
+      "Taiwan",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Aruba",
+      "Chile",
+      "Curaçao",
+      "Falkland Islands (Malvinas)",
+      "Guyana",
+      "Suriname",
+      "Trinidad and Tobago"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Chile",
+      "Cook Islands",
+      "Czechia",
+      "France",
+      "Iceland",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Russia",
+      "Slovakia",
+      "Taiwan",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Australia",
+      "Canada",
+      "Chile",
+      "Cook Islands",
+      "French Polynesia",
+      "Guam",
+      "Japan",
+      "Nauru",
+      "New Caledonia",
+      "New Zealand",
+      "Niue",
+      "Palau",
+      "Russia",
+      "Taiwan",
+      "United States of America"
+    ]
+  }
+}

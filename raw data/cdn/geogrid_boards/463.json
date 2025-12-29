@@ -1,0 +1,168 @@
+{
+  "grid_id": "463",
+  "rows": [
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.75",
+      "variantId": 7
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Egypt",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "Spain"
+    ],
+    "match_box_2": [
+      "Brazil",
+      "Brunei",
+      "Canada",
+      "Cyprus",
+      "France",
+      "Greece",
+      "Guyana",
+      "Israel",
+      "Jersey",
+      "Jordan",
+      "Kosovo",
+      "Kuwait",
+      "Latvia",
+      "Mexico",
+      "Monaco",
+      "Norway",
+      "Panama",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Sweden",
+      "Taiwan"
+    ],
+    "match_box_3": [
+      "Albania",
+      "Armenia",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Chile",
+      "Czechia",
+      "Egypt",
+      "Finland",
+      "Georgia",
+      "Greece",
+      "Guyana",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Malaysia",
+      "Mexico",
+      "North Korea",
+      "Norway",
+      "Oman",
+      "Paraguay",
+      "Slovenia",
+      "Sweden",
+      "Thailand",
+      "Turkmenistan",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "Bhutan",
+      "Kosovo",
+      "Malawi",
+      "Rwanda",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Armenia",
+      "Botswana",
+      "Burundi",
+      "Czechia",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Luxembourg",
+      "Malawi",
+      "Paraguay",
+      "Rwanda",
+      "Tajikistan",
+      "Turkmenistan",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Egypt",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Spain",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Belize",
+      "Bhutan",
+      "Jersey",
+      "Mexico",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Egypt",
+      "Guatemala",
+      "Mexico",
+      "Paraguay",
+      "Zimbabwe"
+    ]
+  }
+}

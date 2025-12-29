@@ -1,0 +1,200 @@
+{
+  "grid_id": "478",
+  "rows": [
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    },
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 500k",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_x_or_more_colors",
+      "name": "Flag with 5+ colors",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 2,000 km",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Belgium",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Georgia",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Botswana",
+      "Czechia",
+      "Georgia",
+      "Israel",
+      "Latvia",
+      "Lithuania",
+      "Rwanda",
+      "Slovenia",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Bahamas",
+      "Canada",
+      "Chile",
+      "Costa Rica",
+      "Denmark",
+      "Estonia",
+      "Fiji",
+      "Finland",
+      "France",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Japan",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Portugal",
+      "Saudi Arabia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Estonia",
+      "Faroe Islands",
+      "Gibraltar",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "San Marino",
+      "Slovakia",
+      "Slovenia",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Benin",
+      "Bolivia",
+      "Botswana",
+      "Côte d'Ivoire",
+      "Kosovo",
+      "Malaysia",
+      "Montenegro",
+      "Namibia",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Australia",
+      "Bahamas",
+      "Costa Rica",
+      "Estonia",
+      "Fiji",
+      "French Polynesia",
+      "French Southern Territories",
+      "Greenland",
+      "Guinea-Bissau",
+      "Iceland",
+      "India",
+      "Malaysia",
+      "Maldives",
+      "Marshall Islands",
+      "New Caledonia",
+      "New Zealand",
+      "Panama",
+      "Papua New Guinea",
+      "Solomon Islands",
+      "South Africa",
+      "Sri Lanka",
+      "Svalbard and Jan Mayen",
+      "Vanuatu"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Croatia",
+      "Moldova",
+      "Portugal",
+      "San Marino",
+      "Spain"
+    ],
+    "match_box_8": [
+      "Bolivia",
+      "Croatia",
+      "Guatemala",
+      "Namibia",
+      "Peru",
+      "Spain",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Croatia",
+      "Ecuador",
+      "Fiji",
+      "Mexico",
+      "Mozambique",
+      "New Caledonia",
+      "Peru",
+      "Portugal",
+      "South Africa",
+      "Spain"
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "grid_id": "473",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    },
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Kazakhstan",
+      "Malaysia",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Sri Lanka",
+      "Syria",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "Uzbekistan",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "North Korea",
+      "Philippines",
+      "Saudi Arabia",
+      "South Korea",
+      "Tajikistan",
+      "Timor-Leste",
+      "Turkmenistan",
+      "United Arab Emirates",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "China",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Angola",
+      "Argentina",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Egypt",
+      "Kazakhstan",
+      "Kenya",
+      "Malaysia",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Spain",
+      "Syria",
+      "Thailand",
+      "Uganda",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Azerbaijan",
+      "Côte d'Ivoire",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mauritania",
+      "Montenegro",
+      "North Macedonia",
+      "Republic of the Congo",
+      "Switzerland",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Bulgaria",
+      "Croatia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Bangladesh",
+      "Canada",
+      "China",
+      "Indonesia",
+      "Japan",
+      "Kazakhstan",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Poland",
+      "Saudi Arabia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Federated States of Micronesia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Norfolk Island",
+      "North Macedonia",
+      "Saudi Arabia",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Austria",
+      "China",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Ukraine"
+    ]
+  }
+}

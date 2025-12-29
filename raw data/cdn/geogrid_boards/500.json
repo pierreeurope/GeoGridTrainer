@@ -1,0 +1,146 @@
+{
+  "grid_id": "500",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In North America",
+      "variantId": 3
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter S",
+      "variantId": 13
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten"
+    ],
+    "match_box_2": [
+      "Belize",
+      "Bermuda",
+      "Canada",
+      "Caribbean Netherlands",
+      "Dominican Republic",
+      "Guadeloupe",
+      "Montserrat",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Caribbean Netherlands",
+      "Costa Rica",
+      "Cuba",
+      "Panama",
+      "Puerto Rico",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sri Lanka",
+      "Sudan",
+      "Syria"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Taiwan",
+      "Tanzania",
+      "Türkiye",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Australia",
+      "France",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Saudi Arabia",
+      "Seychelles",
+      "Singapore",
+      "Slovenia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Canada",
+      "New Zealand",
+      "Switzerland",
+      "Taiwan",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Chile",
+      "Costa Rica",
+      "Czechia",
+      "France",
+      "Iceland",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Taiwan",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "grid_id": "477",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 40 Olympic medals",
+      "variantId": 3
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Madagascar",
+      "Mozambique",
+      "Seychelles",
+      "South Africa",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_2": [
+      "Australia",
+      "India",
+      "Iran",
+      "Kenya",
+      "South Africa",
+      "Thailand"
+    ],
+    "match_box_3": [
+      "Bangladesh",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Myanmar",
+      "Pakistan",
+      "South Africa",
+      "Tanzania",
+      "Thailand"
+    ],
+    "match_box_4": [
+      "Antigua and Barbuda",
+      "Bailiwick of Guernsey",
+      "Bangladesh",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Falkland Islands (Malvinas)",
+      "Montserrat",
+      "Mozambique",
+      "New Zealand",
+      "Norfolk Island",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "Timor-Leste",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Australia",
+      "India",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "Kenya",
+      "New Zealand",
+      "South Africa",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Kenya",
+      "Pakistan",
+      "South Africa",
+      "Tanzania",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Dominican Republic",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Falkland Islands (Malvinas)",
+      "French Polynesia",
+      "Montenegro",
+      "Montserrat",
+      "Mozambique",
+      "Pitcairn Islands",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Brazil",
+      "Croatia",
+      "Egypt",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_9": [
+      "Brazil",
+      "Egypt",
+      "Ethiopia",
+      "Iran",
+      "Mexico"
+    ]
+  }
+}

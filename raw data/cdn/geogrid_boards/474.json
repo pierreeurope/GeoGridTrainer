@@ -1,0 +1,197 @@
+{
+  "grid_id": "474",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 200k",
+      "variantId": 2
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 40",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Ecuador",
+      "El Salvador",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Guatemala",
+      "Mexico",
+      "Nicaragua",
+      "Peru",
+      "Pitcairn Islands"
+    ],
+    "match_box_2": [
+      "Canada",
+      "Mexico",
+      "Panama",
+      "Russia",
+      "Taiwan",
+      "Tuvalu"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Canada",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "Panama",
+      "Philippines",
+      "Russia",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Albania",
+      "Bolivia",
+      "Brazil",
+      "Croatia",
+      "Dominican Republic",
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Ethiopia",
+      "Guatemala",
+      "Haiti",
+      "Iran",
+      "Mexico",
+      "Moldova",
+      "Mozambique",
+      "Nicaragua",
+      "Oman",
+      "Paraguay",
+      "Peru",
+      "Portugal",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "Cyprus",
+      "France",
+      "Greece",
+      "Guinea",
+      "Israel",
+      "Jordan",
+      "Kosovo",
+      "Kuwait",
+      "Latvia",
+      "Malawi",
+      "Mexico",
+      "Norway",
+      "Panama",
+      "Poland",
+      "Russia",
+      "Rwanda",
+      "Serbia",
+      "Sweden",
+      "Taiwan",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Brazil",
+      "Cambodia",
+      "Canada",
+      "China",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Panama",
+      "Philippines",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Albania",
+      "Croatia",
+      "Fiji",
+      "Moldova",
+      "Montenegro",
+      "Oman",
+      "Portugal",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_8": [
+      "Bhutan",
+      "Canada",
+      "Cyprus",
+      "France",
+      "Greece",
+      "Israel",
+      "Jordan",
+      "Kosovo",
+      "Kuwait",
+      "Latvia",
+      "Norway",
+      "Poland",
+      "Rwanda",
+      "Sweden",
+      "Taiwan"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Canada",
+      "China",
+      "Hong Kong",
+      "Japan",
+      "Malaysia",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

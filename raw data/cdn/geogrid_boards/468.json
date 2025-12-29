@@ -1,0 +1,164 @@
+{
+  "grid_id": "468",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter N",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Cocos Islands",
+      "India",
+      "Myanmar",
+      "Pakistan",
+      "South Africa",
+      "Tanzania",
+      "United Arab Emirates"
+    ],
+    "match_box_2": [
+      "Australia",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Heard Island and McDonald Islands",
+      "Malaysia",
+      "Oman",
+      "Thailand",
+      "United Arab Emirates"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iran",
+      "Madagascar",
+      "Maldives",
+      "Mayotte",
+      "Oman",
+      "Réunion",
+      "Thailand",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Kazakhstan",
+      "Liechtenstein",
+      "Malta",
+      "San Marino",
+      "Switzerland",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Denmark",
+      "Faroe Islands",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Monaco",
+      "Netherlands",
+      "Norway",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Belarus",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Czechia",
+      "Estonia",
+      "Faroe Islands",
+      "France",
+      "Germany",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Kosovo",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Netherlands",
+      "Norway",
+      "Romania",
+      "Russia",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Benin",
+      "Cameroon",
+      "Kazakhstan",
+      "Liechtenstein",
+      "Pakistan",
+      "Sint Maarten",
+      "Taiwan"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "Bhutan",
+      "Isle of Man",
+      "Japan",
+      "Jordan",
+      "Liechtenstein",
+      "Oman",
+      "Sint Maarten",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Benin",
+      "Cameroon",
+      "Gabon",
+      "Iran",
+      "Lebanon",
+      "Oman",
+      "Réunion",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "Yemen"
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "grid_id": "479",
+  "rows": [
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belgium",
+      "Cameroon",
+      "Canada",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Haiti",
+      "Senegal",
+      "Switzerland",
+      "Togo"
+    ],
+    "match_box_2": [
+      "Bolivia",
+      "Brazil",
+      "Croatia",
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Haiti",
+      "Iran",
+      "Mexico",
+      "Paraguay",
+      "Peru",
+      "Portugal",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Belgium",
+      "Canada",
+      "Denmark",
+      "Jamaica",
+      "Japan",
+      "Kuwait",
+      "Morocco",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Qatar",
+      "Saudi Arabia",
+      "Spain",
+      "Sweden",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Belgium",
+      "Benin",
+      "Cameroon",
+      "Canada",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "France",
+      "French Guiana",
+      "Gabon",
+      "Guadeloupe",
+      "Guinea",
+      "Haiti",
+      "Martinique",
+      "Republic of the Congo",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Senegal",
+      "Togo"
+    ],
+    "match_box_5": [
+      "Anguilla",
+      "Bermuda",
+      "Brazil",
+      "British Virgin Islands",
+      "Dominican Republic",
+      "Equatorial Guinea",
+      "Falkland Islands (Malvinas)",
+      "Gibraltar",
+      "Haiti",
+      "Jersey",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_6": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bermuda",
+      "Bouvet Island",
+      "British Virgin Islands",
+      "Canada",
+      "Denmark",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Grenada",
+      "Isle of Man",
+      "Jersey",
+      "Morocco",
+      "Netherlands",
+      "Norway",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "Turks and Caicos Islands",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Burundi",
+      "Comoros",
+      "Mayotte",
+      "Réunion",
+      "Senegal",
+      "Vanuatu"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Andorra",
+      "Bermuda",
+      "Bolivia",
+      "Croatia",
+      "Ecuador",
+      "Moldova"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Bahamas",
+      "Bahrain",
+      "Belgium",
+      "Bermuda",
+      "Curaçao",
+      "Denmark",
+      "Grenada",
+      "Jamaica",
+      "Lesotho",
+      "Morocco",
+      "Tokelau"
+    ]
+  }
+}

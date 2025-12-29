@@ -1,0 +1,161 @@
+{
+  "grid_id": "48",
+  "rows": [
+    {
+      "name": "Borders Russia",
+      "id": "borders_x",
+      "variantId": 0
+    },
+    {
+      "name": "Starts with letter S",
+      "id": "starting_letter",
+      "variantId": 13
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 5 million",
+      "id": "population_over_x",
+      "variantId": 3
+    },
+    {
+      "name": "Ends with letter A",
+      "id": "ending_letter",
+      "variantId": 0
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Azerbaijan",
+      "Belarus",
+      "China",
+      "Finland",
+      "Kazakhstan",
+      "North Korea",
+      "Norway",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "China",
+      "Estonia",
+      "Georgia",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "North Korea"
+    ],
+    "match_box_3": [
+      "Azerbaijan",
+      "China",
+      "Georgia",
+      "Kazakhstan",
+      "Mongolia",
+      "North Korea"
+    ],
+    "match_box_4": [
+      "Saudi Arabia",
+      "Senegal",
+      "Serbia",
+      "Sierra Leone",
+      "Singapore",
+      "Slovakia",
+      "Somalia",
+      "South Africa",
+      "South Korea",
+      "South Sudan",
+      "Spain",
+      "Sri Lanka",
+      "Sudan",
+      "Sweden",
+      "Switzerland",
+      "Syria"
+    ],
+    "match_box_5": [
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Samoa",
+      "Saudi Arabia",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Somalia",
+      "South Africa",
+      "South Korea",
+      "Sri Lanka",
+      "Syria"
+    ],
+    "match_box_6": [
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Sri Lanka",
+      "Syria"
+    ],
+    "match_box_7": [
+      "Cuba",
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Ireland",
+      "Japan",
+      "Madagascar",
+      "New Zealand",
+      "Papua New Guinea",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "American Samoa",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Bermuda",
+      "Cuba",
+      "Dominica",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Grenada",
+      "Indonesia",
+      "Jamaica",
+      "Malta",
+      "New Caledonia",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Samoa",
+      "Sri Lanka",
+      "Tonga",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Bahrain",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Indonesia",
+      "Japan",
+      "Maldives",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "Timor-Leste"
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "grid_id": "492",
+  "rows": [
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 60",
+      "variantId": 4
+    },
+    {
+      "id": "hosted_f1",
+      "name": "Has hosted a Formula 1 Grand Prix",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 50 Olympic medals",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_under_x",
+      "name": "Area less than 100,000 km²",
+      "variantId": 4
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Bahamas",
+      "Barbados",
+      "Belgium",
+      "Bhutan",
+      "Cabo Verde",
+      "Denmark",
+      "Estonia",
+      "Hong Kong",
+      "Ireland",
+      "Israel",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Singapore",
+      "South Korea",
+      "Switzerland",
+      "Taiwan",
+      "United Arab Emirates"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Chile",
+      "Finland",
+      "Lithuania",
+      "Luxembourg",
+      "Norway",
+      "Sweden"
+    ],
+    "match_box_3": [
+      "Bahamas",
+      "Barbados",
+      "Belgium",
+      "Bhutan",
+      "Cabo Verde",
+      "Germany",
+      "Lithuania",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Sweden",
+      "Uruguay"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Azerbaijan",
+      "Bahrain",
+      "Belgium",
+      "Hungary",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "Qatar",
+      "Singapore",
+      "South Korea",
+      "Switzerland",
+      "United Arab Emirates"
+    ],
+    "match_box_5": [
+      "Belgium",
+      "Malaysia",
+      "Mexico",
+      "Morocco",
+      "Sweden"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "China",
+      "Germany",
+      "Malaysia",
+      "Mexico",
+      "Portugal",
+      "South Africa",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Azerbaijan",
+      "Belgium",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "Hungary",
+      "Jamaica",
+      "Netherlands",
+      "Slovenia",
+      "South Korea",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Belgium",
+      "Czechia",
+      "Finland",
+      "Greece",
+      "Mexico",
+      "North Korea",
+      "Norway",
+      "Slovenia",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "China",
+      "Croatia",
+      "Ethiopia",
+      "Germany",
+      "Jamaica",
+      "Kazakhstan",
+      "Mexico",
+      "Romania",
+      "Slovenia",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Ukraine"
+    ]
+  }
+}

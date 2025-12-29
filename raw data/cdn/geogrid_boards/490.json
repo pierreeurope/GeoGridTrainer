@@ -1,0 +1,202 @@
+{
+  "grid_id": "490",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    },
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 5 tCO₂/year",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "population_under_x",
+      "name": "Population under 1 million",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "French Guiana",
+      "Trinidad and Tobago"
+    ],
+    "match_box_3": [
+      "Aruba",
+      "Caribbean Netherlands",
+      "Curaçao",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Suriname"
+    ],
+    "match_box_4": [
+      "Canada",
+      "Chile",
+      "Denmark",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Gabon",
+      "Ghana",
+      "Guinea-Bissau",
+      "Guyana",
+      "Liberia",
+      "Morocco",
+      "Netherlands",
+      "Norway",
+      "Sierra Leone",
+      "Suriname",
+      "Togo",
+      "United States of America",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Bosnia and Herzegovina",
+      "Burundi",
+      "Chile",
+      "Costa Rica",
+      "Estonia",
+      "French Guiana",
+      "Gabon",
+      "Lebanon",
+      "Liberia",
+      "Luxembourg",
+      "Macau",
+      "Malawi",
+      "Mongolia",
+      "Nepal",
+      "Netherlands",
+      "North Korea",
+      "Norway",
+      "Oman",
+      "Panama",
+      "Sierra Leone",
+      "United States of America",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Andorra",
+      "Belize",
+      "Bhutan",
+      "French Guiana",
+      "Guyana",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Suriname",
+      "Western Sahara"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Bermuda",
+      "Canada",
+      "Falkland Islands (Malvinas)",
+      "Germany",
+      "Gibraltar",
+      "Greenland",
+      "Iceland",
+      "Ireland",
+      "Netherlands",
+      "Norway",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Africa",
+      "Trinidad and Tobago",
+      "U.S. Virgin Islands",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Belarus",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Cook Islands",
+      "Curaçao",
+      "Cyprus",
+      "Czechia",
+      "Estonia",
+      "Germany",
+      "Iceland",
+      "Iran",
+      "Ireland",
+      "Italy",
+      "Luxembourg",
+      "Maldives",
+      "Mongolia",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Russia",
+      "Slovakia",
+      "Taiwan",
+      "Trinidad and Tobago",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Bermuda",
+      "Brunei",
+      "Cayman Islands",
+      "Cook Islands",
+      "Curaçao",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Gibraltar",
+      "Greenland",
+      "Guam",
+      "Iceland",
+      "Luxembourg",
+      "Maldives",
+      "Montenegro",
+      "New Caledonia",
+      "Niue",
+      "Palau",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Seychelles",
+      "Sint Maarten",
+      "U.S. Virgin Islands",
+      "Vatican City"
+    ]
+  }
+}

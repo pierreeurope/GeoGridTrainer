@@ -1,0 +1,156 @@
+{
+  "grid_id": "46",
+  "rows": [
+    {
+      "name": "Capital is not the most populated city",
+      "id": "capital_not_most_populated_city",
+      "variantId": null
+    },
+    {
+      "name": "Capital city population over 500k",
+      "id": "capital_population_over_x",
+      "variantId": 3
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 100 million",
+      "id": "population_over_x",
+      "variantId": 7
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    },
+    {
+      "name": "Starts with letter T",
+      "id": "starting_letter",
+      "variantId": 14
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "China",
+      "India",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "American Samoa",
+      "Bermuda",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Dominican Republic",
+      "Federated States of Micronesia",
+      "Guadeloupe",
+      "Guam",
+      "Malta",
+      "Montserrat",
+      "Nauru",
+      "New Zealand",
+      "Palau",
+      "Philippines",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "Taiwan",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_3": [
+      "Taiwan",
+      "Tanzania",
+      "The Gambia",
+      "Trinidad and Tobago",
+      "Türkiye",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Brazil",
+      "China",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Cuba",
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "Madagascar",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Taiwan",
+      "Tajikistan",
+      "Tanzania",
+      "Thailand",
+      "Togo",
+      "Tunisia",
+      "Türkiye",
+      "Turkmenistan"
+    ],
+    "match_box_7": [
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Indonesia",
+      "Japan",
+      "Maldives",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "Timor-Leste"
+    ],
+    "match_box_9": [
+      "Taiwan",
+      "Tajikistan",
+      "Thailand",
+      "Timor-Leste",
+      "Türkiye",
+      "Turkmenistan"
+    ]
+  }
+}

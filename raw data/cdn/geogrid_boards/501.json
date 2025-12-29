@@ -1,0 +1,163 @@
+{
+  "grid_id": "501",
+  "rows": [
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Armenia",
+      "Botswana",
+      "Burundi",
+      "Czechia",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Luxembourg",
+      "Malawi",
+      "Paraguay",
+      "Rwanda",
+      "Tajikistan",
+      "Turkmenistan",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Czechia",
+      "Hungary",
+      "Luxembourg",
+      "Slovakia"
+    ],
+    "match_box_4": [
+      "Cyprus",
+      "Egypt",
+      "Israel",
+      "Lebanon",
+      "Palestine",
+      "Syria",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Bosnia and Herzegovina",
+      "Egypt",
+      "Greece",
+      "Morocco",
+      "Palestine",
+      "Slovenia"
+    ],
+    "match_box_6": [
+      "Croatia",
+      "Cyprus",
+      "France",
+      "Greece",
+      "Italy",
+      "Malta",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_7": [
+      "China",
+      "Egypt",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Israel",
+      "Japan",
+      "Kuwait",
+      "North Korea",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Türkiye",
+      "United Arab Emirates"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Chile",
+      "Czechia",
+      "Egypt",
+      "Ghana",
+      "Greece",
+      "Honduras",
+      "Indonesia",
+      "Mexico",
+      "Morocco",
+      "Nigeria",
+      "North Korea",
+      "Norway",
+      "Paraguay",
+      "Slovenia",
+      "Sweden",
+      "Togo"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden"
+    ]
+  }
+}

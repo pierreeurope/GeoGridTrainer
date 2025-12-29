@@ -1,0 +1,203 @@
+{
+  "grid_id": "472",
+  "rows": [
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.9",
+      "variantId": 10
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 50 Olympic medals",
+      "variantId": 4
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Czechia",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Canada",
+      "Czechia",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Poland",
+      "Slovenia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Australia",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Cyprus",
+      "Czechia",
+      "Estonia",
+      "Faroe Islands",
+      "France",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Luxembourg",
+      "Macau",
+      "Malta",
+      "Martinique",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Canada",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Poland",
+      "South Korea",
+      "Spain",
+      "Taiwan",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "Finland",
+      "Germany",
+      "Hungary",
+      "Jamaica",
+      "Romania",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Armenia",
+      "Bahamas",
+      "Belarus",
+      "Belgium",
+      "Burundi",
+      "Curaçao",
+      "Czechia",
+      "Estonia",
+      "Germany",
+      "Grenada",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Jamaica",
+      "Lebanon",
+      "Liberia",
+      "Mayotte",
+      "Réunion",
+      "Romania",
+      "Senegal",
+      "Tokelau"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Germany",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ]
+  }
+}

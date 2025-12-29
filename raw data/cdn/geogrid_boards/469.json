@@ -1,0 +1,176 @@
+{
+  "grid_id": "469",
+  "rows": [
+    {
+      "id": "top_20_rail_size",
+      "name": "Top 20 in rail transport network size",
+      "variantId": null
+    },
+    {
+      "id": "hosted_olympics",
+      "name": "Has hosted the Olympics",
+      "variantId": null
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "India",
+      "Iran",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "India",
+      "Iran",
+      "Japan",
+      "Mexico",
+      "Romania",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Mexico",
+      "Russia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "China",
+      "Finland",
+      "France",
+      "Japan",
+      "Mexico",
+      "Netherlands",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Chile",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Spain",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Botswana",
+      "Canada",
+      "Chile",
+      "France",
+      "Saudi Arabia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Belgium",
+      "Canada",
+      "Czechia",
+      "Finland",
+      "France",
+      "Japan",
+      "Netherlands",
+      "Slovenia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

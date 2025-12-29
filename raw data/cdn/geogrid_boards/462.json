@@ -1,0 +1,157 @@
+{
+  "grid_id": "462",
+  "rows": [
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Danube River system",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Estonia",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Russia",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bouvet Island",
+      "Chile",
+      "Cuba",
+      "Czechia",
+      "Faroe Islands",
+      "France",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Czechia",
+      "Faroe Islands",
+      "France",
+      "Iceland",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Russia",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Chile",
+      "Cuba",
+      "Czechia",
+      "France",
+      "Liberia",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Moldova",
+      "Montenegro",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Moldova",
+      "Montenegro",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Bulgaria",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Romania",
+      "Serbia",
+      "Ukraine"
+    ]
+  }
+}

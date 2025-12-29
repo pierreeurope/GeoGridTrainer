@@ -1,0 +1,139 @@
+{
+  "grid_id": "475",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "hosted_f1",
+      "name": "Has hosted a Formula 1 Grand Prix",
+      "variantId": null
+    },
+    {
+      "id": "size_under_x",
+      "name": "Area less than 10,000 km²",
+      "variantId": 2
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Azerbaijan",
+      "Belgium",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "San Marino",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Bailiwick of Guernsey",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Canada",
+      "Mexico",
+      "Morocco",
+      "Netherlands",
+      "Sweden",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Hong Kong",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Palestine"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "Bhutan",
+      "Eswatini",
+      "Guyana",
+      "Hong Kong",
+      "Indonesia",
+      "Macau",
+      "Malawi",
+      "Nepal",
+      "Suriname"
+    ],
+    "match_box_7": [
+      "Australia",
+      "France",
+      "Netherlands",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Luxembourg",
+      "Mayotte",
+      "Puerto Rico",
+      "Samoa",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Cook Islands",
+      "Nepal",
+      "New Zealand",
+      "Samoa",
+      "Thailand",
+      "United Kingdom"
+    ]
+  }
+}

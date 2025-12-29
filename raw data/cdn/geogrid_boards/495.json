@@ -1,0 +1,190 @@
+{
+  "grid_id": "495",
+  "rows": [
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Austria",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ],
+    "match_box_2": [
+      "Bermuda",
+      "Brazil",
+      "British Indian Ocean Territory",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guadeloupe",
+      "Guam",
+      "Ireland",
+      "Martinique",
+      "Mexico",
+      "New Caledonia",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Pitcairn Islands",
+      "Portugal",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_3": [
+      "Australia",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Mayotte",
+      "Réunion",
+      "South Africa",
+      "Thailand"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Bolivia",
+      "Botswana",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Kazakhstan",
+      "Mali",
+      "Mongolia",
+      "Niger",
+      "South Sudan",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Algeria",
+      "Bolivia",
+      "Brazil",
+      "Central African Republic",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Kenya",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mexico",
+      "Mozambique",
+      "Myanmar",
+      "Namibia",
+      "Niger",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Saudi Arabia",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Australia",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Mozambique",
+      "Myanmar",
+      "Pakistan",
+      "Somalia",
+      "South Africa",
+      "Tanzania",
+      "Thailand",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Luxembourg",
+      "Niger",
+      "Rwanda",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Gabon",
+      "Guadeloupe",
+      "Guinea",
+      "Haiti",
+      "Madagascar",
+      "Martinique",
+      "New Caledonia",
+      "Niger",
+      "Republic of the Congo",
+      "Rwanda",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Senegal",
+      "Seychelles",
+      "Togo",
+      "Vanuatu"
+    ],
+    "match_box_9": [
+      "Comoros",
+      "Djibouti",
+      "French Southern Territories",
+      "Madagascar",
+      "Mayotte",
+      "Réunion",
+      "Seychelles"
+    ]
+  }
+}

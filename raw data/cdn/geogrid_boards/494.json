@@ -1,0 +1,200 @@
+{
+  "grid_id": "494",
+  "rows": [
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 5-6 countries",
+      "variantId": 4
+    },
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Poland",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Czechia",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Azerbaijan",
+      "Belarus",
+      "Bulgaria",
+      "Croatia",
+      "Italy",
+      "Kazakhstan",
+      "Montenegro",
+      "North Macedonia",
+      "Romania",
+      "Slovakia",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Argentina",
+      "Burkina Faso",
+      "Cameroon",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Ethiopia",
+      "India",
+      "Iraq",
+      "Italy",
+      "Kazakhstan",
+      "Kenya",
+      "Mozambique",
+      "Myanmar",
+      "Peru",
+      "South Africa",
+      "Spain",
+      "Syria",
+      "Uganda",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Belarus",
+      "Bulgaria",
+      "Burkina Faso",
+      "Cameroon",
+      "Chad",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Guinea",
+      "Italy",
+      "Laos",
+      "Republic of the Congo",
+      "Romania",
+      "Senegal",
+      "Slovakia"
+    ],
+    "match_box_7": [
+      "Azerbaijan",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Faroe Islands",
+      "Kazakhstan",
+      "Liechtenstein",
+      "Luxembourg",
+      "Montenegro",
+      "Netherlands",
+      "North Macedonia",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Bangladesh",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Kazakhstan",
+      "Madagascar",
+      "Mozambique",
+      "North Korea",
+      "Philippines",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "United Kingdom",
+      "United States of America",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Bouvet Island",
+      "Burkina Faso",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Cook Islands",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Faroe Islands",
+      "French Guiana",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Luxembourg",
+      "Madagascar",
+      "Marshall Islands",
+      "Martinique",
+      "Mauritania",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Republic of the Congo",
+      "Saint Vincent and the Grenadines",
+      "Sierra Leone",
+      "Svalbard and Jan Mayen",
+      "Trinidad and Tobago",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ]
+  }
+}

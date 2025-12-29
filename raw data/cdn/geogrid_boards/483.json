@@ -1,0 +1,187 @@
+{
+  "grid_id": "483",
+  "rows": [
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 5-6 countries",
+      "variantId": 4
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bolivia",
+      "Ecuador",
+      "Egypt",
+      "Kazakhstan",
+      "Mexico",
+      "Papua New Guinea",
+      "Paraguay",
+      "Peru",
+      "Spain",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Bolivia",
+      "Croatia",
+      "Kazakhstan",
+      "Montenegro",
+      "Peru",
+      "Spain",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Belarus",
+      "Bolivia",
+      "Botswana",
+      "Burkina Faso",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Kazakhstan",
+      "Laos",
+      "Mali",
+      "Mongolia",
+      "Niger",
+      "Paraguay",
+      "South Sudan",
+      "Turkmenistan",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Burkina Faso",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Kazakhstan",
+      "Laos",
+      "North Macedonia",
+      "Slovakia",
+      "South Sudan",
+      "Switzerland",
+      "Uganda",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Andorra",
+      "Bhutan",
+      "Eswatini",
+      "Lesotho",
+      "Liechtenstein",
+      "Luxembourg",
+      "Vatican City"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Kazakhstan",
+      "Laos",
+      "Malaysia",
+      "Mongolia",
+      "Myanmar",
+      "Oman",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Saudi Arabia",
+      "Thailand",
+      "Türkiye",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Azerbaijan",
+      "India",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Laos",
+      "Myanmar",
+      "Syria",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Bahrain",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Cambodia",
+      "Christmas Island",
+      "Cocos Islands",
+      "Japan",
+      "Jordan",
+      "Kuwait",
+      "Malaysia",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "Thailand",
+      "United Arab Emirates"
+    ]
+  }
+}
