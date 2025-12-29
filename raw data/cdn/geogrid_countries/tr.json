@@ -1,0 +1,73 @@
+{
+  "flagInfo": {
+    "colorsOnFlag": [
+      "red",
+      "white"
+    ],
+    "hasStar": true,
+    "hasCoatOfArms": false,
+    "hasAnimal": false
+  },
+  "geographyInfo": {
+    "islandNation": false,
+    "landlocked": false,
+    "coastlineLength": 8140,
+    "coastline": [
+      "Mediterranean Sea",
+      "Black Sea"
+    ],
+    "touchesSahara": false,
+    "rivers": [],
+    "touchesEurasionSteppe": false,
+    "touchesEquator": false,
+    "top10Lakes": false
+  },
+  "economicInfo": {
+    "HDI": 0.853,
+    "GDPPerCapita": 18200,
+    "top20WheatProduction": true,
+    "top20OilProduction": false,
+    "top20RenewableElectricityProduction": false,
+    "producesNuclearPower": true,
+    "GDPPerCapitaYear": 2025
+  },
+  "politicalInfo": {
+    "isMonarchy": false,
+    "inEU": false,
+    "hasNuclearWeapons": false,
+    "wasUSSR": false,
+    "inCommonwealth": false,
+    "officialLanguageCodes": [],
+    "timeZones": [
+      "UTC+03:00"
+    ],
+    "observesDST": false,
+    "sameSexMarriageLegal": false,
+    "sameSexActivitiesIllegal": false,
+    "CPI": 34,
+    "isTerritory": false
+  },
+  "sportsInfo": {
+    "olympicMedals": 111,
+    "hostedF1": true,
+    "hostedOlympics": false,
+    "hostedMensWorldCup": false,
+    "playedMensWorldCup": true,
+    "wonMensWorldCup": false
+  },
+  "factsInfo": {
+    "drivesLeft": false,
+    "hasAlcoholBan": false,
+    "has50Skyscrapers": true,
+    "top20ObesityRate": false,
+    "top20ChocolateConsumption": false,
+    "top20AlcoholConsumption": false,
+    "top20PopulationDensity": false,
+    "bottom20PopulationDensity": false,
+    "top20TourismRate": true,
+    "top20RailSize": false,
+    "top20WorldHeritageSites": true,
+    "airPollution": 21.1,
+    "co2Emissions": 5.13
+  }
+}
