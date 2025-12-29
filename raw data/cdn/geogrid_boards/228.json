@@ -1,0 +1,203 @@
+{
+  "grid_id": "228",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "size_under_x",
+      "name": "Area less than 50,000 km²",
+      "variantId": 3
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter N",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 500k",
+      "variantId": 3
+    },
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 4 colors",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Djibouti",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Malaysia",
+      "Mozambique",
+      "Myanmar",
+      "Oman",
+      "Pakistan",
+      "Singapore",
+      "Somalia",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_2": [
+      "Comoros",
+      "Djibouti",
+      "French Southern Territories",
+      "Madagascar",
+      "Mayotte",
+      "Réunion",
+      "Seychelles"
+    ],
+    "match_box_3": [
+      "Christmas Island",
+      "Djibouti",
+      "India",
+      "Kenya",
+      "Malaysia",
+      "Mauritius",
+      "Myanmar",
+      "Sri Lanka",
+      "Tanzania",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Albania",
+      "Armenia",
+      "Belgium",
+      "Denmark",
+      "Djibouti",
+      "Dominican Republic",
+      "El Salvador",
+      "Haiti",
+      "Hong Kong",
+      "Israel",
+      "Jamaica",
+      "Kuwait",
+      "Lebanon",
+      "Macau",
+      "Moldova",
+      "Netherlands",
+      "North Macedonia",
+      "Palestine",
+      "Qatar",
+      "Rwanda",
+      "Singapore",
+      "Taiwan"
+    ],
+    "match_box_5": [
+      "Belgium",
+      "Burundi",
+      "Comoros",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Haiti",
+      "Luxembourg",
+      "Martinique",
+      "Mayotte",
+      "Monaco",
+      "New Caledonia",
+      "Réunion",
+      "Rwanda",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Switzerland",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Aruba",
+      "Bhutan",
+      "Brunei",
+      "Cabo Verde",
+      "Christmas Island",
+      "Djibouti",
+      "French Polynesia",
+      "Gibraltar",
+      "Guadeloupe",
+      "Guinea-Bissau",
+      "Isle of Man",
+      "Jersey",
+      "Kuwait",
+      "Lesotho",
+      "Liechtenstein",
+      "Mauritius",
+      "Montenegro",
+      "Niue",
+      "Palestine",
+      "Saint Lucia",
+      "São Tomé and Príncipe",
+      "Slovenia",
+      "Solomon Islands",
+      "The Gambia",
+      "Timor-Leste",
+      "Vanuatu",
+      "Vatican City"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Cameroon",
+      "Gabon",
+      "Iran",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Lebanon",
+      "Oman",
+      "Pakistan",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Sweden",
+      "Taiwan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Benin",
+      "Cameroon",
+      "Gabon",
+      "Réunion",
+      "Saint Martin",
+      "Saint Pierre and Miquelon"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bhutan",
+      "Isle of Man",
+      "Jordan",
+      "Liechtenstein",
+      "Sudan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ]
+  }
+}

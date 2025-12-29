@@ -1,0 +1,166 @@
+{
+  "grid_id": "203",
+  "rows": [
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 50 Olympic medals",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter C",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Belize",
+      "Bermuda",
+      "Canada",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Liechtenstein",
+      "Montserrat",
+      "Morocco",
+      "New Zealand",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "India",
+      "Philippines",
+      "Taiwan",
+      "Türkiye",
+      "United Arab Emirates",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Cameroon",
+      "Canada",
+      "Caribbean Netherlands",
+      "China",
+      "Cocos Islands",
+      "Côte d'Ivoire"
+    ],
+    "match_box_4": [
+      "Antigua and Barbuda",
+      "Aruba",
+      "Australia",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Curaçao",
+      "Falkland Islands (Malvinas)",
+      "Greenland",
+      "Grenada",
+      "Heard Island and McDonald Islands",
+      "Japan",
+      "Jordan",
+      "Malaysia",
+      "Morocco",
+      "New Zealand",
+      "Niue",
+      "Papua New Guinea",
+      "Saint Kitts and Nevis",
+      "Sint Maarten",
+      "Solomon Islands",
+      "Tokelau",
+      "Tuvalu"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Brazil",
+      "China",
+      "Hong Kong",
+      "Japan",
+      "Malaysia",
+      "Panama",
+      "Philippines",
+      "Singapore",
+      "Taiwan",
+      "Türkiye",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Cabo Verde",
+      "Cameroon",
+      "Cayman Islands",
+      "Central African Republic",
+      "Chile",
+      "China",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "Cook Islands",
+      "Croatia",
+      "Cuba",
+      "Curaçao"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Belgium",
+      "Canada",
+      "Denmark",
+      "Jamaica",
+      "Japan",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Spain",
+      "Sweden",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Korea",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Canada",
+      "China",
+      "Croatia",
+      "Cuba",
+      "Czechia"
+    ]
+  }
+}

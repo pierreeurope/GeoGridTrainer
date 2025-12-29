@@ -1,0 +1,161 @@
+{
+  "grid_id": "219",
+  "rows": [
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "hosted_f1",
+      "name": "Has hosted a Formula 1 Grand Prix",
+      "variantId": null
+    },
+    {
+      "id": "top_20_wheat_production",
+      "name": "Top 20 in wheat production",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $20k",
+      "variantId": 2
+    },
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Chile",
+      "Czechia",
+      "Liberia",
+      "Luxembourg",
+      "North Korea",
+      "Norway",
+      "Thailand"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Czechia",
+      "Finland",
+      "Greece",
+      "Guyana",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Norway",
+      "Slovenia",
+      "Sweden"
+    ],
+    "match_box_3": [
+      "Albania",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Chile",
+      "Czechia",
+      "Egypt",
+      "Finland",
+      "Greece",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Mexico",
+      "Norway",
+      "Palestine",
+      "Slovenia",
+      "Sweden"
+    ],
+    "match_box_4": [
+      "Australia",
+      "France",
+      "Netherlands",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Austria",
+      "Bahrain",
+      "Belgium",
+      "Canada",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Japan",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Canada",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Mexico",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Australia",
+      "France",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Canada",
+      "France",
+      "Germany",
+      "Poland",
+      "Romania",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Canada",
+      "Egypt",
+      "France",
+      "Germany",
+      "Poland",
+      "Romania",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

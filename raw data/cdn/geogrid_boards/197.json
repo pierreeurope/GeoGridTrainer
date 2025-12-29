@@ -1,0 +1,173 @@
+{
+  "grid_id": "197",
+  "rows": [
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Egypt",
+      "Kazakhstan",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "Sri Lanka",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_2": [
+      "Albania",
+      "Egypt",
+      "Guatemala",
+      "Mexico",
+      "Paraguay",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Bhutan",
+      "Christmas Island",
+      "Egypt",
+      "Kazakhstan",
+      "Sri Lanka"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kazakhstan",
+      "Kenya",
+      "Madagascar",
+      "Mali",
+      "Mexico",
+      "Mozambique",
+      "Myanmar",
+      "Niger",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "South Africa",
+      "Spain",
+      "Sudan",
+      "Tanzania",
+      "Thailand",
+      "Türkiye",
+      "Ukraine",
+      "United States of America",
+      "Venezuela",
+      "Yemen",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Botswana",
+      "Chile",
+      "Egypt",
+      "Indonesia",
+      "Mauritania",
+      "Mexico",
+      "Namibia",
+      "Nigeria",
+      "Pakistan",
+      "Somalia",
+      "Thailand",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kazakhstan",
+      "Mongolia",
+      "Myanmar",
+      "Pakistan",
+      "Russia",
+      "Saudi Arabia",
+      "Thailand",
+      "Türkiye",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Germany",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Armenia",
+      "Belgium",
+      "Burundi",
+      "Czechia",
+      "Eritrea",
+      "Finland",
+      "Georgia",
+      "Liberia",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Somalia",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Armenia",
+      "Bahrain",
+      "Georgia",
+      "Lebanon",
+      "Myanmar",
+      "Türkiye",
+      "Vietnam"
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "grid_id": "21",
+  "rows": [
+    {
+      "name": "Coastline on the Indian Ocean",
+      "id": "coastline_on_x",
+      "variantId": 1
+    },
+    {
+      "name": "Capital city population under 500k",
+      "id": "captial_population_under_x",
+      "variantId": 3
+    },
+    {
+      "name": "Population under 5 million",
+      "id": "population_under_x",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "name": "Starts with letter S",
+      "id": "starting_letter",
+      "variantId": 13
+    },
+    {
+      "name": "In Africa",
+      "id": "continent",
+      "variantId": 2
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Seychelles",
+      "Singapore",
+      "Somalia",
+      "South Africa",
+      "Sri Lanka"
+    ],
+    "match_box_2": [
+      "Comoros",
+      "Djibouti",
+      "Kenya",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Mozambique",
+      "Réunion",
+      "Seychelles",
+      "Somalia",
+      "South Africa",
+      "Tanzania"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Mauritius",
+      "Oman",
+      "Seychelles",
+      "Singapore",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Solomon Islands",
+      "South Africa",
+      "Sri Lanka",
+      "Suriname",
+      "Svalbard and Jan Mayen",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Benin",
+      "Botswana",
+      "Burundi",
+      "Cabo Verde",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Guinea-Bissau",
+      "Lesotho",
+      "Mauritius",
+      "Mayotte",
+      "Namibia",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "South Africa",
+      "The Gambia",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Bahamas",
+      "Bahrain",
+      "Barbados",
+      "Bhutan",
+      "Botswana",
+      "Cabo Verde",
+      "Costa Rica",
+      "Cyprus",
+      "Dominica",
+      "Estonia",
+      "Fiji",
+      "Grenada",
+      "Iceland",
+      "Luxembourg",
+      "Mauritius",
+      "New Zealand",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Slovenia",
+      "Switzerland"
+    ],
+    "match_box_7": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "Sint Maarten",
+      "Slovenia",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Suriname",
+      "Svalbard and Jan Mayen"
+    ],
+    "match_box_8": [
+      "Botswana",
+      "Cabo Verde",
+      "Comoros",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "Gabon",
+      "Guinea-Bissau",
+      "Lesotho",
+      "Mauritania",
+      "Mauritius",
+      "Mayotte",
+      "Namibia",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "The Gambia",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Bahamas",
+      "Bahrain",
+      "Barbados",
+      "Bhutan",
+      "Botswana",
+      "Cabo Verde",
+      "Cyprus",
+      "Dominica",
+      "Estonia",
+      "Fiji",
+      "Georgia",
+      "Grenada",
+      "Iceland",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Mauritius",
+      "Qatar",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Slovenia",
+      "Uruguay"
+    ]
+  }
+}

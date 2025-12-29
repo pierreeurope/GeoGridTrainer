@@ -1,0 +1,186 @@
+{
+  "grid_id": "202",
+  "rows": [
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.9",
+      "variantId": 10
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    },
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Andorra",
+      "Aruba",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Germany",
+      "Gibraltar",
+      "Guam",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Macau",
+      "San Marino",
+      "Slovenia",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Canada",
+      "Cayman Islands",
+      "Cyprus",
+      "Gibraltar",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Singapore",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Cyprus",
+      "France",
+      "Gibraltar",
+      "Greece",
+      "Israel",
+      "Italy",
+      "Malta",
+      "Monaco",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_4": [
+      "Angola",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Central African Republic",
+      "Chad",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kazakhstan",
+      "Mali",
+      "Mauritania",
+      "Mexico",
+      "Mongolia",
+      "Mozambique",
+      "Myanmar",
+      "Namibia",
+      "Peru",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Tanzania",
+      "Ukraine",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Botswana",
+      "Canada",
+      "India",
+      "Kenya",
+      "Mozambique",
+      "Namibia",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Egypt",
+      "France",
+      "Libya",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Belize",
+      "Bhutan",
+      "Bosnia and Herzegovina",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "French Guiana",
+      "Gabon",
+      "Ghana",
+      "Guinea-Bissau",
+      "Guyana",
+      "Liechtenstein",
+      "Macau",
+      "Mexico",
+      "Moldova",
+      "Mongolia",
+      "Nicaragua",
+      "Paraguay",
+      "Suriname",
+      "Sweden",
+      "Togo",
+      "Uruguay",
+      "Venezuela",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Belize",
+      "Canada",
+      "Eswatini",
+      "Gabon",
+      "Ghana",
+      "Guyana",
+      "Malawi",
+      "Sierra Leone",
+      "Togo"
+    ],
+    "match_box_9": [
+      "Bosnia and Herzegovina",
+      "Lebanon",
+      "Morocco",
+      "Palestine",
+      "Tunisia"
+    ]
+  }
+}

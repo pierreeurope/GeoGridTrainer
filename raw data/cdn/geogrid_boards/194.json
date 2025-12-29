@@ -1,0 +1,155 @@
+{
+  "grid_id": "194",
+  "rows": [
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.85",
+      "variantId": 9
+    },
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Indonesia",
+      "Pakistan",
+      "Singapore",
+      "Somalia"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Canada",
+      "Nigeria",
+      "Norfolk Island",
+      "Pakistan",
+      "Singapore",
+      "Tonga"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Bangladesh",
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Saudi Arabia",
+      "Singapore",
+      "Somalia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Christmas Island",
+      "Cocos Islands",
+      "Oman",
+      "Singapore",
+      "United Arab Emirates"
+    ],
+    "match_box_5": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Australia",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Canada",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Gibraltar",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Singapore",
+      "Turks and Caicos Islands",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Austria",
+      "Chile",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Kuwait",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Spain",
+      "Taiwan",
+      "Türkiye",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Australia",
+      "India",
+      "Indonesia",
+      "Malaysia",
+      "Singapore",
+      "Thailand",
+      "United Arab Emirates"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Canada",
+      "India",
+      "Malaysia",
+      "Singapore",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Brazil",
+      "Cambodia",
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "United Kingdom",
+      "Vietnam"
+    ]
+  }
+}

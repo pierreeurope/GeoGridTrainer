@@ -1,0 +1,185 @@
+{
+  "grid_id": "22",
+  "rows": [
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Starts with letter M",
+      "id": "starting_letter",
+      "variantId": 10
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the North Atlantic Ocean",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Madagascar",
+      "Maldives",
+      "Malta",
+      "Marshall Islands",
+      "Martinique",
+      "Mauritius",
+      "Mayotte",
+      "Montserrat"
+    ],
+    "match_box_2": [
+      "Cuba",
+      "Haiti",
+      "Iceland",
+      "Indonesia",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "New Zealand",
+      "Trinidad and Tobago",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cabo Verde",
+      "Dominica",
+      "Dominican Republic",
+      "Faroe Islands",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Haiti",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Martinique",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "São Tomé and Príncipe",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mexico",
+      "Mongolia",
+      "Mozambique",
+      "Myanmar"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Bolivia",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "France",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "Nigeria",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "South Africa",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Greenland",
+      "Mauritania",
+      "Nigeria",
+      "Spain",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Mexico",
+      "Moldova",
+      "Montenegro",
+      "Montserrat",
+      "Mozambique"
+    ],
+    "match_box_8": [
+      "Bolivia",
+      "Brazil",
+      "Croatia",
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Haiti",
+      "Iran",
+      "Mexico",
+      "Paraguay",
+      "Peru",
+      "Portugal",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_9": [
+      "Anguilla",
+      "Bermuda",
+      "Brazil",
+      "British Virgin Islands",
+      "Dominican Republic",
+      "Equatorial Guinea",
+      "Gibraltar",
+      "Haiti",
+      "Jersey",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Sint Maarten",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ]
+  }
+}

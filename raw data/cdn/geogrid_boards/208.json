@@ -1,0 +1,194 @@
+{
+  "grid_id": "208",
+  "rows": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 30 Olympic medals",
+      "variantId": 2
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 1-2 countries",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "hosted_f1",
+      "name": "Has hosted a Formula 1 Grand Prix",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Colombia",
+      "Cuba",
+      "Mexico",
+      "Spain"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Azerbaijan",
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Hungary",
+      "India",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Netherlands",
+      "Portugal",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Azerbaijan",
+      "China",
+      "Egypt",
+      "Georgia",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Kazakhstan",
+      "Mongolia",
+      "North Korea",
+      "Russia",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Colombia",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Morocco",
+      "Russia",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Kazakhstan",
+      "Malaysia",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Sri Lanka",
+      "Syria",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "Uzbekistan",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Costa Rica",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Nicaragua",
+      "Panama",
+      "Uruguay"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "Canada",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "Qatar",
+      "Singapore",
+      "South Korea",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Bahrain",
+      "Bangladesh",
+      "Bhutan",
+      "Brunei",
+      "Hong Kong",
+      "Kuwait",
+      "Lebanon",
+      "Macau",
+      "Mongolia",
+      "Nepal",
+      "Qatar",
+      "Singapore",
+      "South Korea",
+      "Timor-Leste",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  }
+}

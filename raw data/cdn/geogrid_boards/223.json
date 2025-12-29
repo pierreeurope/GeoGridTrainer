@@ -1,0 +1,197 @@
+{
+  "grid_id": "223",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In North America",
+      "variantId": 3
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "air_pollution_under_x",
+      "name": "Air pollution under 10 μg/m³",
+      "variantId": 1
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 30 Olympic medals",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Canada",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Greenland",
+      "Grenada",
+      "Jamaica",
+      "Montserrat",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_2": [
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Canada",
+      "Cayman Islands",
+      "Cuba",
+      "Dominica",
+      "Dominican Republic",
+      "Greenland",
+      "Grenada",
+      "Haiti",
+      "Martinique",
+      "Panama",
+      "Puerto Rico",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "U.S. Virgin Islands",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Canada",
+      "Cuba",
+      "Jamaica",
+      "Mexico",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Canada",
+      "Greenland",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Australia",
+      "Canada",
+      "France",
+      "Greenland",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Russia",
+      "Somalia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Colombia",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kazakhstan",
+      "Kenya",
+      "Mexico",
+      "Mongolia",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "Ukraine",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Bahamas",
+      "Bahrain",
+      "Belgium",
+      "Bermuda",
+      "Curaçao",
+      "Denmark",
+      "Grenada",
+      "Jamaica",
+      "Lesotho",
+      "Morocco",
+      "Tokelau"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Andorra",
+      "Austria",
+      "Bahamas",
+      "Belarus",
+      "Belgium",
+      "Bermuda",
+      "Comoros",
+      "Curaçao",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Germany",
+      "Grenada",
+      "Iceland",
+      "Ireland",
+      "Liberia",
+      "Mayotte",
+      "Morocco",
+      "Réunion",
+      "Senegal",
+      "Somalia",
+      "Uruguay",
+      "Vanuatu"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Germany",
+      "Hungary",
+      "Ireland",
+      "Jamaica",
+      "Romania",
+      "Türkiye",
+      "Ukraine"
+    ]
+  }
+}

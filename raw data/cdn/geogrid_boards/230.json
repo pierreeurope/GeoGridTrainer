@@ -1,0 +1,186 @@
+{
+  "grid_id": "230",
+  "rows": [
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 2,000 km",
+      "variantId": 3
+    },
+    {
+      "id": "hosted_olympics",
+      "name": "Has hosted the Olympics",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "top_20_wheat_production",
+      "name": "Top 20 in wheat production",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Croatia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "French Polynesia",
+      "French Southern Territories",
+      "Germany",
+      "Greece",
+      "Greenland",
+      "Ireland",
+      "Italy",
+      "New Caledonia",
+      "Portugal",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Pakistan",
+      "Russia",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Belgium",
+      "Finland",
+      "France",
+      "French Polynesia",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Aruba",
+      "Austria",
+      "Belgium",
+      "Cyprus",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greenland",
+      "Ireland",
+      "Italy",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Martinique",
+      "Netherlands",
+      "New Caledonia",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Slovenia",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Canada",
+      "Czechia",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Portugal",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Canada",
+      "France",
+      "Germany",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

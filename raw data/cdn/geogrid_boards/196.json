@@ -1,0 +1,166 @@
+{
+  "grid_id": "196",
+  "rows": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 30 Olympic medals",
+      "variantId": 2
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 2,000 km",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bolivia",
+      "Egypt",
+      "Kazakhstan",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "Zambia"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Canada",
+      "France",
+      "Greenland",
+      "Saudi Arabia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Mexico",
+      "Russia",
+      "Zambia"
+    ],
+    "match_box_4": [
+      "Croatia",
+      "Egypt",
+      "Kazakhstan",
+      "Mexico",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Canada",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Ireland",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Portugal",
+      "Slovenia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Taiwan",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Greece",
+      "Latvia",
+      "Mexico",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Sweden",
+      "Taiwan"
+    ],
+    "match_box_7": [
+      "Croatia",
+      "Ecuador",
+      "Egypt",
+      "Fiji",
+      "Mexico",
+      "Papua New Guinea",
+      "Peru",
+      "Spain",
+      "Sri Lanka"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Australia",
+      "Bahamas",
+      "Canada",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greenland",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Japan",
+      "New Caledonia",
+      "New Zealand",
+      "Norway",
+      "Portugal",
+      "Saudi Arabia",
+      "South Korea",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Greece",
+      "Mexico",
+      "Norway",
+      "Panama",
+      "Russia",
+      "Sweden",
+      "Taiwan"
+    ]
+  }
+}

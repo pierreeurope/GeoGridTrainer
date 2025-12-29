@@ -1,0 +1,173 @@
+{
+  "grid_id": "207",
+  "rows": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.45",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 2 million",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 100,000 km²",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Cuba",
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "Madagascar",
+      "New Zealand",
+      "Papua New Guinea",
+      "Philippines",
+      "Puerto Rico",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Cabo Verde",
+      "Comoros",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_3": [
+      "Cuba",
+      "Greenland",
+      "Iceland",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "New Zealand",
+      "Papua New Guinea",
+      "Philippines",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Benin",
+      "Bolivia",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "Ecuador",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "Palestine",
+      "Philippines",
+      "South Africa",
+      "Switzerland",
+      "Taiwan",
+      "Tanzania",
+      "The Gambia",
+      "Türkiye",
+      "United Arab Emirates",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Morocco",
+      "Nigeria",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Africa",
+      "Tanzania",
+      "The Gambia"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Benin",
+      "Bolivia",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "Ecuador",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Tanzania",
+      "Türkiye",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Mali",
+      "Niger",
+      "Somalia",
+      "South Sudan"
+    ],
+    "match_box_8": [
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Mali",
+      "Niger",
+      "Somalia",
+      "South Sudan"
+    ],
+    "match_box_9": [
+      "Central African Republic",
+      "Chad",
+      "Mali",
+      "Niger",
+      "Somalia",
+      "South Sudan"
+    ]
+  }
+}

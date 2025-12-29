@@ -1,0 +1,168 @@
+{
+  "grid_id": "204",
+  "rows": [
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $20k",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    },
+    {
+      "id": "name_start_end_same_letter",
+      "name": "Starts and ends with the same letter",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Cambodia",
+      "Japan",
+      "Jordan",
+      "Kuwait",
+      "Malaysia",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Australia",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_3": [
+      "Australia",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Heard Island and McDonald Islands",
+      "Malaysia",
+      "Oman",
+      "Thailand",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Algeria",
+      "Azerbaijan",
+      "Bangladesh",
+      "Bolivia",
+      "Brazil",
+      "Burkina Faso",
+      "Cameroon",
+      "Ethiopia",
+      "Ghana",
+      "Iran",
+      "Iraq",
+      "Italy",
+      "Jordan",
+      "Kenya",
+      "Kuwait",
+      "Lebanon",
+      "Mali",
+      "Mexico",
+      "Peru",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "South Africa",
+      "Spain",
+      "Sudan",
+      "Syria",
+      "United Arab Emirates",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Central African Republic",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "Djibouti",
+      "India",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Myanmar",
+      "Oman",
+      "Pakistan",
+      "Seychelles",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "United Arab Emirates"
+    ],
+    "match_box_7": [
+      "Austria",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Kuwait",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Spain",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Australia",
+      "Austria",
+      "Seychelles"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Christmas Island",
+      "Réunion",
+      "Seychelles",
+      "Singapore",
+      "United Arab Emirates"
+    ]
+  }
+}

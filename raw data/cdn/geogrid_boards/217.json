@@ -1,0 +1,168 @@
+{
+  "grid_id": "217",
+  "rows": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Nile River system",
+      "variantId": 0
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 40",
+      "variantId": 2
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_2": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "South Sudan",
+      "Sudan",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_4": [
+      "Botswana",
+      "Eswatini",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Mauritius",
+      "Mozambique",
+      "Namibia",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "South Africa",
+      "Tanzania",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "Eswatini",
+      "Guyana",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Maldives",
+      "Mozambique",
+      "Nepal",
+      "Pakistan",
+      "Papua New Guinea",
+      "Sri Lanka",
+      "Thailand",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Bangladesh",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Kenya",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "Nepal",
+      "Pakistan",
+      "Papua New Guinea",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Uganda",
+      "United Kingdom",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Cabo Verde",
+      "Comoros",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_8": [
+      "Comoros",
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Madagascar",
+      "Maldives",
+      "Papua New Guinea",
+      "Philippines",
+      "Sri Lanka"
+    ],
+    "match_box_9": [
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Papua New Guinea",
+      "Philippines",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ]
+  }
+}

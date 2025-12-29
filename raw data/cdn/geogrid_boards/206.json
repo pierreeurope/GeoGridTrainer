@@ -1,0 +1,178 @@
+{
+  "grid_id": "206",
+  "rows": [
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $40k",
+      "variantId": 4
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Austria",
+      "Belgium",
+      "Cyprus",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greenland",
+      "Ireland",
+      "Italy",
+      "Luxembourg",
+      "Malta",
+      "Netherlands",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Sweden"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Canada",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Macau",
+      "Netherlands",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Austria",
+      "Belgium",
+      "Bermuda",
+      "Denmark",
+      "Finland",
+      "Germany",
+      "Iceland",
+      "Ireland"
+    ],
+    "match_box_4": [
+      "Belgium",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_5": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Belgium",
+      "Bolivia",
+      "Burundi",
+      "Czechia",
+      "Ecuador",
+      "Germany",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Romania",
+      "Senegal",
+      "Somalia",
+      "Tunisia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Finland",
+      "France",
+      "Germany",
+      "Greenland",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_8": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Belarus",
+      "Bolivia",
+      "Ecuador",
+      "Finland",
+      "Germany",
+      "Morocco",
+      "Myanmar",
+      "Namibia",
+      "Nigeria",
+      "Romania",
+      "Somalia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ]
+  }
+}

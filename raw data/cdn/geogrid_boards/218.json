@@ -1,0 +1,183 @@
+{
+  "grid_id": "218",
+  "rows": [
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "size_under_x",
+      "name": "Area less than 100,000 km²",
+      "variantId": 4
+    },
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 500k",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "same_sex_activities_illegal",
+      "name": "Same-sex activities are illegal",
+      "variantId": null
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 5,000 km",
+      "variantId": 4
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter N",
+      "variantId": 11
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Brunei",
+      "Cameroon",
+      "Eswatini",
+      "Ghana",
+      "Grenada",
+      "Guyana",
+      "Jamaica",
+      "Kenya",
+      "Kiribati",
+      "Malawi",
+      "Malaysia",
+      "Maldives",
+      "Nigeria",
+      "Niue",
+      "Pakistan",
+      "Papua New Guinea",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Sierra Leone",
+      "Solomon Islands",
+      "Sri Lanka",
+      "Tanzania",
+      "The Gambia",
+      "Togo",
+      "Tonga",
+      "Tuvalu",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Bahamas",
+      "Canada",
+      "India",
+      "Malaysia",
+      "Mozambique",
+      "New Zealand",
+      "Papua New Guinea",
+      "Solomon Islands",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Namibia",
+      "Nauru",
+      "New Zealand",
+      "Nigeria",
+      "Niue",
+      "Norfolk Island"
+    ],
+    "match_box_4": [
+      "Brunei",
+      "Burundi",
+      "Comoros",
+      "Eswatini",
+      "Grenada",
+      "Jamaica",
+      "Kiribati",
+      "Kuwait",
+      "Lebanon",
+      "Maldives",
+      "Niue",
+      "Palestine",
+      "Qatar",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Sierra Leone",
+      "Solomon Islands",
+      "Sri Lanka",
+      "The Gambia",
+      "Togo",
+      "Tonga",
+      "Tuvalu",
+      "United Arab Emirates"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Bahamas",
+      "Croatia",
+      "Denmark",
+      "French Polynesia",
+      "Ireland",
+      "Panama",
+      "Solomon Islands",
+      "South Korea",
+      "Svalbard and Jan Mayen"
+    ],
+    "match_box_6": [
+      "Nauru",
+      "Netherlands",
+      "New Caledonia",
+      "Niue",
+      "Norfolk Island",
+      "North Macedonia",
+      "Northern Mariana Islands"
+    ],
+    "match_box_7": [
+      "Brunei",
+      "Burundi",
+      "Comoros",
+      "Eswatini",
+      "Grenada",
+      "Guyana",
+      "Kiribati",
+      "Malaysia",
+      "Maldives",
+      "Niue",
+      "Papua New Guinea",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Solomon Islands",
+      "Sri Lanka",
+      "The Gambia",
+      "Tonga",
+      "Tuvalu"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Australia",
+      "Bahamas",
+      "French Polynesia",
+      "Greenland",
+      "Iceland",
+      "India",
+      "Malaysia",
+      "New Zealand",
+      "Panama",
+      "Papua New Guinea",
+      "Solomon Islands",
+      "Svalbard and Jan Mayen"
+    ],
+    "match_box_9": [
+      "Namibia",
+      "Nauru",
+      "New Caledonia",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands"
+    ]
+  }
+}

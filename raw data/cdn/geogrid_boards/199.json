@@ -1,0 +1,173 @@
+{
+  "grid_id": "199",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Comoros",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Haiti",
+      "Madagascar",
+      "Martinique",
+      "Mayotte",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Canada",
+      "France",
+      "Guinea",
+      "Monaco",
+      "Rwanda"
+    ],
+    "match_box_3": [
+      "Belgium",
+      "Benin",
+      "Côte d'Ivoire",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Greenland",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "New Zealand",
+      "Papua New Guinea",
+      "Philippines",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Guinea",
+      "Guyana",
+      "Mexico",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Sweden",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Angola",
+      "Argentina",
+      "Belarus",
+      "Bolivia",
+      "Botswana",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Egypt",
+      "Kazakhstan",
+      "Kenya",
+      "Laos",
+      "Malaysia",
+      "Mauritania",
+      "Myanmar",
+      "Namibia",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Republic of the Congo",
+      "Romania",
+      "Spain",
+      "Thailand",
+      "Turkmenistan",
+      "Uganda",
+      "Uzbekistan",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Belize",
+      "Bhutan",
+      "Jersey",
+      "Mexico",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Bolivia",
+      "Croatia",
+      "Egypt",
+      "Guatemala",
+      "Kazakhstan",
+      "Montenegro",
+      "Peru",
+      "Spain",
+      "Uganda",
+      "Zimbabwe"
+    ]
+  }
+}

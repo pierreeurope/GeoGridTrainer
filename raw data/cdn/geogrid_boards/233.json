@@ -1,0 +1,173 @@
+{
+  "grid_id": "233",
+  "rows": [
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "top_20_alcohol_consumption",
+      "name": "Top 20 in alcohol consumption per capita",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    },
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 4 tCO₂/year",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Russia",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Moldova",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Kazakhstan",
+      "Lithuania",
+      "Russia",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "China",
+      "Croatia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Moldova",
+      "Mongolia",
+      "Slovenia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Aruba",
+      "Australia",
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Cayman Islands",
+      "Chile",
+      "China",
+      "Cook Islands",
+      "Croatia",
+      "Curaçao",
+      "Falkland Islands (Malvinas)",
+      "French Polynesia",
+      "Greenland",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "Kazakhstan",
+      "Libya",
+      "Macau",
+      "Malaysia",
+      "Mongolia",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "North Macedonia",
+      "Saint Martin",
+      "Singapore",
+      "Sint Maarten",
+      "Slovenia",
+      "Suriname",
+      "Taiwan",
+      "Türkiye",
+      "Turkmenistan",
+      "United States of America",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "Czechia",
+      "Estonia",
+      "France",
+      "Georgia",
+      "Germany",
+      "Ireland",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Moldova",
+      "Poland",
+      "Romania",
+      "Slovenia"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Bulgaria",
+      "Moldova",
+      "Romania",
+      "Slovenia"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "Czechia",
+      "Estonia",
+      "France",
+      "Germany",
+      "Ireland",
+      "Lithuania",
+      "Luxembourg",
+      "Poland",
+      "Seychelles",
+      "Slovenia"
+    ]
+  }
+}

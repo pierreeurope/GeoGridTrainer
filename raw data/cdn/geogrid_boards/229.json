@@ -1,0 +1,153 @@
+{
+  "grid_id": "229",
+  "rows": [
+    {
+      "id": "top_20_oil_production",
+      "name": "Top 20 in oil production",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $20k",
+      "variantId": 2
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Canada",
+      "Kuwait",
+      "Norway",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Angola",
+      "Canada",
+      "China",
+      "Libya",
+      "Nigeria",
+      "Russia",
+      "Saudi Arabia",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Angola",
+      "Brazil",
+      "Canada",
+      "China",
+      "Iran",
+      "Iraq",
+      "Kuwait",
+      "Mexico",
+      "Nigeria",
+      "Norway",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Christmas Island",
+      "Réunion",
+      "Seychelles",
+      "Singapore",
+      "United Arab Emirates"
+    ],
+    "match_box_5": [
+      "Australia",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Malaysia",
+      "Somalia",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Indonesia",
+      "Iran",
+      "South Africa",
+      "United Arab Emirates"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Malta",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Bermuda",
+      "Bolivia",
+      "Croatia",
+      "Dominica",
+      "Guatemala",
+      "Malta",
+      "Moldova",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Serbia",
+      "Sri Lanka",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Bolivia",
+      "Croatia",
+      "Ecuador",
+      "Egypt",
+      "Mexico",
+      "Paraguay",
+      "Peru",
+      "Serbia",
+      "Spain"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "grid_id": "209",
+  "rows": [
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    },
+    {
+      "id": "co2_emissions_per_capita_under_x",
+      "name": "CO₂ emissions per capita under 4 tCO₂/year",
+      "variantId": 4
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "top_20_wheat_production",
+      "name": "Top 20 in wheat production",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Moldova",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "China",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "China",
+      "Kazakhstan",
+      "Romania",
+      "Russia",
+      "Ukraine"
+    ],
+    "match_box_4": [
+      "Armenia",
+      "Georgia",
+      "Kyrgyzstan",
+      "Latvia",
+      "Moldova",
+      "Tajikistan",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Armenia",
+      "Bangladesh",
+      "Bhutan",
+      "Cambodia",
+      "Egypt",
+      "Georgia",
+      "India",
+      "Indonesia",
+      "Jordan",
+      "Kyrgyzstan",
+      "Laos",
+      "Lebanon",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Pakistan",
+      "Philippines",
+      "Sri Lanka",
+      "Syria",
+      "Tajikistan",
+      "Thailand",
+      "Timor-Leste",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Brazil",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Pakistan",
+      "Romania",
+      "Ukraine"
+    ],
+    "match_box_7": [
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Lithuania",
+      "Moldova",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "China",
+      "Christmas Island",
+      "Cocos Islands",
+      "Egypt",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Macau",
+      "Malaysia",
+      "Mongolia",
+      "Myanmar",
+      "Philippines",
+      "Sri Lanka",
+      "Tajikistan",
+      "Timor-Leste",
+      "Turkmenistan",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "Egypt",
+      "Ethiopia",
+      "Germany",
+      "Kazakhstan",
+      "Romania",
+      "Ukraine"
+    ]
+  }
+}

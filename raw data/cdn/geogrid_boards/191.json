@@ -1,0 +1,192 @@
+{
+  "grid_id": "191",
+  "rows": [
+    {
+      "id": "borders_x",
+      "name": "Borders Russia",
+      "variantId": 0
+    },
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 50k",
+      "variantId": 0
+    },
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $30k",
+      "variantId": 3
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Azerbaijan",
+      "China",
+      "Kazakhstan",
+      "Mongolia",
+      "North Korea"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Belarus",
+      "China",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Mongolia",
+      "North Korea",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "China",
+      "Estonia",
+      "Georgia",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "North Korea"
+    ],
+    "match_box_4": [
+      "Antigua and Barbuda",
+      "Aruba",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Federated States of Micronesia",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "Niue",
+      "Northern Mariana Islands",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Samoa",
+      "Sint Maarten",
+      "Tuvalu"
+    ],
+    "match_box_5": [
+      "American Samoa",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Belize",
+      "Cocos Islands",
+      "Cook Islands",
+      "Dominica",
+      "Eswatini",
+      "Federated States of Micronesia",
+      "Grenada",
+      "Guadeloupe",
+      "Kiribati",
+      "Marshall Islands",
+      "Montserrat",
+      "Nauru",
+      "Niue",
+      "Northern Mariana Islands",
+      "Palau",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Seychelles",
+      "The Gambia",
+      "Tonga",
+      "Trinidad and Tobago",
+      "Tuvalu",
+      "Vanuatu",
+      "Vatican City",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Bermuda",
+      "Dominica",
+      "Federated States of Micronesia",
+      "Grenada",
+      "Malta",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Samoa",
+      "The Gambia",
+      "Tonga",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Cuba",
+      "Ecuador",
+      "Equatorial Guinea",
+      "Honduras",
+      "Panama",
+      "Paraguay",
+      "Puerto Rico",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Nicaragua",
+      "Panama",
+      "Venezuela",
+      "Western Sahara"
+    ]
+  }
+}

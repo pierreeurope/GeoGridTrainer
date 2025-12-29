@@ -1,0 +1,191 @@
+{
+  "grid_id": "19",
+  "rows": [
+    {
+      "name": "Was part of the USSR",
+      "id": "was_ussr",
+      "variantId": null
+    },
+    {
+      "name": "Ends with letter S",
+      "id": "ending_letter",
+      "variantId": 9
+    },
+    {
+      "name": "Starts with letter S",
+      "id": "starting_letter",
+      "variantId": 13
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Population over 5 million",
+      "id": "population_over_x",
+      "variantId": 3
+    },
+    {
+      "name": "Capital city population under 5 million",
+      "id": "captial_population_under_x",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Azerbaijan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Moldova",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Cayman Islands",
+      "Cocos Islands",
+      "Comoros",
+      "Cook Islands",
+      "Falkland Islands (Malvinas)",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Honduras",
+      "Marshall Islands",
+      "Northern Mariana Islands",
+      "Philippines",
+      "Saint Kitts and Nevis",
+      "Solomon Islands"
+    ],
+    "match_box_5": [
+      "Belarus",
+      "Honduras",
+      "Laos",
+      "Netherlands",
+      "Philippines",
+      "United Arab Emirates"
+    ],
+    "match_box_6": [
+      "Bahamas",
+      "Barbados",
+      "Belarus",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Cocos Islands",
+      "Comoros",
+      "Cook Islands",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Honduras",
+      "Laos",
+      "Maldives",
+      "Marshall Islands",
+      "Mauritius",
+      "Netherlands",
+      "Northern Mariana Islands",
+      "Philippines",
+      "Pitcairn Islands",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_7": [
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Singapore",
+      "Sint Maarten",
+      "Slovenia",
+      "Solomon Islands",
+      "Somalia",
+      "South Sudan",
+      "Suriname",
+      "Syria"
+    ],
+    "match_box_8": [
+      "Saudi Arabia",
+      "Senegal",
+      "Serbia",
+      "Sierra Leone",
+      "Singapore",
+      "Slovakia",
+      "Somalia",
+      "South Africa",
+      "South Korea",
+      "South Sudan",
+      "Spain",
+      "Sri Lanka",
+      "Sudan",
+      "Sweden",
+      "Switzerland",
+      "Syria"
+    ],
+    "match_box_9": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Serbia",
+      "Seychelles",
+      "Sierra Leone",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Solomon Islands",
+      "Somalia",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Sri Lanka",
+      "Suriname",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Switzerland",
+      "Syria"
+    ]
+  }
+}

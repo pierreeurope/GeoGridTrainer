@@ -1,0 +1,144 @@
+{
+  "grid_id": "211",
+  "rows": [
+    {
+      "id": "observes_x_time_zone",
+      "name": "Observes UTC+02:00 time zone",
+      "variantId": 10
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    },
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burundi",
+      "Estonia",
+      "Finland",
+      "Lebanon",
+      "Lesotho",
+      "Moldova",
+      "Namibia",
+      "Romania",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Bulgaria",
+      "Egypt",
+      "Finland",
+      "Romania",
+      "Russia",
+      "South Africa",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Botswana",
+      "Cyprus",
+      "Estonia",
+      "Finland",
+      "Israel",
+      "Latvia",
+      "Lithuania",
+      "Rwanda"
+    ],
+    "match_box_4": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Belarus",
+      "Bolivia",
+      "Burundi",
+      "Czechia",
+      "Hungary",
+      "Lesotho",
+      "Moldova"
+    ],
+    "match_box_5": [
+      "Armenia",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Slovakia",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Bhutan",
+      "Botswana",
+      "Czechia",
+      "Luxembourg",
+      "Rwanda",
+      "Switzerland"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Austria",
+      "Bolivia",
+      "Germany",
+      "Lebanon",
+      "Somalia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Bangladesh",
+      "Brazil",
+      "China",
+      "Egypt",
+      "France",
+      "Iran",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Chile",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Spain",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom"
+    ]
+  }
+}
