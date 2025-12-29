@@ -926,6 +926,180 @@ def export_final_countries_csv(p: Paths, common_countries: List[Dict[str, Any]])
     return {"rows": len(merged_rows), "langs": len(lang_codes), "columns": len(headers)}
 
 
+def export_ui_countries_csv(p: Paths) -> Dict[str, Any]:
+    """
+    Produce a UI-focused CSV intended to be served directly by the React app:
+    - one row per country
+    - English name only (Country)
+    - keep code for linking flags (hidden in UI but useful)
+    - ONLY columns that correspond to GeoGrid game attributes (plus a few needed from common data)
+    - readable headers (no machine key noise)
+    - list-like values stored as JSON arrays for robust filtering
+    """
+    final_path = p.cleaned / "final_countries.csv"
+    if not final_path.exists():
+        raise RuntimeError("final_countries.csv missing; run export_final_countries_csv first.")
+
+    rows = _read_csv_as_dicts(final_path)
+    if not rows:
+        raise RuntimeError("final_countries.csv appears empty")
+
+    # Build a derived "rarity" from historical GeoGrid boards:
+    # rarity is based on how often a country appears as a valid answer across all board cells.
+    # (This is NOT player-answer rarity; it's a dataset coverage rarity.)
+    board_cells_path = p.cleaned / "geogrid_board_cells.csv"
+    code_to_answer_cell_count: Dict[str, int] = {}
+    total_cells = 0
+    if board_cells_path.exists():
+        with board_cells_path.open("r", encoding="utf-8", newline="") as f:
+            rdr = csv.DictReader(f)
+            for cell in rdr:
+                total_cells += 1
+                raw = (cell.get("answers_codes_json") or "").strip()
+                if not raw:
+                    continue
+                try:
+                    codes = json.loads(raw)
+                except Exception:
+                    continue
+                if not isinstance(codes, list):
+                    continue
+                # count once per cell
+                for cc in {str(x).upper() for x in codes if isinstance(x, str) and x}:
+                    code_to_answer_cell_count[cc] = code_to_answer_cell_count.get(cc, 0) + 1
+
+    # Convert counts to a 0..100 score where 100 is "rarest" (lowest count) and 0 is "most common".
+    # Use percentile rank over countries that appear at least once.
+    rarity_score_by_code: Dict[str, int] = {}
+    if code_to_answer_cell_count:
+        items = sorted(code_to_answer_cell_count.items(), key=lambda kv: (kv[1], kv[0]))  # asc count
+        n = len(items)
+        for idx, (cc, _cnt) in enumerate(items):
+            if n == 1:
+                rarity_score_by_code[cc] = 100
+            else:
+                percentile = idx / (n - 1)  # 0 (rarest) .. 1 (most common)
+                rarity_score_by_code[cc] = int(round(100 * (1 - percentile)))
+
+    # Helper to find columns by machine key suffix in brackets: "... [machineKey]"
+    def find_col(machine_key: str) -> Optional[str]:
+        for k in rows[0].keys():
+            if k.endswith(f"[{machine_key}]"):
+                return k
+        return None
+
+    # Core identifiers
+    code_col = "Country code"
+    name_col = "Country name (default)"
+
+    # Common fields used by some GeoGrid categories
+    common_continent = find_col("continent")
+    common_population = find_col("population")
+    common_size = find_col("size")
+
+    # GeoGrid attribute machine keys to include (these are the “base facts” behind most categories)
+    geogrid_keys = [
+        # Flag
+        "flagInfo__colorsOnFlag",
+        "flagInfo__hasStar",
+        "flagInfo__hasCoatOfArms",
+        "flagInfo__hasAnimal",
+        # Geography
+        "geographyInfo__landlocked",
+        "geographyInfo__islandNation",
+        "geographyInfo__coastlineLength",
+        "geographyInfo__coastline",
+        "geographyInfo__touchesSahara",
+        "geographyInfo__rivers",
+        "geographyInfo__touchesEurasionSteppe",
+        "geographyInfo__touchesEquator",
+        "geographyInfo__top10Lakes",
+        "geographyInfo__borderCount",
+        "geographyInfo__borderCountriesCodes_json",
+        # Economy
+        "economicInfo__HDI",
+        "economicInfo__GDPPerCapita",
+        "economicInfo__GDPPerCapitaYear",
+        "economicInfo__top20WheatProduction",
+        "economicInfo__top20OilProduction",
+        "economicInfo__top20RenewableElectricityProduction",
+        "economicInfo__producesNuclearPower",
+        # Politics
+        "politicalInfo__isMonarchy",
+        "politicalInfo__inEU",
+        "politicalInfo__hasNuclearWeapons",
+        "politicalInfo__wasUSSR",
+        "politicalInfo__inCommonwealth",
+        "politicalInfo__timeZones",
+        "politicalInfo__observesDST",
+        "politicalInfo__sameSexMarriageLegal",
+        "politicalInfo__sameSexActivitiesIllegal",
+        "politicalInfo__CPI",
+        "politicalInfo__isTerritory",
+        # Sports
+        "sportsInfo__olympicMedals",
+        "sportsInfo__hostedF1",
+        "sportsInfo__hostedOlympics",
+        "sportsInfo__hostedMensWorldCup",
+        "sportsInfo__playedMensWorldCup",
+        "sportsInfo__wonMensWorldCup",
+        # Facts
+        "factsInfo__drivesLeft",
+        "factsInfo__hasAlcoholBan",
+        "factsInfo__has50Skyscrapers",
+        "factsInfo__top20ObesityRate",
+        "factsInfo__top20ChocolateConsumption",
+        "factsInfo__top20AlcoholConsumption",
+        "factsInfo__top20PopulationDensity",
+        "factsInfo__bottom20PopulationDensity",
+        "factsInfo__top20TourismRate",
+        "factsInfo__top20RailSize",
+        "factsInfo__top20WorldHeritageSites",
+        "factsInfo__airPollution",
+        "factsInfo__co2Emissions",
+    ]
+
+    selected_cols: List[Tuple[str, str]] = []  # (out_header, source_col)
+
+    # Always include code (for flag URL building), but UI can hide it by default.
+    selected_cols.append(("code", code_col))
+    selected_cols.append(("Country", name_col))
+    selected_cols.append(("Rarity", "__computed_rarity"))
+    selected_cols.append(("flag_svg", "code"))  # computed later from code
+
+    if common_continent:
+        selected_cols.append(("Continent codes", common_continent))
+    if common_population:
+        selected_cols.append(("Population", common_population))
+    if common_size:
+        selected_cols.append(("Area km²", common_size))
+
+    # Map geo keys to their existing source columns in final_countries.csv (preferring GeoGrid table)
+    for mk in geogrid_keys:
+        src = find_col(mk)
+        if src:
+            selected_cols.append((pretty_column_name(mk).replace(" / ", " - "), src))
+
+    out_rows: List[Dict[str, Any]] = []
+    for r in rows:
+        out: Dict[str, Any] = {}
+        code = (r.get(code_col) or "").strip().upper()
+        out["code"] = code
+        out["Country"] = (r.get(name_col) or "").strip()
+        out["Rarity"] = rarity_score_by_code.get(code) if code else ""
+        out["flag_svg"] = f"/flags/{code.lower()}.svg" if code else ""
+        for out_h, src_h in selected_cols:
+            if out_h in {"code", "Country", "Rarity", "flag_svg"}:
+                continue
+            out[out_h] = r.get(src_h, "")
+        out_rows.append(out)
+
+    # Ensure deterministic column order
+    fieldnames = list(out_rows[0].keys())
+    write_csv(p.cleaned / "ui_countries.csv", out_rows, fieldnames=fieldnames)
+    return {"rows": len(out_rows), "columns": len(fieldnames), "total_cells": total_cells}
+
+
 def main() -> int:
     root = Path(__file__).resolve().parents[1]
     p = Paths.from_root(root)
@@ -994,6 +1168,11 @@ def main() -> int:
     print("final_countries.csv name languages:", final_report["langs"])
     print("final_countries.csv columns:", final_report["columns"])
 
+    print("\n-- Step 4d: Export UI-focused countries CSV (GeoGrid-only columns) --")
+    ui_report = export_ui_countries_csv(p)
+    print("ui_countries.csv rows:", ui_report["rows"])
+    print("ui_countries.csv columns:", ui_report["columns"])
+
     # Step 5: verification summary / hard failures
     print("\n-- Step 5: Verification --")
     hard_fail = False
@@ -1005,6 +1184,9 @@ def main() -> int:
         hard_fail = True
     if not (p.cleaned / "geogrid_country_details.csv").exists():
         print("ERROR: geogrid_country_details.csv was not created.")
+        hard_fail = True
+    if not (p.cleaned / "ui_countries.csv").exists():
+        print("ERROR: ui_countries.csv was not created.")
         hard_fail = True
     if export_report["counts"]["unresolved_board_answer_names"] > 0:
         print(

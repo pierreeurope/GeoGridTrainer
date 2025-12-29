@@ -6,6 +6,25 @@ The goal is to get better at [https://www.geogridgame.com/](https://www.geogridg
 
 Create a simple UI that looks like a big excel sheet with all categories as column (slightly more complex than that for others) with advanced filtering and sorting capabilities. Most of the time will be spend on data collecting and cleaning probably.
 
+### Web UI (React + TypeScript)
+
+This repo now includes a React+TypeScript UI (Vite) that loads:
+- `public/data/ui_countries.csv` (a UI-focused subset of the dataset)
+- `public/flags/{cc}.svg` (flag assets)
+
+Run locally:
+
+```bash
+yarn install
+yarn dev
+```
+
+Build (also what AWS Amplify runs):
+
+```bash
+yarn build
+```
+
 ### Data (CDN mirror + clean CSV export)
 
 GeoGrid itself loads pre-built JSON datasets (compiled from sources like Wikipedia) from a public CDN.
@@ -64,6 +83,14 @@ The pipeline also mirrors **all flag SVGs** keyed by country code:
 
 - **Folder**: `raw data/cdn/common_flags_svg/`
 - **Filename format**: `{country_code_lower}.svg` (example: `af.svg`, `fr.svg`, `us.svg`)
+
+#### UI dataset
+
+The UI uses a smaller CSV exported by the pipeline:
+
+- `cleaned/ui_countries.csv` → copied to `public/data/ui_countries.csv`
+- Only includes columns that back GeoGrid-style prompts (flag colors, medals, landlocked, etc.)
+- Includes `flag_svg` as a ready-to-use URL (ex: `/flags/af.svg`)
 
 ## Level 2
 
