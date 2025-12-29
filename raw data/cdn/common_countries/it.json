@@ -1,0 +1,147 @@
+{
+  "code": "IT",
+  "latitude": 41.87194,
+  "longitude": 12.56738,
+  "name": "Italy",
+  "names": {
+    "fr": "Italie",
+    "hu": "Olaszország",
+    "nl": "Italië",
+    "pl": "Włochy",
+    "de": "Italien",
+    "ja": "イタリア",
+    "co": "Italia",
+    "es": "Italia",
+    "pt": "Itália",
+    "eu": "Italia",
+    "ie": "An Iodáil"
+  },
+  "flags": [
+    "at",
+    "mt",
+    "it",
+    "fr",
+    "va",
+    "ch",
+    "si",
+    "sm"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "at",
+    "fr",
+    "sm",
+    "si",
+    "ch",
+    "va"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Italy",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Italy/@41.87194,12.56738,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Lira",
+      "Dollar",
+      "Dinar"
+    ]
+  },
+  "population": 58915561,
+  "size": 301316,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Italy"
+      },
+      {
+        "title": "Language Knowledge",
+        "url": "https://languageknowledge.eu/countries/italy"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ita",
+        "percentage": 96.8
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 1.31
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 677095229000.932,
+    "topExports": [
+      {
+        "productCode": "84",
+        "value": 116733454517.854
+      },
+      {
+        "productCode": "87",
+        "value": 53836285956.702
+      },
+      {
+        "productCode": "30",
+        "value": 50320671546.813
+      },
+      {
+        "productCode": "85",
+        "value": 44272110277.762
+      },
+      {
+        "productCode": "39",
+        "value": 24672549812.307
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/r9RW20TrQ0Y"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/village-sea-coast-coastline-279013/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-house-near-sea-during-daytime-EZT6qusWOBQ"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/venice-grand-canal-italy-1naE8177_bI"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/house-in-middle-of-grass-field-M0OIyN5u8ZM"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Santa_Maria_della_Salute_from_Hotel_Monaco_nightview.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Verona_0002.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 41091,
+  "gdpPerCapitaYear": 2025
+}

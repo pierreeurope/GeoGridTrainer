@@ -1,0 +1,144 @@
+{
+  "code": "MO",
+  "latitude": 22.198745,
+  "longitude": 113.543873,
+  "name": "Macau",
+  "names": {
+    "hu": "Makaó",
+    "nl": "Macau",
+    "pl": "Makau",
+    "de": "Macau",
+    "ja": "マカオ",
+    "pt": "Macau",
+    "co": "Macau",
+    "eu": "Macau",
+    "fr": "MACAO",
+    "es": "MACAO",
+    "ie": "Macáó"
+  },
+  "flags": [
+    "th",
+    "mo",
+    "vn",
+    "tw",
+    "hk",
+    "ph",
+    "la",
+    "kh"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "hk",
+    "cn"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Macao",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Macao/@22.198745,113.543873,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MOP",
+    "name": "Pataca",
+    "nameChoices": [
+      "Pound",
+      "Pa'anga",
+      "Franc",
+      "Pataca"
+    ]
+  },
+  "population": 712651,
+  "size": 30,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "yue",
+        "percentage": 81
+      },
+      {
+        "languageCode": "cmn",
+        "percentage": 4.7
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 1221552447.076,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 301700988.966
+      },
+      {
+        "productCode": "71",
+        "value": 248948752.46
+      },
+      {
+        "productCode": "91",
+        "value": 151104007.816
+      },
+      {
+        "productCode": "62",
+        "value": 129547722.048
+      },
+      {
+        "productCode": "33",
+        "value": 64000805.323
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/dZbJOsTl4PM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/macao-macau-china-architecture-4769469/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/people-on-street-during-daytime-ziUS6LTwWDc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/cars-parked-near-brown-concrete-building-during-daytime-TFS_MtsZHaE"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-tall-buildings-Kl46uyMmu3g"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/concrete-buildings-under-blue-sky-2AUg3F3SmLI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Estatua_de_Guan_Yin,_Macao,_2013-08-08,_DD_08.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:MelvL_P3310240_(5577360424).jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 72910,
+  "gdpPerCapitaYear": 2024
+}

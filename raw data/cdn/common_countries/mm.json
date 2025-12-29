@@ -1,0 +1,129 @@
+{
+  "code": "MM",
+  "latitude": 21.913965,
+  "longitude": 95.956223,
+  "name": "Myanmar",
+  "names": {
+    "hu": "Mianmar",
+    "nl": "Myanmar (Birma)",
+    "pl": "Mjanma",
+    "ja": "ミャンマー",
+    "co": "Myanmar (Birmania)",
+    "ie": "Maenmar"
+  },
+  "flags": [
+    "th",
+    "la",
+    "in",
+    "cn",
+    "bd",
+    "np",
+    "mm",
+    "bt"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "bd",
+    "cn",
+    "in",
+    "la",
+    "th"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Myanmar",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Myanmar/@21.913965,95.956223,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MMK",
+    "name": "Kyat",
+    "nameChoices": [
+      "Rupee",
+      "Dinar",
+      "Som"
+    ]
+  },
+  "population": 55770232,
+  "size": 676578,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Myanmar"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "mya",
+        "percentage": 58
+      },
+      {
+        "languageCode": "shn",
+        "percentage": 5.6
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 14752993056.935,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 3573790944.021
+      },
+      {
+        "productCode": "62",
+        "value": 2911222158.311
+      },
+      {
+        "productCode": "07",
+        "value": 1578202580.454
+      },
+      {
+        "productCode": "61",
+        "value": 1476774998.154
+      },
+      {
+        "productCode": "10",
+        "value": 1197465040.823
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/a_-hYhh-R3Q"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/kuthodaw-pagoda-temple-city-pagoda-5632067/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-body-of-water-with-trees-and-buildings-in-the-background-6yOFqJM7zIs"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/64193047@N08/12990354203/in/photolist-iigYRa-kMUXJc-2mgMA4R-229xNYi-226QK1U-E1GyMs-HcX2i6-214hP3N-HcX2JX-226QgRd-HcX3uz-E1GxQs-2grNk77-Cv2Nf8-214hN2j-226QiiS-HcX3BP-Cv2xnc-Cv2NRD-229xCUv-229xBHx-226Qhwm-226QDMC-226QGY7-226QGm5-226QC6b-E1Gycu-226QygN-214hW7s-226QAbu-229xKkX-HcX4m4-226QwLJ-E1GzxL-HcX1YZ-229xM6a-226Qxho-226QrKm-226QEw3-214hVcG-214hLc7-229xBbk-ZNeqfv-229xDxp-2ohF3ai-PeiGpe-EDhsWB-P6vXje-E1H16y-226QHTJ"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:20160803_-_Meiktila,_Myanmar_-_Phaung_Daw_U_Pagoda_-_7321.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1180,
+  "gdpPerCapitaYear": 2025
+}

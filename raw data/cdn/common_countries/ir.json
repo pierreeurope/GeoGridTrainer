@@ -1,0 +1,143 @@
+{
+  "code": "IR",
+  "latitude": 32.427908,
+  "longitude": 53.688046,
+  "name": "Iran",
+  "names": {
+    "hu": "Irán",
+    "ja": "イラン",
+    "co": "Iranu",
+    "es": "Irán",
+    "pt": "Irã",
+    "ie": "An Iaráin"
+  },
+  "flags": [
+    "az",
+    "ir",
+    "tm",
+    "am",
+    "tr",
+    "iq",
+    "pk",
+    "af"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "af",
+    "am",
+    "az",
+    "iq",
+    "pk",
+    "tr",
+    "tm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Iran",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Iran/@32.427908,53.688046,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "IRR",
+    "name": "Rial",
+    "nameChoices": [
+      "Dirham",
+      "Rupee",
+      "Dinar"
+    ]
+  },
+  "population": 92417681,
+  "size": 1648195,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Iran"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fas",
+        "percentage": 53
+      },
+      {
+        "languageCode": "aze",
+        "percentage": 18
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 67271404932.41,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 32234540491.41
+      },
+      {
+        "productCode": "72",
+        "value": 7561128725
+      },
+      {
+        "productCode": "39",
+        "value": 6304110104
+      },
+      {
+        "productCode": "29",
+        "value": 4420591429
+      },
+      {
+        "productCode": "08",
+        "value": 2356852714
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://www.flickr.com/photos/mbiddulph/31233739431/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/mountain-summit-snow-winter-6734031/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-rG41gpS2FKI"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/woman-sitting-on-brown-concrete-chair-sjFWv9FnU2Y"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/multicolored-lion-art-on-buildings-wall-at-daytime-TxBeyjstOSg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-wn6jWSxWDLI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:RAI_40-12_Sepid_Dasht_1.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:(%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7_(%D9%88%D8%B1%D9%88%D8%AF%DB%8C_%DA%A9%D8%A7%D8%AE_%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%D9%87_%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4074,
+  "gdpPerCapitaYear": 2025
+}

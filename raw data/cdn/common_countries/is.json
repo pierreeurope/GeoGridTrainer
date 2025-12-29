@@ -1,0 +1,143 @@
+{
+  "code": "IS",
+  "latitude": 64.963051,
+  "longitude": -19.020835,
+  "name": "Iceland",
+  "names": {
+    "fr": "Islande",
+    "hu": "Izland",
+    "nl": "IJsland",
+    "pl": "Islandia",
+    "de": "Island",
+    "ja": "アイスランド",
+    "co": "Island",
+    "es": "Islandia",
+    "pt": "Islândia",
+    "eu": "Islandia",
+    "ie": "An Íoslainn"
+  },
+  "flags": [
+    "dk",
+    "im",
+    "ie",
+    "gb",
+    "no",
+    "gl",
+    "is",
+    "fo"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "fo",
+    "gl"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Iceland",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Iceland/@64.963051,-19.020835,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "ISK",
+    "name": "Krona",
+    "nameChoices": [
+      "Pound",
+      "Euro",
+      "Dollar"
+    ]
+  },
+  "population": 391810,
+  "size": 103000,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Iceland"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "isl",
+        "percentage": 93.2
+      },
+      {
+        "languageCode": "pol",
+        "percentage": 2.74
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 6807539976.725,
+    "topExports": [
+      {
+        "productCode": "76",
+        "value": 2427370436.12
+      },
+      {
+        "productCode": "03",
+        "value": 2303103859.696
+      },
+      {
+        "productCode": "90",
+        "value": 349056072.882
+      },
+      {
+        "productCode": "23",
+        "value": 295648419.483
+      },
+      {
+        "productCode": "72",
+        "value": 237186211.982
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/4ThcC1DtspE"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/seljalandsfoss-waterfalls-iceland-1751463/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/black-sand-near-body-of-water-under-the-cloudy-sky-during-daytime-MLKrf51NV8w"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/man-standing-on-the-edge-of-a-cliff-f3uWi9G-lus"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-water-falls-at-daytime-n1nDUvnffMc"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/photography-of-five-assorted-color-horses-on-grass-field-in-front-of-mountain-diMBLU4FzDQ"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Museo_mar%C3%ADtimo_%C3%93sv%C3%B6r,_Bolungarv%C3%ADk,_Vestfir%C3%B0ir,_Islandia,_2014-08-15,_DD_066.JPG"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Lighthouse_Malarrif_at_Sn%C3%A6fellsnes_peninsula.jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 90280,
+  "gdpPerCapitaYear": 2025
+}

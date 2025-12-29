@@ -1,0 +1,148 @@
+{
+  "code": "HU",
+  "latitude": 47.162494,
+  "longitude": 19.503304,
+  "name": "Hungary",
+  "names": {
+    "fr": "Hongrie",
+    "hu": "Magyarország",
+    "nl": "Hongarije",
+    "pl": "Węgry",
+    "de": "Ungarn",
+    "ja": "ハンガリー",
+    "co": "Ungaria",
+    "es": "Hungría",
+    "pt": "Hungria",
+    "eu": "Hungaria",
+    "ie": "An Ungáir"
+  },
+  "flags": [
+    "hr",
+    "rs",
+    "sk",
+    "hu",
+    "ro",
+    "at",
+    "si",
+    "ua"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "at",
+    "hr",
+    "ro",
+    "rs",
+    "sk",
+    "si",
+    "ua"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Hungary",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Hungary/@47.162494,19.503304,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "HUF",
+    "name": "Forint",
+    "nameChoices": [
+      "Ruble",
+      "Euro",
+      "Leu"
+    ]
+  },
+  "population": 9584627,
+  "size": 93030,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      },
+      {
+        "title": "Language Knowledge",
+        "url": "https://languageknowledge.eu/countries/hungary"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "hun",
+        "percentage": 98.57
+      },
+      {
+        "languageCode": "deu",
+        "percentage": 0.36
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 158075487057,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 40696687925
+      },
+      {
+        "productCode": "87",
+        "value": 27536369734
+      },
+      {
+        "productCode": "84",
+        "value": 22872575882
+      },
+      {
+        "productCode": "30",
+        "value": 8460079600
+      },
+      {
+        "productCode": "39",
+        "value": 5420396157
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/qnUg1rdnUlk"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/szechenyi-chain-bridge-1758196/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-sidewalk-near-white-concrete-building-during-daytime-iVhIhU5SH6w"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/yellow-and-white-train-on-rail-tracks-0K4Fo6xZz4Y"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/landscape-photo-of-bridge-with-lights-kDP_lvDzh2c"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-yellow-and-white-train-traveling-down-train-tracks-3kx_20rKFQM"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:2018-07-05-budapest-danube-chain-bridge.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 25920,
+  "gdpPerCapitaYear": 2025
+}

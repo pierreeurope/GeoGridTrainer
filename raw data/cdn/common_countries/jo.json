@@ -1,0 +1,136 @@
+{
+  "code": "JO",
+  "latitude": 30.585164,
+  "longitude": 36.238414,
+  "name": "Jordan",
+  "names": {
+    "fr": "Jordanie",
+    "hu": "Jordánia",
+    "nl": "Jordanië",
+    "pl": "Jordania",
+    "de": "Jordanien",
+    "ja": "ヨルダン",
+    "co": "Ghjordania",
+    "es": "Jordania",
+    "pt": "Jordânia",
+    "eu": "Jordania",
+    "ie": "An Iordáin"
+  },
+  "flags": [
+    "fr",
+    "sy",
+    "jo",
+    "sa",
+    "lb",
+    "ps",
+    "il",
+    "iq"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "iq",
+    "il",
+    "sa",
+    "sy",
+    "ps"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Jordan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Jordan/@30.585164,36.238414,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "JOD",
+    "name": "Dinar",
+    "nameChoices": [
+      "Dirham",
+      "Shilling",
+      "Franc"
+    ]
+  },
+  "population": 11484805,
+  "size": 88946,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Jordan"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 12589565487.821,
+    "topExports": [
+      {
+        "productCode": "61",
+        "value": 1877410523.565
+      },
+      {
+        "productCode": "28",
+        "value": 1504692720.12
+      },
+      {
+        "productCode": "31",
+        "value": 1450232760.814
+      },
+      {
+        "productCode": "71",
+        "value": 1214842085.06
+      },
+      {
+        "productCode": "25",
+        "value": 1003176397.162
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/eoZTnFtusDs"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/petra-ad-deir-world-heritage-6294051/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-and-white-concrete-building-on-brown-rocky-mountain-during-daytime-5_Bu25SV6X8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/gray-concrete-stadium-during-daytime-zrUAX7Qbg-g"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/landscape-photography-of-mountains-and-sky--EJEaytR9fw"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/an-empty-road-surrounded-by-trees-on-a-hillside-jFwKauZD4sw"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4850,
+  "gdpPerCapitaYear": 2023
+}

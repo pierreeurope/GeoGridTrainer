@@ -1,0 +1,103 @@
+{
+  "code": "MC",
+  "latitude": 43.750298,
+  "longitude": 7.412841,
+  "name": "Monaco",
+  "names": {
+    "pl": "Monako",
+    "ja": "モナコ",
+    "es": "Mónaco",
+    "pt": "Mónaco",
+    "eu": "Monako",
+    "ie": "Monacó"
+  },
+  "flags": [
+    "ch",
+    "ad",
+    "va",
+    "sm",
+    "mc",
+    "it",
+    "fr",
+    "li"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "fr"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Monaco",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Monaco/@43.750298,7.412841,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Pound",
+      "Franc",
+      "Mark"
+    ]
+  },
+  "population": 38423,
+  "size": 1.5,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Monaco"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra",
+        "percentage": 99
+      },
+      {
+        "languageCode": "lij",
+        "percentage": 21.6
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/QvEULJG78U8"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/monaco-city-bay-europe-france-410301/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-and-blue-boat-on-sea-during-daytime-1CkSNmbT7J0"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/palm-trees-near-body-of-water-during-daytime-1DEdhNLCRvA"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-docks-with-yachts-and-motorboats-during-daytime-GT4TGeuZZp0"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/people-walking-near-white-concrete-building-during-daytime-SuOsl2q3kCA"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapita": 315800,
+  "gdpPerCapitaYear": 2024
+}

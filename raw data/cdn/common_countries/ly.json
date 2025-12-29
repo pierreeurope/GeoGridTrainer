@@ -1,0 +1,138 @@
+{
+  "code": "LY",
+  "latitude": 26.3351,
+  "longitude": 17.228331,
+  "name": "Libya",
+  "names": {
+    "fr": "Libye",
+    "hu": "Líbia",
+    "nl": "Libië",
+    "pl": "Libia",
+    "de": "Libyen",
+    "ja": "リビア",
+    "co": "Libia",
+    "es": "Libia",
+    "pt": "Líbia",
+    "eu": "Libia",
+    "ie": "An Libia"
+  },
+  "flags": [
+    "gr",
+    "eg",
+    "mt",
+    "dz",
+    "ly",
+    "td",
+    "tn",
+    "ne"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "tn",
+    "td",
+    "eg",
+    "ne",
+    "dz",
+    "sd"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Libya",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Libya/@26.3351,17.228331,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "LYD",
+    "name": "Dinar",
+    "nameChoices": [
+      "Dollar",
+      "Rufiyaa",
+      "Pound",
+      "Dinar"
+    ]
+  },
+  "population": 7361263,
+  "size": 1759540,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Libya"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "ber"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2019,
+    "totalValue": 29285909087.914,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 27647368110.464
+      },
+      {
+        "productCode": "71",
+        "value": 1198072710
+      },
+      {
+        "productCode": "72",
+        "value": 202388028
+      },
+      {
+        "productCode": "74",
+        "value": 62231496
+      },
+      {
+        "productCode": "29",
+        "value": 33881247.87
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/ci3Eot3SyEQ"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/oasis-libya-desert-palm-trees-67549/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-concrete-building-near-palm-trees-during-daytime-edecsA5q9xM"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/desert-sand-during-dawn-Ggvj8lq_Fs8"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/black-car-on-desert-during-daytime-ttojS7IURi0"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-building-lit-up-at-night-with-a-clock-on-top-59atuKxvhXI"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 6800,
+  "gdpPerCapitaYear": 2025
+}

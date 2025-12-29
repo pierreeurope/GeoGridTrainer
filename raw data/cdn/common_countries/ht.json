@@ -1,0 +1,105 @@
+{
+  "code": "HT",
+  "latitude": 18.971187,
+  "longitude": -72.285215,
+  "name": "Haiti",
+  "names": {
+    "fr": "Haïti",
+    "nl": "Haïti",
+    "ja": "ハイチ",
+    "es": "Haití",
+    "ie": "Háítí"
+  },
+  "flags": [
+    "ht",
+    "do",
+    "tc",
+    "jm",
+    "aw",
+    "pr",
+    "cu",
+    "vi"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "do",
+    "tc",
+    "jm",
+    "pr",
+    "cu",
+    "bs"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Haiti",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Haiti/@18.971187,-72.285215,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "HTG",
+    "name": "Gourde",
+    "nameChoices": [
+      "Colon",
+      "Metical",
+      "Dollar"
+    ]
+  },
+  "population": 11470261,
+  "size": 27750,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Haiti"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra"
+      },
+      {
+        "languageCode": "hat"
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/HlseIzr_6fI"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/haiti-mountains-landscape-steep-79646/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-and-brown-concrete-houses-near-green-trees-during-daytime-P8ZZ0aofrXI"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-under-white-clouds-during-daytime-1kCf62phlgU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-rocky-beach-with-trees-and-a-body-of-water-KOLEBgHxzcI"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/green-trees-near-body-of-water-under-cloudy-sky-during-daytime-apS0gdKWG7E"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2670,
+  "gdpPerCapitaYear": 2025
+}

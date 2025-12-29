@@ -1,0 +1,144 @@
+{
+  "code": "JP",
+  "latitude": 36.204824,
+  "longitude": 138.252924,
+  "name": "Japan",
+  "names": {
+    "fr": "Japon",
+    "hu": "Japán",
+    "pl": "Japonia",
+    "ja": "日本",
+    "co": "Giappone",
+    "es": "Japón",
+    "pt": "Japão",
+    "eu": "Japonia",
+    "ie": "An tSeapáin"
+  },
+  "flags": [
+    "mp",
+    "ru",
+    "gu",
+    "jp",
+    "tw",
+    "kp",
+    "kr",
+    "hk"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "kr",
+    "kp",
+    "tw",
+    "ru"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Japan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Japan/@36.204824,138.252924,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "JPY",
+    "name": "Yen",
+    "nameChoices": [
+      "Rupee",
+      "Lilangeni",
+      "Yen",
+      "Zloty"
+    ]
+  },
+  "population": 123360000,
+  "size": 377829,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Japan"
+      },
+      {
+        "title": "Original Travel",
+        "url": "https://www.originaltravel.co.uk/travel-guide/japan/culture"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "jpn",
+        "percentage": 99.2
+      },
+      {
+        "languageCode": "kor",
+        "percentage": 0.5
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 717946392139.136,
+    "topExports": [
+      {
+        "productCode": "87",
+        "value": 157301991120.569
+      },
+      {
+        "productCode": "84",
+        "value": 129710720741.149
+      },
+      {
+        "productCode": "85",
+        "value": 101888300034.527
+      },
+      {
+        "productCode": "99",
+        "value": 56354844384.18
+      },
+      {
+        "productCode": "90",
+        "value": 36161947312.534
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/8sOZJ8JF0S8"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/rice-terraces-sunset-mountains-2389023/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-road-near-well-lit-buildings-layMbSJ3YOE"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/boats-on-body-of-water-824OwkP7sgk"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/pagoda-surrounded-by-trees-E_eWwM29wfU"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Japanese_garden_pond_at_Daisen_Park_in_Sakai,_January_2016.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Pedestrian_road_with_pavements_and_paper_umbrellas,_Higashiyama-ku,_Kyoto,_Japan,_early_morning.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 34713,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,79 @@
+{
+  "code": "IO",
+  "latitude": -6.343194,
+  "longitude": 71.876519,
+  "name": "British Indian Ocean Territory",
+  "names": {
+    "fr": "Territoire britannique de l'océan Indien",
+    "hu": "Brit Indiai-óceáni Terület",
+    "nl": "Brits Indische Oceaan Gebied",
+    "pl": "Brytyjskie Terytorium Oceanu Indyjskiego",
+    "de": "Britisches Territorium im Indischen Ozean",
+    "ja": "インド洋のイギリス領地",
+    "co": "Territorio Britannicu di l'Oceano Índicu",
+    "es": "Territorio Británico del Océano Índico",
+    "pt": "Território Britânico do Oceano Índico",
+    "eu": "Indiako Ozeanoko Britainiar Lurraldea",
+    "ie": "Críoch Aigéan Indiach na Breataine"
+  },
+  "flags": ["mv", "sc", "lk", "mu", "re", "cc", "yt", "io"],
+  "continent": ["AS"],
+  "borders": ["mv", "sc", "lk", "mu", "re"],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/British_Indian_Ocean_Territory",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/British%20Indian%20Ocean%20Territory%20(Diego%20Garcia)/@-6.343194,71.876519,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": ["Won", "Euro", "Franc", "Dollar"]
+  },
+  "population": 3000,
+  "size": 54,
+  "languageData": {
+    "languageSources": [],
+    "languages": []
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Chagossians_visiting_the_British_Indian_Ocean_Territory_as_tourists.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:The_O_Club_on_Diego_Garcia.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Scientist_Nick_Graham_does_a_fish_count,_British_Indian_Ocean_Territory_(7029059225).jpg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:US_Navy_100930-N-9402T-226_Sailors_engage_in_a_live-fire_training_exercise_at_the_British_Indian_Ocean_Territory_firing_range.jpg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/thom_astro/51312819042/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/mattierocks/451469393/"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:GEODSS_Diego_Garcia_2006-05-01.jpg"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true
+}

@@ -1,0 +1,124 @@
+{
+  "code": "KR",
+  "latitude": 35.907757,
+  "longitude": 127.766922,
+  "name": "South Korea",
+  "names": {
+    "fr": "Corée du Sud",
+    "hu": "Dél-Korea (Koreai Köztársaság)",
+    "nl": "Zuid-Korea",
+    "pl": "Korea Południowa",
+    "de": "Südkorea",
+    "ja": "韓国",
+    "co": "Corea di Sud",
+    "es": "Corea del Sur",
+    "pt": "Coreia do Sul",
+    "eu": "Hego Korea",
+    "ie": "An Chóiré Theas"
+  },
+  "flags": [
+    "mo",
+    "hk",
+    "kp",
+    "jp",
+    "tw",
+    "cn",
+    "kr",
+    "mn"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "kp"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/South_Korea",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/South%20Korea/@35.907757,127.766922,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "KRW",
+    "name": "Won",
+    "nameChoices": [
+      "Yuan",
+      "Dollar",
+      "Yen"
+    ]
+  },
+  "population": 52081799,
+  "size": 99434,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_South_Korea#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "kor"
+      },
+      {
+        "languageCode": "zho"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 683550925677,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 210434593813
+      },
+      {
+        "productCode": "87",
+        "value": 75619404400
+      },
+      {
+        "productCode": "84",
+        "value": 73033188782
+      },
+      {
+        "productCode": "27",
+        "value": 64751328658
+      },
+      {
+        "productCode": "39",
+        "value": 41158081145
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/xRAEPmP9M8s"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-a-lush-green-hillside-EVtsYVN6r7U"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-city-with-lots-of-tall-buildings-in-the-background-2SfRk-QaY40"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 35962,
+  "gdpPerCapitaYear": 2025
+}

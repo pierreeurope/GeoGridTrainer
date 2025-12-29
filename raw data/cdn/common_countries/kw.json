@@ -1,0 +1,132 @@
+{
+  "code": "KW",
+  "latitude": 29.31166,
+  "longitude": 47.481766,
+  "name": "Kuwait",
+  "names": {
+    "fr": "Koweït",
+    "hu": "Kuvait",
+    "nl": "Koeweit",
+    "pl": "Kuwejt",
+    "ja": "クウェート",
+    "ie": "Cuáit"
+  },
+  "flags": [
+    "sy",
+    "ir",
+    "ae",
+    "sa",
+    "iq",
+    "bh",
+    "qa",
+    "kw"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "iq",
+    "sa"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Kuwait",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Kuwait/@29.31166,47.481766,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "KWD",
+    "name": "Dinar",
+    "nameChoices": [
+      "Rial",
+      "Rupee",
+      "Dirham"
+    ]
+  },
+  "population": 4985716,
+  "size": 17818,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Kuwait"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 99775063585.52,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 94144701429.685
+      },
+      {
+        "productCode": "29",
+        "value": 1988604861.733
+      },
+      {
+        "productCode": "87",
+        "value": 712881631.343
+      },
+      {
+        "productCode": "39",
+        "value": 581564317.015
+      },
+      {
+        "productCode": "84",
+        "value": 228648147.164
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/ICJkwztWGcI"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/kuwait-ruins-sea-house-coast-1824090/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/high-rise-buildings-during-sunrise--XAphu7d5t0"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-street-during-daytime-EyV6qxS3kl0"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-building-through-a-fence-at-night-3EpdvGspiDM"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/rock-formations-133ajKnAgU8"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Kuwait_City_Souq_Sharq_02.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 29950,
+  "gdpPerCapitaYear": 2025
+}

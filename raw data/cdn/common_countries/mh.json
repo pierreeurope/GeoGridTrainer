@@ -1,0 +1,96 @@
+{
+  "code": "MH",
+  "name": "Marshall Islands",
+  "autoUpdateBorders": false,
+  "borders": [
+    "ki",
+    "fm",
+    "nr"
+  ],
+  "borderMode": "nearby",
+  "continent": [
+    "OC"
+  ],
+  "currencyData": {
+    "name": "Dollar",
+    "code": "USD",
+    "nameChoices": [
+      "Franc",
+      "Vatu",
+      "Pound"
+    ]
+  },
+  "flags": [
+    "mh",
+    "ki",
+    "fm",
+    "nr",
+    "mu",
+    "dk",
+    "ax",
+    "at"
+  ],
+  "languageData": {
+    "languages": [],
+    "languageSources": []
+  },
+  "latitude": 9.82,
+  "longitude": 169.29,
+  "names": {
+    "eu": "Marshall Uharteak",
+    "de": "Marshallinseln",
+    "es": "Islas Marshall",
+    "fr": "Îles Marshall",
+    "ja": "マーシャル諸島",
+    "nl": "Marshalleilanden",
+    "pl": "Wyspy Marshalla",
+    "pt": "Ilhas Marshall",
+    "co": "Isole Marshall",
+    "hu": "MARSHALL-SZIGETEK",
+    "ie": "Oileáin Marshall"
+  },
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Marshall_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Marshall%20Islands/@9.82,169.29,6z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "population": 42418,
+  "size": 181,
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/marshall-islands-usa-beach-coast-1064876/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Marshall_Islands_%2840325565%29.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/silhouette-of-palm-trees-during-sunset-OSzKOGIJ3bw"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/mrlins/302904968"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/102182523@N07/9811274503/in/photolist-4yFwn-WJXFMb-2mQyEiH-6LNUYC-2k6Meas-2jEA8M2-2jPTTYo-2jL9P1w-2jXa8FX-2jQer4b-2jQFamd-2nouVYv-2kmBTJJ-fWZm6e-2oskU6r-2ndej2y-2oQzAzz-JP1tu-2oEiacb-4yFsA-2kU7F91-2mGYqL5-MrA98N-2kA5WEz-2jJXE1v-2nvHr1Z-2kA2pqd-4yFvc-2kA2pMa-4yFsb-2oiTSua-5Sm8R6-7p9oDF-5TbhSH-2oXMVVh-2mVXJAr-5SmdJB-5Sm8Rk-5Sm8Re-2oQF447-RvmdC5-4yFo8-ZN6TF8-2nctsyr-2nBmuSN-4yFkd-5Sm8Ra-yoFFu-5UhVVb"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/mccormickwest/4235966319/in/photolist-7sjrd4-7soqaJ-6Sa234-nUwr9Z-2mM6oib-d7jiKW-Y39yFN-2kA5V9d-2kA6zjh-2kA6zr1-fZYQ-2kA6A6T-2narHbZ-6HMb2z-7sopRL-nAjz-2kA5WEz-2kA5We4-aU1HNP-2kA5VQy-2kA2pqd-2kA2pMa-2mbbqB4-5jg9j7-3bdGM-2kA2q8v-6HMnbK-2kA6Aqv-STcBa-6HRpaL-6HRjWu-6HRv7u-6HMfWX-ntYh-6HRo53-6HMr8X-6HMcVg-68mYKu-nKZR8-6HRsaA-6HMbW2-6HMk8P-6HMq9k-6HMeX2-d7jiZj-23VgV8-2nFtdK1-nM3mEg-5WgDJc-9XqfY"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapita": 3866,
+  "gdpPerCapitaYear": 2019
+}

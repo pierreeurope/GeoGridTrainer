@@ -1,0 +1,132 @@
+{
+  "code": "MG",
+  "latitude": -18.766947,
+  "longitude": 46.869107,
+  "name": "Madagascar",
+  "names": {
+    "hu": "Madagaszkár",
+    "nl": "Madagaskar",
+    "pl": "Madagaskar",
+    "de": "Madagaskar",
+    "ja": "マダガスカル",
+    "pt": "Madagáscar",
+    "eu": "Madagaskar",
+    "ie": "Madagascar"
+  },
+  "flags": [
+    "re",
+    "mg",
+    "mu",
+    "mz",
+    "sz",
+    "km",
+    "mw",
+    "yt"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "yt",
+    "km",
+    "re",
+    "mu",
+    "mz",
+    "sc"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Madagascar",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Madagascar/@-18.766947,46.869107,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MGA",
+    "name": "Ariary",
+    "nameChoices": [
+      "Kwacha",
+      "Pula",
+      "Franc"
+    ]
+  },
+  "population": 31964956,
+  "size": 587041,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "mlg",
+        "percentage": 99.9
+      },
+      {
+        "languageCode": "fra",
+        "percentage": 23.6
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 3282849543.544,
+    "topExports": [
+      {
+        "productCode": "75",
+        "value": 832380256.749
+      },
+      {
+        "productCode": "09",
+        "value": 538160059.182
+      },
+      {
+        "productCode": "61",
+        "value": 255210175.317
+      },
+      {
+        "productCode": "26",
+        "value": 252883880.361
+      },
+      {
+        "productCode": "62",
+        "value": 247520039.227
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/yPSbirjJWzs"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/baobab-madagascar-tree-nature-5030877/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-field-VQdgOEC6Tgc"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/luc/393874958/in/photolist-ANHiy-b25xic-b25wqv-p31x2f-ANQHx-2nYFPR2-b25yV6-b25zpV-b25Aac-ANQtB-ANQjg-b25ytB-b25AsT-b25yFk-ANM2e-b25yak-b25x2K-2nYJxb6-ANHer-AXKyHH-A27Swz-ANM4X-ANLFo-ANHvR-ANHxu-ANLXn-2nYFRQx-2nYM7Q8-2nYMasT-AHGqHP-Aajwr3-AVx4Ds-2nYLGWd-2nYJvyU-2nRgNNW-Ak7AGK-2nYG6f8-2nYKMnt-AYZXEM-AvKgtm-ANQNZ-Bjpxue-AmrYbp-B4XRcL-AKXYpH-B8fNd2-Atncuz-4Hiviy-AQhidC-ANLPK"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/103417/49962754336/in/photolist-2j83bbU-2dv726c-RnjdHQ-2cEfJnt-Rdt8DN-NU2ntg-2cFiVeX-NWLSCk-qTsgmK-rxEsXd-2nyYm41-oWPWwy-4ZGM8b-rxFy21-oWAeuD-6STfzj-prKqCv-AYg2kZ-MDYXz8-AW6btG-A1ffru-oEmYL1-7mzrV6-63SUXG-fYVdz9-6STcRU-6SPciB-6STeY9-6SPcXK-iBDC5i-6SP9He-6SPaqc-6SPcuV-8kUdp-8kUdq-6STfn5-2hUTA1b-6SPaAr-6SPaYH-6SPcRZ-6SPbGP-6SPb4r-6SPcFX-8kUdk-6SP9Ba-6STekQ-K11Huk-oEntvJ-6SPbTp-4TYM1E"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 529,
+  "gdpPerCapitaYear": 2023
+}

@@ -1,0 +1,138 @@
+{
+  "code": "MK",
+  "latitude": 41.608635,
+  "longitude": 21.745275,
+  "name": "North Macedonia",
+  "names": {
+    "fr": "Macédoine du Nord",
+    "hu": "Észak-Macedónia",
+    "nl": "Noord-Macedonië",
+    "pl": "Macedonia Północna",
+    "de": "Nordmazedonien",
+    "ja": "北マケドニア",
+    "co": "Macedonia di u Nordu",
+    "es": "Macedonia del Norte",
+    "pt": "Macedónia do Norte",
+    "eu": "Ipar Mazedonia",
+    "ie": "An Mhacadóin Thuaidh"
+  },
+  "flags": [
+    "xk",
+    "ba",
+    "mk",
+    "al",
+    "me",
+    "rs",
+    "bg",
+    "gr"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "xk",
+    "al",
+    "rs",
+    "gr",
+    "bg"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/North_Macedonia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/North%20Macedonia/@41.608635,21.745275,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MKD",
+    "name": "Denar",
+    "nameChoices": [
+      "Euro",
+      "Lev",
+      "Lek"
+    ]
+  },
+  "population": 1836713,
+  "size": 25713,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "mkd",
+        "percentage": 61.4
+      },
+      {
+        "languageCode": "sqi",
+        "percentage": 24.3
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 8994857556.835,
+    "topExports": [
+      {
+        "productCode": "38",
+        "value": 2587572321.891
+      },
+      {
+        "productCode": "85",
+        "value": 1499875901.408
+      },
+      {
+        "productCode": "87",
+        "value": 533144926.525
+      },
+      {
+        "productCode": "72",
+        "value": 499448064.003
+      },
+      {
+        "productCode": "94",
+        "value": 445714777.154
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/4CzzaJnQh0c"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/beach-boats-morning-landscape-5252448/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-leafed-trees-eDzaur7RwFY"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-trees-on-mountain-under-white-clouds-during-daytime-BRIrtLcf4YE"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%83%D0%BC_-_%D0%9A%D1%80%D1%83%D1%88%D0%B5%D0%B2%D0%BE.jpg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Archeological_Museum_of_Macedonia_by_night.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 9882,
+  "gdpPerCapitaYear": 2025
+}

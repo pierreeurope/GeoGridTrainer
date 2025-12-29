@@ -1,0 +1,143 @@
+{
+  "code": "LB",
+  "latitude": 33.854721,
+  "longitude": 35.862285,
+  "name": "Lebanon",
+  "names": {
+    "fr": "Liban",
+    "hu": "Libanon",
+    "nl": "Libanon",
+    "pl": "Liban",
+    "de": "Libanon",
+    "ja": "レバノン",
+    "co": "Libanu",
+    "es": "Líbano",
+    "pt": "Líbano",
+    "eu": "Libano",
+    "ie": "An Liobáin"
+  },
+  "flags": [
+    "il",
+    "ps",
+    "cy",
+    "sy",
+    "tr",
+    "lb",
+    "jo",
+    "fr"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "il",
+    "sy"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Lebanon",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Lebanon/@33.854721,35.862285,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "LBP",
+    "name": "Pound",
+    "nameChoices": [
+      "Dobra",
+      "Franc",
+      "Dinar"
+    ]
+  },
+  "population": 5364482,
+  "size": 10400,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Lebanon"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "apc",
+        "percentage": 37.8
+      },
+      {
+        "languageCode": "ara",
+        "percentage": 29.2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 4560693573,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 786298262
+      },
+      {
+        "productCode": "87",
+        "value": 708770720
+      },
+      {
+        "productCode": "85",
+        "value": 423461907
+      },
+      {
+        "productCode": "27",
+        "value": 402962731
+      },
+      {
+        "productCode": "84",
+        "value": 259960230
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/KqEYj1VHA_o"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/landscape-village-church-catholic-3663721/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-city-near-body-of-water-during-daytime-h8appowEHs8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-desk-mBcY97cXOTs"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/boats-beside-dock-Bc2EPt6bM5w"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/white-concrete-building-on-green-mountain-under-white-clouds-during-daytime-zLHmIfJs0Fk"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:SubmergedEgyptianHarbour_TyreSour_Lebanon_RomanDeckert04112019.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Byblos,_les_ruines.JPG"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 3283,
+  "gdpPerCapitaYear": 2022
+}

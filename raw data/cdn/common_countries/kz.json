@@ -1,0 +1,146 @@
+{
+  "code": "KZ",
+  "latitude": 48.019573,
+  "longitude": 66.923684,
+  "name": "Kazakhstan",
+  "names": {
+    "hu": "Kazahsztán",
+    "nl": "Kazachstan",
+    "pl": "Kazachstan",
+    "de": "Kasachstan",
+    "ja": "カザフスタン",
+    "es": "Kazajistán",
+    "pt": "Cazaquistão",
+    "co": "Kazachstan",
+    "ie": "An Chasacstáin"
+  },
+  "flags": [
+    "ge",
+    "tj",
+    "kz",
+    "az",
+    "uz",
+    "kg",
+    "tm",
+    "af"
+  ],
+  "continent": [
+    "AS",
+    "EU"
+  ],
+  "borders": [
+    "uz",
+    "kg",
+    "tm",
+    "ru",
+    "cn"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Kazakhstan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Kazakhstan/@48.019573,66.923684,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "KZT",
+    "name": "Tenge",
+    "nameChoices": [
+      "Shilling",
+      "Real",
+      "Dollar",
+      "Tenge"
+    ]
+  },
+  "population": 20286084,
+  "size": 2724900,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "kaz",
+        "percentage": 83.1
+      },
+      {
+        "languageCode": "rus",
+        "percentage": 94.4
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 78735590866.92,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 46399281047.53
+      },
+      {
+        "productCode": "26",
+        "value": 4978095302.48
+      },
+      {
+        "productCode": "28",
+        "value": 4347322214.36
+      },
+      {
+        "productCode": "72",
+        "value": 4346880992.93
+      },
+      {
+        "productCode": "74",
+        "value": 3224020475.75
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/YtYdNGabzFo"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/canyon-mountains-river-kazakhstan-1740973/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/lake-surrounded-with-mountains-during-daytime-ToJNyWpDn9I"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/person-riding-horse-dL-NYHFuwJI"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-rock-with-trees-and-mountains-in-the-background-zS08OeVWgoE"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-mountain-range-with-houses-on-it-Dxwf7I2MPKU"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B8%D0%BD%D0%BA%D0%B8_%D0%BF%D0%BB%D0%B0%D1%82%D0%BE_%D0%A3%D1%81%D1%82%D1%8E%D1%80%D1%82._%D0%A3%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B5_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB%D0%BA%D1%83%D0%BF_%D0%BD%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82%D0%B5.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 14770,
+  "gdpPerCapitaYear": 2025
+}

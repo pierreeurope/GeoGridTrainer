@@ -1,0 +1,100 @@
+{
+  "code": "KP",
+  "latitude": 40.339852,
+  "longitude": 127.510093,
+  "name": "North Korea",
+  "names": {
+    "fr": "Corée du Nord",
+    "hu": "Észak-Korea (Koreai NDK)",
+    "nl": "Noord-Korea",
+    "pl": "Korea Północna",
+    "de": "Nordkorea",
+    "ja": "北朝鮮",
+    "co": "Corea di u Nordu",
+    "es": "Corea del Norte",
+    "pt": "Coreia do Norte",
+    "eu": "Ipar Korea",
+    "ie": "An Chóiré Thuaidh"
+  },
+  "flags": [
+    "cn",
+    "mn",
+    "kr",
+    "ru",
+    "kp",
+    "jp",
+    "tw",
+    "hk"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "cn",
+    "kr",
+    "ru"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/North_Korea",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/North%20Korea/@40.339852,127.510093,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "KPW",
+    "name": "Won",
+    "nameChoices": [
+      "Rupee",
+      "Yuan",
+      "Yen"
+    ]
+  },
+  "population": 26298666,
+  "size": 120538,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/North_Korea#Language"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "kor"
+      },
+      {
+        "languageCode": ""
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/3dSv5LXts8A"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/north-korea-soldiers-poor-force-2377251/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/roman-harak/5015266763/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-street-near-building-during-daytime-O4qX4vBSVAI"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1261,
+  "gdpPerCapitaYear": 2024
+}

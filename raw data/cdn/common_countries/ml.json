@@ -1,0 +1,132 @@
+{
+  "code": "ML",
+  "latitude": 17.570692,
+  "longitude": -3.996166,
+  "name": "Mali",
+  "names": {
+    "ja": "マリ",
+    "es": "Malí",
+    "ie": "Mailí"
+  },
+  "flags": [
+    "bf",
+    "ne",
+    "dz",
+    "ml",
+    "ci",
+    "mr",
+    "gn",
+    "sn"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "dz",
+    "bf",
+    "ci",
+    "gn",
+    "mr",
+    "ne",
+    "sn"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Mali",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Mali/@17.570692,-3.996166,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XOF",
+    "name": "Franc",
+    "nameChoices": [
+      "Kwanza",
+      "Dollar",
+      "Niara"
+    ]
+  },
+  "population": 21990607,
+  "size": 1240192,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Mali#:~:text=Languages%20of%20Mali%20(2009,9.4%25"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "bam",
+        "percentage": 46.3
+      },
+      {
+        "languageCode": "ful",
+        "percentage": 9.4
+      }
+    ]
+  },
+  "productData": {
+    "year": 2019,
+    "totalValue": 3643236512.125,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 2657116361.58
+      },
+      {
+        "productCode": "52",
+        "value": 425287199.61
+      },
+      {
+        "productCode": "01",
+        "value": 211002423.12
+      },
+      {
+        "productCode": "31",
+        "value": 52704936.01
+      },
+      {
+        "productCode": "12",
+        "value": 39833895.36
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/mali-boats-good-produce-town-80855/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Village_Telly_in_Mali.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-body-of-water-through-a-magnifying-glass-xvixfkRw94o"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/jmenj/8438034181"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/gozilah/6731376281/in/photolist-bfQ4DK-9ss6h3-9ss6sY-9ss6r7-9ss6d3-qoieNf-9ss6ph-9sp71X-9sp73P-9ss6e3-72bkwG-9sp6VX-twoQu-59B5ct-9sp6UF-AcLEEc-9sp6S4-9sp6Pz-9sp6Zt-9ss6ob-72bjk5-kakPv-7vFc3j-7U3X1D-BDYjub-2ZRokb-wd1rYU-wd1sqL-37D72j-37D7Fo-37D7uo-VFHUF3-TXrDpA-9sp76H-4rFFzo-4HQ7np-4rBAUi-ddZN2k-8eCgRS-JucW1-zAy6L3-3gk9nN-5GVDn4-5p3eVx-4qZv3A-8adXMe-59B5cP-UXATMu-4r8QgX-5MQNUD"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/27126129@N00/159092714/in/photolist-f4oHQ-67m9jx-3JV5gq-a1ekR-f4gfs-67qnWA-3JV4DA-67qnCm-67qnaW-67m1EV-4rt3vm-5RCxPz-a1ekP-AQN1M-q8WgQ-c7VG9U-71AdQJ-dRw3Xw-6Ev5uc-9CJ6BJ-9e58iZ-B2h5o-7iWWEp-B2hfg-ErH9F-ErFV5-3JQpDZ-3JUJpo-9CF9AZ-3JQqdH-3JUHMy-5Aanek-3JUJgN-bBeGxP-8vrA8h-3JUHU3-3JQq4K-5Aan36-5AamWz-B2hbL-6EuTqH-98Un9-yKGkJ-Ad67-yKGkL-27QxB37-2hum8eC-2huoQEY-2hupPan-2hupMjy"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 936,
+  "gdpPerCapitaYear": 2025
+}

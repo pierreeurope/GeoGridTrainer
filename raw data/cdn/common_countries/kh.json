@@ -1,0 +1,148 @@
+{
+  "code": "KH",
+  "latitude": 12.565679,
+  "longitude": 104.990963,
+  "name": "Cambodia",
+  "names": {
+    "fr": "Cambodge",
+    "hu": "Kambodzsa",
+    "nl": "Cambodja",
+    "pl": "Kambodża",
+    "de": "Kambodscha",
+    "ja": "カンボジア",
+    "co": "Cambudgia",
+    "es": "Camboya",
+    "pt": "Camboja",
+    "eu": "Kanbodia",
+    "ie": "An Chambóid"
+  },
+  "flags": [
+    "kh",
+    "th",
+    "sg",
+    "la",
+    "bn",
+    "vn",
+    "my",
+    "mo"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "la",
+    "th",
+    "vn"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Cambodia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Cambodia/@12.565679,104.990963,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "KHR",
+    "name": "Riel",
+    "nameChoices": [
+      "Won",
+      "Baht",
+      "Ngultrum"
+    ]
+  },
+  "population": 17638801,
+  "size": 181035,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_Cambodia#Languages"
+      },
+      {
+        "title": "Translators without Borders",
+        "url": "https://translatorswithoutborders.org/language-data-for-cambodia"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "khm",
+        "percentage": 90
+      },
+      {
+        "languageCode": "cja",
+        "percentage": 1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 20575772752.56,
+    "topExports": [
+      {
+        "productCode": "61",
+        "value": 6367019676.53
+      },
+      {
+        "productCode": "62",
+        "value": 2668327100.42
+      },
+      {
+        "productCode": "85",
+        "value": 1998195876.65
+      },
+      {
+        "productCode": "42",
+        "value": 1860516401.3
+      },
+      {
+        "productCode": "64",
+        "value": 1737106861.13
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/OvEr7BwXxxg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/travel-tourist-cambodia-island-6268605/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/9zXMb-E8pI0"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-plants-on-brown-soil-under-white-sky-during-daytime-_A58yesiMCM"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/birds-eyeview-photo-of-urban-houses-GaQzbTd4jO8"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-people-riding-motorcycles-down-a-street-QTwVrBpJ7ew"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Phnom_Penh,_Wat_Ounalom,_(2).jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Sihanoukville_Province_-_fishermen_village.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2870,
+  "gdpPerCapitaYear": 2025
+}

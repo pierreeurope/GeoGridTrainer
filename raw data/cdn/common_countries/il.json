@@ -1,0 +1,130 @@
+{
+  "code": "IL",
+  "latitude": 31.046051,
+  "longitude": 34.851612,
+  "name": "Israel",
+  "names": {
+    "fr": "Israël",
+    "hu": "Izrael",
+    "nl": "Israël",
+    "pl": "Izrael",
+    "ja": "イスラエル",
+    "co": "Israele",
+    "ie": "Iosrael"
+  },
+  "flags": [
+    "cy",
+    "eg",
+    "jo",
+    "il",
+    "ps",
+    "lb",
+    "sy",
+    "fr"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "eg",
+    "jo",
+    "lb",
+    "sy",
+    "ps"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Israel",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Israel/@31.046051,34.851612,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "ILS",
+    "name": "Shekel",
+    "nameChoices": [
+      "Dinar",
+      "Pound",
+      "Dollar"
+    ]
+  },
+  "population": 10147200,
+  "size": 21056,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Israel#:~:text=According%20to%20a,understanding%20of%20Hebrew."
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "heb",
+        "percentage": 49
+      },
+      {
+        "languageCode": "ara",
+        "percentage": 18
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 59915950506,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 11387034459
+      },
+      {
+        "productCode": "90",
+        "value": 7409701470
+      },
+      {
+        "productCode": "71",
+        "value": 7364297564
+      },
+      {
+        "productCode": "84",
+        "value": 5107140353
+      },
+      {
+        "productCode": "27",
+        "value": 4231797460
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/yBJuiaMHlsk"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/israel-jerusalem-jewish-palestine-4426385/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-rock-formation-during-sunset-Nh8bXxdP0DI"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/yellow-petaled-flower-field-at-daytime-g_Abgn1slAM"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-veiw-photography-of-dome-of-the-rock-jerusalem-QsU8GRwyS3k"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": false,
+  "gdpPerCapita": 60010,
+  "gdpPerCapitaYear": 2025
+}

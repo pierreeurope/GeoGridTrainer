@@ -1,0 +1,135 @@
+{
+  "code": "KI",
+  "latitude": -3.370417,
+  "longitude": -168.734039,
+  "name": "Kiribati",
+  "names": {
+    "ja": "キリバス",
+    "ie": "Ciribeas"
+  },
+  "flags": [
+    "nr",
+    "tk",
+    "nu",
+    "wf",
+    "ws",
+    "as",
+    "tv",
+    "ki"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "tk",
+    "ws",
+    "as",
+    "wf",
+    "tv",
+    "nr",
+    "ck",
+    "mh"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Kiribati",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Kiribati/@-3.370417,-168.734039,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "AUD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Pa'anga",
+      "Franc",
+      "Kina"
+    ]
+  },
+  "population": 121388,
+  "size": 726,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Kiribati"
+      },
+      {
+        "title": "WorldAtlas",
+        "url": "https://www.worldatlas.com/articles/what-languages-are-spoken-in-kiribati.html"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "gil",
+        "percentage": 90
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 8863588.062,
+    "topExports": [
+      {
+        "productCode": "15",
+        "value": 4397490.362
+      },
+      {
+        "productCode": "03",
+        "value": 2655405.104
+      },
+      {
+        "productCode": "12",
+        "value": 1564387.996
+      },
+      {
+        "productCode": "37",
+        "value": 87456.77
+      },
+      {
+        "productCode": "30",
+        "value": 59503.186
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/fanning-island-kiribati-beach-1663125/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:South_Tarawa_from_the_air.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/ds355/957735286"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/iloasiapacific/9181440338"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/hillschmill/2955863933/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/58644897@N08/6184297164/"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapita": 1989,
+  "gdpPerCapitaYear": 2023
+}

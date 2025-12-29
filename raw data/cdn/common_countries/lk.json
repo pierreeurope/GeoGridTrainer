@@ -1,0 +1,120 @@
+{
+  "code": "LK",
+  "latitude": 7.873054,
+  "longitude": 80.771797,
+  "name": "Sri Lanka",
+  "names": {
+    "hu": "Srí Lanka",
+    "ja": "スリランカ",
+    "ie": "Srí Lanca"
+  },
+  "flags": [
+    "mm",
+    "in",
+    "bd",
+    "mv",
+    "io",
+    "np",
+    "lk",
+    "th"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "mv",
+    "in"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Sri_Lanka",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Sri%20Lanka/@7.873054,80.771797,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "LKR",
+    "name": "Rupee",
+    "nameChoices": [
+      "Krone",
+      "Lempira",
+      "Forint",
+      "Rupee"
+    ]
+  },
+  "population": 21916000,
+  "size": 65610,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "sin",
+        "percentage": 87
+      },
+      {
+        "languageCode": "tam",
+        "percentage": 28.5
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 12052497548.941,
+    "topExports": [
+      {
+        "productCode": "61",
+        "value": 2728346362.86
+      },
+      {
+        "productCode": "62",
+        "value": 1753769451.384
+      },
+      {
+        "productCode": "09",
+        "value": 1668442079.582
+      },
+      {
+        "productCode": "40",
+        "value": 941025496.656
+      },
+      {
+        "productCode": "71",
+        "value": 429475844.501
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/smUAKwMT8XA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/tower-building-road-lotus-tower-7314495/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-rock-island-6gv2F4-Hpds"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-near-mountain-during-daytime-PTw2xsseQxM"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4516,
+  "gdpPerCapitaYear": 2024
+}

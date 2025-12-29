@@ -1,0 +1,103 @@
+{
+  "code": "JE",
+  "latitude": 49.214439,
+  "longitude": -2.13125,
+  "name": "Jersey",
+  "names": {
+    "hu": "Jersey Bailiffség",
+    "ja": "ジャージー",
+    "ie": "Geansaí"
+  },
+  "flags": [
+    "ie",
+    "je",
+    "im",
+    "be",
+    "fr",
+    "lu",
+    "nl",
+    "gg"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "gg",
+    "fr"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Jersey",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Jersey/@49.214439,-2.13125,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "size": 119.6,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Jersey"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 94.5
+      },
+      {
+        "languageCode": "fra",
+        "percentage": 15
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "currencyData": {
+    "name": "Pound",
+    "code": "GBP",
+    "nameChoices": [
+      "Franc",
+      "Euro",
+      "Escudo"
+    ]
+  },
+  "population": 103267,
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/9gWighoa5kA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/gorey-jersey-harbour-castle-island-1035943/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-building-9gWighoa5kA"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-dock-on-blue-sea-under-blue-sky-during-daytime-S0MBtiMoi9I"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/body-of-water-during-sunset-FuqVWStF2Qw"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-people-standing-on-top-of-a-sandy-beach-b2_xvOxjDdo"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:La_Moye_Golf_Club_Jersey_c.jpg"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true
+}

@@ -1,0 +1,144 @@
+{
+  "code": "LA",
+  "latitude": 19.85627,
+  "longitude": 102.495496,
+  "name": "Laos",
+  "names": {
+    "hu": "Laosz",
+    "ja": "ラオス",
+    "co": "Laos (Republica democratica pupulare)",
+    "ie": "Laos"
+  },
+  "flags": [
+    "cn",
+    "hk",
+    "mo",
+    "kh",
+    "mm",
+    "th",
+    "vn",
+    "la"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "cn",
+    "kh",
+    "mm",
+    "th",
+    "vn"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Laos",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Laos/@19.85627,102.495496,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "LAK",
+    "name": "Kip",
+    "nameChoices": [
+      "Sol",
+      "Dram",
+      "Rial",
+      "Kip"
+    ]
+  },
+  "population": 7953556,
+  "size": 236800,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Laos#Languages"
+      },
+      {
+        "title": "Laos Travel",
+        "url": "https://laostravel.com/what-languages-are-spoken-in-laos/#:~:text=communicate%20with%20outsiders.-,Minority%20languages%20in%20Laos,Kniang%2C%20Puoc%2C%20and%20O%E2%80%99du%20which%20gathered%20to%20create%20the%20Khumuic%20organ.,-The%20Khmu%20languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "lao",
+        "percentage": 52
+      },
+      {
+        "languageCode": "kjg",
+        "percentage": 6.45
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 7164605459.07,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 1646692463.56
+      },
+      {
+        "productCode": "71",
+        "value": 980588434.02
+      },
+      {
+        "productCode": "26",
+        "value": 632366470.21
+      },
+      {
+        "productCode": "48",
+        "value": 528933385.89
+      },
+      {
+        "productCode": "07",
+        "value": 322259011.57
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/yJ2SHIpNb9M"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/road-luang-prabang-street-city-4878453/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-and-white-concrete-building-iIhIidVC4UU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/two-boats-near-body-of-water-BMXTDz-wZT4"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-mountain-range-with-a-valley-in-the-foreground-IPhX8UIAQn0"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/green-rice-field-during-daytime-g53FHDFECRQ"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Bridge_to_Don_Khon_seen_from_Don_Det_with_water_reflection_of_stringy_orange_clouds_at_sunrise_in_Laos.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Karst_peaks_with_sea_of_clouds_at_sunrise,_South_view_from_the_top_of_Mount_Nam_Xay,_Vang_Vieng,_Laos.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2100,
+  "gdpPerCapitaYear": 2025
+}

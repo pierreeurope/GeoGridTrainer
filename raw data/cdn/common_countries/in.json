@@ -1,0 +1,144 @@
+{
+  "code": "IN",
+  "latitude": 20.593684,
+  "longitude": 78.96288,
+  "name": "India",
+  "names": {
+    "fr": "Inde",
+    "es": "India",
+    "eu": "India",
+    "hu": "India",
+    "nl": "India",
+    "pl": "Indie",
+    "pt": "Índia",
+    "de": "Indien",
+    "ja": "インド",
+    "co": "India",
+    "ie": "An India"
+  },
+  "flags": [
+    "mm",
+    "np",
+    "pk",
+    "cn",
+    "bt",
+    "bd",
+    "in",
+    "af"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "bd",
+    "bt",
+    "cn",
+    "mm",
+    "np",
+    "pk",
+    "lk"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/India",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/India/@20.593684,78.96288,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "INR",
+    "name": "Rupee",
+    "nameChoices": [
+      "Sol",
+      "Riel",
+      "Kyat"
+    ]
+  },
+  "population": 1428627663,
+  "size": 3287263,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "hin",
+        "percentage": 43.6
+      },
+      {
+        "languageCode": "ben",
+        "percentage": 8
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 431411977211.3,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 89330986218.743
+      },
+      {
+        "productCode": "71",
+        "value": 33431644518.916
+      },
+      {
+        "productCode": "85",
+        "value": 32318234645.992
+      },
+      {
+        "productCode": "84",
+        "value": 29306400055.387
+      },
+      {
+        "productCode": "30",
+        "value": 21300721941.724
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/nE2gf1scItI"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/india-varinasia-ganges-boats-1309206/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/man-riding-on-boat-during-daytime-MvkLKGtBcUA"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-near-mountain-during-daytime-E5egsk4eUQ0"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/group-of-people-in-temple-at-daytime-s34iTpkwnF0"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Shivaliks_Himalayas_Aerial_Dehaze_Himachal_Feb20_R16_02827.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Sikh_pilgrim_at_the_Golden_Temple_(Harmandir_Sahib)_in_Amritsar,_India.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2878,
+  "gdpPerCapitaYear": 2025
+}

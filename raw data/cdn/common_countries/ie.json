@@ -1,0 +1,147 @@
+{
+  "code": "IE",
+  "latitude": 53.41291,
+  "longitude": -8.24389,
+  "name": "Ireland",
+  "names": {
+    "fr": "Irlande",
+    "hu": "Írország",
+    "nl": "Ierland",
+    "pl": "Irlandia",
+    "de": "Irland",
+    "ja": "アイルランド",
+    "co": "Irlanda",
+    "es": "Irlanda",
+    "pt": "Irlanda",
+    "eu": "Irlandako Errepublika",
+    "ie": "Éire"
+  },
+  "flags": [
+    "im",
+    "gg",
+    "gb",
+    "fo",
+    "je",
+    "be",
+    "nl",
+    "ie"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "im",
+    "gb"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Republic_of_Ireland",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Ireland/@53.41291,-8.24389,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Pound",
+      "Dollar",
+      "Krona"
+    ]
+  },
+  "population": 5380300,
+  "size": 70273,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Ireland"
+      },
+      {
+        "title": "Language Knowledge",
+        "url": "https://languageknowledge.eu/countries/ireland"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 93.1
+      },
+      {
+        "languageCode": "gle",
+        "percentage": 2.52
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 212869514240.842,
+    "topExports": [
+      {
+        "productCode": "30",
+        "value": 71564046142.622
+      },
+      {
+        "productCode": "29",
+        "value": 44593714333.543
+      },
+      {
+        "productCode": "90",
+        "value": 19853331885.841
+      },
+      {
+        "productCode": "33",
+        "value": 10725720826.699
+      },
+      {
+        "productCode": "85",
+        "value": 10531791246.026
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/FxMR4Dp9rl0"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/beach-lonely-hike-ireland-sea-5043569/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/cliff-near-sea-ci9HzWTIVas"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/white-and-red-lighthouse-near-green-grass-field-under-blue-sky-during-daytime-M87gaY34Ac4"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/white-house-beside-fence-and-tree-during-daytime-BUkgxEF2q7c"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/landscape-photography-of-green-leafed-trees-8X19catOuNI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:2019-07-31-Lough_Hyne-0828.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:2019-07-20-Dingle_Lighthouse-0673.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 108920,
+  "gdpPerCapitaYear": 2025
+}

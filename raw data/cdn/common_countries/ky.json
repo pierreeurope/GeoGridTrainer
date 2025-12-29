@@ -1,0 +1,137 @@
+{
+  "code": "KY",
+  "latitude": 19.513469,
+  "longitude": -80.566956,
+  "name": "Cayman Islands",
+  "names": {
+    "fr": "Îles Caïmans",
+    "hu": "Kajmán-szigetek",
+    "nl": "Kaaimaneilanden",
+    "pl": "Wyspy Kajmańskie",
+    "ja": "ケイマン諸島",
+    "co": "Isole Di Cayman",
+    "es": "Islas Caimán",
+    "pt": "Ilhas Cayman",
+    "eu": "Kaiman Uharteak",
+    "ie": "Oileáin Cayman"
+  },
+  "flags": [
+    "bz",
+    "bs",
+    "jm",
+    "cu",
+    "ht",
+    "ni",
+    "ky",
+    "hn"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "cu",
+    "jm",
+    "hn",
+    "ht",
+    "mx"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Cayman_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Cayman%20Islands/@19.513469,-80.566956,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "KYD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Pound",
+      "Peso",
+      "Gourde"
+    ]
+  },
+  "population": 88833,
+  "size": 259,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_the_Cayman_Islands#Language"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 79.3
+      },
+      {
+        "languageCode": "spa",
+        "percentage": 9.4
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 17082261.232,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 7245467.745
+      },
+      {
+        "productCode": "72",
+        "value": 1626803.374
+      },
+      {
+        "productCode": "99",
+        "value": 1231165.434
+      },
+      {
+        "productCode": "90",
+        "value": 1019450.844
+      },
+      {
+        "productCode": "74",
+        "value": 909079.784
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/iTTiIKcV3-M"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/grand-cayman-cayman-islands-2072631/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/N3WTjwUesdc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://pixabay.com/photos/cayman-cayman-island-island-52328/"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/white-and-blue-boats-on-sea-during-daytime-BYBaMLHHsJc"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-palm-tree-in-front-of-a-row-of-white-buildings-2RL1CSvoVCo"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapita": 97750,
+  "gdpPerCapitaYear": 2023
+}

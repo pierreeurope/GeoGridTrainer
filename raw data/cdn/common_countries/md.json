@@ -1,0 +1,130 @@
+{
+  "code": "MD",
+  "latitude": 47.411631,
+  "longitude": 28.369885,
+  "name": "Moldova",
+  "names": {
+    "nl": "Moldavië",
+    "pl": "Mołdawia",
+    "de": "Moldawien",
+    "ja": "モルドバ",
+    "co": "Moldavia",
+    "fr": "Moldavie",
+    "es": "Moldavia",
+    "pt": "Moldávia",
+    "eu": "Moldavia",
+    "ie": "An Mholdóiv"
+  },
+  "flags": [
+    "hu",
+    "sk",
+    "md",
+    "bg",
+    "ua",
+    "ro",
+    "by",
+    "rs"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "ro",
+    "ua"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Moldova",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Moldova/@47.411631,28.369885,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MDL",
+    "name": "Leu",
+    "nameChoices": [
+      "Euro",
+      "Hryvnia",
+      "Ruble"
+    ]
+  },
+  "population": 2381325,
+  "size": 33851,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ron",
+        "percentage": 80.2
+      },
+      {
+        "languageCode": "rus",
+        "percentage": 9.7
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 4048616803,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 632238572
+      },
+      {
+        "productCode": "27",
+        "value": 455362967
+      },
+      {
+        "productCode": "10",
+        "value": 395802138
+      },
+      {
+        "productCode": "12",
+        "value": 283976078
+      },
+      {
+        "productCode": "08",
+        "value": 266084616
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/j0EXEOHgTlk"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/moldova-landscape-scenic-stream-105172/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/birds-eye-view-photography-of-asphalt-road-in-between-trees-8bs-Kz8ACdM"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-park-in-a-city-aRA508nQxH0"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-large-building-with-many-windows-and-a-sky-background-Igm0ctfeaCU"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 8239,
+  "gdpPerCapitaYear": 2025
+}

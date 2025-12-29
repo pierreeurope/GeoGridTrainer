@@ -1,0 +1,137 @@
+{
+  "code": "KG",
+  "latitude": 41.20438,
+  "longitude": 74.766098,
+  "name": "Kyrgyzstan",
+  "names": {
+    "fr": "Kirghizistan",
+    "hu": "Kirgizisztán",
+    "nl": "Kirgizië",
+    "pl": "Kirgistan",
+    "de": "Kirgisistan",
+    "ja": "キルギス",
+    "es": "Kirguistán",
+    "pt": "Quirguistão",
+    "co": "Kirghisgia",
+    "eu": "Kirgizistan",
+    "ie": "An Chirgeastáin"
+  },
+  "flags": [
+    "kg",
+    "af",
+    "uz",
+    "tj",
+    "kz",
+    "pk",
+    "cn",
+    "tm"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "cn",
+    "kz",
+    "tj",
+    "uz"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Kyrgyzstan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Kyrgyzstan/@41.20438,74.766098,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "KGS",
+    "name": "Som",
+    "nameChoices": [
+      "Dollar",
+      "Hryvnia",
+      "Dinar"
+    ]
+  },
+  "population": 7161900,
+  "size": 199900,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "kir",
+        "percentage": 71.4
+      },
+      {
+        "languageCode": "uzb",
+        "percentage": 14.4
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 3308874024,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 1285923298
+      },
+      {
+        "productCode": "26",
+        "value": 233470012
+      },
+      {
+        "productCode": "27",
+        "value": 200135984
+      },
+      {
+        "productCode": "84",
+        "value": 195249756
+      },
+      {
+        "productCode": "85",
+        "value": 157998303
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/jTO7daIRh0U"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/kyrgyzstan-toktogul-dam-dam-naryn-4765706/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-and-white-mountains-under-white-clouds-during-daytime-4dZnL_Da9gk"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-large-building-at-night-Tu0kZSXygUU"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/green-mountains-under-blue-sky-during-daytime-hJbRHIzTvto"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B5%D0%BE%D0%BF%D0%B0%D1%80%D0%BA_%D0%9C%D0%B0%D0%B4%D1%8B%D0%B3%D0%B5%D0%BD_(%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B8).jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2790,
+  "gdpPerCapitaYear": 2025
+}

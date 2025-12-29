@@ -1,0 +1,148 @@
+{
+  "code": "MN",
+  "latitude": 46.862496,
+  "longitude": 103.846656,
+  "name": "Mongolia",
+  "names": {
+    "fr": "Mongolie",
+    "hu": "Mongólia",
+    "nl": "Mongolië",
+    "de": "Mongolei",
+    "ja": "モンゴル",
+    "co": "Mongolie",
+    "pt": "Mongólia",
+    "ie": "An Mhongóil"
+  },
+  "flags": [
+    "ru",
+    "cn",
+    "kg",
+    "mn",
+    "np",
+    "kr",
+    "kp",
+    "bt"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "cn",
+    "ru"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Mongolia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Mongolia/@46.862496,103.846656,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MNT",
+    "name": "Tugrik",
+    "nameChoices": [
+      "Yuan",
+      "Hryvnia",
+      "Manat"
+    ]
+  },
+  "population": 3504741,
+  "size": 1566500,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Mongolia"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      },
+      {
+        "title": "View Mongolia Travel",
+        "url": "https://www.viewmongolia.com/mongolia-language.html#:~:text=Mongolian%20is%20the%20official%20language,of%20the%20Altaic%20language%20family."
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "mon",
+        "percentage": 90
+      },
+      {
+        "languageCode": "kaz",
+        "percentage": 6
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 12557706706.273,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 6766199361.989
+      },
+      {
+        "productCode": "26",
+        "value": 3679215685.563
+      },
+      {
+        "productCode": "71",
+        "value": 1112173922.572
+      },
+      {
+        "productCode": "51",
+        "value": 455343408.084
+      },
+      {
+        "productCode": "25",
+        "value": 110443172.347
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/yhbanN00pb8"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/desert-sand-dunes-mongolia-gobi-7630943/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/statue-hand-holding-gold-rod-8o9htwKDslc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-mountain-near-cliff-under-white-cloudy-sky-t3nn6PQv-CY"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-man-standing-on-top-of-a-rocky-mountain-OWDK5JeRlmU"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/man-in-black-jacket-and-pants-standing-beside-man-statue-X2JmU9_1dL4"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Road_in_Mongolia_aimak_Bayan_Ulgiy_02.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Gobi,_kompleks_Szambala_(22).jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 7200,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,141 @@
+{
+  "code": "ME",
+  "latitude": 42.708678,
+  "longitude": 19.37439,
+  "name": "Montenegro",
+  "names": {
+    "fr": "Monténégro",
+    "hu": "Montenegró",
+    "pl": "Czarnogóra",
+    "ja": "モンテネグロ",
+    "co": "Montenegru",
+    "ie": "Montainéagró"
+  },
+  "flags": [
+    "hr",
+    "xk",
+    "ba",
+    "rs",
+    "mk",
+    "al",
+    "gr",
+    "me"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "al",
+    "ba",
+    "hr",
+    "rs",
+    "xk"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Montenegro",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Montenegro/@42.708678,19.37439,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Rial",
+      "Denar",
+      "Lira"
+    ]
+  },
+  "population": 623327,
+  "size": 13812,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "srp",
+        "percentage": 42.9
+      },
+      {
+        "languageCode": "cnr",
+        "percentage": 37
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 722520232.811,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 264821888.367
+      },
+      {
+        "productCode": "76",
+        "value": 84464646.207
+      },
+      {
+        "productCode": "44",
+        "value": 53747075.051
+      },
+      {
+        "productCode": "22",
+        "value": 45328158.946
+      },
+      {
+        "productCode": "30",
+        "value": 44799328.558
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/_nupO8tu6sg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/perast-cove-kotor-montenegro-sea-4612526/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/animals-on-field-KYbDibssjXg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-concrete-building-near-body-of-water-during-daytime-CaMeI7mYvzo"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-white-and-brown-cruise-ship-on-water-1AUe0hwdC3o"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/houses-near-body-of-water-during-daytime-b_e5K7B3MzQ"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:%C5%BDCG_461_039_with_IC_Beograd_-_Bar_at_Lutovo.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Bay_of_Kotor_from_Lepetani%27s_road.jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 14990,
+  "gdpPerCapitaYear": 2025
+}

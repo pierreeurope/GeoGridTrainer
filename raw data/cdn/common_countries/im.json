@@ -1,0 +1,88 @@
+{
+  "code": "IM",
+  "latitude": 54.236107,
+  "longitude": -4.548056,
+  "name": "Isle of Man",
+  "names": {
+    "fr": "Île de Man",
+    "hu": "Man",
+    "pl": "Wyspa Man",
+    "ja": "マン島",
+    "co": "Ile di Man",
+    "es": "Isla de Man",
+    "pt": "Ilha de Man",
+    "eu": "Man Uhartea",
+    "ie": "Oileán Mhanann"
+  },
+  "flags": [
+    "gb",
+    "im",
+    "ie",
+    "gg",
+    "nl",
+    "fo",
+    "be",
+    "je"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "gb",
+    "ie"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Isle_of_Man",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Isle%20of%20Man/@54.236107,-4.548056,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "GBP",
+    "name": "Pound",
+    "nameChoices": [
+      "Franc",
+      "Dollar",
+      "Euro"
+    ]
+  },
+  "population": 84523,
+  "size": 572,
+  "languageData": {},
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/UF-F4mSV8VA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/sunrise-snow-mountains-sunlight-5882167/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-and-brown-rock-formation-near-body-of-water-during-daytime-SFHB4DPU134"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-light-house-sitting-on-top-of-a-lush-green-hillside-8FNdV_g7MXI"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/anchor-on-grass-shore-during-day-fXzcEptNAmQ"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/brown-concrete-bridge-during-daytime-_t-8ters_eg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true
+}

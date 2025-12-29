@@ -1,0 +1,137 @@
+{
+  "code": "IQ",
+  "latitude": 33.223191,
+  "longitude": 43.679291,
+  "name": "Iraq",
+  "names": {
+    "hu": "Irak",
+    "nl": "Irak",
+    "pl": "Irak",
+    "de": "Irak",
+    "ja": "イラク",
+    "fr": "Irak",
+    "es": "Irak",
+    "pt": "Iraque",
+    "co": "Irach",
+    "eu": "Irak",
+    "ie": "An Iaráic"
+  },
+  "flags": [
+    "sa",
+    "iq",
+    "tr",
+    "ir",
+    "sy",
+    "jo",
+    "kw",
+    "lb"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "ir",
+    "jo",
+    "kw",
+    "sa",
+    "sy",
+    "tr"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Iraq",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Iraq/@33.223191,43.679291,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "IQD",
+    "name": "Dinar",
+    "nameChoices": [
+      "Rupee",
+      "Manat",
+      "Rial"
+    ]
+  },
+  "population": 46118793,
+  "size": 438317,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Iraq"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "kur"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2016,
+    "totalValue": 43774017809,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 43768101812
+      },
+      {
+        "productCode": "41",
+        "value": 3607577
+      },
+      {
+        "productCode": "05",
+        "value": 1583750
+      },
+      {
+        "productCode": "17",
+        "value": 146000
+      },
+      {
+        "productCode": "01",
+        "value": 138000
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/8eJTLS3lIiw"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/hillah-iraq-landscape-desert-80384/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-street-during-daytime-ysMnsNEf670"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-green-trees-and-mountains-during-daytime-Cl0Zn8Jt2BE"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/green-grass-and-trees-near-river-during-daytime-sn00xBZqYaw"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/the-sun-is-setting-over-a-city-with-tall-buildings-eHUkCuolVX4"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 5670,
+  "gdpPerCapitaYear": 2025
+}

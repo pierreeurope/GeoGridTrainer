@@ -1,0 +1,142 @@
+{
+  "code": "KE",
+  "latitude": -0.023559,
+  "longitude": 37.906193,
+  "name": "Kenya",
+  "names": {
+    "nl": "Kenia",
+    "pl": "Kenia",
+    "de": "Kenia",
+    "ja": "ケニア",
+    "es": "Kenia",
+    "pt": "Quénia",
+    "ie": "An Chéinia"
+  },
+  "flags": [
+    "et",
+    "tz",
+    "rw",
+    "ke",
+    "so",
+    "ss",
+    "ug",
+    "bi"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "et",
+    "so",
+    "ss",
+    "tz",
+    "ug"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Kenya",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Kenya/@-0.023559,37.906193,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "KES",
+    "name": "Shilling",
+    "nameChoices": [
+      "Rand",
+      "Franc",
+      "Kwacha"
+    ]
+  },
+  "population": 53330978,
+  "size": 580367,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Kenya"
+      },
+      {
+        "title": "Statista",
+        "url": "https://www.statista.com/statistics/1279540/primary-languages-spoken-at-home-in-kenya/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "swa",
+        "percentage": 27.1
+      },
+      {
+        "languageCode": "kik",
+        "percentage": 13.3
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 7158109332.771,
+    "topExports": [
+      {
+        "productCode": "09",
+        "value": 1626576542.362
+      },
+      {
+        "productCode": "06",
+        "value": 726755804.184
+      },
+      {
+        "productCode": "27",
+        "value": 367418548.941
+      },
+      {
+        "productCode": "08",
+        "value": 244463031.237
+      },
+      {
+        "productCode": "15",
+        "value": 223773076.431
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/T-LfvX-7IVg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/safari-elephant-landscape-nature-4043090/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/ninara/19119149059/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/two-hot-air-balloons-in-the-wild-89IBtfoz3Vw"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-brown-field-during-daytime-iyg24BviAoM"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-under-white-clouds-xDxiO7sldis"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:A_Maasai_Giraffe_the_Tallest_Animal_in_Kenya_with_Britam_Tower_the_tallest_building_in_Kenya_in_the_background_at_Nairobi_National_Park.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2470,
+  "gdpPerCapitaYear": 2025
+}

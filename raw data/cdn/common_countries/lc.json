@@ -1,0 +1,125 @@
+{
+  "code": "LC",
+  "latitude": 13.909444,
+  "longitude": -60.978893,
+  "name": "Saint Lucia",
+  "names": {
+    "fr": "Sainte-Lucie",
+    "de": "St. Lucia",
+    "ja": "セントルシア",
+    "co": "Santa Lucia",
+    "es": "Santa Lucía",
+    "pt": "Santa Lúcia",
+    "eu": "Santa Luzia",
+    "ie": "San Lúisia"
+  },
+  "flags": [
+    "bb",
+    "mq",
+    "gd",
+    "ms",
+    "vc",
+    "dm",
+    "gp",
+    "lc"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "mq",
+    "vc",
+    "bb",
+    "ve"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Saint_Lucia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Saint%20Lucia/@13.909444,-60.978893,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XCD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Peso",
+      "Sol",
+      "Naira"
+    ]
+  },
+  "population": 178696,
+  "size": 622,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_Saint_Lucia#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "acf",
+        "percentage": 95
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2020,
+    "totalValue": 67424831.6,
+    "topExports": [
+      {
+        "productCode": "22",
+        "value": 14714795.03
+      },
+      {
+        "productCode": "08",
+        "value": 5801832.39
+      },
+      {
+        "productCode": "85",
+        "value": 4743883.93
+      },
+      {
+        "productCode": "71",
+        "value": 3997811.67
+      },
+      {
+        "productCode": "48",
+        "value": 3205142.53
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/st-lucia-caribbean-island-106119/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/st-lucia-caribbean-island-106120/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-mountains-pBnM1-mDR4A"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-cars-parked-in-front-of-a-body-of-water-5gfBxVCULiE"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 13572,
+  "gdpPerCapitaYear": 2023
+}

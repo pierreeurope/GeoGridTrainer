@@ -1,0 +1,104 @@
+{
+  "code": "LR",
+  "latitude": 6.428055,
+  "longitude": -9.429499,
+  "name": "Liberia",
+  "names": {
+    "fr": "Libéria",
+    "hu": "Libéria",
+    "ja": "リベリア",
+    "pt": "Libéria",
+    "ie": "An Libéir"
+  },
+  "flags": [
+    "gn",
+    "sn",
+    "gm",
+    "lr",
+    "ci",
+    "gw",
+    "gh",
+    "sl"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "ci",
+    "gn",
+    "sl"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Liberia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Liberia/@6.428055,-9.429499,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "LRD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Rufiyaa",
+      "Dinar",
+      "Franc"
+    ]
+  },
+  "population": 5437249,
+  "size": 111369,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Britannica",
+        "url": "https://www.britannica.com/place/Liberia/People#:~:text=Predominant%20languages%20include%20Kpelle%2C%20Bassa%2C%20Grebo%2C%20Dan%2C%20Kru%2C%20Mano%2C%20Loma%2C%20and%20Mandingo%20(spoken%20by%20the%20Malinke)."
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "kpe",
+        "percentage": 20.3
+      },
+      {
+        "languageCode": "bsq",
+        "percentage": 13.4
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Liberia,_Africa_-_panoramio_%28255%29.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://www.flickr.com/photos/davidstanleytravel/6831730706"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/time-lapse-photography-of-thunderbolt-6ACcbfIycEg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/unmil/14064974957"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/tweefur/3349037091/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-grassy-hill-with-palm-trees-SjPb6diu0Y4"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 907,
+  "gdpPerCapitaYear": 2025
+}

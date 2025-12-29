@@ -1,0 +1,137 @@
+{
+  "code": "LV",
+  "latitude": 56.879635,
+  "longitude": 24.603189,
+  "name": "Latvia",
+  "names": {
+    "fr": "Lettonie",
+    "hu": "Lettország",
+    "nl": "Letland",
+    "pl": "Łotwa",
+    "de": "Lettland",
+    "ja": "ラトビア",
+    "co": "Lettonia",
+    "es": "Letonia",
+    "pt": "Letónia",
+    "eu": "Letonia",
+    "ie": "An Laitvia"
+  },
+  "flags": [
+    "lt",
+    "ee",
+    "se",
+    "ru",
+    "pl",
+    "by",
+    "lv",
+    "fi"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "by",
+    "ee",
+    "lt",
+    "ru"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Latvia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Latvia/@56.879635,24.603189,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Forint",
+      "Koruna",
+      "Franc"
+    ]
+  },
+  "population": 1842226,
+  "size": 64589,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "lav",
+        "percentage": 56.3
+      },
+      {
+        "languageCode": "rus",
+        "percentage": 33.8
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 20329492937.704,
+    "topExports": [
+      {
+        "productCode": "44",
+        "value": 3070715188.834
+      },
+      {
+        "productCode": "85",
+        "value": 2187812082.133
+      },
+      {
+        "productCode": "27",
+        "value": 1502070824.83
+      },
+      {
+        "productCode": "84",
+        "value": 1090631016.819
+      },
+      {
+        "productCode": "87",
+        "value": 1040708426.183
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/jFqUJacYIsw"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/latvia-riga-daugava-flow-3725546/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-and-green-trees-during-daytime-DKL2nwMzT1E"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-3GVX2-dWttU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-lake-surrounded-by-snow-covered-trees-and-a-forest-zxjtINsoA4A"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/grey-concrete-house-lot-uft-MemToy0"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 24193,
+  "gdpPerCapitaYear": 2024
+}

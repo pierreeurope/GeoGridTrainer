@@ -1,0 +1,127 @@
+{
+  "code": "LS",
+  "latitude": -29.609988,
+  "longitude": 28.233608,
+  "name": "Lesotho",
+  "names": {
+    "ja": "レソト",
+    "es": "Lesoto",
+    "pt": "Lesoto",
+    "co": "Lesothu",
+    "ie": "Leosóta"
+  },
+  "flags": [
+    "na",
+    "sz",
+    "bw",
+    "za",
+    "ls",
+    "zw",
+    "zm",
+    "mz"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "za"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Lesotho",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Lesotho/@-29.609988,28.233608,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "LSL",
+    "name": "Loti",
+    "nameChoices": [
+      "Dollar",
+      "Franc",
+      "Rand"
+    ]
+  },
+  "population": 2210646,
+  "size": 30355,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Lesotho"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "sot",
+        "percentage": 90
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 899655994.064,
+    "topExports": [
+      {
+        "productCode": "61",
+        "value": 243892589.766
+      },
+      {
+        "productCode": "71",
+        "value": 172206355.839
+      },
+      {
+        "productCode": "62",
+        "value": 149689030.499
+      },
+      {
+        "productCode": "22",
+        "value": 85650419.696
+      },
+      {
+        "productCode": "85",
+        "value": 48455222.681
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/wg4Yd9iK0ho"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/lesotho-mountain-village-927577/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/man-holding-beige-horse-URroWgc_x2w"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-mountains-near-lake-during-daytime-5wtBRWXCQp8"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/man-walking-on-green-grass-field-BtCaXJ8BJjY"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/green-mountains-near-body-of-water-under-white-clouds-during-daytime-6raP_K5VQXw"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1110,
+  "gdpPerCapitaYear": 2023
+}

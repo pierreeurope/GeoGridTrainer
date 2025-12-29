@@ -1,0 +1,145 @@
+{
+  "code": "KM",
+  "latitude": -11.875001,
+  "longitude": 43.872219,
+  "name": "Comoros",
+  "names": {
+    "fr": "Comores",
+    "hu": "Comore-szigetek",
+    "nl": "Comoren",
+    "pl": "Komory",
+    "de": "Komoren",
+    "ja": "コモロ",
+    "co": "Cumori",
+    "es": "Comoras",
+    "pt": "Comores",
+    "eu": "Komoreak",
+    "ie": "Oileáin Chomóra"
+  },
+  "flags": [
+    "mz",
+    "tz",
+    "mg",
+    "yt",
+    "mw",
+    "ke",
+    "km",
+    "sc"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "yt",
+    "mg",
+    "tz",
+    "mz"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Comoros",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Comoros/@-11.875001,43.872219,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "KMF",
+    "name": "Franc",
+    "nameChoices": [
+      "Dollar",
+      "Pound",
+      "Kip"
+    ]
+  },
+  "population": 883075,
+  "size": 2235,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Comoros"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "swb",
+        "percentage": 96.9
+      },
+      {
+        "languageCode": "fra",
+        "percentage": 25.97
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 34222278.682,
+    "topExports": [
+      {
+        "productCode": "09",
+        "value": 18076657.928
+      },
+      {
+        "productCode": "33",
+        "value": 6179633.523
+      },
+      {
+        "productCode": "89",
+        "value": 2922897.007
+      },
+      {
+        "productCode": "84",
+        "value": 2334992.471
+      },
+      {
+        "productCode": "76",
+        "value": 2193887.618
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Anjouan_-_Islands_of_Comoros.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://www.flickr.com/photos/dkeats/5975110268"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/water4islands/29724351291/in/photostream/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/23371486@N04/2501495107/in/photostream/"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/ipostcross/49138640558/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/p_blonde/396139853/in/photolist-B1jzt-ARtUS-p4D9sJ-8e9efi-ARiBD-aahFDp-8YGvSN-B1nAg-L626p-B1J7u-B1nAa-L626X-8wwdov-B1J7w-w3EJmG-aDMob2-9st8qg-trEZDF-xKPPwc-ARiBG-4Ns6eS-hUhLKA-2mgSTr6-hUhLDw-AuhLQ6-4P8781-4GxpM5-L626T-hUhCW9-4P43cn-hUiuoc-rUQXbB-hUiyiM-hUhU1A-hUhaix-hUhNvN-hUit9i-hUhTG1-aDRgy1-hUhDZ1-21EJ2Ho-DgQ4Dk-4P2jo8-hUhrhM-mvqJVm-hUhMHL-hUhF2S-hUhPYh-2o7y4D2-4GxubY"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://www.flickr.com/photos/rabemananoro/22867767083/"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/jcrane66/48362682652/"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1377,
+  "gdpPerCapitaYear": 2023
+}

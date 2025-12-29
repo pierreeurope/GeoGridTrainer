@@ -1,0 +1,137 @@
+{
+  "code": "LT",
+  "latitude": 55.169438,
+  "longitude": 23.881275,
+  "name": "Lithuania",
+  "names": {
+    "fr": "Lituanie",
+    "hu": "Litvánia",
+    "nl": "Litouwen",
+    "pl": "Litwa",
+    "de": "Litauen",
+    "ja": "リトアニア",
+    "co": "Lituania",
+    "es": "Lituania",
+    "pt": "Lituânia",
+    "eu": "Lituania",
+    "ie": "An Liotuáin"
+  },
+  "flags": [
+    "ee",
+    "se",
+    "by",
+    "lt",
+    "pl",
+    "ru",
+    "lv",
+    "fi"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "by",
+    "lv",
+    "pl",
+    "ru"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Lithuania",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Lithuania/@55.169438,23.881275,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Franc",
+      "Zloty",
+      "Krona"
+    ]
+  },
+  "population": 2897430,
+  "size": 65301,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "lit",
+        "percentage": 85.3
+      },
+      {
+        "languageCode": "rus",
+        "percentage": 6.8
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 42625691925,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 6104069060
+      },
+      {
+        "productCode": "87",
+        "value": 3208771841
+      },
+      {
+        "productCode": "94",
+        "value": 3201538570
+      },
+      {
+        "productCode": "85",
+        "value": 3095383259
+      },
+      {
+        "productCode": "84",
+        "value": 2517014534
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/NMV4RIqrP-A"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/vilnius-lithuania-eastern-europe-1029634/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/view-of-dock-at-river-bank-xGltPaX1FeY"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/elenakurlaviciute/22711828872/in/photolist-AAY4sq-2nZkVDu-2mWJ8dY-2iVyC5e-2mNvU4g-ACayEi-zF8Je1-QPjvB4-zxuhBe-2nkFD1e-cMYRwU-7JhtKe-adPzAc-2c1iWLw-5vmzbX-5vrkK3-2n841cQ-2n8MvQ5-2iVyNmg-21zp71o-ew1ao2-2n8Muvg-4KJvtF-2ksHBAM-G2NdnT-fGRwYc-adPxk4-zF8NPd-2mPv3et-21UuKdr-Bs23WC-62Yshn-2hXqXGQ-9r4tPk-e2J9vN-2iWjsJj-PEdXn2-2n84q25-ehrcCo-Rc1XzF-ae1W1n-AAY73A-adVJMU-PmMVcZ-9r7cKo-K3MUZA-V5Upsk-ae4KX7-3ur6BG-bstdkG"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-black-and-white-photo-of-a-building-S6FCH5FqBfE"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Kaunas_Priest_Seminary,_Kaunas,_Lithuania_-_Diliff.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 30514,
+  "gdpPerCapitaYear": 2025
+}

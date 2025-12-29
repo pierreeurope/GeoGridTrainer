@@ -1,0 +1,127 @@
+{
+  "code": "JM",
+  "latitude": 18.109581,
+  "longitude": -77.297508,
+  "name": "Jamaica",
+  "names": {
+    "fr": "Jamaïque",
+    "pl": "Jamajka",
+    "de": "Jamaika",
+    "ja": "ジャマイカ",
+    "co": "Giamaica",
+    "eu": "Jamaika",
+    "ie": "Iamáice"
+  },
+  "flags": [
+    "do",
+    "ky",
+    "jm",
+    "tc",
+    "aw",
+    "ht",
+    "bs",
+    "cu"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "ky",
+    "cu",
+    "ht",
+    "do"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Jamaica",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Jamaica/@18.109581,-77.297508,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "JMD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Balboa",
+      "Sol",
+      "Peso"
+    ]
+  },
+  "population": 2824913,
+  "size": 10990,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Jamaica"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng"
+      },
+      {
+        "languageCode": "jam"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 2001802216.77,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 867551929.19
+      },
+      {
+        "productCode": "28",
+        "value": 484691146.64
+      },
+      {
+        "productCode": "22",
+        "value": 168869819.06
+      },
+      {
+        "productCode": "26",
+        "value": 68007417.6
+      },
+      {
+        "productCode": "21",
+        "value": 51259185.11
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/wGyHvtLcW_U"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/jamaica-negril-beach-boat-2409533/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/people-on-beach-during-sunset-K6ig8dtGqPU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/man-in-black-shirt-riding-bicycle-near-palm-tree-during-daytime-gksePWvWcWc"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/boats-docked-beside-trees-on-river-jIk3I_e16uw"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 7487,
+  "gdpPerCapitaYear": 2024
+}

@@ -1,0 +1,105 @@
+{
+  "code": "LI",
+  "latitude": 47.166,
+  "longitude": 9.555373,
+  "name": "Liechtenstein",
+  "names": {
+    "ja": "リヒテンシュタイン",
+    "pt": "Listenstaine",
+    "ie": "Lichtinstéin"
+  },
+  "flags": [
+    "sm",
+    "mc",
+    "si",
+    "lu",
+    "at",
+    "li",
+    "de",
+    "ch"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "ch",
+    "at"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Liechtenstein",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Liechtenstein/@47.166,9.555373,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "CHF",
+    "name": "Franc",
+    "nameChoices": [
+      "Euro",
+      "Krone",
+      "Dollar"
+    ]
+  },
+  "population": 41232,
+  "size": 160,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "deu",
+        "percentage": 91.5
+      },
+      {
+        "languageCode": "ita",
+        "percentage": 1.5
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/4CKnbVZ4Tew"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/liechtenstein-city-architecture-176116/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/cars-parked-near-building-during-daytime-5aJlZgteKzc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/four-brown-wooden-house-on-snow-covered-field-T9yKWV4xdUs"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/photography-of-mountain-covered-with-snow-4WyiTpCB2SY"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/white-concrete-building-during-daytime-r7xZNCuVMUs"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Liechtenstein_asv2022-10_img01_Vaduz_Schloss.jpg"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapita": 207974,
+  "gdpPerCapitaYear": 2023
+}

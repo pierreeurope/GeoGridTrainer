@@ -1,0 +1,137 @@
+{
+  "code": "MA",
+  "latitude": 31.791702,
+  "longitude": -7.09262,
+  "name": "Morocco",
+  "names": {
+    "fr": "Maroc",
+    "hu": "Marokkó",
+    "nl": "Marokko",
+    "pl": "Maroko",
+    "de": "Marokko",
+    "ja": "モロッコ",
+    "co": "Marocu",
+    "es": "Marruecos",
+    "pt": "Marrocos",
+    "eu": "Maroko",
+    "ie": "Maracó"
+  },
+  "flags": [
+    "ad",
+    "gi",
+    "ma",
+    "pt",
+    "mr",
+    "eh",
+    "es",
+    "dz"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "dz",
+    "es",
+    "eh"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Morocco",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Morocco/@31.791702,-7.09262,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MAD",
+    "name": "Dirham",
+    "nameChoices": [
+      "Peso",
+      "Franc",
+      "Rial",
+      "Dirham"
+    ]
+  },
+  "population": 37493183,
+  "size": 446550,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Morocco#:~:text=Arabic%20dialects%20(92,26%25)%5B1%5D"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara",
+        "percentage": 91
+      },
+      {
+        "languageCode": "ber",
+        "percentage": 26
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 42462806869.922,
+    "topExports": [
+      {
+        "productCode": "87",
+        "value": 7969005172.915
+      },
+      {
+        "productCode": "85",
+        "value": 7716520848.445
+      },
+      {
+        "productCode": "31",
+        "value": 5459055172.124
+      },
+      {
+        "productCode": "62",
+        "value": 2914674399.195
+      },
+      {
+        "productCode": "07",
+        "value": 1881353058.665
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/NncAbldgViA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/morocco-city-historic-village-clay-2349647/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/man-with-two-kids-riding-on-a-motorcycle-yPbHMWJTTOU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-blue-alley-with-potted-plants-and-a-bench-CMmgfHQiYsc"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Caravan_in_the_desert.jpg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:ONCF_DH_370_with_a_Casablanca_-_Oujda_train_at_the_Barrage_Idriss_1er.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4440,
+  "gdpPerCapitaYear": 2025
+}

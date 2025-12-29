@@ -1,0 +1,141 @@
+{
+  "code": "ID",
+  "latitude": -0.789275,
+  "longitude": 113.921327,
+  "name": "Indonesia",
+  "names": {
+    "fr": "Indonésie",
+    "hu": "Indonézia",
+    "nl": "Indonesië",
+    "pl": "Indonezja",
+    "de": "Indonesien",
+    "ja": "インドネシア",
+    "pt": "Indonésia",
+    "co": "Indunisia",
+    "ie": "An Indinéis"
+  },
+  "flags": [
+    "sg",
+    "pg",
+    "my",
+    "bn",
+    "au",
+    "id",
+    "cx",
+    "tl"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "my",
+    "pg",
+    "tl",
+    "au",
+    "sg",
+    "ph"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Indonesia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Indonesia/@-0.789275,113.921327,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "IDR",
+    "name": "Rupiah",
+    "nameChoices": [
+      "Ringgit",
+      "Rupee",
+      "Riel"
+    ]
+  },
+  "population": 284438782,
+  "size": 1904569,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Indonesia"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ind",
+        "percentage": 80.42
+      },
+      {
+        "languageCode": "jav",
+        "percentage": 32.28
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 291979090608,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 71000051253
+      },
+      {
+        "productCode": "15",
+        "value": 35204422754
+      },
+      {
+        "productCode": "72",
+        "value": 27823548311
+      },
+      {
+        "productCode": "85",
+        "value": 14553193033
+      },
+      {
+        "productCode": "87",
+        "value": 10980707670
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/8o4W9LZv6eo"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/sea-mangrove-before-sunrise-mystery-6328687/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/woman-standing-on-mountain-near-body-of-water-Sq8rpq2KB7U"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/landscape-photo-of-coconut-trees-EFuCATqfblI"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/birds-eye-view-of-body-of-water-and-island-m7eb02LR9eA"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Petani_padi.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Ngaben_Ceremony.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 5027,
+  "gdpPerCapitaYear": 2025
+}

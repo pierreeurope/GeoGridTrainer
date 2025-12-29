@@ -1,0 +1,139 @@
+{
+  "code": "LU",
+  "latitude": 49.815273,
+  "longitude": 6.129583,
+  "name": "Luxembourg",
+  "names": {
+    "hu": "Luxemburg",
+    "nl": "Luxemburg",
+    "pl": "Luksemburg",
+    "de": "Luxemburg",
+    "ja": "ルクセンブルク",
+    "es": "Luxemburgo",
+    "pt": "Luxemburgo",
+    "co": "Lussimburgu",
+    "eu": "Luxenburgo",
+    "ie": "Lucsamburg"
+  },
+  "flags": [
+    "nl",
+    "fr",
+    "lu",
+    "be",
+    "de",
+    "ch",
+    "li",
+    "je"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "be",
+    "de",
+    "fr"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Luxembourg",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Luxembourg/@49.815273,6.129583,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Krone",
+      "Franc",
+      "Pound"
+    ]
+  },
+  "population": 681973,
+  "size": 2586,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      },
+      {
+        "title": "Statistics portal of Luxembourg",
+        "url": "https://statistiques.public.lu/en/recensement/diversite-linguistique.html#:~:text=With%20just%20under%20half%20the%20responses%2C%20Luxembourgish%20is%20the%20main%20language%2C%20with%20Portuguese%20in%20second%20place"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ltz",
+        "percentage": 55.8
+      },
+      {
+        "languageCode": "por",
+        "percentage": 15.7
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 16343853042.807,
+    "topExports": [
+      {
+        "productCode": "84",
+        "value": 2107666987.819
+      },
+      {
+        "productCode": "39",
+        "value": 1609639162.909
+      },
+      {
+        "productCode": "87",
+        "value": 1601503039.503
+      },
+      {
+        "productCode": "72",
+        "value": 1443765056.381
+      },
+      {
+        "productCode": "73",
+        "value": 977259680.118
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/FPdyoYNdvaM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/luxembourg-luxembourg-city-landscape-1164663/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-and-brown-concrete-building-0mY01y72UKo"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-trees-near-river-under-cloudy-sky-during-daytime-8YYeRlD86uk"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-palace-on-forest-X30mNjC_oOY"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/97088698@N06/52509906808/in/photolist-2o17ZSQ-2mKfaxn-2og5SF2-2hRocid-QQx45f-2k5Ry3w-XG4Rrd-vdpjtH-o4Bje5-2gZR5hW-2h9uA8W-2dpHqFP-YrUGrz-2gVPobD-2hn9KA5-2iGfQeW-2hsXMGE-2ogkEsP-RbWkWp-FnuVu5-PMkg3q-2hm69E1-2nPnQkY-2gXxhWa-2hMt6bs-UefiQU-nbP9Eq-2j5wcGU-2i8pzwc-2nnPZ8N-2q7qF7u-2dwEaNX-SbvTik-2o3DN6m-VVz4o1-2iKyDpA-2f5uQJu-PMk3Qu-pfBdv3-2hKzBEx-25Vbsq5-2e1dUew-2g3729U-2gYQ23r-AdBAs1-NKhskT-2og8qWn-RzPDYi-27C2d3S-25vfziq"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 141079,
+  "gdpPerCapitaYear": 2025
+}

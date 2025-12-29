@@ -1,0 +1,114 @@
+{
+  "code": "KN",
+  "latitude": 17.357822,
+  "longitude": -62.782998,
+  "name": "Saint Kitts and Nevis",
+  "names": {
+    "fr": "Saint-Christophe-et-Niévès",
+    "hu": "Saint Kitts és Nevis",
+    "nl": "Saint Kitts en Nevis",
+    "pl": "Saint Kitts i Nevis",
+    "de": "St. Kitts und Nevis",
+    "ja": "セントクリストファー・ネイビス",
+    "co": "Santu Krisku eta Nevis",
+    "es": "San Cristóbal y Nieves",
+    "pt": "São Cristóvão e Nevis",
+    "eu": "Saint Kitts eta Nevis",
+    "ie": "San Críostóir agus Nimheas"
+  },
+  "flags": [
+    "vi",
+    "ai",
+    "ms",
+    "dm",
+    "vg",
+    "gp",
+    "kn",
+    "ag"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "ms",
+    "ai",
+    "ag",
+    "sx",
+    "bq",
+    "bl"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Saint%20Kitts%20and%20Nevis/@17.357822,-62.782998,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XCD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Gourde",
+      "Peso",
+      "Guarani"
+    ]
+  },
+  "population": 47606,
+  "size": 261,
+  "languageData": {},
+  "productData": {
+    "year": 2017,
+    "totalValue": 33245644.228,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 18103718.096
+      },
+      {
+        "productCode": "49",
+        "value": 3850443.772
+      },
+      {
+        "productCode": "22",
+        "value": 2143639.393
+      },
+      {
+        "productCode": "71",
+        "value": 1927231.202
+      },
+      {
+        "productCode": "76",
+        "value": 1344348.233
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/cruise-ships-passengers-caribbean-6593595/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://www.flickr.com/photos/120420083@N05/13924571953"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-large-body-of-water-with-a-mountain-in-the-background-650lErxpQZA"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/house-near-trees-and-greenfield-xHJ5H3_AyeI"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapita": 18158,
+  "gdpPerCapitaYear": 2023
+}

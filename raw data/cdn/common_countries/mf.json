@@ -1,0 +1,79 @@
+{
+  "code": "MF",
+  "name": "Saint Martin",
+  "autoUpdateBorders": false,
+  "borders": [
+    "sx",
+    "ai",
+    "bq",
+    "bl"
+  ],
+  "borderMode": "nearby",
+  "continent": [
+    "NA"
+  ],
+  "currencyData": {
+    "name": "Euro",
+    "code": "EUR",
+    "nameChoices": [
+      "Dollar",
+      "Guilder",
+      "Franc"
+    ]
+  },
+  "flags": [],
+  "languageData": {
+    "languages": [],
+    "languageSources": []
+  },
+  "latitude": 18.0910397,
+  "longitude": -63.3911226,
+  "names": {
+    "es": "San Martín",
+    "de": "SAINT-MARTIN",
+    "fr": "Saint-Martin",
+    "pl": "SAINT-MARTIN",
+    "hu": "SAINT-MARTIN",
+    "pt": "São Martinho (França)",
+    "nl": "Sint-Maarten",
+    "ja": "サン・マルタン",
+    "co": "Santa Martinu",
+    "ie": "Saint-Martin"
+  },
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Collectivity_of_Saint_Martin",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/St%20Martin/@18.0910397,-63.3911226,10z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "population": 31477,
+  "size": 53,
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/airplane-maho-beach-saint-martin-2690200/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Pinel_Island,_Saint_Martin.JPG"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-green-and-brown-mountains-beside-blue-sea-during-daytime-ofrgcQc1Plg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-beach-with-a-lot-of-people-on-it-948zYke541Q"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2014,
+  "gdpPerCapita": 21987
+}
