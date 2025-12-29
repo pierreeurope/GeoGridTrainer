@@ -1,0 +1,180 @@
+{
+  "grid_id": "533",
+  "rows": [
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 100 Olympic medals",
+      "variantId": 5
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with black",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Azerbaijan",
+      "Belarus",
+      "Kazakhstan",
+      "Russia",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Moldova",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Belarus",
+      "Brazil",
+      "Bulgaria",
+      "China",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Kenya",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Brazil",
+      "Bulgaria",
+      "Canada",
+      "China",
+      "Cuba",
+      "Czechia",
+      "Denmark",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Switzerland"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Croatia",
+      "Germany",
+      "Iraq",
+      "Jordan",
+      "Kenya",
+      "Libya",
+      "Mozambique",
+      "South Africa",
+      "South Sudan",
+      "Sudan",
+      "Syria",
+      "Tanzania",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Angola",
+      "Belgium",
+      "Cambodia",
+      "Egypt",
+      "Germany",
+      "Ghana",
+      "Iraq",
+      "Jordan",
+      "Kenya",
+      "Kuwait",
+      "Libya",
+      "Mozambique",
+      "South Africa",
+      "South Korea",
+      "Sudan",
+      "Syria",
+      "Uganda",
+      "United Arab Emirates",
+      "Yemen",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Bhutan",
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Liechtenstein",
+      "Malawi",
+      "Moldova",
+      "Paraguay",
+      "San Marino",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "grid_id": "539",
+  "rows": [
+    {
+      "id": "top_20_alcohol_consumption",
+      "name": "Top 20 in alcohol consumption per capita",
+      "variantId": null
+    },
+    {
+      "id": "hosted_olympics",
+      "name": "Has hosted the Olympics",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "Czechia",
+      "Estonia",
+      "France",
+      "Georgia",
+      "Germany",
+      "Ireland",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Moldova",
+      "Poland",
+      "Romania",
+      "Slovenia"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Germany",
+      "Lithuania",
+      "Moldova",
+      "Romania",
+      "Seychelles",
+      "Slovenia",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "France",
+      "Germany",
+      "Laos",
+      "Poland",
+      "Romania",
+      "Uganda"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Norway",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Brazil",
+      "China",
+      "French Polynesia",
+      "Germany",
+      "Mexico",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_7": [
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Brazil",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Germany",
+      "Mexico",
+      "Myanmar",
+      "Philippines",
+      "South Africa",
+      "Tanzania",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Brazil",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Kenya",
+      "Myanmar",
+      "Russia",
+      "South Africa",
+      "Sudan",
+      "Tanzania",
+      "Türkiye"
+    ]
+  }
+}

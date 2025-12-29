@@ -1,0 +1,179 @@
+{
+  "grid_id": "53",
+  "rows": [
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population under 2 million",
+      "id": "population_under_x",
+      "variantId": 2
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.65",
+      "variantId": 5
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Comoros",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Luxembourg",
+      "Martinique",
+      "Mayotte",
+      "Monaco",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Guinea",
+      "Haiti",
+      "Madagascar",
+      "Niger",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Togo",
+      "Vanuatu"
+    ],
+    "match_box_3": [
+      "Comoros",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Haiti",
+      "Madagascar",
+      "Martinique",
+      "Mayotte",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_4": [
+      "Bahrain",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Macau",
+      "Maldives",
+      "Timor-Leste"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Cambodia",
+      "Laos",
+      "Myanmar",
+      "Nepal",
+      "Pakistan",
+      "Syria",
+      "Timor-Leste",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Bahrain",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Indonesia",
+      "Japan",
+      "Maldives",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "Timor-Leste"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Bahamas",
+      "Bahrain",
+      "Bermuda",
+      "Comoros",
+      "Curaçao",
+      "Estonia",
+      "Grenada",
+      "Iceland",
+      "Mayotte",
+      "Réunion",
+      "Tokelau",
+      "Vanuatu"
+    ],
+    "match_box_8": [
+      "Burundi",
+      "Comoros",
+      "Eritrea",
+      "Lesotho",
+      "Liberia",
+      "Myanmar",
+      "Nigeria",
+      "Senegal",
+      "Somalia",
+      "Vanuatu"
+    ],
+    "match_box_9": [
+      "Bahamas",
+      "Bahrain",
+      "Bermuda",
+      "Comoros",
+      "Curaçao",
+      "Grenada",
+      "Iceland",
+      "Ireland",
+      "Jamaica",
+      "Mayotte",
+      "Réunion",
+      "Tokelau",
+      "Vanuatu"
+    ]
+  }
+}

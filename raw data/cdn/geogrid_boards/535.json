@@ -1,0 +1,189 @@
+{
+  "grid_id": "535",
+  "rows": [
+    {
+      "id": "touches_equator",
+      "name": "Touches the Equator",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 5 letters long",
+      "variantId": 1
+    },
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 100k",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $20k",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Gabon",
+      "Indonesia",
+      "Kenya",
+      "Kiribati",
+      "Maldives",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia",
+      "Uganda"
+    ],
+    "match_box_2": [
+      "Democratic Republic of the Congo",
+      "Gabon",
+      "Kenya",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Brazil",
+      "Ecuador",
+      "Gabon",
+      "Kenya",
+      "Maldives",
+      "Republic of the Congo",
+      "São Tomé and Príncipe"
+    ],
+    "match_box_4": [
+      "Benin",
+      "Chile",
+      "China",
+      "Egypt",
+      "Gabon",
+      "Ghana",
+      "Haiti",
+      "India",
+      "Kenya",
+      "Libya",
+      "Nauru",
+      "Nepal",
+      "Niger",
+      "Palau",
+      "Samoa",
+      "Sudan",
+      "Syria",
+      "Tonga",
+      "Yemen"
+    ],
+    "match_box_5": [
+      "Benin",
+      "Egypt",
+      "Gabon",
+      "Ghana",
+      "Kenya",
+      "Libya",
+      "Niger",
+      "Spain",
+      "Sudan"
+    ],
+    "match_box_6": [
+      "Benin",
+      "Gabon",
+      "Ghana",
+      "Haiti",
+      "India",
+      "Italy",
+      "Kenya",
+      "Libya",
+      "Macau",
+      "Niger",
+      "Spain",
+      "Sudan",
+      "Syria"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Belize",
+      "Cocos Islands",
+      "Dominica",
+      "Eswatini",
+      "Federated States of Micronesia",
+      "Grenada",
+      "Kiribati",
+      "Marshall Islands",
+      "Mayotte",
+      "Montserrat",
+      "Nauru",
+      "Niue",
+      "Palau",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "The Gambia",
+      "Tonga",
+      "Trinidad and Tobago",
+      "Tuvalu",
+      "Vanuatu",
+      "Vatican City",
+      "Wallis and Futuna"
+    ],
+    "match_box_8": [
+      "Eswatini",
+      "Mayotte",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "The Gambia"
+    ],
+    "match_box_9": [
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Grenada",
+      "Guadeloupe",
+      "Guam",
+      "Martinique",
+      "Montserrat",
+      "New Caledonia",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Pitcairn Islands",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "Sint Maarten",
+      "Solomon Islands",
+      "The Gambia",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Vanuatu"
+    ]
+  }
+}

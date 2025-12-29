@@ -1,0 +1,180 @@
+{
+  "grid_id": "54",
+  "rows": [
+    {
+      "name": "Borders 2-3 countries",
+      "id": "borders_x_to_y",
+      "variantId": 1
+    },
+    {
+      "name": "Area less than 10,000 km²",
+      "id": "size_under_x",
+      "variantId": 2
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with only 2 colors",
+      "id": "flag_has_x_colors",
+      "variantId": 0
+    },
+    {
+      "name": "In Africa",
+      "id": "continent",
+      "variantId": 2
+    },
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Canada",
+      "Denmark",
+      "Finland",
+      "Honduras",
+      "Hong Kong",
+      "Indonesia",
+      "Morocco",
+      "Somalia",
+      "Sweden",
+      "Tunisia",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Burundi",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "Gabon",
+      "Ghana",
+      "Guinea-Bissau",
+      "Liberia",
+      "Malawi",
+      "Morocco",
+      "Sierra Leone",
+      "Somalia",
+      "Togo",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_3": [
+      "Bosnia and Herzegovina",
+      "Costa Rica",
+      "El Salvador",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Guinea-Bissau",
+      "Hong Kong",
+      "North Korea",
+      "Sierra Leone",
+      "United Arab Emirates",
+      "United States of America",
+      "Western Sahara"
+    ],
+    "match_box_4": [
+      "Bahrain",
+      "Federated States of Micronesia",
+      "Hong Kong",
+      "Monaco",
+      "Norfolk Island",
+      "Palau",
+      "Singapore",
+      "Tonga"
+    ],
+    "match_box_5": [
+      "Cabo Verde",
+      "Comoros",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Antigua and Barbuda",
+      "Bailiwick of Guernsey",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Cabo Verde",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Faroe Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Hong Kong",
+      "Isle of Man",
+      "Marshall Islands",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Pitcairn Islands",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Vatican City",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "North Macedonia",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Burkina Faso",
+      "Central African Republic",
+      "North Macedonia",
+      "San Marino",
+      "South Sudan",
+      "Vatican City"
+    ]
+  }
+}

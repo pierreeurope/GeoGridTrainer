@@ -1,0 +1,198 @@
+{
+  "grid_id": "524",
+  "rows": [
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "China",
+      "Cocos Islands",
+      "India",
+      "Kazakhstan",
+      "Myanmar",
+      "Pakistan",
+      "Palestine",
+      "Philippines",
+      "Taiwan",
+      "Türkiye",
+      "United Arab Emirates",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Benin",
+      "Bolivia",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "Ecuador",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Taiwan",
+      "Tanzania",
+      "Türkiye",
+      "United Arab Emirates",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "American Samoa",
+      "Belize",
+      "Bermuda",
+      "Bolivia",
+      "Ecuador",
+      "Kazakhstan",
+      "Malta",
+      "Montserrat",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_4": [
+      "Bahrain",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Indonesia",
+      "Japan",
+      "Maldives",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "Timor-Leste"
+    ],
+    "match_box_5": [
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Papua New Guinea",
+      "Philippines",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_7": [
+      "Brunei",
+      "Christmas Island",
+      "Cyprus",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "Macau",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "United Arab Emirates"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Belgium",
+      "Canada",
+      "Czechia",
+      "France",
+      "Germany",
+      "Israel",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Malta",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ]
+  }
+}

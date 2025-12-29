@@ -1,0 +1,183 @@
+{
+  "grid_id": "518",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 1,000 km",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_under_x",
+      "name": "Population under 2 million",
+      "variantId": 2
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter D",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Estonia",
+      "Faroe Islands",
+      "Gibraltar",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Kosovo",
+      "Latvia",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "North Macedonia",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Åland",
+      "Finland",
+      "Iceland",
+      "Ireland",
+      "Poland",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Albania",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Czechia",
+      "Finland",
+      "Georgia",
+      "Greece",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Norway",
+      "Slovenia",
+      "Sweden"
+    ],
+    "match_box_4": [
+      "Bahrain",
+      "Federated States of Micronesia",
+      "Greenland",
+      "Latvia",
+      "Monaco",
+      "Norfolk Island",
+      "North Macedonia",
+      "Palau",
+      "Tonga"
+    ],
+    "match_box_5": [
+      "Finland",
+      "Greenland",
+      "Norfolk Island",
+      "Poland",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Finland",
+      "Georgia",
+      "Greece",
+      "Honduras",
+      "Indonesia",
+      "Kyrgyzstan",
+      "Latvia",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Somalia",
+      "Sweden",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Bahamas",
+      "Cabo Verde",
+      "Estonia",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Federated States of Micronesia",
+      "Fiji",
+      "French Polynesia",
+      "French Southern Territories",
+      "Greenland",
+      "Guyana",
+      "Iceland",
+      "Kiribati",
+      "Maldives",
+      "Marshall Islands",
+      "New Caledonia",
+      "Northern Mariana Islands",
+      "Palau",
+      "Solomon Islands",
+      "Svalbard and Jan Mayen",
+      "Vanuatu",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Finland",
+      "Greenland",
+      "Iceland",
+      "Ireland",
+      "New Zealand",
+      "Poland",
+      "Thailand"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Cambodia",
+      "Chile",
+      "Egypt",
+      "Eritrea",
+      "Finland",
+      "Gabon",
+      "Greece",
+      "Guyana",
+      "Honduras",
+      "Indonesia",
+      "Malaysia",
+      "Mauritania",
+      "Mexico",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "North Korea",
+      "Norway",
+      "Oman",
+      "Pakistan",
+      "Somalia",
+      "Sweden",
+      "Thailand",
+      "Venezuela",
+      "Vietnam",
+      "Western Sahara"
+    ]
+  }
+}

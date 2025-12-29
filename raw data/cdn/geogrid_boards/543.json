@@ -1,0 +1,179 @@
+{
+  "grid_id": "543",
+  "rows": [
+    {
+      "id": "top_20_population_density",
+      "name": "Top 20 in population density",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter M",
+      "variantId": 10
+    },
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Jersey",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan"
+    ],
+    "match_box_2": [
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Monaco"
+    ],
+    "match_box_3": [
+      "Aruba",
+      "Bailiwick of Guernsey",
+      "Bangladesh",
+      "Gibraltar",
+      "Jersey",
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mayotte",
+      "Monaco",
+      "Palestine",
+      "Sint Maarten",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Indonesia",
+      "Madagascar",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Seychelles",
+      "Singapore",
+      "Sri Lanka",
+      "Timor-Leste"
+    ],
+    "match_box_5": [
+      "Madagascar",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Mozambique",
+      "Myanmar"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Madagascar",
+      "Maldives",
+      "Mayotte",
+      "Myanmar",
+      "Oman",
+      "Réunion",
+      "Seychelles",
+      "Somalia",
+      "Timor-Leste",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Malta",
+      "Mexico",
+      "Moldova",
+      "Montenegro",
+      "Montserrat"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bhutan",
+      "Bolivia",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands"
+    ]
+  }
+}

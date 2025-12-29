@@ -1,0 +1,197 @@
+{
+  "grid_id": "517",
+  "rows": [
+    {
+      "id": "coastline_length_under_x",
+      "name": "Has coastline, with length less than 100 km",
+      "variantId": 0
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter S",
+      "variantId": 9
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $20k",
+      "variantId": 2
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 500k",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Anguilla",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bouvet Island",
+      "British Virgin Islands",
+      "Cocos Islands",
+      "Jersey",
+      "Montserrat",
+      "Nauru",
+      "Niue",
+      "Norfolk Island",
+      "Pitcairn Islands",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Tuvalu"
+    ],
+    "match_box_2": [
+      "Anguilla",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Belgium",
+      "British Virgin Islands",
+      "Gibraltar",
+      "Jersey",
+      "Macau",
+      "Monaco",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Sint Maarten",
+      "Slovenia"
+    ],
+    "match_box_3": [
+      "Belgium",
+      "Jordan",
+      "Macau",
+      "Palestine",
+      "Togo"
+    ],
+    "match_box_4": [
+      "Bahamas",
+      "Barbados",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Cocos Islands",
+      "Comoros",
+      "Cook Islands",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Maldives",
+      "Marshall Islands",
+      "Mauritius",
+      "Northern Mariana Islands",
+      "Philippines",
+      "Pitcairn Islands",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_5": [
+      "Bahamas",
+      "Barbados",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Cook Islands",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Netherlands",
+      "Northern Mariana Islands",
+      "Seychelles",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_6": [
+      "Belarus",
+      "Honduras",
+      "Laos",
+      "Netherlands",
+      "Philippines",
+      "United Arab Emirates"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Malta",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Bolivia",
+      "Croatia",
+      "Ecuador",
+      "Egypt",
+      "Guatemala",
+      "Kazakhstan",
+      "Mexico",
+      "Moldova",
+      "Peru",
+      "Serbia",
+      "Spain",
+      "Sri Lanka",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  }
+}

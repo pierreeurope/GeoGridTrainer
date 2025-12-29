@@ -1,0 +1,176 @@
+{
+  "grid_id": "506",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_under_x",
+      "name": "Population under 5 million",
+      "variantId": 3
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 40",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Botswana",
+      "Cabo Verde",
+      "Comoros",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "Gabon",
+      "Guinea-Bissau",
+      "Lesotho",
+      "Mauritania",
+      "Mauritius",
+      "Mayotte",
+      "Namibia",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "The Gambia",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Angola",
+      "Guinea",
+      "Malawi",
+      "Rwanda",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_3": [
+      "Benin",
+      "Botswana",
+      "Burkina Faso",
+      "Cabo Verde",
+      "Côte d'Ivoire",
+      "Ghana",
+      "Mauritius",
+      "Namibia",
+      "Rwanda",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Seychelles",
+      "South Africa",
+      "Spain",
+      "Tanzania"
+    ],
+    "match_box_4": [
+      "Andorra",
+      "Armenia",
+      "Bhutan",
+      "Botswana",
+      "Eswatini",
+      "Kosovo",
+      "Lesotho",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "Mongolia",
+      "North Macedonia",
+      "San Marino",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Bhutan",
+      "Kosovo",
+      "Malawi",
+      "Rwanda",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Armenia",
+      "Austria",
+      "Bhutan",
+      "Botswana",
+      "Burkina Faso",
+      "Czechia",
+      "Hungary",
+      "Kosovo",
+      "Luxembourg",
+      "Moldova",
+      "Rwanda",
+      "Slovakia",
+      "Switzerland"
+    ],
+    "match_box_7": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Moldova",
+      "Montenegro",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Belize",
+      "Bhutan",
+      "Jersey",
+      "Mexico",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Bhutan",
+      "Croatia",
+      "Dominica",
+      "Fiji",
+      "Malta",
+      "Moldova",
+      "Montenegro",
+      "Spain"
+    ]
+  }
+}

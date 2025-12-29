@@ -1,0 +1,188 @@
+{
+  "grid_id": "532",
+  "rows": [
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 500k",
+      "variantId": 3
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.75",
+      "variantId": 7
+    }
+  ],
+  "columns": [
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter S",
+      "variantId": 9
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bahamas",
+      "Barbados",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Cocos Islands",
+      "Comoros",
+      "Cook Islands",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Maldives",
+      "Marshall Islands",
+      "Mauritius",
+      "Northern Mariana Islands",
+      "Pitcairn Islands",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "French Southern Territories",
+      "India",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Seychelles",
+      "South Africa",
+      "Sri Lanka",
+      "Timor-Leste"
+    ],
+    "match_box_3": [
+      "Benin",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Burundi",
+      "Guyana",
+      "Kosovo",
+      "Luxembourg",
+      "Malaysia",
+      "Namibia",
+      "Paraguay",
+      "Slovenia",
+      "Suriname",
+      "Western Sahara"
+    ],
+    "match_box_4": [
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Laos",
+      "Netherlands"
+    ],
+    "match_box_5": [
+      "Australia",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Mayotte",
+      "Thailand"
+    ],
+    "match_box_6": [
+      "Chile",
+      "Czechia",
+      "Liberia",
+      "Luxembourg",
+      "North Korea",
+      "Norway",
+      "Thailand"
+    ],
+    "match_box_7": [
+      "Bahamas",
+      "Barbados",
+      "Belarus",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Cocos Islands",
+      "Cook Islands",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Maldives",
+      "Mauritius",
+      "Netherlands",
+      "Northern Mariana Islands",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Christmas Island",
+      "Cocos Islands",
+      "Iran",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Oman",
+      "Réunion",
+      "Seychelles",
+      "Singapore",
+      "Sri Lanka",
+      "Thailand",
+      "United Arab Emirates"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Armenia",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Chile",
+      "Czechia",
+      "Egypt",
+      "Finland",
+      "Georgia",
+      "Greece",
+      "Guyana",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Malaysia",
+      "Mexico",
+      "North Korea",
+      "Norway",
+      "Oman",
+      "Paraguay",
+      "Slovenia",
+      "Sweden",
+      "Thailand",
+      "Turkmenistan",
+      "Vietnam"
+    ]
+  }
+}

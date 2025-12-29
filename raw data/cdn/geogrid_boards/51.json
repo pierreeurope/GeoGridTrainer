@@ -1,0 +1,178 @@
+{
+  "grid_id": "51",
+  "rows": [
+    {
+      "name": "Top 20 in population density",
+      "id": "top_20_population_density",
+      "variantId": null
+    },
+    {
+      "name": "Name is 5 letters long",
+      "id": "name_length",
+      "variantId": 1
+    },
+    {
+      "name": "In Africa",
+      "id": "continent",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population under 5 million",
+      "id": "population_under_x",
+      "variantId": 3
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    },
+    {
+      "name": "Area less than 50,000 km²",
+      "id": "size_under_x",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Gibraltar",
+      "Jersey",
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Monaco",
+      "Sint Maarten",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Jersey",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan"
+    ],
+    "match_box_3": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Gibraltar",
+      "Hong Kong",
+      "Jersey",
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Monaco",
+      "Palestine",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "Åland",
+      "Aruba",
+      "Gabon",
+      "Macau",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Qatar",
+      "Samoa",
+      "Tonga"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Aruba",
+      "Haiti",
+      "Japan",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Samoa",
+      "Tonga"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Aruba",
+      "Haiti",
+      "Macau",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Qatar",
+      "Samoa",
+      "Tonga"
+    ],
+    "match_box_7": [
+      "Botswana",
+      "Cabo Verde",
+      "Comoros",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "Gabon",
+      "Guinea-Bissau",
+      "Lesotho",
+      "Mauritania",
+      "Mauritius",
+      "Mayotte",
+      "Namibia",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "The Gambia",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Cabo Verde",
+      "Comoros",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_9": [
+      "Burundi",
+      "Cabo Verde",
+      "Comoros",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Guinea-Bissau",
+      "Lesotho",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "The Gambia"
+    ]
+  }
+}

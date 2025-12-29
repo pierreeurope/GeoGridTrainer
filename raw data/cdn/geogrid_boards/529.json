@@ -1,0 +1,197 @@
+{
+  "grid_id": "529",
+  "rows": [
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 30 Olympic medals",
+      "variantId": 2
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    },
+    {
+      "id": "size_under_x",
+      "name": "Area less than 100,000 km²",
+      "variantId": 4
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.8",
+      "variantId": 8
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Costa Rica",
+      "Czechia",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Luxembourg",
+      "Mayotte",
+      "Netherlands",
+      "Panama",
+      "Puerto Rico",
+      "Samoa",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "Cuba",
+      "Laos",
+      "Liberia",
+      "Mayotte",
+      "Nepal",
+      "North Korea",
+      "Samoa",
+      "Thailand",
+      "Wallis and Futuna"
+    ],
+    "match_box_4": [
+      "Azerbaijan",
+      "Kazakhstan",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "South Africa",
+      "South Korea",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Azerbaijan",
+      "Belgium",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Georgia",
+      "Hungary",
+      "Ireland",
+      "Jamaica",
+      "Latvia",
+      "Netherlands",
+      "Portugal",
+      "Slovakia",
+      "Slovenia",
+      "South Korea",
+      "Switzerland",
+      "Taiwan"
+    ],
+    "match_box_6": [
+      "Azerbaijan",
+      "Brazil",
+      "China",
+      "Colombia",
+      "Cuba",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Jamaica",
+      "Kenya",
+      "Mexico",
+      "Mongolia",
+      "North Korea",
+      "South Africa",
+      "Thailand",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Madagascar",
+      "Mozambique",
+      "Seychelles",
+      "South Africa",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_8": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "Djibouti",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Seychelles",
+      "Singapore",
+      "Sri Lanka",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_9": [
+      "Bangladesh",
+      "Comoros",
+      "Djibouti",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Maldives",
+      "Mayotte",
+      "Mozambique",
+      "Myanmar",
+      "Pakistan",
+      "Réunion",
+      "Somalia",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Timor-Leste",
+      "Yemen"
+    ]
+  }
+}

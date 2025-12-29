@@ -1,0 +1,185 @@
+{
+  "grid_id": "546",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter N",
+      "variantId": 6
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "population_under_x",
+      "name": "Population under 5 million",
+      "variantId": 3
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Cuba",
+      "Ecuador",
+      "Equatorial Guinea",
+      "Honduras",
+      "Panama",
+      "Paraguay",
+      "Puerto Rico",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Equatorial Guinea",
+      "Panama",
+      "Puerto Rico",
+      "Uruguay",
+      "Western Sahara"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Ecuador",
+      "El Salvador",
+      "Honduras",
+      "Mexico",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Spain",
+      "Uruguay"
+    ],
+    "match_box_4": [
+      "Azerbaijan",
+      "Cameroon",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Pakistan",
+      "Saint Martin",
+      "Sint Maarten",
+      "South Sudan",
+      "Taiwan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Bahrain",
+      "Bhutan",
+      "Gabon",
+      "Isle of Man",
+      "Liechtenstein",
+      "Réunion",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen"
+    ],
+    "match_box_6": [
+      "Cameroon",
+      "Iran",
+      "Japan",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_7": [
+      "Angola",
+      "Bosnia and Herzegovina",
+      "Burundi",
+      "Chile",
+      "Djibouti",
+      "Ghana",
+      "Honduras",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Liberia",
+      "Malawi",
+      "Malaysia",
+      "Mauritania",
+      "Morocco",
+      "Namibia",
+      "North Korea",
+      "Pakistan",
+      "Paraguay",
+      "Rwanda",
+      "Slovenia",
+      "Somalia",
+      "Suriname",
+      "Tajikistan",
+      "Togo",
+      "Turkmenistan",
+      "Venezuela",
+      "Vietnam",
+      "Western Sahara",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Armenia",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Djibouti",
+      "Eritrea",
+      "Gabon",
+      "Georgia",
+      "Guyana",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Mauritania",
+      "Namibia",
+      "Slovenia",
+      "Suriname",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Chile",
+      "Czechia",
+      "Egypt",
+      "Ghana",
+      "Greece",
+      "Honduras",
+      "Indonesia",
+      "Mexico",
+      "Morocco",
+      "Nigeria",
+      "North Korea",
+      "Norway",
+      "Paraguay",
+      "Slovenia",
+      "Sweden",
+      "Togo"
+    ]
+  }
+}

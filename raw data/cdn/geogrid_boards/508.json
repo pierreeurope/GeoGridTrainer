@@ -1,0 +1,158 @@
+{
+  "grid_id": "508",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 4 colors",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 1 million km²",
+      "variantId": 7
+    },
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter N",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kazakhstan",
+      "Mongolia",
+      "Russia",
+      "Saudi Arabia"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "China",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bahrain",
+      "Bhutan",
+      "Iran",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Lebanon",
+      "Oman",
+      "Pakistan",
+      "Taiwan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chad",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Libya",
+      "Mali",
+      "Niger",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "South Africa",
+      "Sudan"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Austria",
+      "Bulgaria",
+      "China",
+      "Croatia",
+      "Hungary",
+      "Kazakhstan",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Cameroon",
+      "Iran",
+      "Jordan",
+      "Kazakhstan",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Brazil",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Libya",
+      "Sudan"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Serbia",
+      "Slovenia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bhutan",
+      "Isle of Man",
+      "Jordan",
+      "Liechtenstein",
+      "Sudan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ]
+  }
+}

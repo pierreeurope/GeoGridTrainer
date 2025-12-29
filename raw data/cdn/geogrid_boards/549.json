@@ -1,0 +1,148 @@
+{
+  "grid_id": "549",
+  "rows": [
+    {
+      "id": "touches_sahara",
+      "name": "Touches the Sahara Desert",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the South Atlantic Ocean",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Niger",
+      "Sudan",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Chad",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Western Sahara"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Niger",
+      "Sudan",
+      "Western Sahara"
+    ],
+    "match_box_4": [
+      "Egypt",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Spain",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bhutan",
+      "Bolivia",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_6": [
+      "Bolivia",
+      "Ecuador",
+      "Egypt",
+      "Kazakhstan",
+      "Mexico",
+      "Papua New Guinea",
+      "Paraguay",
+      "Peru",
+      "Spain",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Angola",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Gabon",
+      "Namibia",
+      "Republic of the Congo",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Africa"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Bouvet Island",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Falkland Islands (Malvinas)",
+      "Republic of the Congo",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "Gabon",
+      "Namibia",
+      "Republic of the Congo",
+      "South Africa"
+    ]
+  }
+}

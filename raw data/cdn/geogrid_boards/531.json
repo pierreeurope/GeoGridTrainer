@@ -1,0 +1,202 @@
+{
+  "grid_id": "531",
+  "rows": [
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 2,000 km",
+      "variantId": 3
+    },
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 500k",
+      "variantId": 3
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 60",
+      "variantId": 4
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "Croatia",
+      "Ecuador",
+      "Egypt",
+      "Fiji",
+      "French Polynesia",
+      "Iran",
+      "Mexico",
+      "Mozambique",
+      "Oman",
+      "Peru",
+      "Portugal",
+      "Spain"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Bahamas",
+      "Canada",
+      "Chile",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Japan",
+      "New Zealand",
+      "Norway",
+      "South Korea",
+      "Sweden",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Åland",
+      "Croatia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "French Polynesia",
+      "French Southern Territories",
+      "Germany",
+      "Greece",
+      "Greenland",
+      "Ireland",
+      "Italy",
+      "New Caledonia",
+      "Portugal",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_4": [
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bolivia",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Equatorial Guinea",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "French Polynesia",
+      "Gibraltar",
+      "Guam",
+      "Jersey",
+      "Montenegro",
+      "Montserrat",
+      "Paraguay",
+      "Pitcairn Islands",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "San Marino",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Bahamas",
+      "Barbados",
+      "Bhutan",
+      "Cabo Verde",
+      "Estonia",
+      "Iceland",
+      "Luxembourg",
+      "New Zealand",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Aruba",
+      "Curaçao",
+      "Cyprus",
+      "Estonia",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Greenland",
+      "Guadeloupe",
+      "Luxembourg",
+      "Malta",
+      "Martinique",
+      "Mayotte",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Belize",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Mexico",
+      "Moldova",
+      "Nicaragua",
+      "Oman",
+      "Paraguay"
+    ],
+    "match_box_8": [
+      "Bhutan",
+      "Canada",
+      "Chile",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Hong Kong",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Sweden",
+      "United Arab Emirates",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_9": [
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "French Guiana",
+      "Luxembourg",
+      "Netherlands",
+      "Sweden"
+    ]
+  }
+}

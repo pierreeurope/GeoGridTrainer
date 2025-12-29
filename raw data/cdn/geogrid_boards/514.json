@@ -1,0 +1,173 @@
+{
+  "grid_id": "514",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "official_language",
+      "name": "Arabic is an official language",
+      "variantId": 0
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Heard Island and McDonald Islands",
+      "India",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Pakistan",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania"
+    ],
+    "match_box_2": [
+      "Comoros",
+      "Djibouti",
+      "Oman",
+      "Somalia",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Mauritius",
+      "Oman",
+      "Seychelles",
+      "Singapore",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Bahamas",
+      "Bermuda",
+      "Grenada",
+      "Jamaica",
+      "Lesotho",
+      "Namibia",
+      "Nigeria",
+      "Tokelau",
+      "Vanuatu"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Bahrain",
+      "Comoros",
+      "Lebanon",
+      "Morocco",
+      "Somalia",
+      "Tunisia"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Bahamas",
+      "Bahrain",
+      "Belgium",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Germany",
+      "Grenada",
+      "Iceland",
+      "Ireland",
+      "Uruguay"
+    ],
+    "match_box_7": [
+      "Antigua and Barbuda",
+      "Australia",
+      "Bangladesh",
+      "Cameroon",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Ghana",
+      "Grenada",
+      "Heard Island and McDonald Islands",
+      "Kiribati",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "Namibia",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "Pakistan",
+      "Papua New Guinea",
+      "Rwanda",
+      "Saint Kitts and Nevis",
+      "Samoa",
+      "Singapore",
+      "Solomon Islands",
+      "Togo",
+      "Tokelau",
+      "Tuvalu"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Comoros",
+      "Djibouti",
+      "Jordan",
+      "Libya",
+      "Mauritania",
+      "Morocco",
+      "Somalia",
+      "Syria",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Cabo Verde",
+      "Chile",
+      "Dominica",
+      "Grenada",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "New Zealand",
+      "Rwanda",
+      "Singapore",
+      "Slovenia",
+      "Taiwan",
+      "United States of America",
+      "Uruguay"
+    ]
+  }
+}

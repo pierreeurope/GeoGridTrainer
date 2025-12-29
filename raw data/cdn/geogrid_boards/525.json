@@ -1,0 +1,190 @@
+{
+  "grid_id": "525",
+  "rows": [
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with white",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    },
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Canada",
+      "France",
+      "Germany",
+      "Greece",
+      "Mexico",
+      "Netherlands",
+      "Portugal",
+      "Spain",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Aruba",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Uruguay"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Mexico",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Brazil",
+      "Cambodia",
+      "Canada",
+      "China",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Philippines",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Canada",
+      "France",
+      "Greece",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Macau",
+      "Malaysia",
+      "Mexico",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Brazil",
+      "Cambodia",
+      "Canada",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Panama",
+      "Philippines",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

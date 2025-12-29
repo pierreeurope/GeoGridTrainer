@@ -1,0 +1,139 @@
+{
+  "grid_id": "509",
+  "rows": [
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.7",
+      "variantId": 6
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_equator",
+      "name": "Touches the Equator",
+      "variantId": null
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Nile River system",
+      "variantId": 0
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Democratic Republic of the Congo",
+      "Kenya",
+      "Kiribati",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia",
+      "Uganda"
+    ],
+    "match_box_2": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Bangladesh",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "India",
+      "Kenya",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_4": [
+      "Democratic Republic of the Congo",
+      "Gabon",
+      "Kenya",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia",
+      "Uganda"
+    ],
+    "match_box_5": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_6": [
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Nigeria",
+      "South Africa",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_7": [
+      "Brazil",
+      "Ecuador",
+      "Gabon",
+      "Kenya",
+      "Maldives",
+      "Republic of the Congo",
+      "São Tomé and Príncipe"
+    ],
+    "match_box_8": [
+      "Burundi",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_9": [
+      "Bangladesh",
+      "Brazil",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Italy",
+      "Kenya",
+      "Mexico",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Sudan",
+      "Tanzania"
+    ]
+  }
+}

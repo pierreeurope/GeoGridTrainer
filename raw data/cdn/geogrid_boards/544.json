@@ -1,0 +1,157 @@
+{
+  "grid_id": "544",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "population_under_x",
+      "name": "Population under 5 million",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "China",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "Armenia",
+      "Bahrain",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Georgia",
+      "Kuwait",
+      "Macau",
+      "Maldives",
+      "Mongolia",
+      "Qatar",
+      "Timor-Leste"
+    ],
+    "match_box_4": [
+      "Bulgaria",
+      "Croatia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Botswana",
+      "Czechia",
+      "Kazakhstan",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Laos",
+      "North Macedonia",
+      "Rwanda",
+      "Slovakia",
+      "Switzerland",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uganda",
+      "Uzbekistan",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Armenia",
+      "Botswana",
+      "Croatia",
+      "Georgia",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Mauritania",
+      "Montenegro",
+      "Namibia",
+      "North Macedonia",
+      "Slovenia"
+    ],
+    "match_box_7": [
+      "Austria",
+      "China",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "North Macedonia",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Bahrain",
+      "Federated States of Micronesia",
+      "Georgia",
+      "Greenland",
+      "Latvia",
+      "Monaco",
+      "Norfolk Island",
+      "North Macedonia",
+      "Palau",
+      "Qatar",
+      "Tonga"
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "grid_id": "512",
+  "rows": [
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "name_start_end_same_letter",
+      "name": "Starts and ends with the same letter",
+      "variantId": null
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Caribbean Sea",
+      "variantId": 6
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $20k",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Caribbean Netherlands",
+      "Costa Rica",
+      "Cuba",
+      "Panama",
+      "Puerto Rico"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Chile",
+      "Costa Rica",
+      "Cuba",
+      "Czechia",
+      "France",
+      "Iceland",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Norway",
+      "Panama",
+      "Russia",
+      "Slovakia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Chile",
+      "Costa Rica",
+      "Cuba",
+      "Laos",
+      "Liberia",
+      "Mayotte",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Samoa",
+      "Thailand",
+      "Wallis and Futuna"
+    ],
+    "match_box_4": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Austria"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Algeria",
+      "American Samoa",
+      "Angola",
+      "Argentina",
+      "Armenia",
+      "Central African Republic",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Solomon Islands"
+    ],
+    "match_box_7": [
+      "Belize",
+      "Caribbean Netherlands",
+      "Dominican Republic",
+      "Guadeloupe",
+      "Montserrat",
+      "Sint Maarten",
+      "Trinidad and Tobago"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Bolivia",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "Ecuador",
+      "Morocco",
+      "New Zealand",
+      "Nigeria",
+      "South Africa",
+      "Switzerland",
+      "Trinidad and Tobago",
+      "Türkiye",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Belize",
+      "Benin",
+      "Bolivia",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "China",
+      "Cocos Islands",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "Ecuador",
+      "Federated States of Micronesia",
+      "India",
+      "Kazakhstan",
+      "Montserrat",
+      "Morocco",
+      "Myanmar",
+      "Nauru",
+      "Nigeria",
+      "Pakistan",
+      "Palau",
+      "Palestine",
+      "Philippines",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Africa",
+      "Tanzania",
+      "The Gambia",
+      "Trinidad and Tobago",
+      "Türkiye",
+      "Vietnam"
+    ]
+  }
+}

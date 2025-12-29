@@ -1,0 +1,151 @@
+{
+  "grid_id": "52",
+  "rows": [
+    {
+      "name": "Has nuclear weapons",
+      "id": "has_nuclear_weapons",
+      "variantId": null
+    },
+    {
+      "name": "Population over 100 million",
+      "id": "population_over_x",
+      "variantId": 7
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with blue",
+      "id": "color_on_flag",
+      "variantId": 1
+    },
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    },
+    {
+      "name": "Area greater than 500,000 km²",
+      "id": "size_over_x",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "France",
+      "India",
+      "Israel",
+      "North Korea",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "China",
+      "France",
+      "India",
+      "Israel",
+      "Russia"
+    ],
+    "match_box_3": [
+      "China",
+      "France",
+      "India",
+      "Pakistan",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Brazil",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "India",
+      "Mexico",
+      "Philippines",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Brazil",
+      "China",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "India",
+      "Russia"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "China",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Indonesia",
+      "Mexico",
+      "Nigeria",
+      "Pakistan",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Armenia",
+      "Azerbaijan",
+      "British Indian Ocean Territory",
+      "Cambodia",
+      "Christmas Island",
+      "India",
+      "Israel",
+      "Kazakhstan",
+      "Laos",
+      "Malaysia",
+      "Mongolia",
+      "Nepal",
+      "North Korea",
+      "Philippines",
+      "Russia",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Uzbekistan"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Azerbaijan",
+      "China",
+      "India",
+      "Iran",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Laos",
+      "Myanmar",
+      "Russia",
+      "Saudi Arabia",
+      "Syria",
+      "Türkiye",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kazakhstan",
+      "Mongolia",
+      "Myanmar",
+      "Pakistan",
+      "Russia",
+      "Saudi Arabia",
+      "Thailand",
+      "Türkiye",
+      "Yemen"
+    ]
+  }
+}

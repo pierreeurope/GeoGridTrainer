@@ -1,0 +1,144 @@
+{
+  "grid_id": "526",
+  "rows": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.7",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Nile River system",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "Sudan",
+      "Uganda"
+    ],
+    "match_box_2": [
+      "Bolivia",
+      "Ecuador",
+      "Egypt",
+      "Guatemala",
+      "Kazakhstan",
+      "Mexico",
+      "Peru",
+      "Serbia",
+      "Spain",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Guinea",
+      "Jordan",
+      "Kuwait",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Rwanda",
+      "Serbia",
+      "Taiwan",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_4": [
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Kenya",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_5": [
+      "Bolivia",
+      "Croatia",
+      "Kazakhstan",
+      "Montenegro",
+      "Peru",
+      "Serbia",
+      "Spain",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "France",
+      "Guinea",
+      "Israel",
+      "Jordan",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_8": [
+      "Bhutan",
+      "Guatemala",
+      "Kiribati",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Bhutan",
+      "Guinea",
+      "Malawi",
+      "Rwanda",
+      "Tuvalu",
+      "Uganda",
+      "Zambia"
+    ]
+  }
+}

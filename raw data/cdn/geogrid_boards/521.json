@@ -1,0 +1,172 @@
+{
+  "grid_id": "521",
+  "rows": [
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.8",
+      "variantId": 8
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 1 million km²",
+      "variantId": 7
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belgium",
+      "Canada",
+      "France",
+      "Guadeloupe",
+      "Luxembourg",
+      "Martinique",
+      "Monaco",
+      "New Caledonia",
+      "Seychelles",
+      "Switzerland"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Australia",
+      "Canada",
+      "Kazakhstan",
+      "Russia",
+      "Saudi Arabia",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Kazakhstan",
+      "Malta",
+      "Montenegro",
+      "Montserrat",
+      "Serbia",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_4": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Gabon",
+      "Guinea",
+      "Madagascar",
+      "Mayotte",
+      "Niger",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Senegal",
+      "Seychelles",
+      "Togo"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Angola",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Niger",
+      "South Africa",
+      "Sudan"
+    ],
+    "match_box_6": [
+      "Egypt",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Spain",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Guinea",
+      "Niger",
+      "Republic of the Congo",
+      "Senegal",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chad",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Libya",
+      "Mali",
+      "Niger",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "South Africa",
+      "Sudan"
+    ],
+    "match_box_9": [
+      "Bolivia",
+      "Croatia",
+      "Kazakhstan",
+      "Montenegro",
+      "Peru",
+      "Serbia",
+      "Spain",
+      "Uganda",
+      "Zambia"
+    ]
+  }
+}

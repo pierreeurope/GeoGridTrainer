@@ -1,0 +1,144 @@
+{
+  "grid_id": "541",
+  "rows": [
+    {
+      "id": "top_20_rail_size",
+      "name": "Top 20 in rail transport network size",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Canada",
+      "China",
+      "Japan",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Canada",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Poland",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Austria",
+      "Bolivia",
+      "Germany",
+      "Lebanon",
+      "Somalia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Austria",
+      "Bahrain",
+      "Denmark",
+      "Finland",
+      "Georgia",
+      "Morocco",
+      "Nigeria",
+      "Somalia",
+      "Tunisia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Bahamas",
+      "Bahrain",
+      "Belgium",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Germany",
+      "Grenada",
+      "Iceland",
+      "Ireland",
+      "Uruguay"
+    ],
+    "match_box_7": [
+      "Bangladesh",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Malaysia",
+      "Singapore",
+      "Somalia",
+      "South Africa",
+      "Thailand",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Indonesia",
+      "Pakistan",
+      "Singapore",
+      "Somalia"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Mauritius",
+      "Oman",
+      "Seychelles",
+      "Singapore",
+      "United Arab Emirates"
+    ]
+  }
+}

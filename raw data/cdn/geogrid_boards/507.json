@@ -1,0 +1,175 @@
+{
+  "grid_id": "507",
+  "rows": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 30 Olympic medals",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "top_20_obesity_rate",
+      "name": "Top 20 in obesity rate",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 5 letters long",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "Colombia",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "New Zealand",
+      "Russia",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Belgium",
+      "Canada",
+      "Denmark",
+      "Jamaica",
+      "Japan",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Spain",
+      "Sweden",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "China",
+      "Egypt",
+      "India",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Spain"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Chile",
+      "Cook Islands",
+      "Ecuador",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Honduras",
+      "Japan",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "Northern Mariana Islands",
+      "Panama",
+      "Papua New Guinea",
+      "Philippines",
+      "Samoa",
+      "Solomon Islands",
+      "Taiwan",
+      "Timor-Leste",
+      "Tokelau",
+      "Tuvalu",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Antigua and Barbuda",
+      "Aruba",
+      "Australia",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Curaçao",
+      "Falkland Islands (Malvinas)",
+      "Greenland",
+      "Grenada",
+      "Heard Island and McDonald Islands",
+      "Japan",
+      "Jordan",
+      "Malaysia",
+      "Morocco",
+      "New Zealand",
+      "Niue",
+      "Papua New Guinea",
+      "Saint Kitts and Nevis",
+      "Sint Maarten",
+      "Solomon Islands",
+      "Tokelau",
+      "Tuvalu"
+    ],
+    "match_box_6": [
+      "Aruba",
+      "Chile",
+      "China",
+      "Ghana",
+      "Japan",
+      "Libya",
+      "Macau",
+      "Nauru",
+      "Nepal",
+      "Samoa",
+      "Syria"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "Niue",
+      "Samoa",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Bahamas",
+      "Belize",
+      "Cook Islands",
+      "Kuwait",
+      "Niue",
+      "Qatar",
+      "Saint Kitts and Nevis",
+      "Saudi Arabia",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu"
+    ],
+    "match_box_9": [
+      "Egypt",
+      "Nauru",
+      "Qatar",
+      "Samoa",
+      "Tonga"
+    ]
+  }
+}

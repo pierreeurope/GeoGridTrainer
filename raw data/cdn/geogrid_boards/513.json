@@ -1,0 +1,185 @@
+{
+  "grid_id": "513",
+  "rows": [
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Danube River system",
+      "variantId": 2
+    },
+    {
+      "id": "hosted_olympics",
+      "name": "Has hosted the Olympics",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Canada",
+      "Finland",
+      "Mexico",
+      "Netherlands",
+      "Sweden",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Bulgaria",
+      "Czechia",
+      "Hungary",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "China",
+      "Finland",
+      "France",
+      "Japan",
+      "Mexico",
+      "Netherlands",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Cambodia",
+      "Canada",
+      "Chile",
+      "Denmark",
+      "Ecuador",
+      "Eritrea",
+      "Ghana",
+      "Honduras",
+      "Hong Kong",
+      "Indonesia",
+      "Kuwait",
+      "Lebanon",
+      "Liberia",
+      "Mexico",
+      "Mongolia",
+      "Morocco",
+      "Nicaragua",
+      "North Korea",
+      "Oman",
+      "Sierra Leone",
+      "Somalia",
+      "Togo",
+      "United Arab Emirates",
+      "Uruguay",
+      "Venezuela",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Bulgaria",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Romania",
+      "Serbia",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Belize",
+      "Bhutan",
+      "Bosnia and Herzegovina",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "French Guiana",
+      "Gabon",
+      "Ghana",
+      "Guinea-Bissau",
+      "Guyana",
+      "Liechtenstein",
+      "Macau",
+      "Mexico",
+      "Moldova",
+      "Mongolia",
+      "Nicaragua",
+      "Paraguay",
+      "Suriname",
+      "Sweden",
+      "Togo",
+      "Uruguay",
+      "Venezuela",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Germany",
+      "Moldova",
+      "Montenegro",
+      "Romania",
+      "Serbia",
+      "Slovenia",
+      "Ukraine"
+    ],
+    "match_box_9": [
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Brazil",
+      "China",
+      "French Polynesia",
+      "Germany",
+      "Mexico",
+      "Spain",
+      "Sweden"
+    ]
+  }
+}

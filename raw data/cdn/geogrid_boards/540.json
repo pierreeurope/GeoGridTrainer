@@ -1,0 +1,196 @@
+{
+  "grid_id": "540",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "Arabic is an official language",
+      "variantId": 0
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "top_20_oil_production",
+      "name": "Top 20 in oil production",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Libya",
+      "Mauritania",
+      "Saudi Arabia",
+      "Somalia",
+      "Syria",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Comoros",
+      "Djibouti",
+      "Jordan",
+      "Libya",
+      "Mauritania",
+      "Morocco",
+      "Somalia",
+      "Syria",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Saudi Arabia",
+      "Somalia",
+      "Sudan",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Angola",
+      "Botswana",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Ethiopia",
+      "Ghana",
+      "Guinea",
+      "Kenya",
+      "Liberia",
+      "Libya",
+      "Mauritania",
+      "Namibia",
+      "Nigeria",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Somalia",
+      "South Africa",
+      "Tanzania",
+      "The Gambia",
+      "Tunisia",
+      "Uganda",
+      "Western Sahara",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Angola",
+      "Burkina Faso",
+      "Burundi",
+      "Cabo Verde",
+      "Cameroon",
+      "Central African Republic",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Ethiopia",
+      "Ghana",
+      "Guinea-Bissau",
+      "Liberia",
+      "Libya",
+      "Malawi",
+      "Mauritania",
+      "Morocco",
+      "Mozambique",
+      "Namibia",
+      "Rwanda",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Somalia",
+      "South Sudan",
+      "Togo",
+      "Tunisia",
+      "Western Sahara",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Botswana",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mozambique",
+      "Namibia",
+      "Niger",
+      "Nigeria",
+      "Somalia",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Angola",
+      "Canada",
+      "China",
+      "Libya",
+      "Nigeria",
+      "Russia",
+      "Saudi Arabia",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Angola",
+      "Brazil",
+      "China",
+      "Kazakhstan",
+      "Libya",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Angola",
+      "Brazil",
+      "Canada",
+      "China",
+      "Iran",
+      "Kazakhstan",
+      "Libya",
+      "Mexico",
+      "Nigeria",
+      "Russia",
+      "Saudi Arabia",
+      "United States of America",
+      "Venezuela"
+    ]
+  }
+}

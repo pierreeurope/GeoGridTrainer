@@ -1,0 +1,172 @@
+{
+  "grid_id": "542",
+  "rows": [
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $10k",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter O",
+      "variantId": 7
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 1-2 countries",
+      "variantId": 0
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Kosovo",
+      "Mexico",
+      "Monaco",
+      "Montenegro",
+      "San Marino"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Canada",
+      "Denmark",
+      "Estonia",
+      "Gibraltar",
+      "Greenland",
+      "Haiti",
+      "Ireland",
+      "Lebanon",
+      "Liechtenstein",
+      "Moldova",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "San Marino",
+      "United Kingdom",
+      "United States of America",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Mexico",
+      "New Zealand",
+      "Norfolk Island",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Burkina Faso",
+      "Curaçao",
+      "Democratic Republic of the Congo",
+      "Kosovo",
+      "Puerto Rico",
+      "Republic of the Congo",
+      "Trinidad and Tobago"
+    ],
+    "match_box_5": [
+      "Costa Rica",
+      "Estonia",
+      "French Guiana",
+      "Ireland",
+      "Lebanon",
+      "Macau",
+      "Mongolia",
+      "Nepal",
+      "Netherlands",
+      "Panama",
+      "Sierra Leone",
+      "United Kingdom",
+      "United States of America",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Chile",
+      "Colombia",
+      "Cook Islands",
+      "Costa Rica",
+      "Marshall Islands",
+      "Nauru",
+      "New Zealand",
+      "Panama",
+      "Russia",
+      "Samoa",
+      "Taiwan",
+      "Tokelau",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Burkina Faso",
+      "Democratic Republic of the Congo",
+      "Kosovo",
+      "Lesotho",
+      "Morocco",
+      "Republic of the Congo",
+      "Togo"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Belize",
+      "Bhutan",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Guinea-Bissau",
+      "Haiti",
+      "Lebanon",
+      "Lesotho",
+      "Moldova",
+      "Mongolia",
+      "Nepal",
+      "Nicaragua",
+      "Papua New Guinea",
+      "Sierra Leone",
+      "The Gambia",
+      "Timor-Leste",
+      "Tunisia",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Colombia",
+      "Ecuador",
+      "El Salvador",
+      "Federated States of Micronesia",
+      "Fiji",
+      "Guatemala",
+      "Honduras",
+      "Indonesia",
+      "Kiribati",
+      "Marshall Islands",
+      "Nicaragua",
+      "Papua New Guinea",
+      "Peru",
+      "Philippines",
+      "Samoa",
+      "Solomon Islands",
+      "Timor-Leste",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu"
+    ]
+  }
+}

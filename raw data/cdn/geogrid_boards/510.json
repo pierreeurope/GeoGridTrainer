@@ -1,0 +1,187 @@
+{
+  "grid_id": "510",
+  "rows": [
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "hosted_f1",
+      "name": "Has hosted a Formula 1 Grand Prix",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "Czechia",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Portugal",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Poland",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Canada",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Azerbaijan",
+      "Belgium",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "France",
+      "Germany",
+      "Morocco",
+      "Netherlands",
+      "Portugal",
+      "South Africa",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Falkland Islands (Malvinas)",
+      "Gibraltar",
+      "Guam",
+      "Jersey",
+      "Portugal",
+      "Saint Barthélemy",
+      "San Marino",
+      "Sint Maarten",
+      "Slovenia",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Andorra",
+      "Croatia",
+      "Gibraltar",
+      "Jersey",
+      "Moldova",
+      "Montenegro",
+      "Portugal",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Anguilla",
+      "Bermuda",
+      "Brazil",
+      "British Virgin Islands",
+      "Dominican Republic",
+      "Equatorial Guinea",
+      "Falkland Islands (Malvinas)",
+      "Gibraltar",
+      "Haiti",
+      "Jersey",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ]
+  }
+}

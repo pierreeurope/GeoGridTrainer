@@ -1,0 +1,189 @@
+{
+  "grid_id": "545",
+  "rows": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 100 Olympic medals",
+      "variantId": 5
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_wheat_production",
+      "name": "Top 20 in wheat production",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "Denmark",
+      "France",
+      "Germany",
+      "Netherlands",
+      "Norway",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "New Zealand",
+      "Switzerland",
+      "Türkiye",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Brazil",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Germany",
+      "Guinea",
+      "Republic of the Congo",
+      "Senegal",
+      "South Africa",
+      "Spain"
+    ],
+    "match_box_6": [
+      "Bolivia",
+      "Brazil",
+      "Cameroon",
+      "China",
+      "Côte d'Ivoire",
+      "India",
+      "Kazakhstan",
+      "Myanmar",
+      "South Africa",
+      "Switzerland",
+      "Tanzania",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "Iran",
+      "Kazakhstan",
+      "Pakistan",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "Denmark",
+      "Dominican Republic",
+      "France",
+      "Germany",
+      "Ghana",
+      "Guinea",
+      "Haiti",
+      "Liberia",
+      "Mauritania",
+      "Morocco",
+      "Nigeria",
+      "Republic of the Congo",
+      "Senegal",
+      "Sierra Leone",
+      "South Africa",
+      "Spain",
+      "Togo",
+      "United Kingdom",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Bolivia",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Dominican Republic",
+      "Ecuador",
+      "Kazakhstan",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Taiwan",
+      "Türkiye",
+      "United Arab Emirates",
+      "Vietnam"
+    ]
+  }
+}

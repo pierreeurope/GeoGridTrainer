@@ -1,0 +1,166 @@
+{
+  "grid_id": "523",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In North America",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 50",
+      "variantId": 3
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Chile",
+      "Costa Rica",
+      "Cuba",
+      "Panama",
+      "Puerto Rico"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Peru",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "Bosnia and Herzegovina",
+      "Burkina Faso",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Dominican Republic",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "North Korea",
+      "North Macedonia",
+      "Papua New Guinea",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "Solomon Islands",
+      "South Africa",
+      "South Sudan",
+      "Sri Lanka",
+      "The Gambia",
+      "Timor-Leste",
+      "Trinidad and Tobago"
+    ],
+    "match_box_5": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Costa Rica",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Burkina Faso",
+      "Democratic Republic of the Congo",
+      "Dominican Republic",
+      "Hong Kong",
+      "North Korea",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "Sierra Leone",
+      "South Africa",
+      "South Korea",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Cuba",
+      "Dominican Republic",
+      "El Salvador",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Trinidad and Tobago"
+    ],
+    "match_box_8": [
+      "Caribbean Netherlands",
+      "Costa Rica",
+      "Cuba",
+      "Panama",
+      "Puerto Rico",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Canada",
+      "Cuba",
+      "Dominican Republic",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Mexico",
+      "Nicaragua"
+    ]
+  }
+}

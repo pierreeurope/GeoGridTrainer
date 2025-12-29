@@ -1,0 +1,183 @@
+{
+  "grid_id": "538",
+  "rows": [
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.9",
+      "variantId": 10
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter B",
+      "variantId": 1
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 500k",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_x_or_more_colors",
+      "name": "Flag with 5+ colors",
+      "variantId": 0
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Belgium",
+      "Canada",
+      "Czechia",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hong Kong",
+      "Ireland",
+      "Israel",
+      "Italy",
+      "Japan",
+      "Macau",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Singapore",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Guam",
+      "San Marino",
+      "Spain"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Aruba",
+      "Australia",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bermuda",
+      "British Virgin Islands",
+      "Canada",
+      "Cayman Islands",
+      "Denmark",
+      "Faroe Islands",
+      "Gibraltar",
+      "Isle of Man",
+      "Japan",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Monaco",
+      "Netherlands",
+      "New Zealand",
+      "Norfolk Island",
+      "Norway",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Belarus",
+      "Belgium",
+      "Bolivia",
+      "Brazil",
+      "Bulgaria",
+      "Burkina Faso"
+    ],
+    "match_box_5": [
+      "Belize",
+      "Bermuda",
+      "Bolivia",
+      "British Indian Ocean Territory",
+      "British Virgin Islands"
+    ],
+    "match_box_6": [
+      "Bahamas",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Brunei"
+    ],
+    "match_box_7": [
+      "Canada",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "Nicaragua",
+      "Peru",
+      "Philippines",
+      "Russia",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "American Samoa",
+      "Ecuador",
+      "El Salvador",
+      "Fiji",
+      "Guam",
+      "Guatemala",
+      "Kiribati",
+      "Mexico",
+      "New Caledonia",
+      "Nicaragua",
+      "Northern Mariana Islands",
+      "Peru",
+      "Pitcairn Islands",
+      "Tuvalu"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Canada",
+      "Cook Islands",
+      "Japan",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu"
+    ]
+  }
+}

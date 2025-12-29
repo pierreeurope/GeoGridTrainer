@@ -1,0 +1,180 @@
+{
+  "grid_id": "511",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "size_under_x",
+      "name": "Area less than 10,000 km²",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 5-6 countries",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Luxembourg",
+      "Niger",
+      "Rwanda",
+      "Switzerland"
+    ],
+    "match_box_2": [
+      "Comoros",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Luxembourg",
+      "Martinique",
+      "Mayotte",
+      "Monaco",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Guinea",
+      "Republic of the Congo",
+      "Senegal",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Bahrain",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Hong Kong",
+      "Macau",
+      "Maldives",
+      "Palestine",
+      "Singapore"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Azerbaijan",
+      "India",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Laos",
+      "Myanmar",
+      "Syria",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Armenia",
+      "Belarus",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Chad",
+      "Czechia",
+      "Hungary",
+      "Kosovo",
+      "Laos",
+      "Luxembourg",
+      "Malawi",
+      "Mali",
+      "Mongolia",
+      "Nepal",
+      "Niger",
+      "Rwanda",
+      "Slovakia"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Cook Islands",
+      "Curaçao",
+      "Cyprus",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Grenada",
+      "Heard Island and McDonald Islands",
+      "Luxembourg",
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Marshall Islands",
+      "Martinique",
+      "Mayotte",
+      "Nauru",
+      "Puerto Rico",
+      "Réunion",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Tokelau",
+      "Trinidad and Tobago",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Belarus",
+      "Bulgaria",
+      "Burkina Faso",
+      "Cameroon",
+      "Chad",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Guinea",
+      "Italy",
+      "Laos",
+      "Republic of the Congo",
+      "Romania",
+      "Senegal",
+      "Slovakia"
+    ]
+  }
+}

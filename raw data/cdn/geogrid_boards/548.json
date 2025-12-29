@@ -1,0 +1,202 @@
+{
+  "grid_id": "548",
+  "rows": [
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 1,000 km",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "bottom_20_population_density",
+      "name": "Bottom 20 in population density",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 100 Olympic medals",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Bahamas",
+      "Cambodia",
+      "Canada",
+      "Denmark",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Greenland",
+      "Japan",
+      "Malaysia",
+      "Morocco",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Papua New Guinea",
+      "Saudi Arabia",
+      "Solomon Islands",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Thailand",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Canada",
+      "Falkland Islands (Malvinas)",
+      "Gabon",
+      "Greenland",
+      "Guyana",
+      "Iceland",
+      "Libya",
+      "Mauritania",
+      "Namibia",
+      "Russia",
+      "Western Sahara"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Cuba",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Poland",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Antigua and Barbuda",
+      "Aruba",
+      "Australia",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Curaçao",
+      "Falkland Islands (Malvinas)",
+      "Greenland",
+      "Grenada",
+      "Heard Island and McDonald Islands",
+      "Japan",
+      "Jordan",
+      "Malaysia",
+      "Morocco",
+      "New Zealand",
+      "Niue",
+      "Papua New Guinea",
+      "Saint Kitts and Nevis",
+      "Sint Maarten",
+      "Solomon Islands",
+      "Tokelau",
+      "Tuvalu"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Central African Republic",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Greenland",
+      "Kazakhstan",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Niue",
+      "Suriname",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Brazil",
+      "China",
+      "Cuba",
+      "Japan",
+      "New Zealand",
+      "Türkiye",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Australia",
+      "Bermuda",
+      "Cambodia",
+      "Canada",
+      "Grenada",
+      "Jamaica",
+      "Malaysia",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Saudi Arabia",
+      "Tonga"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Botswana",
+      "Canada",
+      "French Guiana",
+      "Guyana",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Russia",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Austria",
+      "Bulgaria",
+      "Canada",
+      "China",
+      "Cuba",
+      "Czechia",
+      "Kenya",
+      "Romania",
+      "Russia",
+      "South Korea",
+      "United States of America"
+    ]
+  }
+}

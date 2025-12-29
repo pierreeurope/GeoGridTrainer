@@ -1,0 +1,153 @@
+{
+  "grid_id": "505",
+  "rows": [
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 2,000 km",
+      "variantId": 3
+    },
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 5-6 countries",
+      "variantId": 4
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Ecuador",
+      "Mexico",
+      "Panama",
+      "Peru",
+      "Spain",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Colombia",
+      "Croatia",
+      "India",
+      "Italy",
+      "Libya",
+      "Mozambique",
+      "Myanmar",
+      "Peru",
+      "South Africa",
+      "Spain"
+    ],
+    "match_box_3": [
+      "Åland",
+      "Croatia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Norway",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Chile",
+      "Mexico",
+      "Spain",
+      "Uruguay"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Italy",
+      "South Africa",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Colombia",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Argentina",
+      "Burkina Faso",
+      "Cameroon",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Ethiopia",
+      "India",
+      "Iraq",
+      "Italy",
+      "Kazakhstan",
+      "Kenya",
+      "Mozambique",
+      "Myanmar",
+      "Peru",
+      "South Africa",
+      "Spain",
+      "Syria",
+      "Uganda",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "France",
+      "Germany",
+      "Italy",
+      "Kazakhstan",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ]
+  }
+}

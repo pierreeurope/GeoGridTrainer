@@ -1,0 +1,198 @@
+{
+  "grid_id": "530",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In North America",
+      "variantId": 3
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Canada",
+      "Cayman Islands",
+      "Dominica",
+      "Grenada",
+      "Jamaica",
+      "Montserrat",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_2": [
+      "Bahamas",
+      "Barbados",
+      "Caribbean Netherlands",
+      "Costa Rica",
+      "Cuba",
+      "Grenada",
+      "Jamaica",
+      "Martinique",
+      "Panama",
+      "Puerto Rico",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Belize",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "El Salvador",
+      "Greenland",
+      "Guadeloupe",
+      "Honduras",
+      "Martinique",
+      "Montserrat",
+      "Nicaragua",
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_4": [
+      "Botswana",
+      "Gabon",
+      "Ghana",
+      "Guyana",
+      "Malawi",
+      "Malaysia",
+      "Namibia",
+      "Nigeria",
+      "Pakistan",
+      "Rwanda",
+      "Togo"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Armenia",
+      "Belgium",
+      "Benin",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Burundi",
+      "Chile",
+      "Czechia",
+      "Gabon",
+      "Kosovo",
+      "Liberia",
+      "Lithuania",
+      "Luxembourg",
+      "Malawi",
+      "Mauritania",
+      "North Korea",
+      "Norway",
+      "Oman",
+      "Rwanda",
+      "Thailand"
+    ],
+    "match_box_6": [
+      "Angola",
+      "Benin",
+      "Bosnia and Herzegovina",
+      "Cambodia",
+      "Honduras",
+      "Liberia",
+      "Malawi",
+      "Mauritania",
+      "Oman",
+      "Palestine",
+      "Rwanda",
+      "Somalia",
+      "Western Sahara"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Botswana",
+      "Canada",
+      "India",
+      "Kenya",
+      "Mozambique",
+      "Namibia",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Angola",
+      "Australia",
+      "Botswana",
+      "Chad",
+      "Chile",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "France",
+      "Iran",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mongolia",
+      "Niger",
+      "Russia",
+      "Thailand",
+      "United States of America",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Bolivia",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Greenland",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Myanmar",
+      "Somalia",
+      "South Sudan",
+      "Yemen"
+    ]
+  }
+}

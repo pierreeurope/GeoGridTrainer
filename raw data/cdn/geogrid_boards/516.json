@@ -1,0 +1,162 @@
+{
+  "grid_id": "516",
+  "rows": [
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    },
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 50 Olympic medals",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Cyprus",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Turks and Caicos Islands",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Antigua and Barbuda",
+      "Bailiwick of Guernsey",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Falkland Islands (Malvinas)",
+      "Hong Kong",
+      "Isle of Man",
+      "New Zealand",
+      "Norfolk Island",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Solomon Islands",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Timor-Leste",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Jamaica",
+      "Japan",
+      "Kenya",
+      "New Zealand",
+      "South Africa",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Cyprus",
+      "Egypt",
+      "Israel",
+      "Lebanon",
+      "Palestine"
+    ],
+    "match_box_5": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Hong Kong",
+      "North Korea",
+      "Saudi Arabia",
+      "South Korea",
+      "Sri Lanka",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_6": [
+      "Azerbaijan",
+      "China",
+      "Iran",
+      "Japan",
+      "Kazakhstan",
+      "North Korea",
+      "Russia",
+      "South Korea",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Albania",
+      "Austria",
+      "Canada",
+      "Denmark",
+      "Finland",
+      "Greece",
+      "Greenland",
+      "Israel",
+      "Latvia",
+      "Monaco",
+      "Norfolk Island",
+      "North Macedonia",
+      "Poland",
+      "Sweden",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Federated States of Micronesia",
+      "Hong Kong",
+      "Norfolk Island",
+      "North Macedonia",
+      "Saudi Arabia"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Canada",
+      "China",
+      "Denmark",
+      "Finland",
+      "Greece",
+      "Japan",
+      "Kazakhstan",
+      "Poland",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ]
+  }
+}

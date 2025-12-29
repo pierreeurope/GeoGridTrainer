@@ -1,0 +1,199 @@
+{
+  "grid_id": "537",
+  "rows": [
+    {
+      "id": "top_20_oil_production",
+      "name": "Top 20 in oil production",
+      "variantId": null
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with red",
+      "variantId": 0
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Angola",
+      "Brazil",
+      "Canada",
+      "China",
+      "Iran",
+      "Iraq",
+      "Kazakhstan",
+      "Libya",
+      "Mexico",
+      "Nigeria",
+      "Norway",
+      "Oman",
+      "Russia",
+      "Saudi Arabia",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Angola",
+      "Canada",
+      "China",
+      "Iran",
+      "Iraq",
+      "Kuwait",
+      "Libya",
+      "Mexico",
+      "Norway",
+      "Oman",
+      "Qatar",
+      "Russia",
+      "United Arab Emirates",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Angola",
+      "Canada",
+      "China",
+      "Libya",
+      "Nigeria",
+      "Russia",
+      "Saudi Arabia",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "Finland",
+      "France",
+      "Germany",
+      "Greenland",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Aruba",
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Caribbean Netherlands",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "France",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Germany",
+      "Greenland",
+      "Guadeloupe",
+      "Hungary",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Martinique",
+      "Mayotte",
+      "Netherlands",
+      "New Caledonia",
+      "Poland",
+      "Portugal",
+      "Réunion",
+      "Romania",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Aruba",
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Estonia",
+      "French Guiana",
+      "French Polynesia",
+      "Latvia",
+      "Lithuania",
+      "Malta",
+      "New Caledonia",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Egypt",
+      "France",
+      "Italy",
+      "Libya",
+      "Morocco",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Algeria",
+      "Croatia",
+      "Egypt",
+      "France",
+      "Gibraltar",
+      "Italy",
+      "Lebanon",
+      "Libya",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "Morocco",
+      "Palestine",
+      "Slovenia",
+      "Spain",
+      "Syria",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Libya",
+      "Malta",
+      "Slovenia",
+      "Syria",
+      "Tunisia"
+    ]
+  }
+}

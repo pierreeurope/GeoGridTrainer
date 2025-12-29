@@ -1,0 +1,159 @@
+{
+  "grid_id": "520",
+  "rows": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 100 Olympic medals",
+      "variantId": 5
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "China",
+      "Japan",
+      "Russia",
+      "South Korea",
+      "Türkiye"
+    ],
+    "match_box_4": [
+      "Austria",
+      "China",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Austria",
+      "Azerbaijan",
+      "Bolivia",
+      "Burkina Faso",
+      "Ethiopia",
+      "Mali",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bangladesh",
+      "Cambodia",
+      "China",
+      "Egypt",
+      "Hong Kong",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Malaysia",
+      "North Korea",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Syria",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "Uzbekistan",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Canada",
+      "China",
+      "Greece",
+      "Hong Kong",
+      "Japan",
+      "Saudi Arabia",
+      "Türkiye"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "North Macedonia",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Bahrain",
+      "Bangladesh",
+      "China",
+      "Georgia",
+      "Hong Kong",
+      "Indonesia",
+      "Israel",
+      "Japan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Pakistan",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "Türkiye",
+      "Vietnam"
+    ]
+  }
+}

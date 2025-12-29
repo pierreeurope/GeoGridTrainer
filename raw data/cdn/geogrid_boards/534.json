@@ -1,0 +1,178 @@
+{
+  "grid_id": "534",
+  "rows": [
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Caribbean Sea",
+      "variantId": 6
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Aruba",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Martinique",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Sint Maarten",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Austria",
+      "Bahamas",
+      "Belgium",
+      "Bermuda",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Germany",
+      "Iceland",
+      "Ireland"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Canada",
+      "France",
+      "Greenland",
+      "Saudi Arabia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Antigua and Barbuda",
+      "Aruba",
+      "Cayman Islands",
+      "Cuba",
+      "Curaçao",
+      "Dominica",
+      "Grenada",
+      "Guadeloupe",
+      "Honduras",
+      "Panama",
+      "Puerto Rico",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Sint Maarten",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Bolivia",
+      "Burundi",
+      "Comoros",
+      "Croatia",
+      "Curaçao",
+      "Ecuador",
+      "Grenada",
+      "Liberia",
+      "Moldova",
+      "Morocco",
+      "Myanmar",
+      "Namibia",
+      "Senegal",
+      "Somalia",
+      "Tokelau",
+      "Tunisia",
+      "Türkiye",
+      "Uruguay",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Bolivia",
+      "Brazil",
+      "Central African Republic",
+      "Chile",
+      "China",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Greenland",
+      "Kazakhstan",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Mozambique",
+      "Myanmar",
+      "Namibia",
+      "Pakistan",
+      "Somalia",
+      "South Sudan",
+      "Türkiye",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Barbados",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Dominica",
+      "Grenada",
+      "Jamaica",
+      "Montserrat",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Bahamas",
+      "Bermuda",
+      "Grenada",
+      "Ireland",
+      "Jamaica",
+      "Lesotho",
+      "Namibia",
+      "Tokelau"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Botswana",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Mozambique",
+      "Namibia",
+      "Pakistan",
+      "South Africa",
+      "Tanzania",
+      "Thailand",
+      "Zambia"
+    ]
+  }
+}
