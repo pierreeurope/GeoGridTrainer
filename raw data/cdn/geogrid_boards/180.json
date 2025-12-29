@@ -1,0 +1,184 @@
+{
+  "grid_id": "180",
+  "rows": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "size_under_x",
+      "name": "Area less than 50,000 km²",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_population_density",
+      "name": "Top 20 in population density",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.65",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Jersey",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan"
+    ],
+    "match_box_2": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Indonesia",
+      "Madagascar",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Seychelles",
+      "Singapore",
+      "Sri Lanka",
+      "Timor-Leste"
+    ],
+    "match_box_3": [
+      "Comoros",
+      "Federated States of Micronesia",
+      "Haiti",
+      "Kiribati",
+      "Madagascar",
+      "Papua New Guinea",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "Timor-Leste",
+      "Vanuatu"
+    ],
+    "match_box_4": [
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mayotte",
+      "Taiwan"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iran",
+      "Madagascar",
+      "Maldives",
+      "Mayotte",
+      "Oman",
+      "Réunion",
+      "Thailand",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Angola",
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Guinea",
+      "Laos",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritania",
+      "Nepal",
+      "Niger",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Sierra Leone",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Gibraltar",
+      "Hong Kong",
+      "Jersey",
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Monaco",
+      "Palestine",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "Djibouti",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Seychelles",
+      "Singapore",
+      "Timor-Leste"
+    ],
+    "match_box_9": [
+      "Burundi",
+      "Comoros",
+      "Djibouti",
+      "Federated States of Micronesia",
+      "Guinea-Bissau",
+      "Haiti",
+      "Kiribati",
+      "Lesotho",
+      "Rwanda",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "The Gambia",
+      "Timor-Leste",
+      "Vanuatu"
+    ]
+  }
+}

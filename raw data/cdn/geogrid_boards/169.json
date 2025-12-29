@@ -1,0 +1,183 @@
+{
+  "grid_id": "169",
+  "rows": [
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 4 colors",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.65",
+      "variantId": 5
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 20 Olympic medals",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Andorra",
+      "Bolivia",
+      "Ethiopia",
+      "Moldova",
+      "Paraguay",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Laos",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Armenia",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Ethiopia",
+      "Hungary",
+      "Kazakhstan",
+      "Mongolia",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Brazil",
+      "Brunei",
+      "Egypt",
+      "Ethiopia",
+      "French Polynesia",
+      "Gibraltar",
+      "Jersey",
+      "Montenegro",
+      "Serbia",
+      "Slovenia",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Cambodia",
+      "Djibouti",
+      "Eritrea",
+      "Ethiopia",
+      "Ghana",
+      "Guinea-Bissau",
+      "Kenya",
+      "Lesotho",
+      "Myanmar",
+      "Papua New Guinea",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "Sudan",
+      "Syria",
+      "Tanzania",
+      "The Gambia",
+      "Timor-Leste",
+      "Togo",
+      "Vanuatu",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Azerbaijan",
+      "Brazil",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Kenya",
+      "Serbia",
+      "Slovenia",
+      "South Korea",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Albania",
+      "Egypt",
+      "Guatemala",
+      "Mexico",
+      "Oman",
+      "Paraguay",
+      "Slovenia"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Benin",
+      "Burundi",
+      "Cambodia",
+      "Djibouti",
+      "Eritrea",
+      "Ghana",
+      "Honduras",
+      "Liberia",
+      "Malawi",
+      "Mauritania",
+      "Nigeria",
+      "Pakistan",
+      "Rwanda",
+      "Somalia",
+      "Togo",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Armenia",
+      "Belgium",
+      "Czechia",
+      "Egypt",
+      "Finland",
+      "Georgia",
+      "Greece",
+      "Indonesia",
+      "Latvia",
+      "Lithuania",
+      "Mexico",
+      "Morocco",
+      "Nigeria",
+      "North Korea",
+      "Norway",
+      "Slovenia",
+      "Sweden",
+      "Thailand"
+    ]
+  }
+}

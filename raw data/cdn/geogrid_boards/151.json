@@ -1,0 +1,167 @@
+{
+  "grid_id": "151",
+  "rows": [
+    {
+      "name": "Area greater than 10,000 km²",
+      "id": "size_over_x",
+      "variantId": 2
+    },
+    {
+      "name": "Flag with white",
+      "id": "color_on_flag",
+      "variantId": 3
+    },
+    {
+      "name": "Ends with letter A",
+      "id": "ending_letter",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    },
+    {
+      "name": "Borders Russia",
+      "id": "borders_x",
+      "variantId": 0
+    },
+    {
+      "name": "Borders Brazil",
+      "id": "borders_x",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belgium",
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "France",
+      "French Guiana",
+      "Gabon",
+      "Guinea",
+      "Haiti",
+      "Madagascar",
+      "New Caledonia",
+      "Niger",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Switzerland",
+      "Togo",
+      "Vanuatu"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Belarus",
+      "China",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "North Korea",
+      "Norway",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "Burundi",
+      "Canada",
+      "Central African Republic",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Djibouti",
+      "Equatorial Guinea",
+      "France",
+      "French Polynesia",
+      "French Southern Territories",
+      "Haiti",
+      "Luxembourg",
+      "Madagascar",
+      "Mayotte",
+      "Monaco",
+      "Niger",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Switzerland",
+      "Togo",
+      "Wallis and Futuna"
+    ],
+    "match_box_5": [
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Latvia",
+      "North Korea",
+      "Norway",
+      "Poland"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Bolivia",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Canada",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "Guinea",
+      "New Caledonia",
+      "Rwanda",
+      "Wallis and Futuna"
+    ],
+    "match_box_8": [
+      "China",
+      "Estonia",
+      "Georgia",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "North Korea"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Venezuela"
+    ]
+  }
+}

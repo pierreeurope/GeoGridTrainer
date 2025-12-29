@@ -1,0 +1,191 @@
+{
+  "grid_id": "176",
+  "rows": [
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter S",
+      "variantId": 13
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 30 Olympic medals",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bhutan",
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Malawi",
+      "Nepal",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "South Sudan",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Ethiopia",
+      "Hungary",
+      "Kazakhstan",
+      "Mongolia",
+      "Slovakia",
+      "Switzerland",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Antigua and Barbuda",
+      "Bailiwick of Guernsey",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Falkland Islands (Malvinas)",
+      "Hong Kong",
+      "Isle of Man",
+      "New Zealand",
+      "Norfolk Island",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Solomon Islands",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Timor-Leste",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Saudi Arabia",
+      "Sierra Leone",
+      "Sint Maarten",
+      "Solomon Islands",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "South Korea",
+      "South Sudan",
+      "Sri Lanka",
+      "Svalbard and Jan Mayen"
+    ],
+    "match_box_6": [
+      "New Zealand",
+      "North Korea",
+      "South Africa",
+      "South Korea",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Botswana",
+      "Cocos Islands",
+      "Cook Islands",
+      "Cyprus",
+      "Grenada",
+      "Ireland",
+      "Jamaica",
+      "Macau",
+      "Malawi",
+      "Maldives",
+      "Malta",
+      "Nauru",
+      "Nepal",
+      "New Zealand",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Thailand",
+      "Tokelau",
+      "Trinidad and Tobago",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Senegal",
+      "Sierra Leone",
+      "Slovakia",
+      "Svalbard and Jan Mayen"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Belarus",
+      "Belgium",
+      "Bulgaria",
+      "Colombia",
+      "Cuba",
+      "Czechia",
+      "Estonia",
+      "France",
+      "Germany",
+      "Hungary",
+      "Iran",
+      "Ireland",
+      "Italy",
+      "Jamaica",
+      "Mongolia",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Norway",
+      "Romania",
+      "Russia",
+      "Slovakia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

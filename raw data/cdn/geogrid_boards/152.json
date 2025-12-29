@@ -1,0 +1,147 @@
+{
+  "grid_id": "152",
+  "rows": [
+    {
+      "name": "In Africa",
+      "id": "continent",
+      "variantId": 2
+    },
+    {
+      "name": "Coastline on the Mediterranean Sea",
+      "id": "coastline_on_x",
+      "variantId": 0
+    },
+    {
+      "name": "Arabic is an official language",
+      "id": "official_language",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with only 4 colors",
+      "id": "flag_has_x_colors",
+      "variantId": 2
+    },
+    {
+      "name": "Name is 7 letters long",
+      "id": "name_length",
+      "variantId": 3
+    },
+    {
+      "name": "Touches the Sahara Desert",
+      "id": "touches_sahara",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Cabo Verde",
+      "Djibouti",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Ghana",
+      "Guinea-Bissau",
+      "Kenya",
+      "Lesotho",
+      "Libya",
+      "Mauritius",
+      "São Tomé and Príncipe",
+      "Sudan",
+      "Tanzania",
+      "The Gambia",
+      "Togo",
+      "Western Sahara",
+      "Zambia"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Burundi",
+      "Comoros",
+      "Eritrea",
+      "Lesotho",
+      "Liberia",
+      "Mayotte",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Réunion",
+      "Senegal",
+      "Somalia",
+      "Tunisia"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Niger",
+      "Sudan",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_4": [
+      "Egypt",
+      "Gibraltar",
+      "Libya",
+      "Montenegro",
+      "Palestine",
+      "Slovenia",
+      "Syria"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Algeria",
+      "Croatia",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Egypt",
+      "Libya",
+      "Morocco",
+      "Tunisia"
+    ],
+    "match_box_7": [
+      "Djibouti",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Libya",
+      "Palestine",
+      "Sudan",
+      "Syria",
+      "United Arab Emirates",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Bahrain",
+      "Comoros",
+      "Lebanon",
+      "Morocco",
+      "Somalia",
+      "Tunisia"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Sudan",
+      "Tunisia",
+      "Western Sahara"
+    ]
+  }
+}

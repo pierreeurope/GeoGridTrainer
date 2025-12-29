@@ -1,0 +1,157 @@
+{
+  "grid_id": "158",
+  "rows": [
+    {
+      "name": "Borders Russia",
+      "id": "borders_x",
+      "variantId": 0
+    },
+    {
+      "name": "Was part of the USSR",
+      "id": "was_ussr",
+      "variantId": null
+    },
+    {
+      "name": "Borders Brazil",
+      "id": "borders_x",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "name": "Area less than 20 million km²",
+      "id": "size_under_x",
+      "variantId": 11
+    },
+    {
+      "name": "Flag with blue",
+      "id": "color_on_flag",
+      "variantId": 1
+    },
+    {
+      "name": "Population under 200 million",
+      "id": "population_under_x",
+      "variantId": 8
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Azerbaijan",
+      "Belarus",
+      "China",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "North Korea",
+      "Norway",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Estonia",
+      "Finland",
+      "Kazakhstan",
+      "Mongolia",
+      "North Korea",
+      "Norway",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "North Korea",
+      "Norway",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_4": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Armenia",
+      "Azerbaijan",
+      "Estonia",
+      "Kazakhstan",
+      "Moldova",
+      "Russia",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ]
+  }
+}

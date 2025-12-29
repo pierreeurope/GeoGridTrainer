@@ -1,0 +1,189 @@
+{
+  "grid_id": "173",
+  "rows": [
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "top_20_alcohol_consumption",
+      "name": "Top 20 in alcohol consumption per capita",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.75",
+      "variantId": 7
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Qatar",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Brazil",
+      "Germany",
+      "Mexico",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Uruguay"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Bulgaria",
+      "Czechia",
+      "Estonia",
+      "France",
+      "Germany",
+      "Ireland",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Poland",
+      "Romania",
+      "Slovenia"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "Czechia",
+      "Estonia",
+      "France",
+      "Georgia",
+      "Germany",
+      "Ireland",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Moldova",
+      "Poland",
+      "Romania",
+      "Seychelles",
+      "Slovenia"
+    ],
+    "match_box_6": [
+      "Andorra",
+      "Germany",
+      "Lithuania",
+      "Moldova",
+      "Romania",
+      "Seychelles",
+      "Slovenia",
+      "Uganda"
+    ],
+    "match_box_7": [
+      "Austria",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Argentina",
+      "Austria",
+      "Azerbaijan",
+      "Brazil",
+      "Chile",
+      "China",
+      "Colombia",
+      "Cuba",
+      "Egypt",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Malaysia",
+      "Mexico",
+      "North Korea",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Spain",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "Ukraine",
+      "United Arab Emirates",
+      "United Kingdom",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Burkina Faso",
+      "Cameroon",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Germany",
+      "Ghana",
+      "Malaysia",
+      "Mali",
+      "Mexico",
+      "Peru",
+      "Republic of the Congo",
+      "South Africa",
+      "Spain",
+      "Ukraine",
+      "Venezuela",
+      "Vietnam"
+    ]
+  }
+}

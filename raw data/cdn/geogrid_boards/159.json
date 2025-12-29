@@ -1,0 +1,154 @@
+{
+  "grid_id": "159",
+  "rows": [
+    {
+      "name": "Flag with only 3 colors",
+      "id": "flag_has_x_colors",
+      "variantId": 1
+    },
+    {
+      "name": "Coastline on the Mediterranean Sea",
+      "id": "coastline_on_x",
+      "variantId": 0
+    },
+    {
+      "name": "Starts with letter B",
+      "id": "starting_letter",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "name": "Borders 3-4 countries",
+      "id": "borders_x_to_y",
+      "variantId": 2
+    },
+    {
+      "name": "Name is 7 letters long",
+      "id": "name_length",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Armenia",
+      "Cocos Islands",
+      "Cyprus",
+      "Iran",
+      "Laos",
+      "Lebanon",
+      "Macau",
+      "Maldives",
+      "Mongolia",
+      "Nepal",
+      "North Korea",
+      "Oman",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "Yemen"
+    ],
+    "match_box_2": [
+      "Angola",
+      "Armenia",
+      "Belgium",
+      "Benin",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Burundi",
+      "Chile",
+      "Czechia",
+      "Gabon",
+      "Kosovo",
+      "Liberia",
+      "Lithuania",
+      "Luxembourg",
+      "Malawi",
+      "Mauritania",
+      "North Korea",
+      "Norway",
+      "Oman",
+      "Rwanda",
+      "Thailand"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Armenia",
+      "Bahamas",
+      "Belarus",
+      "Belgium",
+      "Burundi",
+      "Curaçao",
+      "Czechia",
+      "Estonia",
+      "Germany",
+      "Grenada",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Jamaica",
+      "Lebanon",
+      "Liberia",
+      "Mayotte",
+      "Réunion",
+      "Romania",
+      "Senegal",
+      "Tokelau"
+    ],
+    "match_box_4": [
+      "Cyprus",
+      "Egypt",
+      "Israel",
+      "Lebanon",
+      "Palestine",
+      "Syria",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Bosnia and Herzegovina",
+      "Egypt",
+      "Greece",
+      "Morocco",
+      "Palestine",
+      "Slovenia"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Algeria",
+      "Croatia",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Bahrain",
+      "Bangladesh",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei"
+    ],
+    "match_box_8": [
+      "Belgium",
+      "Benin",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Burundi"
+    ],
+    "match_box_9": [
+      "Bahamas",
+      "Bahrain",
+      "Belarus",
+      "Belgium",
+      "Bermuda",
+      "Bolivia",
+      "Burundi"
+    ]
+  }
+}

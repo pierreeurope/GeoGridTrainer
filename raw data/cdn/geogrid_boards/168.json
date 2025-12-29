@@ -1,0 +1,139 @@
+{
+  "grid_id": "168",
+  "rows": [
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 1,000 km",
+      "variantId": 2
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "official_language",
+      "name": "Arabic is an official language",
+      "variantId": 0
+    },
+    {
+      "id": "top_20_chocolate_consumption",
+      "name": "Top 20 in chocolate consumption per capita",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_or_more_colors",
+      "name": "Flag with 5+ colors",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Djibouti",
+      "Egypt",
+      "Mauritania",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Somalia",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Bosnia and Herzegovina",
+      "Georgia",
+      "Latvia",
+      "Luxembourg",
+      "Norway",
+      "Oman",
+      "Slovenia"
+    ],
+    "match_box_3": [
+      "Guatemala",
+      "Guyana",
+      "Mexico",
+      "Namibia",
+      "Paraguay",
+      "Zimbabwe"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Egypt",
+      "Libya",
+      "Mauritania",
+      "Morocco",
+      "Oman",
+      "Saudi Arabia",
+      "Somalia",
+      "Sudan",
+      "Tunisia",
+      "United Arab Emirates",
+      "Western Sahara",
+      "Yemen"
+    ],
+    "match_box_5": [
+      "Croatia",
+      "Denmark",
+      "Estonia",
+      "Iceland",
+      "Ireland",
+      "Norway",
+      "Oman",
+      "Portugal",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Croatia",
+      "Dominican Republic",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Guyana",
+      "Haiti",
+      "Kiribati",
+      "Mexico",
+      "Mozambique",
+      "Namibia",
+      "New Caledonia",
+      "Nicaragua",
+      "Northern Mariana Islands",
+      "Peru",
+      "Portugal",
+      "South Africa",
+      "Spain"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Bahrain",
+      "Comoros",
+      "Lebanon",
+      "Morocco",
+      "Somalia",
+      "Tunisia"
+    ],
+    "match_box_8": [
+      "Croatia",
+      "Denmark",
+      "Estonia",
+      "Georgia",
+      "Iceland",
+      "Ireland"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Bermuda",
+      "Bolivia",
+      "Comoros",
+      "Croatia",
+      "Ecuador",
+      "Moldova",
+      "Namibia"
+    ]
+  }
+}

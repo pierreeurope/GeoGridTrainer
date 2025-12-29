@@ -1,0 +1,181 @@
+{
+  "grid_id": "147",
+  "rows": [
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    },
+    {
+      "name": "Human Development Index over 0.65",
+      "id": "hdi_over_x",
+      "variantId": 5
+    },
+    {
+      "name": "Flag with red",
+      "id": "color_on_flag",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Starts with letter S",
+      "id": "starting_letter",
+      "variantId": 13
+    },
+    {
+      "name": "Borders China",
+      "id": "borders_x",
+      "variantId": 1
+    },
+    {
+      "name": "In South America",
+      "id": "continent",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Saudi Arabia",
+      "Senegal",
+      "Serbia",
+      "Slovakia",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Switzerland",
+      "Syria"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "India",
+      "Kazakhstan",
+      "Laos",
+      "Myanmar",
+      "Russia"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Peru"
+    ],
+    "match_box_4": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "San Marino",
+      "Saudi Arabia",
+      "Serbia",
+      "Seychelles",
+      "Singapore",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sri Lanka",
+      "Suriname",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Bhutan",
+      "Hong Kong",
+      "India",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Macau",
+      "Mongolia",
+      "North Korea",
+      "Russia",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Serbia",
+      "Seychelles",
+      "Singapore",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "South Korea",
+      "South Sudan",
+      "Spain",
+      "Sri Lanka",
+      "Sudan",
+      "Suriname",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "Syria"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Hong Kong",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Aruba",
+      "Bolivia",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Venezuela"
+    ]
+  }
+}

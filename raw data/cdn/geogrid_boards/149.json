@@ -1,0 +1,168 @@
+{
+  "grid_id": "149",
+  "rows": [
+    {
+      "name": "Top 20 in chocolate consumption per capita",
+      "id": "top_20_chocolate_consumption",
+      "variantId": null
+    },
+    {
+      "name": "Bottom 20 in population density",
+      "id": "bottom_20_population_density",
+      "variantId": null
+    },
+    {
+      "name": "Has nuclear weapons",
+      "id": "has_nuclear_weapons",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Capital city population under 5 million",
+      "id": "captial_population_under_x",
+      "variantId": 6
+    },
+    {
+      "name": "GDP per capita under $30k",
+      "id": "gdp_per_capita_under_x",
+      "variantId": 3
+    },
+    {
+      "name": "Flag with white",
+      "id": "color_on_flag",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Denmark",
+      "Estonia",
+      "Georgia",
+      "Iceland",
+      "Ireland",
+      "Israel",
+      "Kuwait",
+      "Latvia",
+      "Luxembourg",
+      "Malta",
+      "Mongolia",
+      "Montenegro",
+      "Norway",
+      "Oman",
+      "Portugal",
+      "Serbia",
+      "Slovenia"
+    ],
+    "match_box_2": [
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Georgia",
+      "Kuwait",
+      "Latvia",
+      "Mongolia",
+      "Montenegro",
+      "Oman",
+      "Serbia"
+    ],
+    "match_box_3": [
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Denmark",
+      "Estonia",
+      "Georgia",
+      "Iceland",
+      "Ireland",
+      "Israel",
+      "Kuwait",
+      "Latvia",
+      "Luxembourg",
+      "Malta",
+      "Norway",
+      "Oman",
+      "Portugal",
+      "Serbia",
+      "Slovenia",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Botswana",
+      "Canada",
+      "Central African Republic",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Gabon",
+      "Greenland",
+      "Guyana",
+      "Iceland",
+      "Kazakhstan",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Niue",
+      "Pitcairn Islands",
+      "Suriname",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Botswana",
+      "Central African Republic",
+      "French Guiana",
+      "Gabon",
+      "Kazakhstan",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Niue",
+      "Russia",
+      "Suriname"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Botswana",
+      "Canada",
+      "Central African Republic",
+      "Falkland Islands (Malvinas)",
+      "Greenland",
+      "Guyana",
+      "Iceland",
+      "Libya",
+      "Namibia",
+      "Niue",
+      "Pitcairn Islands",
+      "Russia",
+      "Suriname",
+      "Western Sahara"
+    ],
+    "match_box_7": [
+      "France",
+      "India",
+      "Israel",
+      "North Korea",
+      "Pakistan",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "China",
+      "India",
+      "North Korea",
+      "Pakistan",
+      "Russia"
+    ],
+    "match_box_9": [
+      "France",
+      "India",
+      "Israel",
+      "North Korea",
+      "Pakistan",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

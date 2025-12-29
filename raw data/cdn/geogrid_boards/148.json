@@ -1,0 +1,202 @@
+{
+  "grid_id": "148",
+  "rows": [
+    {
+      "name": "Flag with only 4 colors",
+      "id": "flag_has_x_colors",
+      "variantId": 2
+    },
+    {
+      "name": "Starts and ends with the same letter",
+      "id": "name_start_end_same_letter",
+      "variantId": null
+    },
+    {
+      "name": "Borders 1-2 countries",
+      "id": "borders_x_to_y",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 5 million",
+      "id": "population_over_x",
+      "variantId": 3
+    },
+    {
+      "name": "Is a monarchy",
+      "id": "is_monarchy",
+      "variantId": null
+    },
+    {
+      "name": "Has played in the Men's FIFA World Cup",
+      "id": "played_world_cup",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Argentina",
+      "Azerbaijan",
+      "Brazil",
+      "Cambodia",
+      "Egypt",
+      "Ethiopia",
+      "Ghana",
+      "India",
+      "Iraq",
+      "Jordan",
+      "Kenya",
+      "Libya",
+      "Malaysia",
+      "Myanmar",
+      "Palestine",
+      "Papua New Guinea",
+      "Philippines",
+      "Serbia",
+      "South Korea",
+      "Sri Lanka",
+      "Sudan",
+      "Syria",
+      "Tajikistan",
+      "Tanzania",
+      "Togo",
+      "Turkmenistan",
+      "United Arab Emirates",
+      "Uzbekistan",
+      "Venezuela",
+      "Zambia"
+    ],
+    "match_box_2": [
+      "Aruba",
+      "Bhutan",
+      "Brunei",
+      "Cambodia",
+      "Christmas Island",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Jordan",
+      "Kuwait",
+      "Lesotho",
+      "Liechtenstein",
+      "Malaysia",
+      "Niue",
+      "Papua New Guinea",
+      "Saint Lucia",
+      "Solomon Islands",
+      "United Arab Emirates",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Brazil",
+      "Egypt",
+      "Ghana",
+      "Iraq",
+      "Kuwait",
+      "Serbia",
+      "Slovenia",
+      "South Korea",
+      "Togo",
+      "United Arab Emirates",
+      "Uruguay"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Central African Republic"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Australia",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Austria"
+    ],
+    "match_box_7": [
+      "Bangladesh",
+      "Canada",
+      "Costa Rica",
+      "Denmark",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Haiti",
+      "Hong Kong",
+      "Ireland",
+      "Lebanon",
+      "Nepal",
+      "Netherlands",
+      "Nicaragua",
+      "Papua New Guinea",
+      "Portugal",
+      "Sierra Leone",
+      "Singapore",
+      "South Korea",
+      "Tunisia",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Bahrain",
+      "Belize",
+      "Bhutan",
+      "Brunei",
+      "Canada",
+      "Denmark",
+      "Eswatini",
+      "Gibraltar",
+      "Greenland",
+      "Kuwait",
+      "Lesotho",
+      "Liechtenstein",
+      "Monaco",
+      "Netherlands",
+      "Papua New Guinea",
+      "Qatar",
+      "Sint Maarten",
+      "United Arab Emirates",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Canada",
+      "Costa Rica",
+      "Denmark",
+      "Ecuador",
+      "El Salvador",
+      "Haiti",
+      "Ireland",
+      "Kuwait",
+      "Netherlands",
+      "Panama",
+      "Portugal",
+      "Qatar",
+      "South Korea",
+      "Tunisia",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Uruguay"
+    ]
+  }
+}

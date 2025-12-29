@@ -1,0 +1,202 @@
+{
+  "grid_id": "170",
+  "rows": [
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Heard Island and McDonald Islands",
+      "India",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Pakistan",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Canada",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Gibraltar",
+      "Guyana",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Singapore",
+      "Turks and Caicos Islands",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bangladesh",
+      "Christmas Island",
+      "Cocos Islands",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Pakistan",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Timor-Leste"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Guyana",
+      "Hong Kong",
+      "Ireland",
+      "Isle of Man",
+      "Japan",
+      "Jersey",
+      "Macau",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Singapore",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Anguilla",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Djibouti",
+      "Indonesia",
+      "Malaysia",
+      "Oman",
+      "Pakistan",
+      "Somalia",
+      "Thailand"
+    ],
+    "match_box_8": [
+      "Belgium",
+      "Czechia",
+      "Finland",
+      "Guyana",
+      "Lithuania",
+      "Luxembourg",
+      "Norway",
+      "Slovenia",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Egypt",
+      "Guatemala",
+      "Mexico",
+      "Paraguay",
+      "Zimbabwe"
+    ]
+  }
+}

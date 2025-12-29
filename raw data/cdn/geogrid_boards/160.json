@@ -1,0 +1,166 @@
+{
+  "grid_id": "160",
+  "rows": [
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter C",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    },
+    {
+      "id": "bottom_20_population_density",
+      "name": "Bottom 20 in population density",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Cabo Verde",
+      "Cameroon",
+      "Cayman Islands",
+      "Central African Republic",
+      "Chile",
+      "China",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "Cook Islands",
+      "Croatia",
+      "Cuba",
+      "Curaçao"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Bosnia and Herzegovina",
+      "Burundi",
+      "Chile",
+      "Djibouti",
+      "Ecuador",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Ghana",
+      "Guinea-Bissau",
+      "Honduras",
+      "Hong Kong",
+      "Liberia",
+      "Macau",
+      "Malawi",
+      "Moldova",
+      "Mongolia",
+      "Morocco",
+      "Nepal",
+      "North Korea",
+      "Panama",
+      "Paraguay",
+      "Somalia",
+      "Suriname",
+      "Togo",
+      "Tunisia",
+      "United States of America",
+      "Uruguay",
+      "Venezuela",
+      "Vietnam",
+      "Western Sahara"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Central African Republic",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Greenland",
+      "Kazakhstan",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Niue",
+      "Suriname",
+      "Western Sahara"
+    ],
+    "match_box_4": [
+      "Cabo Verde",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Côte d'Ivoire"
+    ],
+    "match_box_5": [
+      "Burundi",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "Gabon",
+      "Ghana",
+      "Guinea-Bissau",
+      "Liberia",
+      "Malawi",
+      "Morocco",
+      "Sierra Leone",
+      "Somalia",
+      "Togo",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "Botswana",
+      "Central African Republic",
+      "Gabon",
+      "Libya",
+      "Mauritania",
+      "Namibia",
+      "Western Sahara"
+    ],
+    "match_box_7": [
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Cyprus"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Bhutan",
+      "Eswatini",
+      "Guyana",
+      "Hong Kong",
+      "Indonesia",
+      "Macau",
+      "Malawi",
+      "Nepal",
+      "Suriname"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Botswana",
+      "Falkland Islands (Malvinas)",
+      "Guyana",
+      "Namibia",
+      "Niue",
+      "Pitcairn Islands",
+      "Suriname"
+    ]
+  }
+}

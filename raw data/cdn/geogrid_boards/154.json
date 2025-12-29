@@ -1,0 +1,158 @@
+{
+  "grid_id": "154",
+  "rows": [
+    {
+      "name": "Starts and ends with the same letter",
+      "id": "name_start_end_same_letter",
+      "variantId": null
+    },
+    {
+      "name": "Ends with letter E",
+      "id": "ending_letter",
+      "variantId": 3
+    },
+    {
+      "name": "Name is 5 letters long",
+      "id": "name_length",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    },
+    {
+      "name": "Has coastline, with length greater than 100 km",
+      "id": "coastline_length_over_x",
+      "variantId": 0
+    },
+    {
+      "name": "Drives on the left",
+      "id": "drives_left",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_2": [
+      "Albania",
+      "Algeria",
+      "American Samoa",
+      "Angola",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Aruba",
+      "Australia",
+      "Saint Kitts and Nevis",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_3": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Australia",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_4": [
+      "Cabo Verde",
+      "Guadeloupe",
+      "Martinique",
+      "Mayotte",
+      "Niue",
+      "São Tomé and Príncipe",
+      "Singapore",
+      "Timor-Leste"
+    ],
+    "match_box_5": [
+      "Belize",
+      "Cabo Verde",
+      "Chile",
+      "Côte d'Ivoire",
+      "France",
+      "Greece",
+      "Guadeloupe",
+      "Martinique",
+      "Mayotte",
+      "Mozambique",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "Singapore",
+      "Suriname",
+      "Timor-Leste",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Mozambique",
+      "Niue",
+      "Singapore",
+      "Suriname",
+      "Timor-Leste",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Aruba",
+      "Haiti",
+      "Japan",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Samoa",
+      "Tonga"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Aruba",
+      "Benin",
+      "Chile",
+      "China",
+      "Egypt",
+      "Gabon",
+      "Ghana",
+      "Haiti",
+      "India",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Libya",
+      "Malta",
+      "Palau",
+      "Qatar",
+      "Samoa",
+      "Spain",
+      "Sudan",
+      "Syria",
+      "Tonga",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "India",
+      "Japan",
+      "Kenya",
+      "Macau",
+      "Malta",
+      "Nauru",
+      "Nepal",
+      "Samoa",
+      "Tonga"
+    ]
+  }
+}

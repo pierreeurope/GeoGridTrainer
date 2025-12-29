@@ -1,0 +1,174 @@
+{
+  "grid_id": "162",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In North America",
+      "variantId": 3
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with black",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Canada",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Greenland",
+      "Grenada",
+      "Jamaica",
+      "Montserrat",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_2": [
+      "Belize",
+      "Bermuda",
+      "Canada",
+      "Caribbean Netherlands",
+      "Dominican Republic",
+      "Guadeloupe",
+      "Montserrat",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Dominica",
+      "Jamaica",
+      "Martinique",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Pierre and Miquelon",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_4": [
+      "Belgium",
+      "Cambodia",
+      "Luxembourg",
+      "Malaysia",
+      "Morocco",
+      "Norway",
+      "Oman",
+      "Sweden",
+      "Thailand"
+    ],
+    "match_box_5": [
+      "Benin",
+      "Burundi",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Palestine",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Angola",
+      "Belgium",
+      "Botswana",
+      "Cambodia",
+      "Egypt",
+      "Ghana",
+      "Guyana",
+      "Malawi",
+      "Palestine",
+      "Paraguay",
+      "Western Sahara",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Canada",
+      "Japan",
+      "Malaysia",
+      "Morocco",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Taiwan",
+      "Tanzania",
+      "Türkiye",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Angola",
+      "Egypt",
+      "Germany",
+      "Ghana",
+      "Iraq",
+      "Kenya",
+      "Malawi",
+      "Mozambique",
+      "South Africa",
+      "South Korea",
+      "Sudan",
+      "Syria",
+      "Tanzania",
+      "Uganda",
+      "Yemen",
+      "Zambia"
+    ]
+  }
+}

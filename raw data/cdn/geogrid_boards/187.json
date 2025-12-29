@@ -1,0 +1,203 @@
+{
+  "grid_id": "187",
+  "rows": [
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 5-6 countries",
+      "variantId": 4
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    },
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burkina Faso",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "North Macedonia",
+      "Republic of the Congo",
+      "South Africa",
+      "South Sudan"
+    ],
+    "match_box_2": [
+      "Bolivia",
+      "Central African Republic",
+      "Chad",
+      "Guinea",
+      "Laos",
+      "Libya",
+      "Myanmar",
+      "Republic of the Congo",
+      "South Sudan"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Burkina Faso",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Kazakhstan",
+      "Laos",
+      "North Macedonia",
+      "Slovakia",
+      "South Sudan",
+      "Switzerland",
+      "Uganda",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Costa Rica",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_5": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Laos",
+      "Liberia",
+      "Mayotte",
+      "Nepal",
+      "Svalbard and Jan Mayen",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Czechia",
+      "Laos",
+      "Luxembourg",
+      "Nepal",
+      "Slovakia"
+    ],
+    "match_box_7": [
+      "Antigua and Barbuda",
+      "Bailiwick of Guernsey",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Heard Island and McDonald Islands",
+      "Isle of Man",
+      "New Zealand",
+      "Norfolk Island",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Saudi Arabia",
+      "Sint Maarten",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Svalbard and Jan Mayen",
+      "Turks and Caicos Islands",
+      "United Arab Emirates",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Bailiwick of Guernsey",
+      "Belize",
+      "Bhutan",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Brunei",
+      "Cambodia",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Curaçao",
+      "Eswatini",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Heard Island and McDonald Islands",
+      "Isle of Man",
+      "Jersey",
+      "Lesotho",
+      "Monaco",
+      "Montserrat",
+      "Niue",
+      "Norfolk Island",
+      "Oman",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Svalbard and Jan Mayen",
+      "Tokelau",
+      "Turks and Caicos Islands",
+      "Tuvalu",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Bhutan",
+      "Eswatini",
+      "Lesotho",
+      "Liechtenstein",
+      "Luxembourg",
+      "Vatican City"
+    ]
+  }
+}

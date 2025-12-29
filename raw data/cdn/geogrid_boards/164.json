@@ -1,0 +1,171 @@
+{
+  "grid_id": "164",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    },
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    },
+    {
+      "id": "borders_x",
+      "name": "Borders Russia",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 100 km",
+      "variantId": 0
+    },
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $40k",
+      "variantId": 4
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Aruba",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Peru",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "China",
+      "Greece",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Portugal",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye"
+    ],
+    "match_box_6": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "China",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Latvia",
+      "Lithuania",
+      "North Korea",
+      "Norway",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Azerbaijan",
+      "Belarus",
+      "China",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "North Korea",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_9": [
+      "Azerbaijan",
+      "China",
+      "Kazakhstan",
+      "North Korea",
+      "Poland",
+      "Ukraine"
+    ]
+  }
+}

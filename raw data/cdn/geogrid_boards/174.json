@@ -1,0 +1,164 @@
+{
+  "grid_id": "174",
+  "rows": [
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $10k",
+      "variantId": 1
+    },
+    {
+      "id": "official_language",
+      "name": "Arabic is an official language",
+      "variantId": 0
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_sahara",
+      "name": "Touches the Sahara Desert",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Niger",
+      "Sudan",
+      "Tunisia"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Federated States of Micronesia",
+      "Georgia",
+      "Honduras",
+      "Indonesia",
+      "Kyrgyzstan",
+      "Morocco",
+      "Nigeria",
+      "North Macedonia",
+      "Pakistan",
+      "Somalia",
+      "Tonga",
+      "Tunisia",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Belize",
+      "Bhutan",
+      "Cambodia",
+      "Eswatini",
+      "Jamaica",
+      "Jordan",
+      "Lesotho",
+      "Montserrat",
+      "Morocco",
+      "Papua New Guinea",
+      "Saint Vincent and the Grenadines",
+      "Solomon Islands",
+      "Thailand",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Sudan",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Bahrain",
+      "Morocco",
+      "Qatar",
+      "Saudi Arabia",
+      "Somalia",
+      "Tunisia"
+    ],
+    "match_box_6": [
+      "Bahrain",
+      "Jordan",
+      "Kuwait",
+      "Morocco",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Niger",
+      "Sudan",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Canada",
+      "China",
+      "Finland",
+      "Greenland",
+      "Indonesia",
+      "Japan",
+      "Kazakhstan",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Poland",
+      "Saudi Arabia",
+      "Somalia",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Canada",
+      "Greenland",
+      "Japan",
+      "Malaysia",
+      "Morocco",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Papua New Guinea",
+      "Saudi Arabia",
+      "Spain",
+      "Sweden",
+      "Thailand",
+      "United Kingdom"
+    ]
+  }
+}

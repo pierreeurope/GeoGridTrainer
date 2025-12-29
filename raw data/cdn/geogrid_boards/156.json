@@ -1,0 +1,189 @@
+{
+  "grid_id": "156",
+  "rows": [
+    {
+      "name": "Has won the Men's FIFA World Cup",
+      "id": "won_world_cup",
+      "variantId": null
+    },
+    {
+      "name": "Borders 5-6 countries",
+      "id": "borders_x_to_y",
+      "variantId": 4
+    },
+    {
+      "name": "Member of the European Union",
+      "id": "in_eu",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "Has hosted the Men's FIFA World Cup",
+      "id": "hosted_world_cup",
+      "variantId": null
+    },
+    {
+      "name": "Flag with white",
+      "id": "color_on_flag",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Brazil",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Brazil",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom",
+      "Uruguay"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Brazil",
+      "France",
+      "Italy",
+      "United Kingdom",
+      "Uruguay"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Argentina",
+      "Azerbaijan",
+      "Bolivia",
+      "Burkina Faso",
+      "Cameroon",
+      "Chad",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Ethiopia",
+      "Guinea",
+      "India",
+      "Iraq",
+      "Israel",
+      "Italy",
+      "Jordan",
+      "Kazakhstan",
+      "Kenya",
+      "Mozambique",
+      "Myanmar",
+      "Peru",
+      "Romania",
+      "Senegal",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Syria",
+      "Uganda",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Italy",
+      "South Africa",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Argentina",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Bulgaria",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Croatia",
+      "India",
+      "Iraq",
+      "Israel",
+      "Italy",
+      "Jordan",
+      "Kenya",
+      "Laos",
+      "Libya",
+      "Mozambique",
+      "Myanmar",
+      "Peru",
+      "Slovakia",
+      "South Africa",
+      "South Sudan",
+      "Switzerland",
+      "Syria",
+      "Uganda",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_8": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Aruba",
+      "Austria",
+      "Bulgaria",
+      "Caribbean Netherlands",
+      "Croatia",
+      "Curaçao",
+      "Cyprus",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "French Polynesia",
+      "French Southern Territories",
+      "Greece",
+      "Greenland",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Latvia",
+      "Luxembourg",
+      "Malta",
+      "Mayotte",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Wallis and Futuna"
+    ]
+  }
+}

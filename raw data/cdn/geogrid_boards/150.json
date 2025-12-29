@@ -1,0 +1,173 @@
+{
+  "grid_id": "150",
+  "rows": [
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "name": "Population over 2 million",
+      "id": "population_over_x",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Top 20 in population density",
+      "id": "top_20_population_density",
+      "variantId": null
+    },
+    {
+      "name": "Top 20 in annual tourist arrivals",
+      "id": "top_20_tourism",
+      "variantId": null
+    },
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bahrain",
+      "Bangladesh",
+      "Hong Kong",
+      "Macau",
+      "Maldives",
+      "Palestine",
+      "Singapore",
+      "Taiwan"
+    ],
+    "match_box_2": [
+      "China",
+      "Hong Kong",
+      "Japan",
+      "Macau",
+      "Malaysia",
+      "Saudi Arabia",
+      "Thailand",
+      "Türkiye"
+    ],
+    "match_box_3": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Hong Kong",
+      "North Korea",
+      "Saudi Arabia",
+      "South Korea",
+      "Sri Lanka",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Hong Kong",
+      "Palestine",
+      "Singapore",
+      "Taiwan"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Bosnia and Herzegovina",
+      "Burkina Faso",
+      "Central African Republic",
+      "Costa Rica",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Dominican Republic",
+      "El Salvador",
+      "Guinea-Bissau",
+      "Hong Kong",
+      "New Zealand",
+      "North Korea",
+      "Papua New Guinea",
+      "Puerto Rico",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "Sierra Leone",
+      "South Africa",
+      "South Korea",
+      "South Sudan",
+      "Sri Lanka",
+      "The Gambia",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mayotte",
+      "Taiwan"
+    ],
+    "match_box_8": [
+      "France",
+      "Germany",
+      "Italy",
+      "Macau",
+      "Netherlands",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Bouvet Island",
+      "Burkina Faso",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Cook Islands",
+      "Costa Rica",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Faroe Islands",
+      "French Guiana",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Marshall Islands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Republic of the Congo",
+      "Saint Vincent and the Grenadines",
+      "Sierra Leone",
+      "Svalbard and Jan Mayen",
+      "Trinidad and Tobago",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ]
+  }
+}
