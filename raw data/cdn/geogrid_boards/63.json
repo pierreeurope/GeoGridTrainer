@@ -1,0 +1,153 @@
+{
+  "grid_id": "63",
+  "rows": [
+    {
+      "name": "Starts with letter E",
+      "id": "starting_letter",
+      "variantId": 4
+    },
+    {
+      "name": "Ends with letter E",
+      "id": "ending_letter",
+      "variantId": 3
+    },
+    {
+      "name": "Arabic is an official language",
+      "id": "official_language",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Area less than 1 million km²",
+      "id": "size_under_x",
+      "variantId": 7
+    },
+    {
+      "name": "In Africa",
+      "id": "continent",
+      "variantId": 2
+    },
+    {
+      "name": "Population under 10 million",
+      "id": "population_under_x",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Estonia",
+      "Eswatini"
+    ],
+    "match_box_2": [
+      "Egypt",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "Ethiopia"
+    ],
+    "match_box_3": [
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Estonia",
+      "Eswatini"
+    ],
+    "match_box_4": [
+      "Belize",
+      "Cabo Verde",
+      "Chile",
+      "Côte d'Ivoire",
+      "France",
+      "Greece",
+      "Guadeloupe",
+      "Martinique",
+      "Mayotte",
+      "Mozambique",
+      "Niue",
+      "Palestine",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "Singapore",
+      "Suriname",
+      "Timor-Leste",
+      "Türkiye",
+      "Ukraine",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "Cabo Verde",
+      "Côte d'Ivoire",
+      "Mayotte",
+      "Mozambique",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Belize",
+      "Cabo Verde",
+      "Guadeloupe",
+      "Martinique",
+      "Mayotte",
+      "Niue",
+      "Palestine",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "Singapore",
+      "Suriname",
+      "Timor-Leste"
+    ],
+    "match_box_7": [
+      "Bahrain",
+      "Comoros",
+      "Djibouti",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Somalia",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Western Sahara",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Chad",
+      "Comoros",
+      "Djibouti",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Somalia",
+      "Sudan",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Bahrain",
+      "Comoros",
+      "Djibouti",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Mauritania",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Western Sahara"
+    ]
+  }
+}

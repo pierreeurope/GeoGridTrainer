@@ -1,0 +1,167 @@
+{
+  "grid_id": "599",
+  "rows": [
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Danube River system",
+      "variantId": 2
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belgium",
+      "Benin",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "Gabon",
+      "Guadeloupe",
+      "Guinea",
+      "Haiti",
+      "New Caledonia",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Senegal",
+      "Seychelles",
+      "Togo",
+      "Vanuatu"
+    ],
+    "match_box_2": [
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Germany",
+      "Moldova",
+      "Montenegro",
+      "Romania",
+      "Serbia",
+      "Slovenia",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "American Samoa",
+      "Belize",
+      "Benin",
+      "Bermuda",
+      "Bolivia",
+      "Brazil",
+      "Cameroon",
+      "China",
+      "Cocos Islands",
+      "Dominican Republic",
+      "Ecuador",
+      "Guadeloupe",
+      "Guam",
+      "Kazakhstan",
+      "Liechtenstein",
+      "Montserrat",
+      "Myanmar",
+      "Nauru",
+      "Palau",
+      "Philippines",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "San Marino",
+      "Sint Maarten",
+      "South Africa",
+      "Tanzania",
+      "Turks and Caicos Islands",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Belgium",
+      "France",
+      "Luxembourg",
+      "Monaco",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Moldova",
+      "Montenegro",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Kazakhstan",
+      "Liechtenstein",
+      "Malta",
+      "San Marino",
+      "Switzerland",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Benin",
+      "Côte d'Ivoire",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Montenegro",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Benin",
+      "Bolivia",
+      "Côte d'Ivoire",
+      "Kazakhstan",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Switzerland"
+    ]
+  }
+}

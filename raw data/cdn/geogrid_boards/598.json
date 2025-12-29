@@ -1,0 +1,170 @@
+{
+  "grid_id": "598",
+  "rows": [
+    {
+      "id": "touches_sahara",
+      "name": "Touches the Sahara Desert",
+      "variantId": null
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.55",
+      "variantId": 3
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Niger",
+      "Sudan",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Chad",
+      "Mali",
+      "Mauritania",
+      "Niger"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Niger",
+      "Sudan"
+    ],
+    "match_box_4": [
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Eritrea",
+      "Ethiopia",
+      "Guinea",
+      "Guinea-Bissau",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Senegal",
+      "Sierra Leone",
+      "Somalia",
+      "South Sudan",
+      "Sudan",
+      "The Gambia"
+    ],
+    "match_box_5": [
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Guinea",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Senegal",
+      "Sierra Leone",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Madagascar",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Pakistan",
+      "Somalia",
+      "South Sudan",
+      "Sudan",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Comoros",
+      "Djibouti",
+      "Kenya",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Mozambique",
+      "Réunion",
+      "Seychelles",
+      "Somalia",
+      "South Africa",
+      "Tanzania"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iran",
+      "Madagascar",
+      "Maldives",
+      "Mayotte",
+      "Oman",
+      "Réunion",
+      "Thailand",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Australia",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Mozambique",
+      "Myanmar",
+      "Pakistan",
+      "Somalia",
+      "South Africa",
+      "Tanzania",
+      "Thailand",
+      "Yemen"
+    ]
+  }
+}

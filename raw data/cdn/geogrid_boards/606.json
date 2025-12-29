@@ -1,0 +1,163 @@
+{
+  "grid_id": "606",
+  "rows": [
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "Japan",
+      "Mexico",
+      "Qatar",
+      "Russia",
+      "South Korea",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Brazil",
+      "Canada",
+      "Mexico",
+      "Panama",
+      "Russia",
+      "Taiwan"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Panama",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Qatar",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Brunei",
+      "Canada",
+      "Cyprus",
+      "France",
+      "Guyana",
+      "Israel",
+      "Jersey",
+      "Monaco",
+      "Norway",
+      "Sweden",
+      "Taiwan"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Cyprus",
+      "Czechia",
+      "Estonia",
+      "Faroe Islands",
+      "France",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Lithuania",
+      "Luxembourg",
+      "Macau",
+      "Malta",
+      "Martinique",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Puerto Rico",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_8": [
+      "Cyprus",
+      "France",
+      "Greece",
+      "Latvia",
+      "Poland",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Åland",
+      "Belgium",
+      "Bulgaria",
+      "Caribbean Netherlands",
+      "Curaçao",
+      "Cyprus",
+      "Czechia",
+      "Estonia",
+      "France",
+      "French Guiana",
+      "French Southern Territories",
+      "Germany",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Martinique",
+      "Mayotte",
+      "Netherlands",
+      "Réunion",
+      "Romania",
+      "Slovakia",
+      "Wallis and Futuna"
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "grid_id": "602",
+  "rows": [
+    {
+      "id": "hosted_f1",
+      "name": "Has hosted a Formula 1 Grand Prix",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $40k",
+      "variantId": 4
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Canada",
+      "France",
+      "Germany",
+      "Italy",
+      "Monaco",
+      "Netherlands",
+      "Qatar",
+      "Singapore",
+      "Sweden",
+      "Switzerland",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Bahrain",
+      "Belgium",
+      "Canada",
+      "Japan",
+      "Malaysia",
+      "Monaco",
+      "Morocco",
+      "Netherlands",
+      "Qatar",
+      "Saudi Arabia",
+      "Spain",
+      "Sweden",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Azerbaijan",
+      "Belgium",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Åland",
+      "Australia",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Cyprus",
+      "Faroe Islands",
+      "France",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Luxembourg",
+      "Macau",
+      "Malta",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Cook Islands",
+      "Curaçao",
+      "Faroe Islands",
+      "Grenada",
+      "Heard Island and McDonald Islands",
+      "Jamaica",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Oman",
+      "Saint Vincent and the Grenadines",
+      "Svalbard and Jan Mayen",
+      "Thailand",
+      "Tokelau",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Belarus",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Czechia",
+      "Estonia",
+      "Faroe Islands",
+      "France",
+      "Germany",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Kosovo",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Netherlands",
+      "Norway",
+      "Romania",
+      "Russia",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Austria",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Singapore",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Cambodia",
+      "Japan",
+      "Jordan",
+      "Kuwait",
+      "Malaysia",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Azerbaijan",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ]
+  }
+}

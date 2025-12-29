@@ -1,0 +1,180 @@
+{
+  "grid_id": "597",
+  "rows": [
+    {
+      "id": "hosted_olympics",
+      "name": "Has hosted the Olympics",
+      "variantId": null
+    },
+    {
+      "id": "multiple_time_zones",
+      "name": "Has more than 1 time zone",
+      "variantId": null
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 5,000 km",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    },
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Bosnia and Herzegovina",
+      "Brazil",
+      "China",
+      "French Polynesia",
+      "Hong Kong",
+      "Japan",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "China",
+      "Finland",
+      "France",
+      "Japan",
+      "Mexico",
+      "Netherlands",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Brazil",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Greenland",
+      "Kiribati",
+      "Mongolia",
+      "New Zealand",
+      "Papua New Guinea",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Mexico",
+      "Russia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "France",
+      "Mexico",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Chile",
+      "China",
+      "Croatia",
+      "Cuba",
+      "French Polynesia",
+      "Greenland",
+      "Japan",
+      "Malaysia",
+      "Mozambique",
+      "Myanmar",
+      "New Zealand",
+      "Panama",
+      "Papua New Guinea",
+      "Philippines",
+      "Solomon Islands",
+      "Türkiye",
+      "United States of America",
+      "Venezuela",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "Finland",
+      "France",
+      "India",
+      "Iran",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Greece",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

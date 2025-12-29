@@ -1,0 +1,154 @@
+{
+  "grid_id": "60",
+  "rows": [
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "Ends with letter A",
+      "id": "ending_letter",
+      "variantId": 0
+    },
+    {
+      "name": "Borders 1-2 countries",
+      "id": "borders_x_to_y",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "More than 300 Olympic medals",
+      "id": "olympic_medals_over_x",
+      "variantId": 7
+    },
+    {
+      "name": "In North America",
+      "id": "continent",
+      "variantId": 3
+    },
+    {
+      "name": "Member of the European Union",
+      "id": "in_eu",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Korea",
+      "Sweden",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Canada",
+      "Dominican Republic",
+      "Guatemala",
+      "Haiti",
+      "Mexico",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Belgium",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Austria",
+      "Canada",
+      "China",
+      "Romania",
+      "Russia",
+      "South Korea",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bermuda",
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "Dominica",
+      "Grenada",
+      "Guatemala",
+      "Jamaica",
+      "Nicaragua",
+      "Panama",
+      "Saint Lucia",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Aruba",
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Estonia",
+      "French Guiana",
+      "French Polynesia",
+      "Latvia",
+      "Lithuania",
+      "Malta",
+      "New Caledonia",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Canada",
+      "Netherlands",
+      "South Korea",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Belize",
+      "Canada",
+      "Costa Rica",
+      "Dominican Republic",
+      "El Salvador",
+      "Greenland",
+      "Haiti",
+      "Nicaragua",
+      "Panama",
+      "Saint Martin",
+      "Sint Maarten",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Denmark",
+      "Estonia",
+      "French Guiana",
+      "Greenland",
+      "Ireland",
+      "Netherlands",
+      "Portugal",
+      "Saint Martin",
+      "Sint Maarten"
+    ]
+  }
+}

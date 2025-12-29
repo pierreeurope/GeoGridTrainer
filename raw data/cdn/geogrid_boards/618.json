@@ -1,0 +1,165 @@
+{
+  "grid_id": "618",
+  "rows": [
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    },
+    {
+      "id": "top_20_renewable_electricity_production",
+      "name": "Top 20 in renewable electricity production",
+      "variantId": null
+    },
+    {
+      "id": "air_pollution_over_x",
+      "name": "Air pollution over 20 μg/m³",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 4 colors",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Cabo Verde",
+      "Christmas Island",
+      "French Polynesia",
+      "Guinea-Bissau",
+      "Isle of Man",
+      "Papua New Guinea",
+      "Saint Lucia",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "South Korea",
+      "Sri Lanka",
+      "The Gambia",
+      "Timor-Leste",
+      "United Arab Emirates",
+      "Vatican City",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Burkina Faso",
+      "Cabo Verde",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Republic of the Congo",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Sierra Leone",
+      "South Africa",
+      "South Sudan",
+      "The Gambia",
+      "Western Sahara"
+    ],
+    "match_box_3": [
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "North Korea",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "Sri Lanka",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Bhutan",
+      "Ethiopia",
+      "Kenya",
+      "Lesotho",
+      "Tajikistan",
+      "Uruguay"
+    ],
+    "match_box_5": [
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Eswatini",
+      "Ethiopia",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Namibia",
+      "Sierra Leone",
+      "Uganda"
+    ],
+    "match_box_6": [
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Kenya",
+      "Malawi",
+      "Nepal",
+      "Uganda"
+    ],
+    "match_box_7": [
+      "Bhutan",
+      "India",
+      "Iraq",
+      "Kuwait",
+      "Lesotho",
+      "Myanmar",
+      "South Korea",
+      "Syria",
+      "United Arab Emirates",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Gabon",
+      "Lesotho",
+      "Nigeria",
+      "Republic of the Congo",
+      "Rwanda",
+      "South Africa",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Bangladesh",
+      "Cameroon",
+      "China",
+      "Democratic Republic of the Congo",
+      "India",
+      "Iraq",
+      "Myanmar",
+      "Nepal",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "Syria",
+      "Thailand",
+      "Türkiye",
+      "Uganda",
+      "Vietnam",
+      "Zambia"
+    ]
+  }
+}

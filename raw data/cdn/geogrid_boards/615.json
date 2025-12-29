@@ -1,0 +1,188 @@
+{
+  "grid_id": "615",
+  "rows": [
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    },
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 100k",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Guam",
+      "Guyana",
+      "Ireland",
+      "Italy",
+      "Lithuania",
+      "Macau",
+      "Martinique",
+      "New Caledonia",
+      "Norfolk Island",
+      "Portugal",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Saudi Arabia",
+      "Sint Maarten",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_2": [
+      "Bulgaria",
+      "Cyprus",
+      "French Guiana",
+      "Guadeloupe",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Lithuania",
+      "Martinique",
+      "New Caledonia",
+      "Portugal",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Spain"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Belarus",
+      "Bermuda",
+      "Bolivia",
+      "Burundi",
+      "Comoros",
+      "Ecuador",
+      "Eritrea",
+      "Grenada",
+      "Hungary",
+      "Ireland",
+      "Jamaica",
+      "Lebanon",
+      "Lesotho",
+      "Moldova",
+      "Morocco",
+      "Myanmar",
+      "Namibia",
+      "Nigeria",
+      "Senegal",
+      "Vanuatu"
+    ],
+    "match_box_4": [
+      "Cyprus",
+      "France",
+      "Gibraltar",
+      "Israel",
+      "Italy",
+      "Malta",
+      "Monaco",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Croatia",
+      "Cyprus",
+      "France",
+      "Greece",
+      "Italy",
+      "Malta",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Algeria",
+      "Croatia",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Andorra",
+      "Aruba",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Guam",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Malta",
+      "Martinique",
+      "Monaco",
+      "New Caledonia",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Aruba",
+      "French Southern Territories",
+      "Greenland",
+      "Guadeloupe",
+      "Malta",
+      "Martinique",
+      "Mayotte",
+      "New Caledonia",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Bermuda",
+      "Grenada",
+      "Mayotte",
+      "Vanuatu"
+    ]
+  }
+}

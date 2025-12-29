@@ -1,0 +1,164 @@
+{
+  "grid_id": "609",
+  "rows": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter N",
+      "variantId": 6
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Benin",
+      "Cameroon",
+      "Iran",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Pakistan",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Sweden",
+      "Taiwan",
+      "Tajikistan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Belgium",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Kazakhstan",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Angola",
+      "Belgium",
+      "Benin",
+      "Burundi",
+      "Cambodia",
+      "Chile",
+      "Czechia",
+      "Egypt",
+      "Ghana",
+      "Greece",
+      "Guatemala",
+      "Indonesia",
+      "Malawi",
+      "Malaysia",
+      "Mexico",
+      "Morocco",
+      "Nigeria",
+      "North Korea",
+      "Pakistan",
+      "Rwanda",
+      "Somalia",
+      "Sweden",
+      "Tajikistan",
+      "Thailand",
+      "Venezuela",
+      "Vietnam",
+      "Zimbabwe"
+    ],
+    "match_box_4": [
+      "Bhutan",
+      "Kazakhstan",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Andorra",
+      "Croatia",
+      "Jersey",
+      "Kazakhstan",
+      "Malta",
+      "Moldova",
+      "Montenegro",
+      "Serbia",
+      "Spain"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Egypt",
+      "Guatemala",
+      "Mexico",
+      "Paraguay",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Azerbaijan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_8": [
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Russia",
+      "Ukraine"
+    ],
+    "match_box_9": [
+      "Armenia",
+      "Georgia",
+      "Kyrgyzstan",
+      "Latvia",
+      "Lithuania",
+      "Tajikistan",
+      "Turkmenistan"
+    ]
+  }
+}

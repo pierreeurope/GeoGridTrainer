@@ -1,0 +1,192 @@
+{
+  "grid_id": "617",
+  "rows": [
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter S",
+      "variantId": 9
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "size_under_x",
+      "name": "Area less than 50,000 km²",
+      "variantId": 3
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bahamas",
+      "Barbados",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Cocos Islands",
+      "Comoros",
+      "Cook Islands",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Maldives",
+      "Marshall Islands",
+      "Mauritius",
+      "Netherlands",
+      "Northern Mariana Islands",
+      "Pitcairn Islands",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_2": [
+      "Bahamas",
+      "Barbados",
+      "British Virgin Islands",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Netherlands",
+      "Saint Vincent and the Grenadines",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_3": [
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Falkland Islands (Malvinas)",
+      "Pitcairn Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_4": [
+      "Albania",
+      "Armenia",
+      "Belgium",
+      "Burundi",
+      "Djibouti",
+      "Kosovo",
+      "Luxembourg",
+      "Palestine",
+      "Rwanda",
+      "Slovenia"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Belgium",
+      "Benin",
+      "Chile",
+      "Gabon",
+      "Ghana",
+      "Guyana",
+      "Liberia",
+      "Mauritania",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Norway",
+      "Suriname",
+      "Togo",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Egypt",
+      "Guatemala",
+      "Mexico",
+      "Oman",
+      "Paraguay",
+      "Slovenia"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Denmark",
+      "El Salvador",
+      "Haiti",
+      "Israel",
+      "Jamaica",
+      "Kuwait",
+      "Netherlands",
+      "Qatar",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Trinidad and Tobago"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "Chile",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Denmark",
+      "France",
+      "Germany",
+      "Ghana",
+      "Haiti",
+      "Iceland",
+      "Ireland",
+      "Morocco",
+      "Netherlands",
+      "Nigeria",
+      "Norway",
+      "Portugal",
+      "Senegal",
+      "South Africa",
+      "Spain",
+      "Togo",
+      "Trinidad and Tobago",
+      "United Kingdom",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_9": [
+      "Bolivia",
+      "Brazil",
+      "Croatia",
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Haiti",
+      "Iran",
+      "Mexico",
+      "Paraguay",
+      "Peru",
+      "Portugal",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ]
+  }
+}

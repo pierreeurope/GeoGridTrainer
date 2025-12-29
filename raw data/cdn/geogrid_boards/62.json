@@ -1,0 +1,156 @@
+{
+  "grid_id": "62",
+  "rows": [
+    {
+      "name": "Drives on the left",
+      "id": "drives_left",
+      "variantId": null
+    },
+    {
+      "name": "Capital city population under 200k",
+      "id": "captial_population_under_x",
+      "variantId": 2
+    },
+    {
+      "name": "Area less than 10,000 km²",
+      "id": "size_under_x",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "name": "Starts with letter S",
+      "id": "starting_letter",
+      "variantId": 13
+    },
+    {
+      "name": "In Africa",
+      "id": "continent",
+      "variantId": 2
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Seychelles",
+      "Singapore",
+      "Solomon Islands",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Suriname"
+    ],
+    "match_box_2": [
+      "Botswana",
+      "Eswatini",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Mauritius",
+      "Mozambique",
+      "Namibia",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "South Africa",
+      "Tanzania",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Bhutan",
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Malawi",
+      "Nepal",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_4": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "Sint Maarten",
+      "Solomon Islands",
+      "Sri Lanka",
+      "Svalbard and Jan Mayen",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Burundi",
+      "Cabo Verde",
+      "Comoros",
+      "Eswatini",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "The Gambia"
+    ],
+    "match_box_6": [
+      "Andorra",
+      "Bhutan",
+      "Burundi",
+      "Eswatini",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_7": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "Singapore",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_8": [
+      "Cabo Verde",
+      "Comoros",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Vatican City"
+    ]
+  }
+}

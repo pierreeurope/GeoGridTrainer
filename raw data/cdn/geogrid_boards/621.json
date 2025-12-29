@@ -1,0 +1,173 @@
+{
+  "grid_id": "621",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.65",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 4 colors",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "Fiji",
+      "Kiribati",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Ecuador",
+      "El Salvador",
+      "Honduras",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "New Zealand",
+      "Panama",
+      "Peru",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "French Polynesia",
+      "Niue",
+      "Papua New Guinea",
+      "Philippines",
+      "Solomon Islands",
+      "Timor-Leste",
+      "Vanuatu"
+    ],
+    "match_box_4": [
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Malawi",
+      "Rwanda",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Bolivia",
+      "Czechia",
+      "Hungary",
+      "Paraguay",
+      "Serbia",
+      "Slovakia",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bhutan",
+      "Ethiopia",
+      "Lesotho",
+      "Liechtenstein",
+      "Serbia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Vatican City",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Cameroon",
+      "Ghana",
+      "Kenya",
+      "Kiribati",
+      "Lesotho",
+      "Malawi",
+      "Mozambique",
+      "Nigeria",
+      "Pakistan",
+      "Papua New Guinea",
+      "Rwanda",
+      "Sierra Leone",
+      "Solomon Islands",
+      "Tanzania",
+      "The Gambia",
+      "Togo",
+      "Uganda",
+      "Vanuatu",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Ghana",
+      "Haiti",
+      "Honduras",
+      "Nigeria",
+      "Senegal",
+      "Togo"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Cambodia",
+      "Djibouti",
+      "Eritrea",
+      "Ethiopia",
+      "Ghana",
+      "Guinea-Bissau",
+      "Kenya",
+      "Lesotho",
+      "Myanmar",
+      "Papua New Guinea",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "Sudan",
+      "Syria",
+      "Tanzania",
+      "The Gambia",
+      "Timor-Leste",
+      "Togo",
+      "Vanuatu",
+      "Zambia"
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "grid_id": "631",
+  "rows": [
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    },
+    {
+      "id": "has_nuclear_weapons",
+      "name": "Has nuclear weapons",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Saudi Arabia",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_2": [
+      "Austria",
+      "China",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "China",
+      "Hong Kong",
+      "Japan",
+      "Macau",
+      "Malaysia",
+      "Türkiye",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "China",
+      "France",
+      "India",
+      "Israel",
+      "Russia"
+    ],
+    "match_box_5": [
+      "China",
+      "France",
+      "North Korea",
+      "Russia",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "China",
+      "Israel",
+      "North Korea",
+      "Pakistan",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Brazil",
+      "France",
+      "Guinea",
+      "Israel",
+      "Jordan",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Brazil",
+      "France",
+      "Jordan",
+      "Kuwait",
+      "Mexico",
+      "Russia",
+      "Taiwan"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Brazil",
+      "Israel",
+      "Jordan",
+      "Kosovo",
+      "Malawi",
+      "Panama",
+      "Rwanda",
+      "Taiwan",
+      "Tuvalu"
+    ]
+  }
+}

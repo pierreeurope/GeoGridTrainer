@@ -1,0 +1,155 @@
+{
+  "grid_id": "623",
+  "rows": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter B",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_population_density",
+      "name": "Top 20 in population density",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Jersey",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan"
+    ],
+    "match_box_2": [
+      "Bahrain",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Indonesia",
+      "Japan",
+      "Maldives",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "Timor-Leste"
+    ],
+    "match_box_3": [
+      "Cuba",
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Philippines",
+      "Singapore",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Bangladesh",
+      "Barbados",
+      "Bermuda"
+    ],
+    "match_box_5": [
+      "Bahrain",
+      "Bangladesh",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "Belarus",
+      "Belgium",
+      "Bolivia",
+      "Brazil",
+      "Bulgaria",
+      "Burkina Faso"
+    ],
+    "match_box_7": [
+      "Bahrain",
+      "Bangladesh",
+      "Hong Kong",
+      "Monaco",
+      "Singapore"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "Bangladesh",
+      "China",
+      "Georgia",
+      "Hong Kong",
+      "Indonesia",
+      "Israel",
+      "Japan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Pakistan",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Bangladesh",
+      "Canada",
+      "China",
+      "Denmark",
+      "Georgia",
+      "Honduras",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Poland",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "Somalia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ]
+  }
+}

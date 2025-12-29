@@ -1,0 +1,153 @@
+{
+  "grid_id": "626",
+  "rows": [
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Nile River system",
+      "variantId": 0
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter E",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 40",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bolivia",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "Dominican Republic",
+      "Ecuador",
+      "India",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "The Gambia",
+      "Türkiye"
+    ],
+    "match_box_2": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Morocco",
+      "Nigeria",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Africa",
+      "Tanzania",
+      "The Gambia"
+    ],
+    "match_box_3": [
+      "Belize",
+      "Benin",
+      "Bermuda",
+      "Bolivia",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "Cocos Islands",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "Ecuador",
+      "Guadeloupe",
+      "Guam",
+      "India",
+      "Montserrat",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Palestine",
+      "San Marino",
+      "Sint Maarten",
+      "South Africa",
+      "Tanzania",
+      "The Gambia",
+      "Turks and Caicos Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "South Sudan",
+      "Sudan",
+      "Uganda"
+    ],
+    "match_box_5": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_6": [
+      "Burundi",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_7": [
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "Ethiopia"
+    ],
+    "match_box_8": [
+      "Egypt",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "Ethiopia"
+    ],
+    "match_box_9": [
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Ethiopia"
+    ]
+  }
+}

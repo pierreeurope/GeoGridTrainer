@@ -1,0 +1,197 @@
+{
+  "grid_id": "620",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In North America",
+      "variantId": 3
+    },
+    {
+      "id": "size_under_x",
+      "name": "Area less than 10,000 km²",
+      "variantId": 2
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 200k",
+      "variantId": 2
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $40k",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Dominica",
+      "Guatemala",
+      "Mexico",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_2": [
+      "Bahamas",
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "El Salvador",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Puerto Rico",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Bermuda",
+      "Canada",
+      "Cayman Islands",
+      "Greenland",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "U.S. Virgin Islands",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_5": [
+      "Cyprus",
+      "Hong Kong",
+      "Macau",
+      "Maldives",
+      "Palestine",
+      "Puerto Rico",
+      "Singapore"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Faroe Islands",
+      "Gibraltar",
+      "Hong Kong",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Malta",
+      "Monaco",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Singapore",
+      "Sint Maarten",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_7": [
+      "Croatia",
+      "Malta",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Spain"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Åland",
+      "Austria",
+      "Belgium",
+      "Cyprus",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greenland",
+      "Ireland",
+      "Italy",
+      "Luxembourg",
+      "Malta",
+      "Netherlands",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Sweden"
+    ]
+  }
+}

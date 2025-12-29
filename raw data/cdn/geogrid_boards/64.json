@@ -1,0 +1,188 @@
+{
+  "grid_id": "64",
+  "rows": [
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    },
+    {
+      "name": "Spanish is an official language",
+      "id": "official_language",
+      "variantId": 1
+    },
+    {
+      "name": "Arabic is an official language",
+      "id": "official_language",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population under 10 million",
+      "id": "population_under_x",
+      "variantId": 4
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Area greater than 100,000 km²",
+      "id": "size_over_x",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Central African Republic",
+      "Comoros",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Gabon",
+      "Guadeloupe",
+      "Luxembourg",
+      "Martinique",
+      "Mayotte",
+      "Monaco",
+      "New Caledonia",
+      "Republic of the Congo",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Switzerland",
+      "Togo",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Rwanda",
+      "Saint Martin",
+      "Senegal",
+      "Togo"
+    ],
+    "match_box_3": [
+      "Benin",
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Gabon",
+      "Guinea",
+      "Madagascar",
+      "Niger",
+      "Republic of the Congo",
+      "Senegal"
+    ],
+    "match_box_4": [
+      "Costa Rica",
+      "Cuba",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Honduras",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Puerto Rico",
+      "Uruguay",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Cuba",
+      "Ecuador",
+      "Equatorial Guinea",
+      "Honduras",
+      "Panama",
+      "Paraguay",
+      "Puerto Rico",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Cuba",
+      "Ecuador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Paraguay",
+      "Peru",
+      "Spain",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_7": [
+      "Bahrain",
+      "Comoros",
+      "Djibouti",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Mauritania",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Comoros",
+      "Djibouti",
+      "Jordan",
+      "Libya",
+      "Mauritania",
+      "Morocco",
+      "Somalia",
+      "Syria",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Iraq",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Oman",
+      "Saudi Arabia",
+      "Somalia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "Western Sahara",
+      "Yemen"
+    ]
+  }
+}

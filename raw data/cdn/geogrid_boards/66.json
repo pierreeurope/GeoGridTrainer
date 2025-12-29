@@ -1,0 +1,154 @@
+{
+  "grid_id": "66",
+  "rows": [
+    {
+      "name": "Flag with only 2 colors",
+      "id": "flag_has_x_colors",
+      "variantId": 0
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Capital city population under 1 million",
+      "id": "captial_population_under_x",
+      "variantId": 4
+    },
+    {
+      "name": "Population over 100 million",
+      "id": "population_over_x",
+      "variantId": 7
+    },
+    {
+      "name": "Name is 6 letters long",
+      "id": "name_length",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Albania",
+      "Bahrain",
+      "Federated States of Micronesia",
+      "Finland",
+      "Greece",
+      "Greenland",
+      "Israel",
+      "Latvia",
+      "Monaco",
+      "Norfolk Island",
+      "North Macedonia",
+      "Palau",
+      "Sweden",
+      "Switzerland",
+      "Tonga",
+      "Tunisia"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "China",
+      "Indonesia",
+      "Japan",
+      "Nigeria",
+      "Pakistan",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Canada",
+      "Greece",
+      "Israel",
+      "Latvia",
+      "Monaco",
+      "Poland",
+      "Sweden"
+    ],
+    "match_box_4": [
+      "Bahrain",
+      "Bhutan",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "India",
+      "Israel",
+      "Laos",
+      "Macau",
+      "Malaysia",
+      "Maldives",
+      "Myanmar",
+      "Nepal",
+      "Palestine",
+      "Sri Lanka",
+      "Timor-Leste"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Bhutan",
+      "Brunei",
+      "Cyprus",
+      "Israel",
+      "Jordan",
+      "Kuwait",
+      "Russia",
+      "Taiwan"
+    ],
+    "match_box_7": [
+      "Bolivia",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Croatia",
+      "India",
+      "Israel",
+      "Laos",
+      "Montenegro",
+      "Myanmar",
+      "North Macedonia",
+      "Slovakia",
+      "South Africa",
+      "South Sudan",
+      "Switzerland",
+      "Tanzania"
+    ],
+    "match_box_8": [
+      "Brazil",
+      "China",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "India",
+      "Russia"
+    ],
+    "match_box_9": [
+      "Brazil",
+      "France",
+      "Guinea",
+      "Israel",
+      "Jordan",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ]
+  }
+}

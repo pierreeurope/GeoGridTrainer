@@ -1,0 +1,163 @@
+{
+  "grid_id": "67",
+  "rows": [
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Population over 20 million",
+      "id": "population_over_x",
+      "variantId": 5
+    },
+    {
+      "name": "Has played in the Men's FIFA World Cup",
+      "id": "played_world_cup",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Coastline on the Mediterranean Sea",
+      "id": "coastline_on_x",
+      "variantId": 0
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Name is 6 letters long",
+      "id": "name_length",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Albania",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "France",
+      "Gibraltar",
+      "Greece",
+      "Italy",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "Slovenia",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "France",
+      "Greece",
+      "Jersey",
+      "Kosovo",
+      "Latvia",
+      "Monaco",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Sweden"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Egypt",
+      "France",
+      "Italy",
+      "Morocco",
+      "Spain",
+      "Syria",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Ethiopia",
+      "Kazakhstan",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Malawi",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Taiwan",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Egypt",
+      "France",
+      "Greece",
+      "Israel",
+      "Italy",
+      "Morocco",
+      "Slovenia",
+      "Spain",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Bolivia",
+      "Czechia",
+      "Hungary",
+      "Paraguay",
+      "Serbia",
+      "Slovakia",
+      "Switzerland"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Greece",
+      "Israel",
+      "Kuwait",
+      "Mexico",
+      "Norway",
+      "Panama",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Sweden"
+    ]
+  }
+}

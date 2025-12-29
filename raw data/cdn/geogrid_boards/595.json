@@ -1,0 +1,202 @@
+{
+  "grid_id": "595",
+  "rows": [
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 50k",
+      "variantId": 0
+    },
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_2": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Isle of Man",
+      "Jersey",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "The Gambia",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_3": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Bermuda",
+      "Dominica",
+      "Federated States of Micronesia",
+      "Grenada",
+      "Malta",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Samoa",
+      "The Gambia",
+      "Tonga",
+      "Wallis and Futuna"
+    ],
+    "match_box_4": [
+      "Bolivia",
+      "Ecuador",
+      "Guatemala",
+      "Mexico",
+      "Paraguay",
+      "Peru",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Chile",
+      "Dominican Republic",
+      "Equatorial Guinea",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Nicaragua",
+      "Panama",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_7": [
+      "Egypt",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Spain",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Benin",
+      "Cabo Verde",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Gabon",
+      "Ghana",
+      "Guinea",
+      "Guinea-Bissau",
+      "Liberia",
+      "Mauritania",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Republic of the Congo",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Sierra Leone",
+      "South Africa",
+      "Spain",
+      "The Gambia",
+      "Togo",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Angola",
+      "Botswana",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Ethiopia",
+      "Ghana",
+      "Guinea",
+      "Kenya",
+      "Liberia",
+      "Libya",
+      "Mauritania",
+      "Namibia",
+      "Nigeria",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Somalia",
+      "South Africa",
+      "Tanzania",
+      "The Gambia",
+      "Tunisia",
+      "Uganda",
+      "Western Sahara",
+      "Zambia"
+    ]
+  }
+}

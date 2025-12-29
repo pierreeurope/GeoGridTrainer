@@ -1,0 +1,197 @@
+{
+  "grid_id": "627",
+  "rows": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter N",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Angola",
+      "Australia",
+      "Burkina Faso",
+      "Cameroon",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America",
+      "Yemen"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Ethiopia",
+      "Kazakhstan",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Cameroon",
+      "Iran",
+      "Japan",
+      "Kazakhstan",
+      "Pakistan",
+      "Spain",
+      "Sudan",
+      "Taiwan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Armenia",
+      "Cocos Islands",
+      "Cyprus",
+      "Iran",
+      "Laos",
+      "Lebanon",
+      "Macau",
+      "Maldives",
+      "Mongolia",
+      "Nepal",
+      "North Korea",
+      "Oman",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "Yemen"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bahrain",
+      "Bhutan",
+      "Iran",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Lebanon",
+      "Oman",
+      "Pakistan",
+      "Taiwan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Angola",
+      "Armenia",
+      "Belarus",
+      "Belgium",
+      "Benin",
+      "Botswana",
+      "Bulgaria",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Czechia",
+      "Kosovo",
+      "Laos",
+      "Lithuania",
+      "Mauritania",
+      "Republic of the Congo",
+      "Romania",
+      "Rwanda",
+      "Senegal",
+      "Slovakia",
+      "Thailand"
+    ],
+    "match_box_8": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Botswana",
+      "Czechia",
+      "Kazakhstan",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Laos",
+      "North Macedonia",
+      "Rwanda",
+      "Slovakia",
+      "Switzerland",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uganda",
+      "Uzbekistan",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Azerbaijan",
+      "Benin",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Pakistan",
+      "Spain",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ]
+  }
+}

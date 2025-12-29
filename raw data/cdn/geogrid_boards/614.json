@@ -1,0 +1,198 @@
+{
+  "grid_id": "614",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Cambodia",
+      "Christmas Island",
+      "Cocos Islands",
+      "Laos",
+      "Macau",
+      "Maldives",
+      "Myanmar",
+      "Nepal",
+      "Oman",
+      "Palestine",
+      "Timor-Leste",
+      "Yemen"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Kazakhstan",
+      "Laos",
+      "Malaysia",
+      "Mongolia",
+      "Myanmar",
+      "Oman",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Saudi Arabia",
+      "Thailand",
+      "Türkiye",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Armenia",
+      "Cambodia",
+      "Egypt",
+      "Georgia",
+      "Indonesia",
+      "Kyrgyzstan",
+      "Malaysia",
+      "North Korea",
+      "Oman",
+      "Pakistan",
+      "Palestine",
+      "Tajikistan",
+      "Thailand",
+      "Turkmenistan",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Federated States of Micronesia",
+      "Greenland",
+      "Honduras",
+      "Monaco",
+      "Norfolk Island",
+      "Palau",
+      "Somalia"
+    ],
+    "match_box_5": [
+      "Canada",
+      "China",
+      "Finland",
+      "Greenland",
+      "Indonesia",
+      "Japan",
+      "Kazakhstan",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Poland",
+      "Saudi Arabia",
+      "Somalia",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Finland",
+      "Georgia",
+      "Greece",
+      "Honduras",
+      "Indonesia",
+      "Kyrgyzstan",
+      "Latvia",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Somalia",
+      "Sweden",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Bhutan",
+      "Bolivia",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Laos",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Rwanda",
+      "South Sudan",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Belarus",
+      "Bolivia",
+      "Botswana",
+      "Burkina Faso",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Kazakhstan",
+      "Laos",
+      "Mali",
+      "Mongolia",
+      "Niger",
+      "Paraguay",
+      "South Sudan",
+      "Turkmenistan",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Armenia",
+      "Botswana",
+      "Burundi",
+      "Czechia",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Luxembourg",
+      "Malawi",
+      "Paraguay",
+      "Rwanda",
+      "Tajikistan",
+      "Turkmenistan",
+      "Zimbabwe"
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "grid_id": "630",
+  "rows": [
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $20k",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "population_under_x",
+      "name": "Population under 1 million",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_length",
+      "name": "Name is 8 letters long",
+      "variantId": 4
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Botswana",
+      "Bulgaria",
+      "Cambodia",
+      "Cameroon",
+      "Colombia",
+      "Djibouti",
+      "Dominica",
+      "Eswatini",
+      "Ethiopia",
+      "Honduras",
+      "Kiribati",
+      "Malaysia",
+      "Maldives",
+      "Mongolia",
+      "Pakistan",
+      "Paraguay",
+      "Sri Lanka",
+      "Suriname",
+      "Tanzania",
+      "Thailand",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Cocos Islands",
+      "Comoros",
+      "Djibouti",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Mozambique",
+      "Myanmar",
+      "Oman",
+      "Pakistan",
+      "Somalia",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Timor-Leste",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Albania",
+      "American Samoa",
+      "Belize",
+      "Bhutan",
+      "Bolivia",
+      "Dominica",
+      "Ecuador",
+      "Egypt",
+      "Fiji",
+      "Guatemala",
+      "Kazakhstan",
+      "Kiribati",
+      "Mexico",
+      "Moldova",
+      "Montenegro",
+      "Montserrat",
+      "Papua New Guinea",
+      "Paraguay",
+      "Peru",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Serbia",
+      "Sri Lanka",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_4": [
+      "Botswana",
+      "Cambodia",
+      "Djibouti",
+      "Honduras",
+      "Malaysia",
+      "Pakistan",
+      "Paraguay",
+      "Slovenia",
+      "Suriname",
+      "Thailand",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "Djibouti",
+      "Indonesia",
+      "Malaysia",
+      "Oman",
+      "Pakistan",
+      "Somalia",
+      "Thailand"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Egypt",
+      "Guatemala",
+      "Mexico",
+      "Paraguay",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Anguilla",
+      "Barbados",
+      "Dominica",
+      "Kiribati",
+      "Maldives",
+      "Suriname"
+    ],
+    "match_box_8": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Maldives",
+      "Mayotte",
+      "Réunion",
+      "Seychelles"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montenegro",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ]
+  }
+}

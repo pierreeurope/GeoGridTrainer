@@ -1,0 +1,161 @@
+{
+  "grid_id": "624",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with black",
+      "variantId": 5
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Bangladesh",
+      "Christmas Island",
+      "Cocos Islands",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Pakistan",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Timor-Leste"
+    ],
+    "match_box_2": [
+      "Kenya",
+      "Mozambique",
+      "South Africa",
+      "Tanzania",
+      "Timor-Leste",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Bangladesh",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Malaysia",
+      "Mozambique",
+      "Myanmar",
+      "Pakistan",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Bahamas",
+      "Bermuda",
+      "Grenada",
+      "Ireland",
+      "Jamaica",
+      "Lesotho",
+      "Namibia",
+      "Tokelau"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Bahamas",
+      "Belgium",
+      "Croatia",
+      "Estonia",
+      "Germany",
+      "Jamaica",
+      "Lesotho",
+      "Moldova",
+      "Vanuatu"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Germany",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Botswana",
+      "Kenya",
+      "Malaysia",
+      "Namibia",
+      "Pakistan",
+      "Thailand",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Angola",
+      "Belgium",
+      "Botswana",
+      "Croatia",
+      "Egypt",
+      "Jordan",
+      "Kenya",
+      "Syria",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Argentina",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Egypt",
+      "Kazakhstan",
+      "Kenya",
+      "Malaysia",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Spain",
+      "Syria",
+      "Thailand",
+      "Uganda",
+      "Uzbekistan"
+    ]
+  }
+}

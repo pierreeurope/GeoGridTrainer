@@ -1,0 +1,171 @@
+{
+  "grid_id": "625",
+  "rows": [
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "won_world_cup",
+      "name": "Has won the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_2": [
+      "Brazil",
+      "China",
+      "Germany",
+      "Mexico",
+      "Portugal",
+      "Spain"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Bulgaria",
+      "Croatia",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Kazakhstan",
+      "Montenegro",
+      "North Macedonia",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Spain",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Germany",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Lithuania",
+      "Moldova",
+      "Montenegro",
+      "North Macedonia",
+      "Portugal",
+      "Romania",
+      "San Marino",
+      "Serbia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Ukraine",
+      "Vatican City"
+    ],
+    "match_box_6": [
+      "Belarus",
+      "Finland",
+      "France",
+      "Germany",
+      "Italy",
+      "Kazakhstan",
+      "Norway",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Brazil",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Brazil",
+      "Germany",
+      "Spain",
+      "Uruguay"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Brazil",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom"
+    ]
+  }
+}

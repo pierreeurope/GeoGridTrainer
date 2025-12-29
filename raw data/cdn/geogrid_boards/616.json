@@ -1,0 +1,188 @@
+{
+  "grid_id": "616",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "Arabic is an official language",
+      "variantId": 0
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 30",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Comoros",
+      "Djibouti",
+      "Jordan",
+      "Libya",
+      "Mauritania",
+      "Morocco",
+      "Somalia",
+      "Syria",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Bahrain",
+      "Jordan",
+      "Kuwait",
+      "Morocco",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Bahrain",
+      "Djibouti",
+      "Jordan",
+      "Kuwait",
+      "Morocco",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "Tunisia",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Bangladesh",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "Djibouti",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Malaysia",
+      "Mozambique",
+      "Myanmar",
+      "Pakistan",
+      "Singapore",
+      "Somalia",
+      "Timor-Leste"
+    ],
+    "match_box_5": [
+      "Australia",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Heard Island and McDonald Islands",
+      "Malaysia",
+      "Oman",
+      "Thailand",
+      "United Arab Emirates"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Djibouti",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Oman",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Bolivia",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "China",
+      "Cocos Islands",
+      "Ecuador",
+      "Federated States of Micronesia",
+      "Guadeloupe",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "Nauru",
+      "New Zealand",
+      "Pakistan",
+      "Philippines",
+      "Sint Maarten",
+      "Taiwan",
+      "Türkiye",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Belize",
+      "Bermuda",
+      "Canada",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Liechtenstein",
+      "Montserrat",
+      "Morocco",
+      "New Zealand",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Benin",
+      "Brazil",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "Ecuador",
+      "India",
+      "Kazakhstan",
+      "Malta",
+      "Morocco",
+      "New Zealand",
+      "Philippines",
+      "South Africa",
+      "Switzerland",
+      "Taiwan",
+      "Tanzania",
+      "The Gambia",
+      "Trinidad and Tobago",
+      "Türkiye",
+      "United Arab Emirates",
+      "United States of America",
+      "Vietnam"
+    ]
+  }
+}

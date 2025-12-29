@@ -1,0 +1,169 @@
+{
+  "grid_id": "596",
+  "rows": [
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.6",
+      "variantId": 4
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_x_or_more_colors",
+      "name": "Flag with 5+ colors",
+      "variantId": 0
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Central African Republic",
+      "Haiti",
+      "Mozambique",
+      "South Sudan",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Guinea",
+      "Malawi",
+      "Rwanda",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_3": [
+      "Benin",
+      "Burundi",
+      "Djibouti",
+      "Eritrea",
+      "Liberia",
+      "Malawi",
+      "Mauritania",
+      "Nigeria",
+      "Pakistan",
+      "Rwanda",
+      "Somalia",
+      "Togo",
+      "Zimbabwe"
+    ],
+    "match_box_4": [
+      "Bolivia",
+      "Dominican Republic",
+      "Ecuador",
+      "Guatemala",
+      "Haiti",
+      "Mexico",
+      "Mozambique",
+      "Peru",
+      "Portugal",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Greece",
+      "Guinea",
+      "Israel",
+      "Jordan",
+      "Malawi",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Rwanda",
+      "Sweden",
+      "Taiwan",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Angola",
+      "Belgium",
+      "Benin",
+      "Burundi",
+      "Cambodia",
+      "Chile",
+      "Czechia",
+      "Egypt",
+      "Ghana",
+      "Greece",
+      "Guatemala",
+      "Indonesia",
+      "Malawi",
+      "Malaysia",
+      "Mexico",
+      "Morocco",
+      "Nigeria",
+      "North Korea",
+      "Pakistan",
+      "Rwanda",
+      "Somalia",
+      "Sweden",
+      "Tajikistan",
+      "Thailand",
+      "Venezuela",
+      "Vietnam",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Bolivia",
+      "Central African Republic",
+      "Eswatini",
+      "Moldova",
+      "Paraguay",
+      "San Marino",
+      "South Sudan",
+      "Uganda",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Bhutan",
+      "Kosovo",
+      "Malawi",
+      "Rwanda",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Armenia",
+      "Botswana",
+      "Burundi",
+      "Czechia",
+      "Kosovo",
+      "Kyrgyzstan",
+      "Luxembourg",
+      "Malawi",
+      "Paraguay",
+      "Rwanda",
+      "Tajikistan",
+      "Turkmenistan",
+      "Zimbabwe"
+    ]
+  }
+}

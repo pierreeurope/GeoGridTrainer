@@ -1,0 +1,188 @@
+{
+  "grid_id": "608",
+  "rows": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 1-2 countries",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Democratic Republic of the Congo",
+      "Philippines",
+      "South Africa",
+      "South Korea",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Brazil",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Italy",
+      "Kenya",
+      "Mexico",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_3": [
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Nigeria",
+      "South Africa",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Burkina Faso",
+      "Central African Republic",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Liechtenstein",
+      "Luxembourg",
+      "North Macedonia",
+      "South Sudan",
+      "Switzerland",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Ethiopia",
+      "Hungary",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Moldova",
+      "Niger",
+      "Paraguay",
+      "Rwanda",
+      "San Marino",
+      "South Sudan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_7": [
+      "Bangladesh",
+      "Dominican Republic",
+      "El Salvador",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Guinea-Bissau",
+      "Liechtenstein",
+      "Netherlands",
+      "Papua New Guinea",
+      "Saint Martin",
+      "Sierra Leone",
+      "Sint Maarten",
+      "South Korea",
+      "Timor-Leste",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Belize",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Guinea-Bissau",
+      "Haiti",
+      "Ireland",
+      "Kuwait",
+      "Lebanon",
+      "Lesotho",
+      "Macau",
+      "Moldova",
+      "Nicaragua",
+      "Portugal",
+      "Saint Martin",
+      "San Marino",
+      "Sierra Leone",
+      "Sint Maarten",
+      "The Gambia",
+      "United Arab Emirates"
+    ],
+    "match_box_9": [
+      "Equatorial Guinea",
+      "Eswatini",
+      "Guinea-Bissau",
+      "Lesotho",
+      "Sierra Leone",
+      "The Gambia",
+      "Tunisia"
+    ]
+  }
+}

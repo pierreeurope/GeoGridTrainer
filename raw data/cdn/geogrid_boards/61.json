@@ -1,0 +1,172 @@
+{
+  "grid_id": "61",
+  "rows": [
+    {
+      "name": "Borders China",
+      "id": "borders_x",
+      "variantId": 1
+    },
+    {
+      "name": "Starts with letter M",
+      "id": "starting_letter",
+      "variantId": 10
+    },
+    {
+      "name": "In South America",
+      "id": "continent",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population under 10 million",
+      "id": "population_under_x",
+      "variantId": 4
+    },
+    {
+      "name": "Area less than 1 million km²",
+      "id": "size_under_x",
+      "variantId": 7
+    },
+    {
+      "name": "Human Development Index over 0.65",
+      "id": "hdi_over_x",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bhutan",
+      "Hong Kong",
+      "Kyrgyzstan",
+      "Laos",
+      "Macau",
+      "Mongolia"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Bhutan",
+      "Hong Kong",
+      "Kyrgyzstan",
+      "Laos",
+      "Macau",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Pakistan",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Bhutan",
+      "Hong Kong",
+      "India",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Macau",
+      "Mongolia",
+      "North Korea",
+      "Russia",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Marshall Islands",
+      "Martinique",
+      "Mauritania",
+      "Mauritius",
+      "Mayotte",
+      "Moldova",
+      "Monaco",
+      "Mongolia",
+      "Montenegro",
+      "Montserrat"
+    ],
+    "match_box_5": [
+      "Macau",
+      "Madagascar",
+      "Malawi",
+      "Malaysia",
+      "Maldives",
+      "Malta",
+      "Marshall Islands",
+      "Martinique",
+      "Mauritius",
+      "Mayotte",
+      "Moldova",
+      "Monaco",
+      "Montenegro",
+      "Montserrat",
+      "Morocco",
+      "Mozambique",
+      "Myanmar"
+    ],
+    "match_box_6": [
+      "Macau",
+      "Malaysia",
+      "Maldives",
+      "Malta",
+      "Marshall Islands",
+      "Martinique",
+      "Mauritius",
+      "Mayotte",
+      "Mexico",
+      "Moldova",
+      "Monaco",
+      "Mongolia",
+      "Montenegro",
+      "Montserrat",
+      "Morocco"
+    ],
+    "match_box_7": [
+      "Aruba",
+      "Caribbean Netherlands",
+      "Curaçao",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay"
+    ],
+    "match_box_8": [
+      "Aruba",
+      "Caribbean Netherlands",
+      "Chile",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay",
+      "Venezuela"
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "grid_id": "612",
+  "rows": [
+    {
+      "id": "population_under_x",
+      "name": "Population under 2 million",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $40k",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Belize",
+      "Bhutan",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Estonia",
+      "Eswatini",
+      "French Guiana",
+      "Guyana",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Suriname",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Belize",
+      "Bhutan",
+      "Brunei",
+      "Cyprus",
+      "Guyana",
+      "Jersey",
+      "Kosovo",
+      "Latvia",
+      "Monaco",
+      "Tuvalu"
+    ],
+    "match_box_3": [
+      "Bahrain",
+      "Federated States of Micronesia",
+      "Greenland",
+      "Latvia",
+      "Monaco",
+      "Norfolk Island",
+      "North Macedonia",
+      "Palau",
+      "Tonga"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Bhutan",
+      "Cambodia",
+      "Hong Kong",
+      "Indonesia",
+      "Kuwait",
+      "Lebanon",
+      "Macau",
+      "Mongolia",
+      "Nepal",
+      "North Korea",
+      "Oman",
+      "Palestine",
+      "United Arab Emirates",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_5": [
+      "Bhutan",
+      "Brunei",
+      "Cyprus",
+      "Israel",
+      "Jordan",
+      "Kuwait",
+      "Russia",
+      "Taiwan"
+    ],
+    "match_box_6": [
+      "Bahrain",
+      "Bangladesh",
+      "China",
+      "Georgia",
+      "Hong Kong",
+      "Indonesia",
+      "Israel",
+      "Japan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Pakistan",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Canada",
+      "Denmark",
+      "Finland",
+      "Hong Kong",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Netherlands",
+      "Norway",
+      "Sweden",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Canada",
+      "Cyprus",
+      "France",
+      "Israel",
+      "Jersey",
+      "Monaco",
+      "Norway",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Canada",
+      "Denmark",
+      "Finland",
+      "Greenland",
+      "Hong Kong",
+      "Israel",
+      "Monaco",
+      "Norfolk Island",
+      "Qatar",
+      "Singapore",
+      "Sweden",
+      "Switzerland"
+    ]
+  }
+}

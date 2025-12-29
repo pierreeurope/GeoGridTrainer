@@ -1,0 +1,151 @@
+{
+  "grid_id": "619",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Mayotte",
+      "Réunion",
+      "South Africa",
+      "Thailand"
+    ],
+    "match_box_2": [
+      "Australia",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Mozambique",
+      "Myanmar",
+      "Pakistan",
+      "Somalia",
+      "South Africa",
+      "Tanzania",
+      "Thailand",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Bangladesh",
+      "India",
+      "Iran",
+      "Pakistan",
+      "South Africa",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Andorra",
+      "Austria",
+      "Belgium",
+      "Bermuda",
+      "Curaçao",
+      "Denmark",
+      "Ecuador",
+      "Estonia",
+      "Finland",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Mayotte",
+      "Réunion",
+      "Uruguay"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Bolivia",
+      "Myanmar",
+      "Namibia",
+      "Nigeria",
+      "Somalia",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Armenia",
+      "Belarus",
+      "Belgium",
+      "Czechia",
+      "Finland",
+      "Hungary",
+      "Romania",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Chile",
+      "Finland",
+      "Greece",
+      "Luxembourg",
+      "Mexico",
+      "Norway",
+      "Slovenia",
+      "Sweden",
+      "Thailand"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Botswana",
+      "Chile",
+      "Egypt",
+      "Indonesia",
+      "Mauritania",
+      "Mexico",
+      "Namibia",
+      "Nigeria",
+      "Pakistan",
+      "Somalia",
+      "Thailand",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Armenia",
+      "Belgium",
+      "Czechia",
+      "Egypt",
+      "Finland",
+      "Mexico",
+      "Pakistan",
+      "Slovenia",
+      "Sweden"
+    ]
+  }
+}
