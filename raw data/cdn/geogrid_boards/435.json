@@ -1,0 +1,163 @@
+{
+  "grid_id": "435",
+  "rows": [
+    {
+      "id": "top_20_renewable_electricity_production",
+      "name": "Top 20 in renewable electricity production",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 20 Olympic medals",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_under_x",
+      "name": "Population under 5 million",
+      "variantId": 3
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 4 colors",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Albania",
+      "Bhutan",
+      "Eswatini",
+      "Iceland",
+      "Lesotho",
+      "Namibia",
+      "Uruguay"
+    ],
+    "match_box_2": [
+      "Bhutan",
+      "Central African Republic",
+      "Eswatini",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Nepal",
+      "Paraguay",
+      "Tajikistan",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Bhutan",
+      "Ethiopia",
+      "Kenya",
+      "Lesotho",
+      "Tajikistan",
+      "Uruguay"
+    ],
+    "match_box_4": [
+      "Armenia",
+      "Croatia",
+      "Estonia",
+      "Georgia",
+      "Jamaica",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "Slovenia"
+    ],
+    "match_box_5": [
+      "Armenia",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Ethiopia",
+      "Hungary",
+      "Kazakhstan",
+      "Mongolia",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Azerbaijan",
+      "Brazil",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Kenya",
+      "Serbia",
+      "Slovenia",
+      "South Korea",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Armenia",
+      "Bahrain",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Georgia",
+      "Kuwait",
+      "Macau",
+      "Maldives",
+      "Mongolia",
+      "Qatar",
+      "Timor-Leste"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bhutan",
+      "Brunei",
+      "Cambodia",
+      "Christmas Island",
+      "Egypt",
+      "India",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Malaysia",
+      "Myanmar",
+      "Palestine",
+      "Philippines",
+      "South Korea",
+      "Sri Lanka",
+      "Syria",
+      "Tajikistan",
+      "Timor-Leste",
+      "Turkmenistan",
+      "United Arab Emirates",
+      "Uzbekistan"
+    ]
+  }
+}

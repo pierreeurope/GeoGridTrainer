@@ -1,0 +1,164 @@
+{
+  "grid_id": "416",
+  "rows": [
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Armenia",
+      "Belarus",
+      "Belgium",
+      "Bulgaria",
+      "Czechia",
+      "Egypt",
+      "Pakistan",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Canada",
+      "China",
+      "Finland",
+      "Japan",
+      "Pakistan",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Belarus",
+      "Belgium",
+      "Bulgaria",
+      "Czechia",
+      "Finland",
+      "France",
+      "Hungary",
+      "Netherlands",
+      "Romania",
+      "Russia",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Albania",
+      "Croatia",
+      "Egypt",
+      "Greece",
+      "Israel",
+      "Montenegro",
+      "Slovenia",
+      "Spain",
+      "Syria"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Greece",
+      "Israel",
+      "Monaco",
+      "Morocco",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "France",
+      "Gibraltar",
+      "Greece",
+      "Italy",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "Slovenia",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Angola",
+      "Argentina",
+      "Azerbaijan",
+      "Bolivia",
+      "Colombia",
+      "Egypt",
+      "Jordan",
+      "Kenya",
+      "Malaysia",
+      "Peru",
+      "Republic of the Congo",
+      "Spain",
+      "Syria",
+      "Thailand",
+      "Uzbekistan"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Bangladesh",
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Saudi Arabia",
+      "Singapore",
+      "Somalia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Azerbaijan",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ]
+  }
+}

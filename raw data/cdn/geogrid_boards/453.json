@@ -1,0 +1,193 @@
+{
+  "grid_id": "453",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 40 Olympic medals",
+      "variantId": 3
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 5,000 km",
+      "variantId": 4
+    },
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 40",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Armenia",
+      "Azerbaijan",
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Malaysia",
+      "Myanmar",
+      "Philippines",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Thailand",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bangladesh",
+      "Cambodia",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Kyrgyzstan",
+      "Laos",
+      "Lebanon",
+      "Maldives",
+      "Mongolia",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Sri Lanka",
+      "Syria",
+      "Tajikistan",
+      "Thailand",
+      "Türkiye",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Russia",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Croatia",
+      "Cuba",
+      "Denmark",
+      "Egypt",
+      "Finland",
+      "France",
+      "Greece",
+      "India",
+      "Iran",
+      "Ireland",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "New Zealand",
+      "Norway",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Azerbaijan",
+      "Belarus",
+      "Brazil",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Iran",
+      "Kenya",
+      "Mexico",
+      "North Korea",
+      "Russia",
+      "Thailand",
+      "Türkiye",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Armenia",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Moldova",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Bahamas",
+      "Croatia",
+      "Denmark",
+      "Finland",
+      "Iceland",
+      "Ireland",
+      "Myanmar",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Belarus",
+      "Bolivia",
+      "Burundi",
+      "Comoros",
+      "Ecuador",
+      "Eritrea",
+      "Lebanon",
+      "Lesotho",
+      "Liberia",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Somalia",
+      "Tunisia",
+      "Türkiye",
+      "Ukraine"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "grid_id": "436",
+  "rows": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Rhine River system",
+      "variantId": 5
+    },
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Belgium",
+      "France",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Netherlands"
+    ],
+    "match_box_2": [
+      "Austria",
+      "France",
+      "Germany",
+      "Italy",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Belgium",
+      "France",
+      "Germany",
+      "Italy",
+      "Liechtenstein",
+      "Luxembourg",
+      "Netherlands",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Austria",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Portugal",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Austria",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Saudi Arabia",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Canada",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Macau",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Croatia",
+      "French Polynesia",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Bolivia",
+      "Brazil",
+      "Croatia",
+      "Ethiopia",
+      "Iran",
+      "Montenegro",
+      "Mozambique",
+      "Peru",
+      "Serbia",
+      "Slovakia",
+      "Spain"
+    ],
+    "match_box_9": [
+      "Andorra",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Falkland Islands (Malvinas)",
+      "Gibraltar",
+      "Guam",
+      "Jersey",
+      "Portugal",
+      "Saint Barthélemy",
+      "San Marino",
+      "Sint Maarten",
+      "Slovenia",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ]
+  }
+}

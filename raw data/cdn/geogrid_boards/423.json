@@ -1,0 +1,190 @@
+{
+  "grid_id": "423",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.75",
+      "variantId": 7
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Egypt",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "Spain"
+    ],
+    "match_box_2": [
+      "Comoros",
+      "Djibouti",
+      "Kenya",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Mozambique",
+      "Réunion",
+      "Seychelles",
+      "Somalia",
+      "South Africa",
+      "Tanzania"
+    ],
+    "match_box_3": [
+      "Botswana",
+      "Cameroon",
+      "Eswatini",
+      "Gabon",
+      "Ghana",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Mauritius",
+      "Mozambique",
+      "Namibia",
+      "Nigeria",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "Sierra Leone",
+      "South Africa",
+      "Tanzania",
+      "The Gambia",
+      "Togo",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "China",
+      "Colombia",
+      "Egypt",
+      "France",
+      "Greenland",
+      "Iran",
+      "Kazakhstan",
+      "Mexico",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "Ukraine",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Mozambique",
+      "Myanmar",
+      "Pakistan",
+      "Somalia",
+      "South Africa",
+      "Tanzania",
+      "Thailand",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Botswana",
+      "Canada",
+      "India",
+      "Kenya",
+      "Mozambique",
+      "Namibia",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Albania",
+      "Argentina",
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Belgium",
+      "Bulgaria",
+      "Colombia",
+      "Croatia",
+      "Czechia",
+      "Egypt",
+      "Georgia",
+      "Greece",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Malaysia",
+      "Montenegro",
+      "North Macedonia",
+      "Peru",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Switzerland",
+      "Thailand",
+      "Turkmenistan"
+    ],
+    "match_box_8": [
+      "Kenya",
+      "Malaysia",
+      "Myanmar",
+      "Pakistan",
+      "Thailand"
+    ],
+    "match_box_9": [
+      "Botswana",
+      "Kenya",
+      "Malaysia",
+      "Namibia",
+      "Nigeria",
+      "Pakistan",
+      "Rwanda",
+      "Uganda"
+    ]
+  }
+}

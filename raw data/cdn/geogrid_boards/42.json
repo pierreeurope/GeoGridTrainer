@@ -1,0 +1,191 @@
+{
+  "grid_id": "42",
+  "rows": [
+    {
+      "name": "Arabic is an official language",
+      "id": "official_language",
+      "variantId": 0
+    },
+    {
+      "name": "Starts with letter G",
+      "id": "starting_letter",
+      "variantId": 5
+    },
+    {
+      "name": "In North America",
+      "id": "continent",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with yellow",
+      "id": "color_on_flag",
+      "variantId": 2
+    },
+    {
+      "name": "Population under 10 million",
+      "id": "population_under_x",
+      "variantId": 4
+    },
+    {
+      "name": "Area greater than 50,000 km²",
+      "id": "size_over_x",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Chad",
+      "Comoros",
+      "Egypt",
+      "Mali",
+      "Mauritania"
+    ],
+    "match_box_2": [
+      "Bahrain",
+      "Comoros",
+      "Djibouti",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Mauritania",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Western Sahara"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Oman",
+      "Saudi Arabia",
+      "Somalia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Western Sahara",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Gabon",
+      "Germany",
+      "Ghana",
+      "Gibraltar",
+      "Grenada",
+      "Guadeloupe",
+      "Guam",
+      "Guatemala",
+      "Guinea",
+      "Guinea-Bissau",
+      "Guyana"
+    ],
+    "match_box_5": [
+      "Gabon",
+      "Georgia",
+      "Gibraltar",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Guam",
+      "Guinea-Bissau",
+      "Guyana"
+    ],
+    "match_box_6": [
+      "Gabon",
+      "Georgia",
+      "Germany",
+      "Ghana",
+      "Greece",
+      "Greenland",
+      "Guatemala",
+      "Guinea",
+      "Guyana"
+    ],
+    "match_box_7": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Dominica",
+      "Dominican Republic",
+      "El Salvador",
+      "Grenada",
+      "Guadeloupe",
+      "Guatemala",
+      "Haiti",
+      "Jamaica",
+      "Mexico",
+      "Montserrat",
+      "Nicaragua",
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Costa Rica",
+      "Cuba",
+      "Dominica",
+      "El Salvador",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Honduras",
+      "Jamaica",
+      "Martinique",
+      "Montserrat",
+      "Nicaragua",
+      "Panama",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_9": [
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "Greenland",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "United States of America"
+    ]
+  }
+}

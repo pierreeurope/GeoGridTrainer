@@ -1,0 +1,190 @@
+{
+  "grid_id": "439",
+  "rows": [
+    {
+      "id": "coastline_length_under_x",
+      "name": "Has coastline, with length less than 500 km",
+      "variantId": 1
+    },
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 4 colors",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Oceania",
+      "variantId": 6
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.65",
+      "variantId": 5
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Cook Islands",
+      "Guam",
+      "Nauru",
+      "Niue",
+      "Norfolk Island",
+      "Pitcairn Islands",
+      "Samoa",
+      "Tokelau",
+      "Tuvalu",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Benin",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Syria",
+      "Togo"
+    ],
+    "match_box_3": [
+      "Belgium",
+      "Benin",
+      "Democratic Republic of the Congo",
+      "Guatemala",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Syria"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Fiji",
+      "Kiribati",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "match_box_5": [
+      "Cameroon",
+      "Ghana",
+      "Kenya",
+      "Kiribati",
+      "Lesotho",
+      "Malawi",
+      "Mozambique",
+      "Nigeria",
+      "Pakistan",
+      "Papua New Guinea",
+      "Rwanda",
+      "Sierra Leone",
+      "Solomon Islands",
+      "Tanzania",
+      "The Gambia",
+      "Togo",
+      "Uganda",
+      "Vanuatu",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Bangladesh",
+      "Cameroon",
+      "Canada",
+      "Ghana",
+      "India",
+      "Kenya",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "Nigeria",
+      "Pakistan",
+      "Papua New Guinea",
+      "Rwanda",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Uganda",
+      "United Kingdom",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "French Polynesia",
+      "Niue",
+      "Papua New Guinea",
+      "Solomon Islands",
+      "Vanuatu"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Cambodia",
+      "Djibouti",
+      "Eritrea",
+      "Ethiopia",
+      "Ghana",
+      "Guinea-Bissau",
+      "Kenya",
+      "Lesotho",
+      "Myanmar",
+      "Papua New Guinea",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "Sudan",
+      "Syria",
+      "Tanzania",
+      "The Gambia",
+      "Timor-Leste",
+      "Togo",
+      "Vanuatu",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Argentina",
+      "Azerbaijan",
+      "Brazil",
+      "Cambodia",
+      "Egypt",
+      "Ethiopia",
+      "Ghana",
+      "India",
+      "Iraq",
+      "Jordan",
+      "Kenya",
+      "Malaysia",
+      "Myanmar",
+      "Papua New Guinea",
+      "Philippines",
+      "South Korea",
+      "Sri Lanka",
+      "Sudan",
+      "Syria",
+      "Tajikistan",
+      "Tanzania",
+      "United Arab Emirates",
+      "Uzbekistan",
+      "Venezuela",
+      "Zambia"
+    ]
+  }
+}

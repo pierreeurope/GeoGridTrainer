@@ -1,0 +1,195 @@
+{
+  "grid_id": "449",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 4 colors",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Nile River system",
+      "variantId": 0
+    },
+    {
+      "id": "air_pollution_under_x",
+      "name": "Air pollution under 10 μg/m³",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Angola",
+      "Benin",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Guinea",
+      "Guinea-Bissau",
+      "Lesotho",
+      "Liberia",
+      "Libya",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritania",
+      "Mayotte",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "Sierra Leone",
+      "Somalia",
+      "South Sudan",
+      "The Gambia",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Burkina Faso",
+      "Cabo Verde",
+      "Comoros",
+      "Guinea",
+      "Guinea-Bissau",
+      "Liberia",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mauritius",
+      "Mayotte",
+      "Morocco",
+      "Réunion",
+      "Senegal",
+      "Seychelles",
+      "Sierra Leone",
+      "Somalia",
+      "Spain",
+      "The Gambia",
+      "Western Sahara"
+    ],
+    "match_box_4": [
+      "Aruba",
+      "Bhutan",
+      "Brunei",
+      "Cambodia",
+      "Christmas Island",
+      "French Polynesia",
+      "Gibraltar",
+      "Guadeloupe",
+      "Guinea-Bissau",
+      "Isle of Man",
+      "Jersey",
+      "Lesotho",
+      "Libya",
+      "Myanmar",
+      "Niue",
+      "Palestine",
+      "Papua New Guinea",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "The Gambia",
+      "Timor-Leste",
+      "Vanuatu",
+      "Vatican City",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_6": [
+      "Aruba",
+      "Brunei",
+      "Cabo Verde",
+      "French Polynesia",
+      "Gibraltar",
+      "Guinea-Bissau",
+      "Libya",
+      "Mauritius",
+      "Saint Lucia",
+      "Solomon Islands",
+      "Suriname",
+      "The Gambia",
+      "Uruguay",
+      "Vanuatu",
+      "Western Sahara"
+    ],
+    "match_box_7": [
+      "Bolivia",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Guinea",
+      "Laos",
+      "Libya",
+      "Mali",
+      "Myanmar",
+      "Republic of the Congo",
+      "South Sudan"
+    ],
+    "match_box_8": [
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Kenya",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Austria",
+      "Belarus",
+      "Burkina Faso",
+      "France",
+      "Germany",
+      "Guinea",
+      "Libya",
+      "Mali",
+      "Russia",
+      "Senegal",
+      "Spain",
+      "Switzerland"
+    ]
+  }
+}

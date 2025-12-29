@@ -1,0 +1,181 @@
+{
+  "grid_id": "451",
+  "rows": [
+    {
+      "id": "population_under_x",
+      "name": "Population under 2 million",
+      "variantId": 2
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Estonia",
+      "Faroe Islands",
+      "Gibraltar",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Kosovo",
+      "Latvia",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "North Macedonia",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Bhutan",
+      "Eswatini",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "North Macedonia",
+      "San Marino",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Bahamas",
+      "Bahrain",
+      "Bermuda",
+      "Comoros",
+      "Curaçao",
+      "Estonia",
+      "Grenada",
+      "Iceland",
+      "Mayotte",
+      "Réunion",
+      "Tokelau",
+      "Vanuatu"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Bulgaria",
+      "Croatia",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Kazakhstan",
+      "Montenegro",
+      "North Macedonia",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Spain",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Burkina Faso",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Hungary",
+      "Kazakhstan",
+      "Laos",
+      "Mali",
+      "Niger",
+      "North Macedonia",
+      "Serbia",
+      "Slovakia",
+      "South Sudan",
+      "Switzerland",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Austria",
+      "Belarus",
+      "Bolivia",
+      "Croatia",
+      "Germany",
+      "Hungary",
+      "Myanmar",
+      "Romania",
+      "Senegal",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_7": [
+      "Albania",
+      "Andorra",
+      "Croatia",
+      "Jersey",
+      "Kazakhstan",
+      "Malta",
+      "Moldova",
+      "Montenegro",
+      "Serbia",
+      "Spain"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Bhutan",
+      "Bolivia",
+      "Kazakhstan",
+      "Moldova",
+      "Paraguay",
+      "Serbia",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Andorra",
+      "Bermuda",
+      "Bolivia",
+      "Croatia",
+      "Ecuador",
+      "Moldova"
+    ]
+  }
+}

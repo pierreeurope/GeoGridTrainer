@@ -1,0 +1,166 @@
+{
+  "grid_id": "458",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    },
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    },
+    {
+      "id": "air_pollution_under_x",
+      "name": "Air pollution under 5 μg/m³",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "Panama",
+      "Philippines",
+      "Russia",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "American Samoa",
+      "Cook Islands",
+      "El Salvador",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Marshall Islands",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Papua New Guinea",
+      "Philippines",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "Timor-Leste",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "American Samoa",
+      "Australia",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Zealand",
+      "Palau",
+      "Samoa",
+      "Tonga",
+      "Tuvalu"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "Panama",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Türkiye",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Bosnia and Herzegovina",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "El Salvador",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "Switzerland",
+      "Trinidad and Tobago",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Iceland",
+      "New Zealand",
+      "Norway",
+      "Sweden",
+      "Trinidad and Tobago"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Panama",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Cook Islands",
+      "Faroe Islands",
+      "Iceland",
+      "New Zealand",
+      "Norway",
+      "Puerto Rico",
+      "Samoa"
+    ]
+  }
+}

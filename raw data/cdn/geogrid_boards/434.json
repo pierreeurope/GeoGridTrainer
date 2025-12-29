@@ -1,0 +1,159 @@
+{
+  "grid_id": "434",
+  "rows": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Nile River system",
+      "variantId": 0
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with blue",
+      "variantId": 1
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "observes_x_time_zone",
+      "name": "Observes UTC+03:00 time zone",
+      "variantId": 9
+    },
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 30",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_2": [
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "South Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_3": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Eritrea",
+      "South Sudan",
+      "Sudan",
+      "Uganda"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "France",
+      "India",
+      "Kazakhstan",
+      "Malaysia",
+      "Mexico",
+      "Nepal",
+      "North Korea",
+      "Peru",
+      "Philippines",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Taiwan",
+      "Tanzania",
+      "Thailand",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America",
+      "Uzbekistan",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Comoros",
+      "Djibouti",
+      "Eritrea",
+      "Ethiopia",
+      "Mayotte",
+      "Russia",
+      "Somalia",
+      "South Sudan",
+      "Tanzania"
+    ],
+    "match_box_6": [
+      "Azerbaijan",
+      "Bolivia",
+      "Cambodia",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "Gabon",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Liberia",
+      "Mexico",
+      "Nicaragua",
+      "North Korea",
+      "Paraguay",
+      "Russia",
+      "Somalia",
+      "South Sudan",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Germany",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "Belarus",
+      "Comoros",
+      "Eritrea",
+      "Mayotte",
+      "Somalia",
+      "Türkiye"
+    ],
+    "match_box_9": [
+      "Bolivia",
+      "Burundi",
+      "Comoros",
+      "Eritrea",
+      "Lebanon",
+      "Liberia",
+      "Myanmar",
+      "Nigeria",
+      "Somalia"
+    ]
+  }
+}

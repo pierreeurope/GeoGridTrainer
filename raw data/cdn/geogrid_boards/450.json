@@ -1,0 +1,163 @@
+{
+  "grid_id": "450",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In North America",
+      "variantId": 3
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "air_pollution_under_x",
+      "name": "Air pollution under 10 μg/m³",
+      "variantId": 1
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 20 Olympic medals",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Canada",
+      "Cayman Islands",
+      "Cuba",
+      "Dominica",
+      "Dominican Republic",
+      "Greenland",
+      "Grenada",
+      "Haiti",
+      "Martinique",
+      "Panama",
+      "Puerto Rico",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "U.S. Virgin Islands",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Caribbean Netherlands",
+      "Costa Rica",
+      "Cuba",
+      "Panama",
+      "Puerto Rico",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Canada",
+      "Cuba",
+      "Jamaica",
+      "Mexico",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Belize",
+      "Brunei",
+      "Canada",
+      "France",
+      "Guinea",
+      "Guyana",
+      "Monaco",
+      "Norway",
+      "Panama",
+      "Russia",
+      "Sweden",
+      "Tuvalu"
+    ],
+    "match_box_5": [
+      "France",
+      "Norway",
+      "Panama",
+      "Russia",
+      "Taiwan"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Greece",
+      "Latvia",
+      "Mexico",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Sweden",
+      "Taiwan"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Australia",
+      "Canada",
+      "France",
+      "Greenland",
+      "Libya",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Russia",
+      "Somalia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Chile",
+      "France",
+      "Russia",
+      "Thailand",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Colombia",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kazakhstan",
+      "Kenya",
+      "Mexico",
+      "Mongolia",
+      "Nigeria",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "Ukraine",
+      "United States of America"
+    ]
+  }
+}

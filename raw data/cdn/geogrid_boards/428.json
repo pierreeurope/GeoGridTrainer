@@ -1,0 +1,136 @@
+{
+  "grid_id": "428",
+  "rows": [
+    {
+      "id": "top_20_rail_size",
+      "name": "Top 20 in rail transport network size",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    },
+    {
+      "id": "hosted_world_cup",
+      "name": "Has hosted the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $20k",
+      "variantId": 2
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "France",
+      "Germany",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "India",
+      "Iran",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "China",
+      "Japan",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Albania",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "France",
+      "Gibraltar",
+      "Greece",
+      "Italy",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "Slovenia",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Egypt",
+      "Lebanon",
+      "Libya",
+      "Montenegro",
+      "Morocco",
+      "Palestine",
+      "Syria",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Israel",
+      "Libya",
+      "Morocco",
+      "Slovenia",
+      "Syria",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Mexico",
+      "Russia",
+      "South Africa"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Japan",
+      "United States of America",
+      "Uruguay"
+    ]
+  }
+}

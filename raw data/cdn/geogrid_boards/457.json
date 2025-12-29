@@ -1,0 +1,146 @@
+{
+  "grid_id": "457",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    },
+    {
+      "id": "official_language",
+      "name": "Spanish is an official language",
+      "variantId": 1
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "borders_x",
+      "name": "Borders Brazil",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bolivia",
+      "Brazil",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Paraguay",
+      "Peru"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "Bolivia",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Mexico",
+      "Nicaragua",
+      "Paraguay",
+      "Peru",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Anguilla",
+      "Bermuda",
+      "Brazil",
+      "British Virgin Islands",
+      "Dominican Republic",
+      "Equatorial Guinea",
+      "Falkland Islands (Malvinas)",
+      "Gibraltar",
+      "Haiti",
+      "Jersey",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Argentina",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "France",
+      "Greenland",
+      "Mauritania",
+      "Namibia",
+      "Nigeria",
+      "South Africa",
+      "Spain",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "French Guiana",
+      "Guyana",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ]
+  }
+}

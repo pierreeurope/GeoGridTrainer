@@ -1,0 +1,167 @@
+{
+  "grid_id": "427",
+  "rows": [
+    {
+      "id": "top_20_oil_production",
+      "name": "Top 20 in oil production",
+      "variantId": null
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    },
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Angola",
+      "Mexico",
+      "Nigeria",
+      "Norway",
+      "Oman",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Algeria",
+      "Angola",
+      "Brazil",
+      "China",
+      "Iran",
+      "Iraq",
+      "Kuwait",
+      "Mexico",
+      "Russia",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Brazil",
+      "Canada",
+      "China",
+      "Mexico",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Chile",
+      "Czechia",
+      "Liberia",
+      "Luxembourg",
+      "North Korea",
+      "Norway",
+      "Thailand"
+    ],
+    "match_box_5": [
+      "Chile",
+      "Cuba",
+      "France",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Panama",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Armenia",
+      "Cambodia",
+      "Egypt",
+      "Georgia",
+      "Indonesia",
+      "Kyrgyzstan",
+      "Malaysia",
+      "North Korea",
+      "Oman",
+      "Pakistan",
+      "Palestine",
+      "Tajikistan",
+      "Thailand",
+      "Turkmenistan",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bangladesh",
+      "Cambodia",
+      "China",
+      "Egypt",
+      "Hong Kong",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Malaysia",
+      "North Korea",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Syria",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "Uzbekistan",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Cambodia",
+      "China",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Philippines",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "Vietnam"
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "grid_id": "444",
+  "rows": [
+    {
+      "id": "hosted_f1",
+      "name": "Has hosted a Formula 1 Grand Prix",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter S",
+      "variantId": 13
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 5-6 countries",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Saudi Arabia",
+      "Singapore",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Belgium",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Netherlands",
+      "Portugal",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Azerbaijan",
+      "India",
+      "Italy",
+      "South Africa",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "San Marino",
+      "Serbia",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "South Georgia and the South Sandwich Islands",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Croatia",
+      "French Polynesia",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Bolivia",
+      "Croatia",
+      "Ethiopia",
+      "Montenegro",
+      "Mozambique",
+      "Peru",
+      "Slovakia",
+      "Spain"
+    ],
+    "match_box_7": [
+      "Saudi Arabia",
+      "Senegal",
+      "Serbia",
+      "Sierra Leone",
+      "Singapore",
+      "Somalia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sudan",
+      "Syria"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Czechia",
+      "Denmark",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Spain"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Argentina",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Bulgaria",
+      "Burkina Faso",
+      "Cameroon",
+      "Colombia",
+      "Ethiopia",
+      "Guinea",
+      "Iraq",
+      "Italy",
+      "Jordan",
+      "Kazakhstan",
+      "Kenya",
+      "Libya",
+      "Mozambique",
+      "Peru",
+      "Republic of the Congo",
+      "Romania",
+      "Senegal",
+      "South Africa",
+      "Spain",
+      "Syria",
+      "Uganda",
+      "Uzbekistan"
+    ]
+  }
+}

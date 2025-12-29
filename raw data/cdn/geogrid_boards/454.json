@@ -1,0 +1,174 @@
+{
+  "grid_id": "454",
+  "rows": [
+    {
+      "id": "name_start_end_same_letter",
+      "name": "Starts and ends with the same letter",
+      "variantId": null
+    },
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $40k",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with black",
+      "variantId": 5
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_2": [
+      "Albania",
+      "Angola",
+      "Antigua and Barbuda",
+      "Saint Kitts and Nevis",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Austria"
+    ],
+    "match_box_4": [
+      "Cabo Verde",
+      "Comoros",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Botswana",
+      "Egypt",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Ghana",
+      "Guinea-Bissau",
+      "Kenya",
+      "Lesotho",
+      "Libya",
+      "Malawi",
+      "Mozambique",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "South Africa",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda",
+      "Western Sahara",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ghana",
+      "Morocco",
+      "Nigeria",
+      "Senegal",
+      "South Africa",
+      "Spain",
+      "Togo",
+      "Tunisia"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Greenland",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Singapore",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "U.S. Virgin Islands",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Belgium",
+      "Cayman Islands",
+      "Germany",
+      "Gibraltar",
+      "Isle of Man",
+      "Liechtenstein",
+      "Malta",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "United Arab Emirates"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Canada",
+      "Denmark",
+      "France",
+      "Germany",
+      "Iceland",
+      "Ireland",
+      "Israel",
+      "Italy",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Qatar",
+      "Sweden",
+      "Switzerland",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

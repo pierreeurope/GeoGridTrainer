@@ -1,0 +1,188 @@
+{
+  "grid_id": "415",
+  "rows": [
+    {
+      "id": "olympic_medals_under_x",
+      "name": "Fewer than 10 Olympic medals",
+      "variantId": 0
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with black",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    },
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Andorra",
+      "Bhutan",
+      "Bolivia",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Kosovo",
+      "Laos",
+      "Lesotho",
+      "Luxembourg",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "North Macedonia",
+      "Paraguay",
+      "Rwanda",
+      "San Marino",
+      "South Sudan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Vatican City",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Democratic Republic of the Congo",
+      "Myanmar",
+      "Sudan",
+      "Tanzania",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Åland",
+      "Albania",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Bosnia and Herzegovina",
+      "Bouvet Island",
+      "Cyprus",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Haiti",
+      "Isle of Man",
+      "Jersey",
+      "Kosovo",
+      "Lebanon",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "Norfolk Island",
+      "North Macedonia",
+      "Palestine",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "Turks and Caicos Islands",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Myanmar",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "South Korea",
+      "Thailand",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Cyprus",
+      "Egypt",
+      "Israel",
+      "Lebanon",
+      "Palestine"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Bhutan",
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Liechtenstein",
+      "Malawi",
+      "Moldova",
+      "Paraguay",
+      "San Marino",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Egypt",
+      "Germany",
+      "Kenya",
+      "South Africa",
+      "South Korea",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_9": [
+      "Albania",
+      "Bahamas",
+      "Belgium",
+      "Croatia",
+      "Egypt",
+      "Estonia",
+      "Germany",
+      "Gibraltar",
+      "Isle of Man",
+      "Liechtenstein",
+      "Malta",
+      "Moldova",
+      "Palestine",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Turks and Caicos Islands"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "grid_id": "430",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the South and East China Seas",
+      "variantId": 9
+    },
+    {
+      "id": "borders_x",
+      "name": "Borders China",
+      "variantId": 1
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 60",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 10 Olympic medals",
+      "variantId": 0
+    },
+    {
+      "id": "flag_has_star",
+      "name": "Flag with a star/sun",
+      "variantId": null
+    },
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "North Korea",
+      "Philippines",
+      "South Korea",
+      "Taiwan",
+      "Thailand"
+    ],
+    "match_box_2": [
+      "China",
+      "Hong Kong",
+      "Japan",
+      "Macau",
+      "Malaysia",
+      "North Korea",
+      "Philippines",
+      "Singapore",
+      "Taiwan",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Brunei",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Macau",
+      "Malaysia",
+      "Singapore",
+      "Thailand"
+    ],
+    "match_box_4": [
+      "Hong Kong",
+      "India",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia",
+      "North Korea",
+      "Pakistan",
+      "Russia"
+    ],
+    "match_box_5": [
+      "Hong Kong",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Macau",
+      "Mongolia",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Pakistan",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Bhutan",
+      "Hong Kong",
+      "India",
+      "Macau",
+      "Nepal",
+      "Pakistan"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Austria",
+      "Bahamas",
+      "Belgium",
+      "Canada",
+      "Chile",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Ireland",
+      "Israel",
+      "Japan",
+      "Lithuania",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "South Korea",
+      "Sweden",
+      "Switzerland",
+      "Taiwan",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Cabo Verde",
+      "Chile",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "New Zealand",
+      "Singapore",
+      "Taiwan",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Bahamas",
+      "Barbados",
+      "Bhutan",
+      "Hong Kong",
+      "Ireland",
+      "Japan",
+      "New Zealand",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Singapore",
+      "United Kingdom"
+    ]
+  }
+}

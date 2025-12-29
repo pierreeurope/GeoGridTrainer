@@ -1,0 +1,182 @@
+{
+  "grid_id": "414",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 8 letters long",
+      "variantId": 4
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 500k",
+      "variantId": 3
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Indonesia",
+      "Madagascar",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Seychelles",
+      "Singapore",
+      "Sri Lanka",
+      "Timor-Leste"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Djibouti",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Malaysia",
+      "Mozambique",
+      "Myanmar",
+      "Oman",
+      "Pakistan",
+      "Singapore",
+      "Somalia",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "India",
+      "Iran",
+      "Kenya",
+      "Mozambique",
+      "Myanmar",
+      "South Africa",
+      "Tanzania"
+    ],
+    "match_box_4": [
+      "Anguilla",
+      "Barbados",
+      "Dominica",
+      "Kiribati",
+      "Maldives",
+      "Sri Lanka"
+    ],
+    "match_box_5": [
+      "Bulgaria",
+      "Cambodia",
+      "Cameroon",
+      "Colombia",
+      "Djibouti",
+      "Ethiopia",
+      "Honduras",
+      "Hong Kong",
+      "Malaysia",
+      "Mongolia",
+      "Pakistan",
+      "Portugal",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Zimbabwe"
+    ],
+    "match_box_6": [
+      "Bulgaria",
+      "Cameroon",
+      "Colombia",
+      "Ethiopia",
+      "Slovakia",
+      "Tanzania"
+    ],
+    "match_box_7": [
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Dominican Republic",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Haiti",
+      "Jersey",
+      "Montserrat",
+      "Pitcairn Islands",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Albania",
+      "Bolivia",
+      "Brazil",
+      "Croatia",
+      "Dominican Republic",
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Ethiopia",
+      "Guatemala",
+      "Haiti",
+      "Iran",
+      "Mexico",
+      "Moldova",
+      "Mozambique",
+      "Nicaragua",
+      "Oman",
+      "Peru",
+      "Portugal",
+      "Serbia",
+      "Spain"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Bolivia",
+      "Brazil",
+      "Croatia",
+      "Ethiopia",
+      "Iran",
+      "Montenegro",
+      "Mozambique",
+      "Peru",
+      "Serbia",
+      "Slovakia",
+      "Spain"
+    ]
+  }
+}

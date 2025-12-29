@@ -1,0 +1,170 @@
+{
+  "grid_id": "43",
+  "rows": [
+    {
+      "name": "In South America",
+      "id": "continent",
+      "variantId": 4
+    },
+    {
+      "name": "Member of the European Union",
+      "id": "in_eu",
+      "variantId": null
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Amazon River system",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with blue",
+      "id": "color_on_flag",
+      "variantId": 1
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 5 million",
+      "variantId": 3
+    },
+    {
+      "name": "Area greater than 100,000 km²",
+      "id": "size_over_x",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Paraguay",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "Åland",
+      "Aruba",
+      "Caribbean Netherlands",
+      "Croatia",
+      "Curaçao",
+      "Czechia",
+      "Estonia",
+      "Finland",
+      "France",
+      "French Polynesia",
+      "French Southern Territories",
+      "Greece",
+      "Guadeloupe",
+      "Luxembourg",
+      "Mayotte",
+      "Netherlands",
+      "New Caledonia",
+      "Portugal",
+      "Réunion",
+      "Romania",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Wallis and Futuna"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Czechia",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_6": [
+      "Bulgaria",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Greenland",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_7": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Peru",
+      "Venezuela"
+    ]
+  }
+}

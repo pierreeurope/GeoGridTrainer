@@ -1,0 +1,167 @@
+{
+  "grid_id": "455",
+  "rows": [
+    {
+      "id": "multiple_time_zones",
+      "name": "Has more than 1 time zone",
+      "variantId": null
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "bottom_20_population_density",
+      "name": "Bottom 20 in population density",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "Greenland",
+      "Mongolia",
+      "Russia"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Ecuador",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Indonesia",
+      "Kiribati",
+      "Mexico",
+      "New Zealand",
+      "Papua New Guinea",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Mexico",
+      "Russia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Central African Republic",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Gabon",
+      "Guyana",
+      "Kazakhstan",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Niue",
+      "Pitcairn Islands",
+      "Suriname"
+    ],
+    "match_box_5": [
+      "American Samoa",
+      "Colombia",
+      "Ecuador",
+      "El Salvador",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Guatemala",
+      "Kiribati",
+      "Mexico",
+      "Nauru",
+      "New Caledonia",
+      "Nicaragua",
+      "Niue",
+      "Northern Mariana Islands",
+      "Palau",
+      "Papua New Guinea",
+      "Peru",
+      "Philippines",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "Timor-Leste",
+      "Tokelau",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "China",
+      "Egypt",
+      "Mexico",
+      "Romania",
+      "Slovenia",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Ukraine"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Botswana",
+      "Canada",
+      "Central African Republic",
+      "Greenland",
+      "Kazakhstan",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Russia"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "Indonesia",
+      "Mexico",
+      "Peru",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "France",
+      "India",
+      "Iran",
+      "Mexico",
+      "Pakistan",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United States of America"
+    ]
+  }
+}

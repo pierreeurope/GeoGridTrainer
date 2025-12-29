@@ -1,0 +1,179 @@
+{
+  "grid_id": "45",
+  "rows": [
+    {
+      "name": "Flag with only red, white, and blue",
+      "id": "flag_rwb",
+      "variantId": null
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Spanish is an official language",
+      "id": "official_language",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "Human Development Index under 0.85",
+      "id": "hdi_under_x",
+      "variantId": 9
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Chile",
+      "Czechia",
+      "France",
+      "Nepal",
+      "Netherlands",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Cook Islands",
+      "Costa Rica",
+      "Cuba",
+      "Laos",
+      "Liberia",
+      "Mayotte",
+      "Nepal",
+      "North Korea",
+      "Panama",
+      "Russia",
+      "Samoa",
+      "Thailand",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Chile",
+      "Cook Islands",
+      "Cuba",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Liberia",
+      "Nepal",
+      "New Zealand",
+      "North Korea",
+      "Panama",
+      "Puerto Rico",
+      "Samoa",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Azerbaijan",
+      "Belgium",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Kazakhstan",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Azerbaijan",
+      "Belarus",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Georgia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Dominican Republic",
+      "Ecuador",
+      "Guatemala",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Bolivia",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Cuba",
+      "Ecuador",
+      "Equatorial Guinea",
+      "Honduras",
+      "Panama",
+      "Paraguay",
+      "Puerto Rico",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ]
+  }
+}

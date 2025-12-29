@@ -1,0 +1,198 @@
+{
+  "grid_id": "452",
+  "rows": [
+    {
+      "id": "drives_left",
+      "name": "Drives on the left",
+      "variantId": null
+    },
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    },
+    {
+      "id": "captial_population_under_x",
+      "name": "Capital city population under 500k",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 4 colors",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Bangladesh",
+      "Christmas Island",
+      "Cocos Islands",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Pakistan",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Timor-Leste"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Botswana",
+      "Guyana",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Kenya",
+      "Malaysia",
+      "Mozambique",
+      "Namibia",
+      "New Zealand",
+      "Pakistan",
+      "Papua New Guinea",
+      "South Africa",
+      "Tanzania",
+      "Thailand",
+      "Uganda",
+      "United Kingdom",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Bhutan",
+      "Brunei",
+      "Christmas Island",
+      "India",
+      "Isle of Man",
+      "Jersey",
+      "Kenya",
+      "Lesotho",
+      "Malaysia",
+      "Mauritius",
+      "Niue",
+      "Papua New Guinea",
+      "Saint Lucia",
+      "Solomon Islands",
+      "Sri Lanka",
+      "Suriname",
+      "Tanzania",
+      "Timor-Leste",
+      "Zambia"
+    ],
+    "match_box_4": [
+      "Comoros",
+      "Djibouti",
+      "French Southern Territories",
+      "Madagascar",
+      "Mayotte",
+      "Réunion",
+      "Seychelles"
+    ],
+    "match_box_5": [
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Gabon",
+      "Guinea",
+      "Madagascar",
+      "Niger",
+      "Republic of the Congo"
+    ],
+    "match_box_6": [
+      "Djibouti",
+      "French Polynesia",
+      "Guadeloupe",
+      "Togo",
+      "Vanuatu"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "French Southern Territories",
+      "India",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Seychelles",
+      "South Africa",
+      "Sri Lanka",
+      "Timor-Leste"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Bolivia",
+      "Botswana",
+      "Côte d'Ivoire",
+      "Greenland",
+      "Guyana",
+      "India",
+      "Malaysia",
+      "Namibia",
+      "New Zealand",
+      "Papua New Guinea",
+      "Paraguay",
+      "South Africa",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Aruba",
+      "Bhutan",
+      "Brunei",
+      "Cabo Verde",
+      "Christmas Island",
+      "French Polynesia",
+      "Gibraltar",
+      "Guadeloupe",
+      "Guinea-Bissau",
+      "India",
+      "Isle of Man",
+      "Jersey",
+      "Lesotho",
+      "Liechtenstein",
+      "Malaysia",
+      "Mauritius",
+      "Montenegro",
+      "Niue",
+      "Papua New Guinea",
+      "Saint Lucia",
+      "São Tomé and Príncipe",
+      "Slovenia",
+      "Solomon Islands",
+      "Sri Lanka",
+      "Suriname",
+      "The Gambia",
+      "Timor-Leste",
+      "Vanuatu",
+      "Vatican City",
+      "Western Sahara"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "grid_id": "426",
+  "rows": [
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "Japan",
+      "Spain",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Australia",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Heard Island and McDonald Islands",
+      "Malaysia",
+      "Oman",
+      "Thailand",
+      "United Arab Emirates"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Belize",
+      "Bhutan",
+      "Cambodia",
+      "Canada",
+      "Denmark",
+      "Eswatini",
+      "Kuwait",
+      "Liechtenstein",
+      "Luxembourg",
+      "Morocco",
+      "Netherlands",
+      "Norway",
+      "Oman",
+      "Sweden",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "France",
+      "Germany",
+      "Greece",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Mayotte",
+      "Réunion",
+      "South Africa",
+      "Thailand"
+    ],
+    "match_box_6": [
+      "Andorra",
+      "Canada",
+      "Chile",
+      "Costa Rica",
+      "Denmark",
+      "Ecuador",
+      "Estonia",
+      "Finland",
+      "French Guiana",
+      "Liechtenstein",
+      "Luxembourg",
+      "Mexico",
+      "Netherlands",
+      "Norway",
+      "Sweden",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Czechia",
+      "France",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Mayotte",
+      "Thailand"
+    ],
+    "match_box_9": [
+      "Chile",
+      "Costa Rica",
+      "Liberia",
+      "Luxembourg",
+      "Nepal",
+      "Netherlands",
+      "North Korea",
+      "Norway",
+      "Panama",
+      "United States of America"
+    ]
+  }
+}

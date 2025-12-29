@@ -1,0 +1,174 @@
+{
+  "grid_id": "447",
+  "rows": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 2-3 countries",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Colombia",
+      "France",
+      "Germany",
+      "Mexico",
+      "South Africa",
+      "Spain",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Canada",
+      "Colombia",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "Peru",
+      "Philippines",
+      "Russia",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "China",
+      "Côte d'Ivoire",
+      "India",
+      "Kazakhstan",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Taiwan",
+      "Tanzania",
+      "Türkiye",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Andorra",
+      "Canada",
+      "Chile",
+      "Costa Rica",
+      "Denmark",
+      "Ecuador",
+      "Estonia",
+      "Finland",
+      "French Guiana",
+      "Liechtenstein",
+      "Luxembourg",
+      "Mexico",
+      "Netherlands",
+      "Norway",
+      "Sweden",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_5": [
+      "Canada",
+      "Chile",
+      "Costa Rica",
+      "Ecuador",
+      "El Salvador",
+      "Honduras",
+      "Indonesia",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Belize",
+      "Burundi",
+      "Canada",
+      "Ecuador",
+      "Liechtenstein",
+      "Morocco",
+      "Palestine",
+      "United Arab Emirates",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Bermuda",
+      "Cayman Islands",
+      "Christmas Island",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Malta",
+      "Mexico",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_8": [
+      "American Samoa",
+      "Ecuador",
+      "Fiji",
+      "Guatemala",
+      "Kiribati",
+      "Mexico",
+      "Papua New Guinea",
+      "Peru"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Belize",
+      "Bermuda",
+      "Bolivia",
+      "Ecuador",
+      "Kazakhstan",
+      "Malta",
+      "Montserrat",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "Turks and Caicos Islands"
+    ]
+  }
+}

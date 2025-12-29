@@ -1,0 +1,175 @@
+{
+  "grid_id": "417",
+  "rows": [
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $10k",
+      "variantId": 1
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Niger River system",
+      "variantId": 4
+    },
+    {
+      "id": "continent",
+      "name": "In North America",
+      "variantId": 3
+    },
+    {
+      "id": "coastline_length_under_x",
+      "name": "Has coastline, with length less than 500 km",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Benin",
+      "Burkina Faso",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Guinea",
+      "Mali",
+      "Niger",
+      "Nigeria"
+    ],
+    "match_box_2": [
+      "Belize",
+      "Dominica",
+      "El Salvador",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Montserrat",
+      "Nicaragua",
+      "Saint Vincent and the Grenadines"
+    ],
+    "match_box_3": [
+      "Belize",
+      "Benin",
+      "Bosnia and Herzegovina",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Dominica",
+      "Georgia",
+      "Guatemala",
+      "Iraq",
+      "Jordan",
+      "Lebanon",
+      "Montserrat",
+      "Palestine",
+      "Republic of the Congo",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Syria",
+      "Togo",
+      "Tokelau",
+      "Tuvalu"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Benin",
+      "Burkina Faso",
+      "Cameroon",
+      "Chad",
+      "Côte d'Ivoire",
+      "Guinea",
+      "Mali",
+      "Niger"
+    ],
+    "match_box_5": [
+      "Bahamas",
+      "Barbados",
+      "Caribbean Netherlands",
+      "Costa Rica",
+      "Cuba",
+      "Grenada",
+      "Jamaica",
+      "Martinique",
+      "Panama",
+      "Puerto Rico",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Belgium",
+      "Benin",
+      "Bosnia and Herzegovina",
+      "Bouvet Island",
+      "Bulgaria",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Cook Islands",
+      "Curaçao",
+      "Democratic Republic of the Congo",
+      "Grenada",
+      "Heard Island and McDonald Islands",
+      "Lebanon",
+      "Lithuania",
+      "Macau",
+      "Malta",
+      "Martinique",
+      "Mayotte",
+      "Nauru",
+      "Republic of the Congo",
+      "Réunion",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "Tokelau",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Burkina Faso",
+      "Cameroon",
+      "Guinea",
+      "Mali",
+      "Niger",
+      "Nigeria"
+    ],
+    "match_box_8": [
+      "Canada",
+      "Cuba",
+      "Dominican Republic",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Mexico",
+      "Nicaragua"
+    ],
+    "match_box_9": [
+      "Belgium",
+      "Bulgaria",
+      "Democratic Republic of the Congo",
+      "Georgia",
+      "Guatemala",
+      "Iraq",
+      "Jordan",
+      "Lebanon",
+      "Republic of the Congo",
+      "Singapore",
+      "Syria",
+      "Togo"
+    ]
+  }
+}
