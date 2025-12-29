@@ -1,0 +1,84 @@
+{
+  "flagInfo": {
+    "colorsOnFlag": [
+      "green",
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "hasStar": true,
+    "hasCoatOfArms": true,
+    "hasAnimal": false
+  },
+  "geographyInfo": {
+    "islandNation": false,
+    "landlocked": false,
+    "coastlineLength": 33379,
+    "coastline": [
+      "Atlantic Ocean",
+      "North Atlantic Ocean",
+      "South Atlantic Ocean"
+    ],
+    "touchesSahara": false,
+    "borderCountOverride": 10,
+    "rivers": [
+      "Amazon"
+    ],
+    "touchesEurasionSteppe": false,
+    "touchesEquator": true,
+    "top10Lakes": true
+  },
+  "economicInfo": {
+    "HDI": 0.786,
+    "GDPPerCapita": 9964,
+    "top20WheatProduction": true,
+    "top20OilProduction": true,
+    "top20RenewableElectricityProduction": false,
+    "producesNuclearPower": true,
+    "GDPPerCapitaYear": 2025
+  },
+  "politicalInfo": {
+    "isMonarchy": false,
+    "inEU": false,
+    "hasNuclearWeapons": false,
+    "wasUSSR": false,
+    "inCommonwealth": false,
+    "officialLanguageCodes": [
+      "por"
+    ],
+    "timeZones": [
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00"
+    ],
+    "observesDST": false,
+    "sameSexMarriageLegal": true,
+    "sameSexActivitiesIllegal": false,
+    "CPI": 34,
+    "isTerritory": false
+  },
+  "sportsInfo": {
+    "olympicMedals": 170,
+    "hostedF1": true,
+    "hostedOlympics": true,
+    "hostedMensWorldCup": true,
+    "playedMensWorldCup": true,
+    "wonMensWorldCup": true
+  },
+  "factsInfo": {
+    "drivesLeft": false,
+    "hasAlcoholBan": false,
+    "has50Skyscrapers": true,
+    "top20ObesityRate": false,
+    "top20ChocolateConsumption": false,
+    "top20AlcoholConsumption": false,
+    "top20PopulationDensity": false,
+    "bottom20PopulationDensity": false,
+    "top20TourismRate": false,
+    "top20RailSize": true,
+    "top20WorldHeritageSites": true,
+    "airPollution": 12.06,
+    "co2Emissions": 2.2
+  }
+}
