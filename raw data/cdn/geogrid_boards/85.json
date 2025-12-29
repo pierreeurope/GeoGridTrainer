@@ -1,0 +1,159 @@
+{
+  "grid_id": "85",
+  "rows": [
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Name is 8 letters long",
+      "id": "name_length",
+      "variantId": 4
+    },
+    {
+      "name": "Flag with only red, white, and blue",
+      "id": "flag_rwb",
+      "variantId": null
+    },
+    {
+      "name": "GDP per capita over $30k",
+      "id": "gdp_per_capita_over_x",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Botswana",
+      "Eswatini",
+      "Ethiopia",
+      "Mongolia",
+      "Paraguay",
+      "Slovakia",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Czechia",
+      "Laos",
+      "Luxembourg",
+      "Nepal",
+      "Slovakia"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Austria",
+      "Czechia",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Anguilla",
+      "Barbados",
+      "Dominica",
+      "Kiribati",
+      "Maldives",
+      "Sri Lanka"
+    ],
+    "match_box_5": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Cuba",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iceland",
+      "Mayotte",
+      "New Zealand",
+      "Puerto Rico",
+      "Samoa",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "United Kingdom",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Aruba",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Greenland",
+      "Guam",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Japan",
+      "Jersey",
+      "Malta",
+      "Martinique",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Singapore",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Cambodia",
+      "Hong Kong",
+      "Malaysia",
+      "Maldives",
+      "Mongolia",
+      "Pakistan",
+      "Sri Lanka",
+      "Thailand"
+    ],
+    "match_box_8": [
+      "Laos",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand"
+    ],
+    "match_box_9": [
+      "Brunei",
+      "Christmas Island",
+      "Cyprus",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "Macau",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "United Arab Emirates"
+    ]
+  }
+}

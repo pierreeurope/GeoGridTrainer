@@ -1,0 +1,154 @@
+{
+  "grid_id": "99",
+  "rows": [
+    {
+      "name": "Borders France",
+      "id": "borders_x",
+      "variantId": 3
+    },
+    {
+      "name": "Population over 20 million",
+      "id": "population_over_x",
+      "variantId": 5
+    },
+    {
+      "name": "More than 200 Olympic medals",
+      "id": "olympic_medals_over_x",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "name": "Member of the European Union",
+      "id": "in_eu",
+      "variantId": null
+    },
+    {
+      "name": "Capital city population under 2 million",
+      "id": "captial_population_under_x",
+      "variantId": 5
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Spain"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Belgium",
+      "Luxembourg",
+      "Monaco",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "France",
+      "Germany",
+      "Italy",
+      "Poland",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Canada",
+      "Côte d'Ivoire",
+      "India",
+      "Kazakhstan",
+      "Madagascar",
+      "Malawi",
+      "Malaysia",
+      "Morocco",
+      "Mozambique",
+      "Myanmar",
+      "Nepal",
+      "Niger",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "Poland",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Uganda",
+      "United States of America",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "France",
+      "Germany",
+      "Italy",
+      "Kazakhstan",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Bulgaria",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Netherlands",
+      "Poland",
+      "Romania",
+      "Sweden"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Bulgaria",
+      "Canada",
+      "Denmark",
+      "Finland",
+      "Hungary",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Romania",
+      "Sweden",
+      "Switzerland",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Bulgaria",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ]
+  }
+}

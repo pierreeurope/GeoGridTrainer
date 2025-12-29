@@ -1,0 +1,176 @@
+{
+  "grid_id": "96",
+  "rows": [
+    {
+      "name": "Coastline on the Indian Ocean",
+      "id": "coastline_on_x",
+      "variantId": 1
+    },
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Borders 4-5 countries",
+      "id": "borders_x_to_y",
+      "variantId": 3
+    },
+    {
+      "name": "Has never won an Olympic medal",
+      "id": "no_olympic_medals",
+      "variantId": null
+    },
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Kenya",
+      "Malaysia",
+      "Myanmar",
+      "Pakistan",
+      "Thailand"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Madagascar",
+      "Maldives",
+      "Mayotte",
+      "Myanmar",
+      "Oman",
+      "Réunion",
+      "Seychelles",
+      "Somalia",
+      "Timor-Leste",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "South Africa",
+      "Sri Lanka",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Belgium",
+      "Benin",
+      "Côte d'Ivoire",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Benin",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Guinea",
+      "Madagascar",
+      "Martinique",
+      "Mayotte",
+      "Monaco",
+      "New Caledonia",
+      "Republic of the Congo",
+      "Réunion",
+      "Rwanda",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "New Caledonia",
+      "Republic of the Congo",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Armenia",
+      "Azerbaijan",
+      "Egypt",
+      "Georgia",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Malaysia",
+      "Myanmar",
+      "Pakistan",
+      "Syria",
+      "Tajikistan",
+      "Thailand",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Cambodia",
+      "Christmas Island",
+      "Cocos Islands",
+      "Laos",
+      "Macau",
+      "Maldives",
+      "Myanmar",
+      "Nepal",
+      "Oman",
+      "Palestine",
+      "Timor-Leste",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Hong Kong",
+      "North Korea",
+      "Saudi Arabia",
+      "South Korea",
+      "Sri Lanka",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ]
+  }
+}

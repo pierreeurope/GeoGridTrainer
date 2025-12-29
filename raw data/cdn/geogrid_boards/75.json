@@ -1,0 +1,196 @@
+{
+  "grid_id": "75",
+  "rows": [
+    {
+      "name": "Population over 20 million",
+      "id": "population_over_x",
+      "variantId": 5
+    },
+    {
+      "name": "Flag with only red, white, and blue",
+      "id": "flag_rwb",
+      "variantId": null
+    },
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Area less than 200,000 km²",
+      "id": "size_under_x",
+      "variantId": 5
+    },
+    {
+      "name": "Capital city population under 1 million",
+      "id": "captial_population_under_x",
+      "variantId": 4
+    },
+    {
+      "name": "Name is 10+ letters long",
+      "id": "name_x_plus_letters_long",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Malawi",
+      "Nepal",
+      "North Korea",
+      "South Korea",
+      "Sri Lanka",
+      "Syria",
+      "Taiwan"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Côte d'Ivoire",
+      "India",
+      "Malawi",
+      "Malaysia",
+      "Myanmar",
+      "Nepal",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Bangladesh",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Kazakhstan",
+      "Madagascar",
+      "Mozambique",
+      "North Korea",
+      "Philippines",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "United Kingdom",
+      "United States of America",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Costa Rica",
+      "Cuba",
+      "Czechia",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iceland",
+      "Liberia",
+      "Luxembourg",
+      "Mayotte",
+      "Nepal",
+      "Netherlands",
+      "North Korea",
+      "Panama",
+      "Puerto Rico",
+      "Samoa",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "Wallis and Futuna"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Cook Islands",
+      "Costa Rica",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Iceland",
+      "Laos",
+      "Luxembourg",
+      "Mayotte",
+      "Nepal",
+      "Netherlands",
+      "New Zealand",
+      "Norway",
+      "Panama",
+      "Puerto Rico",
+      "Samoa",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Azerbaijan",
+      "Bulgaria",
+      "Croatia",
+      "Hungary",
+      "Israel",
+      "Jordan",
+      "Montenegro",
+      "North Macedonia",
+      "Senegal",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Syria"
+    ],
+    "match_box_8": [
+      "Bolivia",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Croatia",
+      "India",
+      "Israel",
+      "Laos",
+      "Montenegro",
+      "Myanmar",
+      "North Macedonia",
+      "Slovakia",
+      "South Africa",
+      "South Sudan",
+      "Switzerland",
+      "Tanzania"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Burkina Faso",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Kazakhstan",
+      "Montenegro",
+      "Mozambique",
+      "North Macedonia",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "South Africa",
+      "South Sudan",
+      "Switzerland",
+      "Uzbekistan"
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "grid_id": "92",
+  "rows": [
+    {
+      "name": "In North America",
+      "id": "continent",
+      "variantId": 3
+    },
+    {
+      "name": "Ends with letter O",
+      "id": "ending_letter",
+      "variantId": 7
+    },
+    {
+      "name": "Starts with letter P",
+      "id": "starting_letter",
+      "variantId": 12
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 2 million",
+      "id": "population_over_x",
+      "variantId": 2
+    },
+    {
+      "name": "Flag with blue",
+      "id": "color_on_flag",
+      "variantId": 1
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "El Salvador",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Puerto Rico",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "El Salvador",
+      "Guadeloupe",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Mexico",
+      "Montserrat",
+      "Nicaragua",
+      "Panama",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Antigua and Barbuda",
+      "Cayman Islands",
+      "Cuba",
+      "Dominica",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Honduras",
+      "Panama",
+      "Puerto Rico",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Sint Maarten",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Burkina Faso",
+      "Democratic Republic of the Congo",
+      "Lesotho",
+      "Mexico",
+      "Morocco",
+      "Puerto Rico",
+      "Republic of the Congo",
+      "Togo"
+    ],
+    "match_box_5": [
+      "Curaçao",
+      "Democratic Republic of the Congo",
+      "Kosovo",
+      "Lesotho",
+      "Mexico",
+      "Montenegro",
+      "Puerto Rico",
+      "San Marino"
+    ],
+    "match_box_6": [
+      "Burkina Faso",
+      "Curaçao",
+      "Democratic Republic of the Congo",
+      "Kosovo",
+      "Morocco",
+      "Puerto Rico",
+      "Togo"
+    ],
+    "match_box_7": [
+      "Pakistan",
+      "Palestine",
+      "Panama",
+      "Papua New Guinea",
+      "Paraguay",
+      "Peru",
+      "Philippines",
+      "Poland",
+      "Portugal",
+      "Puerto Rico"
+    ],
+    "match_box_8": [
+      "Palau",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Philippines",
+      "Pitcairn Islands",
+      "Portugal",
+      "Puerto Rico"
+    ],
+    "match_box_9": [
+      "Pakistan",
+      "Panama",
+      "Papua New Guinea",
+      "Paraguay",
+      "Philippines",
+      "Puerto Rico"
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "grid_id": "73",
+  "rows": [
+    {
+      "name": "Starts and ends with the same letter",
+      "id": "name_start_end_same_letter",
+      "variantId": null
+    },
+    {
+      "name": "Ends with letter D",
+      "id": "ending_letter",
+      "variantId": 2
+    },
+    {
+      "name": "In South America",
+      "id": "continent",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with blue",
+      "id": "color_on_flag",
+      "variantId": 1
+    },
+    {
+      "name": "Capital city population over 200k",
+      "id": "capital_population_over_x",
+      "variantId": 2
+    },
+    {
+      "name": "Population under 20 million",
+      "id": "population_under_x",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Aruba",
+      "Australia",
+      "Central African Republic",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_2": [
+      "Albania",
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Armenia",
+      "Australia",
+      "Austria",
+      "Central African Republic"
+    ],
+    "match_box_3": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Armenia",
+      "Aruba",
+      "Austria",
+      "Central African Republic",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_4": [
+      "Åland",
+      "Bouvet Island",
+      "Chad",
+      "Christmas Island",
+      "Finland",
+      "Iceland",
+      "New Zealand",
+      "Thailand"
+    ],
+    "match_box_5": [
+      "Chad",
+      "Finland",
+      "Ireland",
+      "New Zealand",
+      "Poland",
+      "Thailand"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Bouvet Island",
+      "Chad",
+      "Christmas Island",
+      "Finland",
+      "Greenland",
+      "Iceland",
+      "Ireland",
+      "New Zealand",
+      "Norfolk Island",
+      "Switzerland"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_9": [
+      "Aruba",
+      "Bolivia",
+      "Caribbean Netherlands",
+      "Chile",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay"
+    ]
+  }
+}

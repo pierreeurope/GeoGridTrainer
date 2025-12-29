@@ -1,0 +1,167 @@
+{
+  "grid_id": "87",
+  "rows": [
+    {
+      "name": "Flag with an animal",
+      "id": "flag_has_animal",
+      "variantId": null
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Name is 5 letters long",
+      "id": "name_length",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Has never won an Olympic medal",
+      "id": "no_olympic_medals",
+      "variantId": null
+    },
+    {
+      "name": "Population over 20 million",
+      "id": "population_over_x",
+      "variantId": 5
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bhutan",
+      "Bolivia",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Montserrat",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_2": [
+      "Egypt",
+      "Kazakhstan",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "Sri Lanka",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_3": [
+      "Bolivia",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Dominica",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Kazakhstan",
+      "Kiribati",
+      "Moldova",
+      "Papua New Guinea",
+      "Paraguay",
+      "Saint Martin",
+      "Sint Maarten",
+      "Zimbabwe"
+    ],
+    "match_box_4": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Faroe Islands",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "Monaco",
+      "Svalbard and Jan Mayen",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "France",
+      "Germany",
+      "Italy",
+      "Kazakhstan",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Aruba",
+      "Benin",
+      "Libya",
+      "Macau",
+      "Malta",
+      "Nauru",
+      "Nepal",
+      "Palau",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "China",
+      "Egypt",
+      "Ghana",
+      "India",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Nepal",
+      "Niger",
+      "Spain",
+      "Sudan",
+      "Syria",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Aruba",
+      "Chile",
+      "China",
+      "Ghana",
+      "Japan",
+      "Libya",
+      "Macau",
+      "Nauru",
+      "Nepal",
+      "Samoa",
+      "Syria"
+    ]
+  }
+}

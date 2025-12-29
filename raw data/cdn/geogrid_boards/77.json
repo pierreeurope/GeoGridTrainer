@@ -1,0 +1,192 @@
+{
+  "grid_id": "77",
+  "rows": [
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    },
+    {
+      "name": "Ends with letter S",
+      "id": "ending_letter",
+      "variantId": 9
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population under 1 million",
+      "id": "population_under_x",
+      "variantId": 1
+    },
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Comoros",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Luxembourg",
+      "Martinique",
+      "Mayotte",
+      "Monaco",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "New Caledonia",
+      "Republic of the Congo",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Rwanda",
+      "Saint Martin",
+      "Senegal",
+      "Togo"
+    ],
+    "match_box_4": [
+      "Bahamas",
+      "Barbados",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Cocos Islands",
+      "Comoros",
+      "Cook Islands",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Maldives",
+      "Marshall Islands",
+      "Northern Mariana Islands",
+      "Pitcairn Islands",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_5": [
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Cocos Islands",
+      "Cook Islands",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Marshall Islands",
+      "Northern Mariana Islands",
+      "Pitcairn Islands",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_6": [
+      "Cayman Islands",
+      "Cocos Islands",
+      "Comoros",
+      "Cook Islands",
+      "Falkland Islands (Malvinas)",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Honduras",
+      "Marshall Islands",
+      "Northern Mariana Islands",
+      "Philippines",
+      "Saint Kitts and Nevis",
+      "Solomon Islands"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Gibraltar",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Faroe Islands",
+      "Isle of Man",
+      "North Macedonia",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ]
+  }
+}

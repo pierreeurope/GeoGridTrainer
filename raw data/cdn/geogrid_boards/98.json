@@ -1,0 +1,182 @@
+{
+  "grid_id": "98",
+  "rows": [
+    {
+      "name": "Drives on the left",
+      "id": "drives_left",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "In Africa",
+      "id": "continent",
+      "variantId": 2
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 40 Olympic medals",
+      "variantId": 3
+    },
+    {
+      "name": "Flag with only red, white, and blue",
+      "id": "flag_rwb",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Botswana",
+      "Eswatini",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Mauritius",
+      "Mozambique",
+      "Namibia",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Seychelles",
+      "South Africa",
+      "Tanzania",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Australia",
+      "India",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "Kenya",
+      "New Zealand",
+      "South Africa",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Cook Islands",
+      "Nepal",
+      "New Zealand",
+      "Samoa",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Angola",
+      "Burkina Faso",
+      "Cameroon",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Ghana",
+      "Kenya",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Morocco",
+      "Mozambique",
+      "Niger",
+      "Nigeria",
+      "South Africa",
+      "Spain",
+      "Sudan",
+      "Tanzania",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Kazakhstan",
+      "Kenya",
+      "Mexico",
+      "North Korea",
+      "Poland",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Australia",
+      "France",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Cabo Verde",
+      "Comoros",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_8": [
+      "Cuba",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "New Zealand",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Cuba",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iceland",
+      "Mayotte",
+      "New Zealand",
+      "Puerto Rico",
+      "Samoa",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "United Kingdom",
+      "Wallis and Futuna"
+    ]
+  }
+}

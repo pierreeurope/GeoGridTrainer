@@ -1,0 +1,203 @@
+{
+  "grid_id": "71",
+  "rows": [
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Starts with letter T",
+      "id": "starting_letter",
+      "variantId": 14
+    },
+    {
+      "name": "GDP per capita over $30k",
+      "id": "gdp_per_capita_over_x",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Capital city population under 500k",
+      "id": "captial_population_under_x",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Azerbaijan",
+      "Belgium",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Kazakhstan",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ],
+    "match_box_3": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Estonia",
+      "Faroe Islands",
+      "Gibraltar",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "San Marino",
+      "Slovakia",
+      "Slovenia",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "Taiwan",
+      "Tajikistan",
+      "Tanzania",
+      "Thailand",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "Taiwan",
+      "Tajikistan",
+      "Timor-Leste",
+      "Togo",
+      "Tokelau",
+      "Tunisia",
+      "Türkiye",
+      "Turkmenistan",
+      "Tuvalu"
+    ],
+    "match_box_6": [
+      "The Gambia",
+      "Timor-Leste",
+      "Tonga",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "Tuvalu"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Belgium",
+      "Canada",
+      "Czechia",
+      "France",
+      "Germany",
+      "Israel",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Aruba",
+      "Australia",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Greenland",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "Macau",
+      "New Zealand",
+      "Puerto Rico",
+      "Singapore",
+      "Sint Maarten",
+      "Slovenia",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Åland",
+      "Andorra",
+      "Aruba",
+      "Australia",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Estonia",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Guam",
+      "Guyana",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Martinique",
+      "Monaco",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Sint Maarten",
+      "Slovenia",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ]
+  }
+}

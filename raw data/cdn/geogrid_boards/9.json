@@ -1,0 +1,175 @@
+{
+  "grid_id": "9",
+  "rows": [
+    {
+      "name": "Has 50+ skyscrapers",
+      "id": "50_plus_skyscrapers",
+      "variantId": null
+    },
+    {
+      "name": "Borders Russia",
+      "id": "borders_x",
+      "variantId": 0
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Capital city population over 1 million",
+      "id": "capital_population_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "name": "Ends with letter A",
+      "id": "ending_letter",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "Cambodia",
+      "Canada",
+      "China",
+      "Hong Kong",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Philippines",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "United Kingdom",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Cambodia",
+      "China",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Philippines",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Cambodia",
+      "Canada",
+      "China",
+      "India",
+      "Indonesia",
+      "Malaysia",
+      "Panama",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Azerbaijan",
+      "Belarus",
+      "China",
+      "Georgia",
+      "Kazakhstan",
+      "Mongolia",
+      "North Korea",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Azerbaijan",
+      "China",
+      "Georgia",
+      "Kazakhstan",
+      "Mongolia",
+      "North Korea"
+    ],
+    "match_box_6": [
+      "China",
+      "Estonia",
+      "Georgia",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "North Korea"
+    ],
+    "match_box_7": [
+      "Cuba",
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Philippines",
+      "Singapore",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Indonesia",
+      "Japan",
+      "Maldives",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "Timor-Leste"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Bermuda",
+      "Cuba",
+      "Dominica",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Grenada",
+      "Indonesia",
+      "Jamaica",
+      "Malta",
+      "New Caledonia",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Samoa",
+      "Sri Lanka",
+      "Tonga",
+      "Wallis and Futuna"
+    ]
+  }
+}

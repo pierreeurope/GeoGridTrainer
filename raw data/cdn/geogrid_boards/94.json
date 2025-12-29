@@ -1,0 +1,171 @@
+{
+  "grid_id": "94",
+  "rows": [
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Name is 7 letters long",
+      "id": "name_length",
+      "variantId": 3
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Has never won an Olympic medal",
+      "id": "no_olympic_medals",
+      "variantId": null
+    },
+    {
+      "name": "Borders 1-2 countries",
+      "id": "borders_x_to_y",
+      "variantId": 0
+    },
+    {
+      "name": "Population under 2 million",
+      "id": "population_under_x",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Bhutan",
+      "Bolivia",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Laos",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Rwanda",
+      "South Sudan",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Bhutan",
+      "Eswatini",
+      "Lesotho",
+      "Liechtenstein",
+      "Moldova",
+      "Mongolia",
+      "Nepal",
+      "San Marino",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Bhutan",
+      "Eswatini",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "North Macedonia",
+      "San Marino",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "Andorra",
+      "Bolivia",
+      "Comoros",
+      "Curaçao",
+      "Lesotho",
+      "Liberia",
+      "Mayotte",
+      "Myanmar",
+      "Réunion",
+      "Somalia",
+      "Tokelau",
+      "Vanuatu"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Bahrain",
+      "Denmark",
+      "Ecuador",
+      "Estonia",
+      "Ireland",
+      "Lebanon",
+      "Lesotho",
+      "Moldova",
+      "Tunisia",
+      "Uruguay"
+    ],
+    "match_box_6": [
+      "Andorra",
+      "Bahamas",
+      "Bahrain",
+      "Bermuda",
+      "Comoros",
+      "Curaçao",
+      "Estonia",
+      "Grenada",
+      "Iceland",
+      "Mayotte",
+      "Réunion",
+      "Tokelau",
+      "Vanuatu"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Faroe Islands",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "Monaco",
+      "Svalbard and Jan Mayen",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Denmark",
+      "Estonia",
+      "Gibraltar",
+      "Ireland",
+      "Liechtenstein",
+      "Moldova",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "San Marino",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Estonia",
+      "Faroe Islands",
+      "Gibraltar",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Kosovo",
+      "Latvia",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "North Macedonia",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "Vatican City"
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "grid_id": "8",
+  "rows": [
+    {
+      "name": "Has won the Men's FIFA World Cup",
+      "id": "won_world_cup",
+      "variantId": null
+    },
+    {
+      "name": "Borders China",
+      "id": "borders_x",
+      "variantId": 1
+    },
+    {
+      "name": "Starts with letter S",
+      "id": "starting_letter",
+      "variantId": 13
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with red",
+      "id": "color_on_flag",
+      "variantId": 0
+    },
+    {
+      "name": "Area less than 2 million km²",
+      "id": "size_under_x",
+      "variantId": 8
+    },
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom",
+      "Uruguay"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Brazil",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Hong Kong",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Bhutan",
+      "Hong Kong",
+      "Kyrgyzstan",
+      "Laos",
+      "Macau",
+      "Mongolia",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Pakistan",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "India",
+      "Kazakhstan",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Pakistan",
+      "Russia",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Serbia",
+      "Seychelles",
+      "Singapore",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "South Korea",
+      "South Sudan",
+      "Spain",
+      "Sri Lanka",
+      "Sudan",
+      "Suriname",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "Syria"
+    ],
+    "match_box_8": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Samoa",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Serbia",
+      "Seychelles",
+      "Sierra Leone",
+      "Singapore",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Solomon Islands",
+      "Somalia",
+      "South Africa",
+      "South Georgia and the South Sandwich Islands",
+      "South Korea",
+      "South Sudan",
+      "Spain",
+      "Sri Lanka",
+      "Sudan",
+      "Suriname",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Switzerland",
+      "Syria"
+    ],
+    "match_box_9": [
+      "Saudi Arabia",
+      "Senegal",
+      "Somalia",
+      "South Africa",
+      "South Korea",
+      "South Sudan",
+      "Spain",
+      "Sri Lanka",
+      "Sudan",
+      "Sweden",
+      "Syria"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "grid_id": "88",
+  "rows": [
+    {
+      "name": "Population under 50 million",
+      "id": "population_under_x",
+      "variantId": 6
+    },
+    {
+      "name": "Human Development Index under 0.75",
+      "id": "hdi_under_x",
+      "variantId": 7
+    },
+    {
+      "name": "Flag with white",
+      "id": "color_on_flag",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Nile River system",
+      "variantId": 0
+    },
+    {
+      "name": "Starts with letter E",
+      "id": "starting_letter",
+      "variantId": 4
+    },
+    {
+      "name": "In Oceania",
+      "id": "continent",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burundi",
+      "Eritrea",
+      "Rwanda",
+      "South Sudan",
+      "Uganda"
+    ],
+    "match_box_2": [
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Estonia",
+      "Eswatini"
+    ],
+    "match_box_3": [
+      "American Samoa",
+      "Australia",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Caledonia",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Palau",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_4": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "match_box_5": [
+      "El Salvador",
+      "Equatorial Guinea",
+      "Eritrea",
+      "Eswatini",
+      "Ethiopia"
+    ],
+    "match_box_6": [
+      "Federated States of Micronesia",
+      "Fiji",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "Papua New Guinea",
+      "Samoa",
+      "Solomon Islands",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "match_box_7": [
+      "Burundi",
+      "Egypt",
+      "Kenya",
+      "South Sudan",
+      "Sudan",
+      "Uganda"
+    ],
+    "match_box_8": [
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Estonia",
+      "Eswatini"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Australia",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "United States of America",
+      "Wallis and Futuna"
+    ]
+  }
+}

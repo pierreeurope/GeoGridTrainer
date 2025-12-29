@@ -1,0 +1,192 @@
+{
+  "grid_id": "90",
+  "rows": [
+    {
+      "name": "Borders China",
+      "id": "borders_x",
+      "variantId": 1
+    },
+    {
+      "name": "Starts with letter G",
+      "id": "starting_letter",
+      "variantId": 5
+    },
+    {
+      "name": "In Oceania",
+      "id": "continent",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with red",
+      "id": "color_on_flag",
+      "variantId": 0
+    },
+    {
+      "name": "Population under 100 million",
+      "id": "population_under_x",
+      "variantId": 7
+    },
+    {
+      "name": "Fewer than 10 Olympic medals",
+      "id": "olympic_medals_under_x",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Hong Kong",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Russia",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Bhutan",
+      "Hong Kong",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Macau",
+      "Mongolia",
+      "Myanmar",
+      "Nepal",
+      "North Korea",
+      "Tajikistan"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Bhutan",
+      "Laos",
+      "Macau",
+      "Myanmar",
+      "Nepal",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Georgia",
+      "Germany",
+      "Ghana",
+      "Gibraltar",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Guam",
+      "Guatemala",
+      "Guinea",
+      "Guinea-Bissau",
+      "Guyana"
+    ],
+    "match_box_5": [
+      "Gabon",
+      "Georgia",
+      "Germany",
+      "Ghana",
+      "Gibraltar",
+      "Greece",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Guam",
+      "Guatemala",
+      "Guinea",
+      "Guinea-Bissau",
+      "Guyana"
+    ],
+    "match_box_6": [
+      "Gabon",
+      "Ghana",
+      "Gibraltar",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Guam",
+      "Guatemala",
+      "Guinea",
+      "Guinea-Bissau",
+      "Guyana"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Australia",
+      "Cook Islands",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "New Caledonia",
+      "New Zealand",
+      "Niue",
+      "Northern Mariana Islands",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Tonga",
+      "Tuvalu",
+      "United States of America",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_8": [
+      "American Samoa",
+      "Australia",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Caledonia",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Palau",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "American Samoa",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Caledonia",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Palau",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ]
+  }
+}

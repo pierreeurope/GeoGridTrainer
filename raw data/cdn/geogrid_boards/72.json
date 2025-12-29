@@ -1,0 +1,184 @@
+{
+  "grid_id": "72",
+  "rows": [
+    {
+      "name": "Capital is not the most populated city",
+      "id": "capital_not_most_populated_city",
+      "variantId": null
+    },
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    },
+    {
+      "name": "Starts with letter B",
+      "id": "starting_letter",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population under 5 million",
+      "id": "population_under_x",
+      "variantId": 3
+    },
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Belize",
+      "Bermuda",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Federated States of Micronesia",
+      "Guadeloupe",
+      "Guam",
+      "Liechtenstein",
+      "Malta",
+      "Montserrat",
+      "Nauru",
+      "Palau",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "San Marino",
+      "Sint Maarten",
+      "The Gambia",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_2": [
+      "Bolivia",
+      "Brazil",
+      "Cameroon",
+      "China",
+      "Côte d'Ivoire",
+      "India",
+      "Kazakhstan",
+      "Myanmar",
+      "South Africa",
+      "Switzerland",
+      "Tanzania",
+      "Türkiye"
+    ],
+    "match_box_3": [
+      "Bolivia",
+      "Burundi",
+      "Kazakhstan",
+      "Liechtenstein",
+      "San Marino",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "American Samoa",
+      "Antigua and Barbuda",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Cabo Verde",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Equatorial Guinea",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Federated States of Micronesia",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guinea-Bissau",
+      "Heard Island and McDonald Islands",
+      "Isle of Man",
+      "Marshall Islands",
+      "New Caledonia",
+      "Norfolk Island",
+      "North Macedonia",
+      "Northern Mariana Islands",
+      "Pitcairn Islands",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "San Marino",
+      "São Tomé and Príncipe",
+      "Sint Maarten",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Svalbard and Jan Mayen",
+      "The Gambia",
+      "Timor-Leste",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "Vatican City",
+      "Wallis and Futuna",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Burkina Faso",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "North Macedonia",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "South Africa",
+      "South Sudan"
+    ],
+    "match_box_6": [
+      "Burkina Faso",
+      "Central African Republic",
+      "North Macedonia",
+      "San Marino",
+      "South Sudan",
+      "Vatican City"
+    ],
+    "match_box_7": [
+      "Bahamas",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Brunei"
+    ],
+    "match_box_8": [
+      "Belarus",
+      "Bolivia",
+      "Brazil",
+      "Bulgaria",
+      "Burkina Faso"
+    ],
+    "match_box_9": [
+      "Belarus",
+      "Bhutan",
+      "Bolivia",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi"
+    ]
+  }
+}

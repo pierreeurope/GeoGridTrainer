@@ -1,0 +1,167 @@
+{
+  "grid_id": "89",
+  "rows": [
+    {
+      "name": "Borders Russia",
+      "id": "borders_x",
+      "variantId": 0
+    },
+    {
+      "name": "More than 300 Olympic medals",
+      "id": "olympic_medals_over_x",
+      "variantId": 7
+    },
+    {
+      "name": "Starts with letter B",
+      "id": "starting_letter",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "Flag with red",
+      "id": "color_on_flag",
+      "variantId": 0
+    },
+    {
+      "name": "Capital city population over 500k",
+      "id": "capital_population_over_x",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Azerbaijan",
+      "China",
+      "Kazakhstan",
+      "North Korea",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Belarus",
+      "China",
+      "Georgia",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "North Korea",
+      "Norway",
+      "Poland"
+    ],
+    "match_box_3": [
+      "Azerbaijan",
+      "Belarus",
+      "China",
+      "Finland",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "North Korea",
+      "Norway",
+      "Poland",
+      "Ukraine"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Korea",
+      "Sweden",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Austria",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Korea",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Canada",
+      "China",
+      "Finland",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "Norway",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Korea",
+      "Sweden",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Bangladesh",
+      "Belgium",
+      "Benin",
+      "Bolivia",
+      "Brazil",
+      "Burkina Faso",
+      "Burundi"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Bangladesh",
+      "Belarus",
+      "Belgium",
+      "Belize",
+      "Benin",
+      "Bermuda",
+      "Bolivia",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Brunei",
+      "Bulgaria",
+      "Burkina Faso",
+      "Burundi"
+    ],
+    "match_box_9": [
+      "Bangladesh",
+      "Belarus",
+      "Belgium",
+      "Bolivia",
+      "Brazil",
+      "Bulgaria",
+      "Burkina Faso"
+    ]
+  }
+}

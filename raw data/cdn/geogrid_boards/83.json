@@ -1,0 +1,162 @@
+{
+  "grid_id": "83",
+  "rows": [
+    {
+      "name": "Borders Brazil",
+      "id": "borders_x",
+      "variantId": 2
+    },
+    {
+      "name": "In North America",
+      "id": "continent",
+      "variantId": 3
+    },
+    {
+      "name": "Capital city population over 5 million",
+      "id": "capital_population_over_x",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Ends with letter A",
+      "id": "ending_letter",
+      "variantId": 0
+    },
+    {
+      "name": "Fewer than 10 Olympic medals",
+      "id": "olympic_medals_under_x",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Bolivia",
+      "French Guiana",
+      "Paraguay",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Bolivia",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname"
+    ],
+    "match_box_4": [
+      "Antigua and Barbuda",
+      "Cayman Islands",
+      "Cuba",
+      "Dominica",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Honduras",
+      "Panama",
+      "Puerto Rico",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Sint Maarten",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Bermuda",
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "Dominica",
+      "Grenada",
+      "Guatemala",
+      "Jamaica",
+      "Nicaragua",
+      "Panama",
+      "Saint Lucia",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Barbados",
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Costa Rica",
+      "Dominica",
+      "El Salvador",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Martinique",
+      "Montserrat",
+      "Nicaragua",
+      "Panama",
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_7": [
+      "Bangladesh",
+      "Chile",
+      "China",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Ghana",
+      "Hong Kong",
+      "Japan",
+      "Singapore",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "China",
+      "Colombia",
+      "Ethiopia",
+      "Ghana",
+      "Indonesia",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea"
+    ],
+    "match_box_9": [
+      "Bangladesh",
+      "Democratic Republic of the Congo",
+      "Ghana",
+      "Iraq",
+      "Peru",
+      "Saudi Arabia",
+      "Singapore",
+      "Sudan",
+      "Vietnam"
+    ]
+  }
+}

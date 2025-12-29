@@ -1,0 +1,179 @@
+{
+  "grid_id": "84",
+  "rows": [
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    },
+    {
+      "name": "Population under 1 million",
+      "id": "population_under_x",
+      "variantId": 1
+    },
+    {
+      "name": "Capital city population under 100k",
+      "id": "captial_population_under_x",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Human Development Index under 0.7",
+      "id": "hdi_under_x",
+      "variantId": 6
+    },
+    {
+      "name": "In Oceania",
+      "id": "continent",
+      "variantId": 6
+    },
+    {
+      "name": "Name is 5 letters long",
+      "id": "name_length",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Cabo Verde",
+      "Comoros",
+      "Federated States of Micronesia",
+      "Haiti",
+      "Kiribati",
+      "Madagascar",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "Timor-Leste",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "match_box_2": [
+      "American Samoa",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Caledonia",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Palau",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "Åland",
+      "Aruba",
+      "Haiti",
+      "Japan",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Samoa",
+      "Tonga"
+    ],
+    "match_box_4": [
+      "Bhutan",
+      "Cabo Verde",
+      "Comoros",
+      "Federated States of Micronesia",
+      "Kiribati",
+      "Saint Barthélemy",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "Tuvalu",
+      "Vanuatu",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "American Samoa",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Caledonia",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Palau",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Aruba",
+      "Macau",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Samoa",
+      "Tonga"
+    ],
+    "match_box_7": [
+      "Eswatini",
+      "Federated States of Micronesia",
+      "Kiribati",
+      "Saint Barthélemy",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "The Gambia",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "match_box_8": [
+      "American Samoa",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "Guam",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Caledonia",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Palau",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Åland",
+      "Aruba",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Samoa",
+      "Tonga"
+    ]
+  }
+}

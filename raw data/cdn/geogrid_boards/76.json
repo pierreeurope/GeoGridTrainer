@@ -1,0 +1,172 @@
+{
+  "grid_id": "76",
+  "rows": [
+    {
+      "id": "commonwealth_member",
+      "name": "Member of the Commonwealth",
+      "variantId": null
+    },
+    {
+      "name": "Starts with letter S",
+      "id": "starting_letter",
+      "variantId": 13
+    },
+    {
+      "name": "Name is 8 letters long",
+      "id": "name_length",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "More than 10 Olympic medals",
+      "id": "olympic_medals_over_x",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "India",
+      "Malaysia",
+      "Maldives",
+      "Pakistan",
+      "Singapore",
+      "Sri Lanka"
+    ],
+    "match_box_2": [
+      "Antigua and Barbuda",
+      "Australia",
+      "Bangladesh",
+      "Cameroon",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Ghana",
+      "Grenada",
+      "Heard Island and McDonald Islands",
+      "Kiribati",
+      "Malawi",
+      "Malaysia",
+      "Mozambique",
+      "Namibia",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "Pakistan",
+      "Papua New Guinea",
+      "Rwanda",
+      "Saint Kitts and Nevis",
+      "Samoa",
+      "Singapore",
+      "Solomon Islands",
+      "Togo",
+      "Tokelau",
+      "Tuvalu"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Bahamas",
+      "Canada",
+      "India",
+      "Jamaica",
+      "Kenya",
+      "Malaysia",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Trinidad and Tobago",
+      "Uganda",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Sri Lanka",
+      "Syria"
+    ],
+    "match_box_5": [
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Singapore",
+      "Sint Maarten",
+      "Slovenia",
+      "Solomon Islands",
+      "Somalia",
+      "South Sudan",
+      "Suriname",
+      "Syria"
+    ],
+    "match_box_6": [
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland"
+    ],
+    "match_box_7": [
+      "Cambodia",
+      "Hong Kong",
+      "Malaysia",
+      "Maldives",
+      "Mongolia",
+      "Pakistan",
+      "Sri Lanka",
+      "Thailand"
+    ],
+    "match_box_8": [
+      "Cameroon",
+      "Djibouti",
+      "Dominica",
+      "Ethiopia",
+      "Honduras",
+      "Hong Kong",
+      "Kiribati",
+      "Malaysia",
+      "Mongolia",
+      "Pakistan",
+      "Paraguay",
+      "Slovenia",
+      "Suriname",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Bulgaria",
+      "Colombia",
+      "Ethiopia",
+      "Hong Kong",
+      "Malaysia",
+      "Mongolia",
+      "Pakistan",
+      "Portugal",
+      "Slovakia",
+      "Slovenia",
+      "Thailand"
+    ]
+  }
+}

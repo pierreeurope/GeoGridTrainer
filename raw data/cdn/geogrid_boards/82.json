@@ -1,0 +1,192 @@
+{
+  "grid_id": "82",
+  "rows": [
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Population under 10 million",
+      "id": "population_under_x",
+      "variantId": 4
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Human Development Index over 0.9",
+      "id": "hdi_over_x",
+      "variantId": 10
+    },
+    {
+      "name": "Ends with letter N",
+      "id": "ending_letter",
+      "variantId": 6
+    },
+    {
+      "name": "Arabic is an official language",
+      "id": "official_language",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Aruba",
+      "Australia",
+      "Cayman Islands",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "Macau",
+      "New Zealand",
+      "Singapore",
+      "Slovenia",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Azerbaijan",
+      "Cameroon",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Pakistan",
+      "Saint Martin",
+      "Sint Maarten",
+      "South Sudan",
+      "Taiwan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Comoros",
+      "Djibouti",
+      "Jordan",
+      "Libya",
+      "Mauritania",
+      "Morocco",
+      "Somalia",
+      "Syria",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_4": [
+      "Åland",
+      "Andorra",
+      "Aruba",
+      "Austria",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Cyprus",
+      "Denmark",
+      "Estonia",
+      "Faroe Islands",
+      "Finland",
+      "Gibraltar",
+      "Guam",
+      "Hong Kong",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Malta",
+      "Martinique",
+      "Monaco",
+      "New Zealand",
+      "Norfolk Island",
+      "Norway",
+      "San Marino",
+      "Singapore",
+      "Slovenia",
+      "Svalbard and Jan Mayen",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Bahrain",
+      "Bhutan",
+      "Gabon",
+      "Isle of Man",
+      "Kyrgyzstan",
+      "Lebanon",
+      "Liechtenstein",
+      "Oman",
+      "Réunion",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "Turkmenistan"
+    ],
+    "match_box_6": [
+      "Bahrain",
+      "Comoros",
+      "Djibouti",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Mauritania",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Western Sahara"
+    ],
+    "match_box_7": [
+      "Cyprus",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "Macau",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "United Arab Emirates"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bahrain",
+      "Bhutan",
+      "Iran",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Lebanon",
+      "Oman",
+      "Pakistan",
+      "Taiwan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Syria",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  }
+}

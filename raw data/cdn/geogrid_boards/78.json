@@ -1,0 +1,150 @@
+{
+  "grid_id": "78",
+  "rows": [
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Area less than 100,000 km²",
+      "id": "size_under_x",
+      "variantId": 4
+    },
+    {
+      "name": "Population under 10 million",
+      "id": "population_under_x",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "name": "Arabic is an official language",
+      "id": "official_language",
+      "variantId": 0
+    },
+    {
+      "name": "Name is 5 letters long",
+      "id": "name_length",
+      "variantId": 1
+    },
+    {
+      "name": "Spanish is an official language",
+      "id": "official_language",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Comoros",
+      "Djibouti",
+      "Jordan",
+      "Libya",
+      "Mauritania",
+      "Morocco",
+      "Somalia",
+      "Syria",
+      "Tunisia",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Aruba",
+      "Chile",
+      "China",
+      "Ghana",
+      "Japan",
+      "Libya",
+      "Macau",
+      "Nauru",
+      "Nepal",
+      "Samoa",
+      "Syria"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Cuba",
+      "Ecuador",
+      "Equatorial Guinea",
+      "Honduras",
+      "Panama",
+      "Paraguay",
+      "Puerto Rico",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_4": [
+      "Bahrain",
+      "Comoros",
+      "Djibouti",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Palestine",
+      "Qatar",
+      "United Arab Emirates"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Aruba",
+      "Haiti",
+      "Macau",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Qatar",
+      "Samoa",
+      "Tonga"
+    ],
+    "match_box_6": [
+      "Costa Rica",
+      "Dominican Republic",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Panama",
+      "Puerto Rico"
+    ],
+    "match_box_7": [
+      "Bahrain",
+      "Comoros",
+      "Djibouti",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Mauritania",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Aruba",
+      "Gabon",
+      "Libya",
+      "Macau",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Qatar",
+      "Samoa",
+      "Tonga"
+    ],
+    "match_box_9": [
+      "Costa Rica",
+      "Cuba",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Honduras",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Puerto Rico",
+      "Uruguay",
+      "Western Sahara"
+    ]
+  }
+}

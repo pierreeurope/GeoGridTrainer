@@ -1,0 +1,193 @@
+{
+  "grid_id": "93",
+  "rows": [
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    },
+    {
+      "name": "Capital city population under 1 million",
+      "id": "captial_population_under_x",
+      "variantId": 4
+    },
+    {
+      "name": "Ends with letter N",
+      "id": "ending_letter",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    },
+    {
+      "name": "Human Development Index over 0.9",
+      "id": "hdi_over_x",
+      "variantId": 10
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Hong Kong",
+      "North Korea",
+      "Saudi Arabia",
+      "South Korea",
+      "Sri Lanka",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_2": [
+      "Burkina Faso",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "North Macedonia",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "South Africa",
+      "South Sudan"
+    ],
+    "match_box_3": [
+      "Bailiwick of Guernsey",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Faroe Islands",
+      "Hong Kong",
+      "Isle of Man",
+      "New Zealand",
+      "Norfolk Island",
+      "San Marino",
+      "South Korea",
+      "Svalbard and Jan Mayen",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Bahrain",
+      "Bhutan",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "India",
+      "Israel",
+      "Laos",
+      "Macau",
+      "Malaysia",
+      "Maldives",
+      "Myanmar",
+      "Nepal",
+      "Palestine",
+      "Sri Lanka",
+      "Timor-Leste"
+    ],
+    "match_box_5": [
+      "Bolivia",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Croatia",
+      "India",
+      "Israel",
+      "Laos",
+      "Montenegro",
+      "Myanmar",
+      "North Macedonia",
+      "Slovakia",
+      "South Africa",
+      "South Sudan",
+      "Switzerland",
+      "Tanzania"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Andorra",
+      "Aruba",
+      "Australia",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Cyprus",
+      "Estonia",
+      "Faroe Islands",
+      "Finland",
+      "Gibraltar",
+      "Greece",
+      "Guam",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Israel",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Malta",
+      "Martinique",
+      "Monaco",
+      "Netherlands",
+      "New Zealand",
+      "Norfolk Island",
+      "Norway",
+      "San Marino",
+      "Slovenia",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Switzerland",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bahrain",
+      "Bhutan",
+      "Iran",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Lebanon",
+      "Oman",
+      "Pakistan",
+      "Taiwan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Cameroon",
+      "Iran",
+      "Jordan",
+      "Kazakhstan",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Isle of Man",
+      "Japan",
+      "Liechtenstein",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "Taiwan"
+    ]
+  }
+}
