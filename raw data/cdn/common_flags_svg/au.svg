@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 640">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 426.67;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-width: 64px;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-7 {
+        fill: #012169;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        stroke-width: 42.67px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #c8102e;
+      }
+
+      .cls-9 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke-width: 106.67px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-9" width="640" height="320"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <path class="cls-9" d="m0,0v160h640v160h0L0,0Zm640,0h-320v320H0L640,0Z"/>
+    </clipPath>
+  </defs>
+  <g>
+    <rect class="cls-7" width="1280" height="640"/>
+    <g class="cls-8">
+      <path class="cls-2" d="m0,0l640,320m0-320L0,320"/>
+    </g>
+    <g class="cls-6">
+      <path class="cls-3" d="m0,0l640,320m0-320L0,320"/>
+    </g>
+    <path class="cls-5" d="m320,0v320M0,160h640"/>
+    <path class="cls-4" d="m320,0v320M0,160h640"/>
+  </g>
+  <g>
+    <g id="Comwlth">
+      <path id="Star7" class="cls-1" d="m320,384l18.51,57.56,56.54-21.41-33.46,50.36,52,30.86-60.23,5.24,8.29,59.89-41.65-43.83-41.65,43.83,8.29-59.89-60.23-5.24,52-30.86-33.46-50.36,56.54,21.41,18.51-57.56Z"/>
+    </g>
+    <g id="_αCrucis" data-name="αCrucis">
+      <path id="Star7-2" data-name="Star7" class="cls-1" d="m960,487.62l8.82,27.41,26.93-10.2-15.93,23.98,24.76,14.69-28.68,2.5,3.95,28.52-19.83-20.87-19.83,20.87,3.95-28.52-28.68-2.5,24.76-14.69-15.93-23.98,26.93,10.2,8.82-27.41Z"/>
+    </g>
+    <g id="_βCrucis" data-name="βCrucis">
+      <path id="Star7-3" data-name="Star7" class="cls-1" d="m800,234.29l8.82,27.41,26.93-10.2-15.93,23.98,24.76,14.69-28.68,2.5,3.95,28.52-19.83-20.87-19.83,20.87,3.95-28.52-28.68-2.5,24.76-14.69-15.93-23.98,26.93,10.2,8.82-27.41Z"/>
+    </g>
+    <g id="_γCrucis" data-name="γCrucis">
+      <path id="Star7-4" data-name="Star7" class="cls-1" d="m960,60.95l8.82,27.41,26.93-10.2-15.93,23.98,24.76,14.69-28.68,2.5,3.95,28.52-19.83-20.87-19.83,20.87,3.95-28.52-28.68-2.5,24.76-14.69-15.93-23.98,26.93,10.2,8.82-27.41Z"/>
+    </g>
+    <g id="_δCrucis" data-name="δCrucis">
+      <path id="Star7-5" data-name="Star7" class="cls-1" d="m1102.22,191.62l8.82,27.41,26.93-10.2-15.93,23.98,24.76,14.69-28.68,2.5,3.95,28.52-19.83-20.87-19.83,20.87,3.95-28.52-28.68-2.5,24.76-14.69-15.93-23.98,26.93,10.2,8.82-27.41Z"/>
+    </g>
+    <g id="_εCrucis" data-name="εCrucis">
+      <path id="Star5" class="cls-1" d="m1024,320l6.97,17.08,18.4,1.35-14.09,11.9,4.4,17.91-15.67-9.72-15.67,9.72,4.4-17.91-14.09-11.9,18.4-1.35,6.97-17.08Z"/>
+    </g>
+  </g>
+</svg>

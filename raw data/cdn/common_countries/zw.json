@@ -1,0 +1,130 @@
+{
+  "code": "ZW",
+  "latitude": -19.015438,
+  "longitude": 29.154857,
+  "name": "Zimbabwe",
+  "names": {
+    "de": "Simbabwe",
+    "ja": "ジンバブエ",
+    "es": "Zimbabue",
+    "ie": "An tSiombáib"
+  },
+  "flags": [
+    "sz",
+    "bw",
+    "ls",
+    "zw",
+    "mz",
+    "za",
+    "zm",
+    "mw"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "bw",
+    "mz",
+    "za",
+    "zm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Zimbabwe",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Zimbabwe/@-19.015438,29.154857,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "ZWG",
+    "name": "ZiG",
+    "nameChoices": [
+      "Shilling",
+      "Gourde",
+      "Metical"
+    ]
+  },
+  "population": 16868409,
+  "size": 390757,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Zimbabwe#Main_languages:~:text=The%20country%27s%20main%20languages%20are%20Shona%2C%20spoken%20by%20over%2082%25%20of%20the%20population%2C%20and%20Ndebele%2C%20spoken%20by%20roughly%2015%25."
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "sna",
+        "percentage": 82
+      },
+      {
+        "languageCode": "nde",
+        "percentage": 15
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 7225585953.31,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 2252280645.08
+      },
+      {
+        "productCode": "24",
+        "value": 1297280018.44
+      },
+      {
+        "productCode": "75",
+        "value": 989698455.54
+      },
+      {
+        "productCode": "25",
+        "value": 922114682.75
+      },
+      {
+        "productCode": "26",
+        "value": 735063202.14
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/JCFpOA5gnRA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/pond-field-mountains-trees-meadow-6075837/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/water-falls-on-brown-rocky-mountain-during-daytime-xsypL99HP3Q"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-scenery-hLXnoE4TLSI"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-body-of-water-surrounded-by-trees-and-clouds-hSdX08KTwk8"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-grassy-field-with-a-mountain-in-the-background-LozNVrK-dJU"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 3070,
+  "gdpPerCapitaYear": 2025
+}
