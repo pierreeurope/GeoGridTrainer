@@ -1,0 +1,124 @@
+{
+  "code": "QA",
+  "latitude": 25.354826,
+  "longitude": 51.183884,
+  "name": "Qatar",
+  "names": {
+    "hu": "Katar",
+    "pl": "Katar",
+    "de": "Katar",
+    "ja": "カタール",
+    "es": "Catar",
+    "pt": "Catar",
+    "ie": "Catar"
+  },
+  "flags": [
+    "kw",
+    "sa",
+    "ir",
+    "ae",
+    "bh",
+    "om",
+    "qa",
+    "ye"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "sa"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Qatar",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Qatar/@25.354826,51.183884,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "QAR",
+    "name": "Riyal",
+    "nameChoices": [
+      "Dinar",
+      "Guarani",
+      "Dollar"
+    ]
+  },
+  "population": 3173024,
+  "size": 11000,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Qatar"
+      },
+      {
+        "title": "WorldAtlas",
+        "url": "https://www.worldatlas.com/articles/what-languages-are-spoken-in-qatar.html"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "fas"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 97751493996.069,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 84595541756.834
+      },
+      {
+        "productCode": "39",
+        "value": 2762992567.062
+      },
+      {
+        "productCode": "31",
+        "value": 1848848762.156
+      },
+      {
+        "productCode": "76",
+        "value": 1790943402.226
+      },
+      {
+        "productCode": "28",
+        "value": 1111767087.447
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/Do6yoytec5E"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/skyscrapers-building-architectural-3850732/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/boats-in-the-water-1UF8ddEalwk"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-tall-blue-building-with-palm-trees-in-front-of-it-huzHfOPHgXY"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 71650,
+  "gdpPerCapitaYear": 2025
+}

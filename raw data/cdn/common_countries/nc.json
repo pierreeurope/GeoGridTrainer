@@ -1,0 +1,129 @@
+{
+  "code": "NC",
+  "latitude": -20.904305,
+  "longitude": 165.618042,
+  "name": "New Caledonia",
+  "names": {
+    "fr": "Nouvelle-Calédonie",
+    "hu": "Új-Kaledónia",
+    "nl": "Nieuw-Caledonië",
+    "pl": "Nowa Kaledonia",
+    "de": "Neukaledonien",
+    "ja": "ニューカレドニア",
+    "co": "Nova Calidonia",
+    "es": "Nueva Caledonia",
+    "pt": "Nova Caledônia",
+    "eu": "Kaledonia Berria",
+    "ie": "An Nua-Chaladóin"
+  },
+  "flags": [
+    "sb",
+    "fj",
+    "to",
+    "nf",
+    "wf",
+    "tv",
+    "nc",
+    "vu"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "vu",
+    "nf",
+    "sb",
+    "fj",
+    "au",
+    "pg"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/New_Caledonia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/New%20Caledonia/@-20.904305,165.618042,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XPF",
+    "name": "Franc",
+    "nameChoices": [
+      "Dollar",
+      "Vatu",
+      "Tala"
+    ]
+  },
+  "population": 271407,
+  "size": 18575,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_New_Caledonia"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra"
+      },
+      {
+        "languageCode": "pri"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2015,
+    "totalValue": 1238945615,
+    "topExports": [
+      {
+        "productCode": "72",
+        "value": 606764511
+      },
+      {
+        "productCode": "26",
+        "value": 237107695
+      },
+      {
+        "productCode": "75",
+        "value": 225417646
+      },
+      {
+        "productCode": "28",
+        "value": 73859616
+      },
+      {
+        "productCode": "99",
+        "value": 18046889
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/KDABcgfxFEM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/new-caledonia-landscape-riverbed-101389/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-large-body-of-water-with-a-building-in-the-background-g9TYsgqVZEI"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-hill-EyaW2XMu7qM"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapitaYear": 2019,
+  "gdpPerCapita": 34939
+}

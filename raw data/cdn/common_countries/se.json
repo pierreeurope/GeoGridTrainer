@@ -1,0 +1,126 @@
+{
+  "code": "SE",
+  "latitude": 60.128161,
+  "longitude": 18.643501,
+  "name": "Sweden",
+  "names": {
+    "fr": "Suède",
+    "hu": "Svédország",
+    "nl": "Zweden",
+    "pl": "Szwecja",
+    "de": "Schweden",
+    "ja": "スウェーデン",
+    "co": "Svezia",
+    "es": "Suecia",
+    "pt": "Suécia",
+    "eu": "Suedia",
+    "ie": "An tSualainn"
+  },
+  "flags": [
+    "lv",
+    "ee",
+    "dk",
+    "no",
+    "se",
+    "by",
+    "lt",
+    "fi"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "fi",
+    "no",
+    "dk"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Sweden",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Sweden/@60.128161,18.643501,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SEK",
+    "name": "Krona",
+    "nameChoices": [
+      "Euro",
+      "Pound",
+      "Krone"
+    ]
+  },
+  "population": 10588230,
+  "size": 449964,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Sweden"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "swe"
+      },
+      {
+        "languageCode": "fin"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 197797041971.715,
+    "topExports": [
+      {
+        "productCode": "84",
+        "value": 28781504000.469
+      },
+      {
+        "productCode": "87",
+        "value": 27617810620.01
+      },
+      {
+        "productCode": "85",
+        "value": 17244369145.651
+      },
+      {
+        "productCode": "27",
+        "value": 14769354663.673
+      },
+      {
+        "productCode": "30",
+        "value": 13588944384.444
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/58X3XfxxevU"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/sweden-clouds-travel-scenery-4104028/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/landscape-photography-of-shacks-near-body-of-water-L7pz0YUnKdg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/body-of-water-between-trees-under-cloudy-sky-rB7-LCa_diU"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 58100,
+  "gdpPerCapitaYear": 2025
+}

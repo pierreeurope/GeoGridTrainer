@@ -1,0 +1,137 @@
+{
+  "code": "NP",
+  "latitude": 28.394857,
+  "longitude": 84.124008,
+  "name": "Nepal",
+  "names": {
+    "fr": "Népal",
+    "hu": "Nepál",
+    "ja": "ネパール",
+    "co": "Nepale",
+    "ie": "Neipeal"
+  },
+  "flags": [
+    "bd",
+    "in",
+    "mm",
+    "kg",
+    "cn",
+    "pk",
+    "np",
+    "bt"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "cn",
+    "in"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Nepal",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Nepal/@28.394857,84.124008,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "NPR",
+    "name": "Rupee",
+    "nameChoices": [
+      "Baht",
+      "Rial",
+      "Tenge"
+    ]
+  },
+  "population": 31122387,
+  "size": 147181,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "nep",
+        "percentage": 44.9
+      },
+      {
+        "languageCode": "mai",
+        "percentage": 11.1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 1300469756.499,
+    "topExports": [
+      {
+        "productCode": "15",
+        "value": 392173039.997
+      },
+      {
+        "productCode": "55",
+        "value": 102700234.594
+      },
+      {
+        "productCode": "09",
+        "value": 90459650.08
+      },
+      {
+        "productCode": "57",
+        "value": 89062788.19
+      },
+      {
+        "productCode": "62",
+        "value": 57825245.035
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/2bxAoXcfwwM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/mount-everest-mountains-trekking-6395759/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-car-on-road-near-green-mountains-during-daytime-_5-GEPZoza4"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-trees-and-mountains-under-blue-sky-during-daytime-8__IZFB9AD8"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/assorted-color-of-apparel-hanged-below-creek-across-glacier-mountain-dstd4DoLQ90"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/woman-waking-away-front-the-hanging-decor-Y3u0xBXhGtY"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Sagarmatha_Everest_Zone,_Nepal,_Himalayas.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:160322-066_View_from_Thiri.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1381,
+  "gdpPerCapitaYear": 2024
+}

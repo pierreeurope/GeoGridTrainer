@@ -1,0 +1,128 @@
+{
+  "code": "MZ",
+  "latitude": -18.665695,
+  "longitude": 35.529562,
+  "name": "Mozambique",
+  "names": {
+    "hu": "Mozambik",
+    "pl": "Mozambik",
+    "de": "Mosambik",
+    "ja": "モザンビーク",
+    "co": "Mozambicu",
+    "pt": "Moçambique",
+    "eu": "Mozambike",
+    "ie": "Mósaimbíc"
+  },
+  "flags": [
+    "za",
+    "mz",
+    "zm",
+    "mg",
+    "sz",
+    "tz",
+    "zw",
+    "mw"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "mw",
+    "sz",
+    "za",
+    "tz",
+    "zm",
+    "zw"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Mozambique",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Mozambique/@-18.665695,35.529562,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MZN",
+    "name": "Metical",
+    "nameChoices": [
+      "Dollar",
+      "Som",
+      "Birr"
+    ]
+  },
+  "population": 34881007,
+  "size": 801590,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "vmw",
+        "percentage": 26.1
+      },
+      {
+        "languageCode": "por",
+        "percentage": 16.6
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 8275973000,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 4768080000
+      },
+      {
+        "productCode": "76",
+        "value": 1275503000
+      },
+      {
+        "productCode": "26",
+        "value": 516537000
+      },
+      {
+        "productCode": "12",
+        "value": 278084000
+      },
+      {
+        "productCode": "71",
+        "value": 260551000
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/LbhNj3qARcM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/african-women-walking-along-road-2983081/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/sailboat-on-sea-during-daytime-gO3uzl86USU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-large-white-building-sitting-on-the-side-of-a-road-Ak9PXE6QCPo"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 663,
+  "gdpPerCapitaYear": 2025
+}

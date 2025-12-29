@@ -1,0 +1,137 @@
+{
+  "code": "MT",
+  "latitude": 35.937496,
+  "longitude": 14.375416,
+  "name": "Malta",
+  "names": {
+    "fr": "Malte",
+    "hu": "Málta",
+    "ja": "マルタ",
+    "ie": "Málta"
+  },
+  "flags": [
+    "al",
+    "tn",
+    "me",
+    "va",
+    "it",
+    "gr",
+    "mt",
+    "mk"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "it",
+    "ly",
+    "tn"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Malta",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Malta/@35.937496,14.375416,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Pound",
+      "Lira",
+      "Dinar"
+    ]
+  },
+  "population": 519562,
+  "size": 316,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "mlt",
+        "percentage": 90.1
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 6
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 3466576103.437,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 1227908423.438
+      },
+      {
+        "productCode": "30",
+        "value": 405570582.465
+      },
+      {
+        "productCode": "49",
+        "value": 344256802.047
+      },
+      {
+        "productCode": "03",
+        "value": 211337835.696
+      },
+      {
+        "productCode": "27",
+        "value": 186435051.607
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/dWK5VEPIVwk"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/popeye-village-malta-architecture-4158038/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/blue-and-yellow-boat-on-water-near-brown-concrete-building-during-daytime-3F904UCiZGw"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/high-angle-view-of-body-of-water-Exf495AtWZI"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/blue-ocean-water-surrounded-mountain-under-blue-and-white-cloudy-sky-RZC_fPZ5-AA"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/50141659@N00/52285795630/in/photolist-2nEjnr1-JaJ8wT-2opxkQ6-oJ3Qg6-ePVNSU-2maS65b-2jKvgbq-2aJv2Ej-2jKprSh-2opiQk7-JHVLCx-As98hr-oZ5za9-X5sn7Y-QYZST-2nX4xGa-8zB7Q8-3phgpu-9NZ22g-2jKLC3f-a2Znru-BY7Lvw-KSQTP7-2oXswp-25rqJhn-aDBz12-7WGh6T-wJMFQ-2nR46i2-q3bBze-69gS29-CpVioh-2ne86W8-Hiw6wG-2oXsva-8rVvkk-a7NLjr-edY5Sv-7ryDkk-7rCwDU-b3Vus-2a4YrAp-7rCKWN-8Daon1-7vY1i2-a7REHY-a7NMfM-a7NMJD-q3ugzE-etCEc8"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Malta_Gozo_Ta_Pinu_BW_2011-10-08_10-18-54.JPG"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Saint_Christopher_Street_in_Valletta_(32711).jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 41738,
+  "gdpPerCapitaYear": 2024
+}

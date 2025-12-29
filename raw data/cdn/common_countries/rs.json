@@ -1,0 +1,129 @@
+{
+  "code": "RS",
+  "latitude": 44.016521,
+  "longitude": 21.005859,
+  "name": "Serbia",
+  "names": {
+    "fr": "Serbie",
+    "hu": "Szerbia",
+    "nl": "Servië",
+    "de": "Serbien",
+    "ja": "セルビア",
+    "pt": "Sérvia",
+    "ie": "An tSeirbia"
+  },
+  "flags": [
+    "ro",
+    "mk",
+    "hu",
+    "bg",
+    "me",
+    "ba",
+    "rs",
+    "hr"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "ba",
+    "bg",
+    "hr",
+    "hu",
+    "me",
+    "mk",
+    "ro",
+    "xk"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Serbia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Serbia/@44.016521,21.005859,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "RSD",
+    "name": "Dinar",
+    "nameChoices": [
+      "Euro",
+      "Ruble",
+      "Lev"
+    ]
+  },
+  "population": 6567783,
+  "size": 88361,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "srp",
+        "percentage": 88.1
+      },
+      {
+        "languageCode": "hun",
+        "percentage": 3.4
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 30934596154,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 5105534544
+      },
+      {
+        "productCode": "84",
+        "value": 2646802547
+      },
+      {
+        "productCode": "27",
+        "value": 1880394478
+      },
+      {
+        "productCode": "26",
+        "value": 1552058194
+      },
+      {
+        "productCode": "39",
+        "value": 1309305084
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/xHnomVS0SiU"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/%c4%91erdap-serbia-castle-river-old-2129567/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-MyYE8w1Qgeo"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-lake-surrounded-by-snow-covered-hills-and-trees-5dQdruCugWs"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 14175,
+  "gdpPerCapitaYear": 2025
+}

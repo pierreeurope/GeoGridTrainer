@@ -1,0 +1,136 @@
+{
+  "code": "MR",
+  "latitude": 21.00789,
+  "longitude": -10.940835,
+  "name": "Mauritania",
+  "names": {
+    "fr": "Mauritanie",
+    "hu": "Mauritánia",
+    "nl": "Mauritanië",
+    "pl": "Mauretania",
+    "de": "Mauretanien",
+    "ja": "モーリタニア",
+    "pt": "Mauritânia",
+    "ie": "An Mháratáin"
+  },
+  "flags": [
+    "eh",
+    "dz",
+    "sn",
+    "mr",
+    "ml",
+    "gm",
+    "cv",
+    "gw"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "dz",
+    "ml",
+    "sn",
+    "eh"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Mauritania",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Mauritania/@21.00789,-10.940835,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MRU",
+    "name": "Ouguiya",
+    "nameChoices": [
+      "Franc",
+      "Dollar",
+      "Metical"
+    ]
+  },
+  "population": 4328040,
+  "size": 1025520,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Mauritania"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "fuc"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 3778018558.884,
+    "topExports": [
+      {
+        "productCode": "26",
+        "value": 1479125584.419
+      },
+      {
+        "productCode": "71",
+        "value": 1169248635.294
+      },
+      {
+        "productCode": "03",
+        "value": 886487071.451
+      },
+      {
+        "productCode": "23",
+        "value": 125333454.801
+      },
+      {
+        "productCode": "15",
+        "value": 25952546.084
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/0xFA04r_0ds"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/desert-camels-arab-mauritania-733728/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/person-standing-at-the-edge-of-a-rock-mountain-facing-the-mountains-during-day-0xFA04r_0ds"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/woman-sitting-inside-room-rYqm_OZaZrU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/127571429@N04/31809482255/in/photolist-Pem1tz-QhAA4z-QeSnVd-QpADjf-QhAzBc-Pem1ma-QpAFQN-QhAymM-QsTURe-Pem14M-QpACQE-QhAAHa-Pem1hH-QpAFBb-2njJoE9-QsTVbn-QpADxS-Pem1eX-Pem1wR-QpADru-QpAFtf-QhAAbP-Pem1xT-QpAE27-QhAyv4-Pem1DV-QpAGK3-PTYgkf-QpADUJ-QpAFNd-QpABRA-QhAyeH-QpADks-QpAC7A-Pem1zX-PbAXyL-QpABTj-QhAzvv-QpADyU-QpADFC-Pem1kt-QpADWC-QpADCb-QpACqG-QpADNm-QsTSk2-Pem17T-Pem1c2-PekZY6-QpADFN"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-herd-of-camel-standing-next-to-each-other-mvTggVGxfK4"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2480,
+  "gdpPerCapitaYear": 2025
+}

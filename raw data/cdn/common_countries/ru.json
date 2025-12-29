@@ -1,0 +1,140 @@
+{
+  "code": "RU",
+  "latitude": 61.52401,
+  "longitude": 105.318756,
+  "name": "Russia",
+  "names": {
+    "fr": "Russie",
+    "hu": "Oroszország",
+    "nl": "Rusland",
+    "pl": "Rosja",
+    "de": "Russland",
+    "ja": "ロシア",
+    "co": "Russia, Federazione",
+    "es": "Rusia",
+    "pt": "Rússia",
+    "eu": "Errusia",
+    "ie": "An Rúis"
+  },
+  "flags": [
+    "ru",
+    "ee",
+    "kz",
+    "cn",
+    "fi",
+    "ge",
+    "by",
+    "az"
+  ],
+  "continent": [
+    "EU",
+    "AS"
+  ],
+  "borders": [
+    "az",
+    "by",
+    "cn",
+    "ee",
+    "fi",
+    "ge",
+    "kp",
+    "lv",
+    "lt",
+    "mn",
+    "no",
+    "pl",
+    "ua",
+    "kz"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Russia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Russia/@61.52401,105.318756,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "RUB",
+    "name": "Ruble",
+    "nameChoices": [
+      "Euro",
+      "Manat",
+      "Som"
+    ]
+  },
+  "population": 146028325,
+  "size": 17075400,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "rus",
+        "percentage": 85.7
+      },
+      {
+        "languageCode": "tat",
+        "percentage": 3.2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 492313790696.653,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 212417989931.592
+      },
+      {
+        "productCode": "99",
+        "value": 73343876777.265
+      },
+      {
+        "productCode": "71",
+        "value": 31588534151.601
+      },
+      {
+        "productCode": "72",
+        "value": 28888981318.953
+      },
+      {
+        "productCode": "31",
+        "value": 12494547948.632
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/MEWRrCmEiGc"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/caucasus-russia-elbrus-river-5302236/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-large-building-with-a-playground-in-front-of-it-IZi2hSr_XKQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/landscape-of-forest-GWggAB8uAlA"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 17446,
+  "gdpPerCapitaYear": 2025
+}

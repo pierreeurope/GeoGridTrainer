@@ -1,0 +1,130 @@
+{
+  "code": "SA",
+  "latitude": 23.885942,
+  "longitude": 45.079162,
+  "name": "Saudi Arabia",
+  "names": {
+    "fr": "Arabie saoudite",
+    "hu": "Szaúd-Arábia",
+    "nl": "Saoedi-Arabië",
+    "pl": "Arabia Saudyjska",
+    "de": "Saudi-Arabien",
+    "ja": "サウジアラビア",
+    "es": "Arabia Saudita",
+    "pt": "Arábia Saudita",
+    "co": "Arabia Saudita",
+    "ie": "An Araib Shádach"
+  },
+  "flags": [
+    "iq",
+    "sa",
+    "ae",
+    "ye",
+    "jo",
+    "qa",
+    "kw",
+    "om"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "iq",
+    "jo",
+    "kw",
+    "om",
+    "qa",
+    "ae",
+    "ye",
+    "bh"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Saudi_Arabia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Saudi%20Arabia/@23.885942,45.079162,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SAR",
+    "name": "Riyal",
+    "nameChoices": [
+      "Lira",
+      "Dinar",
+      "Som"
+    ]
+  },
+  "population": 32175224,
+  "size": 2149690,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saudi_Arabia#Language:~:text=%5B383%5D%20304%2C400-,Language,-The%20official%20language"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "ben"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 286467258610.596,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 212585264010.179
+      },
+      {
+        "productCode": "39",
+        "value": 23750893465.694
+      },
+      {
+        "productCode": "29",
+        "value": 14358589503.969
+      },
+      {
+        "productCode": "89",
+        "value": 3847185487.287
+      },
+      {
+        "productCode": "31",
+        "value": 3593462294.697
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/rzzS0_pMsD0"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/mosque-islam-saudi-arabia-islamic-2654552/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/sand-dune-and-mountain-scenery-7vOpzRF33Zo"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-row-of-palm-trees-with-mountains-in-the-background-ARpmY5qq7Lk"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 30099,
+  "gdpPerCapitaYear": 2025
+}

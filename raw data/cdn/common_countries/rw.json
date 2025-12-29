@@ -1,0 +1,126 @@
+{
+  "code": "RW",
+  "latitude": -1.940278,
+  "longitude": 29.873888,
+  "name": "Rwanda",
+  "names": {
+    "hu": "Ruanda",
+    "de": "Ruanda",
+    "ja": "ルワンダ",
+    "co": "Ruanda",
+    "es": "Ruanda",
+    "pt": "Ruanda",
+    "eu": "Ruanda",
+    "ie": "Ruanda"
+  },
+  "flags": [
+    "bi",
+    "cd",
+    "ss",
+    "tz",
+    "rw",
+    "ug",
+    "zm",
+    "ke"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "bi",
+    "cd",
+    "tz",
+    "ug"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Rwanda",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Rwanda/@-1.940278,29.873888,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "RWF",
+    "name": "Franc",
+    "nameChoices": [
+      "Kwanza",
+      "Leu",
+      "Dinar"
+    ]
+  },
+  "population": 14104969,
+  "size": 26338,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "kin",
+        "percentage": 93.2
+      },
+      {
+        "languageCode": "fra",
+        "percentage": 10
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 2019269801.94,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 557891245.37
+      },
+      {
+        "productCode": "26",
+        "value": 252580265.69
+      },
+      {
+        "productCode": "09",
+        "value": 202571189.74
+      },
+      {
+        "productCode": "27",
+        "value": 198518141.67
+      },
+      {
+        "productCode": "19",
+        "value": 71605847.58
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/riqHVFDBt-8"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/kigali-rwanda-africa-to-travel-5256022/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-goats-on-brown-grass-during-daytime-Edr2cBcMn-M"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-woman-walking-through-a-lush-green-field-ZD6EipK6iOY"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1040,
+  "gdpPerCapitaYear": 2025
+}

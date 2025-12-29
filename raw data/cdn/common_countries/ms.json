@@ -1,0 +1,109 @@
+{
+  "code": "MS",
+  "latitude": 16.742498,
+  "longitude": -62.187366,
+  "name": "Montserrat",
+  "names": {
+    "ja": "モントセラト",
+    "ie": "Montserrat"
+  },
+  "flags": [
+    "dm",
+    "ms",
+    "ag",
+    "vg",
+    "kn",
+    "ai",
+    "gp",
+    "mq"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "ag",
+    "kn",
+    "gp"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Montserrat",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/16°45'00.0\"N+62°12'00.0\"W/@16.6996619,-62.1846557,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XCD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Pound",
+      "Euro",
+      "Pataca"
+    ]
+  },
+  "population": 4390,
+  "size": 102,
+  "languageData": {},
+  "productData": {
+    "year": 2023,
+    "totalValue": 5765684.368,
+    "topExports": [
+      {
+        "productCode": "25",
+        "value": 5437030.054
+      },
+      {
+        "productCode": "87",
+        "value": 84026.926
+      },
+      {
+        "productCode": "85",
+        "value": 60123.141
+      },
+      {
+        "productCode": "84",
+        "value": 57641.315
+      },
+      {
+        "productCode": "99",
+        "value": 53984.178
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/landscape-nature-moutains-panorama-3524568/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/landscape-nature-park-water-7189086/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/davidstanleytravel/5809290289"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/rosco-photo/45066504401"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Jade_Mountain.jpg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/davidstanleytravel/53069231925/in/photolist-Z6RTMC-2oRxFKk-2bFYi-Z6RU2W-2oRGS8C-9Rp2YU-2bFYr-Gf4LqH-FCwSqG-2bFYm-2eEnR-2eEo9-4pNzko-4pNzhh-2eEnL-4pJwCZ-Z6RUDh-9xL2Co-eVwjeQ-5U43im-9gWdiY-Z6RTrh-2bFYv-2bFYB-e48bp-2oRhMzH-9j7eVz-67onAK-2oRASVd-2n9umoG-2oQX2sL-s4R1y7-KLT7dN-2oRtP6R-2oRgJ5k-67ooaa-9j6AuT-9j5PyF-9j6ADR-9j9Jdo-9j5NWr-9sde8D-Pmvyvy-bTd54X-5GyaDi-5GyaCa-e8Epia-5GCszG"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapitaYear": 2019
+}

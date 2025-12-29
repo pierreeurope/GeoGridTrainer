@@ -1,0 +1,124 @@
+{
+  "code": "PK",
+  "latitude": 30.375321,
+  "longitude": 69.345116,
+  "name": "Pakistan",
+  "names": {
+    "hu": "Pakisztán",
+    "ja": "パキスタン",
+    "es": "Pakistán",
+    "pt": "Paquistão",
+    "co": "Pakistanu",
+    "ie": "An Phacastáin"
+  },
+  "flags": [
+    "cn",
+    "om",
+    "af",
+    "uz",
+    "tj",
+    "ir",
+    "pk",
+    "in"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "af",
+    "cn",
+    "in",
+    "ir"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Pakistan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Pakistan/@30.375321,69.345116,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "PKR",
+    "name": "Rupee",
+    "nameChoices": [
+      "Lempira",
+      "Riyal",
+      "Dinar"
+    ]
+  },
+  "population": 241499431,
+  "size": 796095,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "pan",
+        "percentage": 38.8
+      },
+      {
+        "languageCode": "pus",
+        "percentage": 18.2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 28746392443.932,
+    "topExports": [
+      {
+        "productCode": "63",
+        "value": 4979264829.988
+      },
+      {
+        "productCode": "61",
+        "value": 4178480291.62
+      },
+      {
+        "productCode": "62",
+        "value": 3322270566.701
+      },
+      {
+        "productCode": "10",
+        "value": 3207042692.299
+      },
+      {
+        "productCode": "52",
+        "value": 3055695075.074
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/KOwjW3N0Cto"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/bridge-village-morning-khanpur-961208/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-river-running-through-a-snowy-valley-KNtN9TLClVo"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-trees-on-mountain-during-daytime-mE-Ls-jlb64"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1484.7,
+  "gdpPerCapitaYear": 2024
+}

@@ -1,0 +1,121 @@
+{
+  "code": "NI",
+  "latitude": 12.865416,
+  "longitude": -85.207229,
+  "name": "Nicaragua",
+  "names": {
+    "pl": "Nikaragua",
+    "ja": "ニカラグア",
+    "pt": "Nicarágua",
+    "eu": "Nikaragua",
+    "ie": "Nicearagua"
+  },
+  "flags": [
+    "cr",
+    "bz",
+    "gt",
+    "ky",
+    "hn",
+    "sv",
+    "pa",
+    "ni"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "cr",
+    "hn"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Nicaragua",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Nicaragua/@12.865416,-85.207229,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "NIO",
+    "name": "Cordoba",
+    "nameChoices": [
+      "Peso",
+      "Lempira",
+      "Dollar"
+    ]
+  },
+  "population": 6676948,
+  "size": 130000,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 95.3
+      },
+      {
+        "languageCode": "miq",
+        "percentage": 2.2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 7378486427.04,
+    "topExports": [
+      {
+        "productCode": "61",
+        "value": 1387787545.41
+      },
+      {
+        "productCode": "71",
+        "value": 1158518808.16
+      },
+      {
+        "productCode": "85",
+        "value": 849242123.29
+      },
+      {
+        "productCode": "02",
+        "value": 719402225.48
+      },
+      {
+        "productCode": "09",
+        "value": 610342584.56
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/7lXv17JzmpA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/plantation-coffee-nicaragua-jungle-108987/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/pathway-of-houses-under-blue-clouds-during-daytime-Ye9MgFlD10E"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-bird-on-brown-tree-branch-during-daytime-jr8V04y_LTw"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2673,
+  "gdpPerCapitaYear": 2024
+}

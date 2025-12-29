@@ -1,0 +1,132 @@
+{
+  "code": "PH",
+  "latitude": 12.879721,
+  "longitude": 121.774017,
+  "name": "Philippines",
+  "names": {
+    "hu": "Fülöp-szigetek",
+    "nl": "Filipijnen",
+    "pl": "Filipiny",
+    "de": "Philippinen",
+    "ja": "フィリピン",
+    "co": "Filippine",
+    "es": "Filipinas",
+    "pt": "Filipinas",
+    "eu": "Filipinak",
+    "ie": "Na hOileáin Fhilipíneacha"
+  },
+  "flags": [
+    "tw",
+    "pw",
+    "bn",
+    "vn",
+    "mo",
+    "hk",
+    "my",
+    "ph"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "tw",
+    "vn",
+    "my",
+    "pw",
+    "cn",
+    "id",
+    "jp",
+    "id"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Philippines",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Philippines/@12.879721,121.774017,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "PHP",
+    "name": "Peso",
+    "nameChoices": [
+      "Rupee",
+      "Dollar",
+      "Sol"
+    ]
+  },
+  "population": 112729484,
+  "size": 300000,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tgl",
+        "percentage": 39.9
+      },
+      {
+        "languageCode": "bsy",
+        "percentage": 16
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 72923284860,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 40581484557
+      },
+      {
+        "productCode": "84",
+        "value": 6347873219
+      },
+      {
+        "productCode": "74",
+        "value": 2514345505
+      },
+      {
+        "productCode": "90",
+        "value": 2505973361
+      },
+      {
+        "productCode": "26",
+        "value": 2232170241
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/n6BxzwOGTC4"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/pacific-rainbow-ocean-clouds-4491547/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/reynisdrangar-cliff-under-blue-sky-during-daytime-nuNkbkQQf9U"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-sandy-beach-with-palm-trees-in-the-background-lA-I1uW-xek"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4350,
+  "gdpPerCapitaYear": 2025
+}

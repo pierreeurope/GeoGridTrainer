@@ -1,0 +1,132 @@
+{
+  "code": "PL",
+  "latitude": 51.919438,
+  "longitude": 19.145136,
+  "name": "Poland",
+  "names": {
+    "fr": "Pologne",
+    "hu": "Lengyelország",
+    "nl": "Polen",
+    "pl": "Polska",
+    "de": "Polen",
+    "ja": "ポーランド",
+    "co": "Polonia",
+    "es": "Polonia",
+    "pt": "Polónia",
+    "eu": "Polonia",
+    "ie": "An Pholainn"
+  },
+  "flags": [
+    "ru",
+    "de",
+    "cz",
+    "lt",
+    "ua",
+    "by",
+    "pl",
+    "sk"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "by",
+    "cz",
+    "de",
+    "lt",
+    "ru",
+    "sk",
+    "ua"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Poland",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Poland/@51.919438,19.145136,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "PLN",
+    "name": "Zloty",
+    "nameChoices": [
+      "Euro",
+      "Lev",
+      "Hryvnia"
+    ]
+  },
+  "population": 38036118,
+  "size": 312696,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "pol",
+        "percentage": 98.2
+      },
+      {
+        "languageCode": "szl",
+        "percentage": 1.4
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 354667456455,
+    "topExports": [
+      {
+        "productCode": "84",
+        "value": 49375113256
+      },
+      {
+        "productCode": "85",
+        "value": 43881739860
+      },
+      {
+        "productCode": "87",
+        "value": 37988382221
+      },
+      {
+        "productCode": "39",
+        "value": 17400583117
+      },
+      {
+        "productCode": "94",
+        "value": 11885704524
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/i-p1zqFros8"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://unsplash.com/photos/Gqc1jl2kd1U"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/people-walking-near-beige-building-7rCdqEuQ1rg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Latarnia_morska_w_Kolobrzegu.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 28484,
+  "gdpPerCapitaYear": 2025
+}

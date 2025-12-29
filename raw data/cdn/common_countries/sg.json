@@ -1,0 +1,128 @@
+{
+  "code": "SG",
+  "latitude": 1.352083,
+  "longitude": 103.819836,
+  "name": "Singapore",
+  "names": {
+    "fr": "Singapour",
+    "es": "Singapur",
+    "eu": "Singapur",
+    "hu": "Szingapúr",
+    "nl": "Singapore",
+    "pl": "Singapur",
+    "pt": "Singapura",
+    "de": "Singapur",
+    "ja": "シンガポール",
+    "co": "Singapura",
+    "ie": "Singeapór"
+  },
+  "flags": [
+    "my",
+    "id",
+    "kh",
+    "sg",
+    "bn",
+    "cx",
+    "vn",
+    "th"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "my",
+    "id",
+    "id"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/SINGAPORE",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/SINGAPORE/@1.352083,103.819836,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SGD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Dong",
+      "Ringgit",
+      "Rand"
+    ]
+  },
+  "population": 6110200,
+  "size": 618,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 48.3
+      },
+      {
+        "languageCode": "cmn",
+        "percentage": 29.2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 475348541126.792,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 161697612582.157
+      },
+      {
+        "productCode": "84",
+        "value": 74133257309.476
+      },
+      {
+        "productCode": "27",
+        "value": 58862420795.05
+      },
+      {
+        "productCode": "99",
+        "value": 32315087321.588
+      },
+      {
+        "productCode": "90",
+        "value": 23496244994.888
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/McM5BW4jQHc"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/buildings-skyline-city-lights-647400/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/multicolored-lights-on-posts-4HVCsDOg0qI"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/people-at-the-market-C8gvt2LMX94"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 93956,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,135 @@
+{
+  "code": "MU",
+  "latitude": -20.348404,
+  "longitude": 57.552152,
+  "name": "Mauritius",
+  "names": {
+    "fr": "Maurice",
+    "es": "Mauricio",
+    "eu": "Maurizio",
+    "hu": "Mauritius",
+    "nl": "Mauritius",
+    "pl": "Mauritius",
+    "pt": "Maurícia",
+    "de": "Mauritius",
+    "ja": "モーリシャス",
+    "co": "Mauritius",
+    "ie": "Oileán Mhuirís"
+  },
+  "flags": [
+    "sc",
+    "re",
+    "mz",
+    "mg",
+    "yt",
+    "km",
+    "io",
+    "mu"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "re",
+    "mg"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Mauritius",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/MAURITIUs/@-20.348404,57.552152,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MUR",
+    "name": "Rupee",
+    "nameChoices": [
+      "Dollar",
+      "Kwacha",
+      "Lira"
+    ]
+  },
+  "population": 1235260,
+  "size": 2040,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "mfe",
+        "percentage": 86.5
+      },
+      {
+        "languageCode": "bho",
+        "percentage": 5.3
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 1854239181.84,
+    "topExports": [
+      {
+        "productCode": "16",
+        "value": 263337814.868
+      },
+      {
+        "productCode": "17",
+        "value": 232442638.518
+      },
+      {
+        "productCode": "61",
+        "value": 170390226.756
+      },
+      {
+        "productCode": "62",
+        "value": 169459018.731
+      },
+      {
+        "productCode": "71",
+        "value": 133409316.615
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/wVuRAom5v6U"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/boat-see-men-mauritus-coast-850510/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-island-beside-body-of-water-ByAHlRiTQjo"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/waterfalls-in-the-middle-of-green-trees-EBUBRr9i4bk"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/red-and-black-boat-on-sea-under-blue-sky-during-daytime-OmG5GQkiRYo"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-person-sitting-on-a-bench-in-front-of-a-building-PVLgpVX2-qE"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 13099,
+  "gdpPerCapitaYear": 2025
+}

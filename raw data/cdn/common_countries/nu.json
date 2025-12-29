@@ -1,0 +1,92 @@
+{
+  "code": "NU",
+  "latitude": -19.054445,
+  "longitude": -169.867233,
+  "name": "Niue",
+  "names": {
+    "ja": "ニウエ",
+    "ie": "Niue"
+  },
+  "flags": [
+    "nu",
+    "tk",
+    "as",
+    "ck",
+    "fj",
+    "to",
+    "wf",
+    "ws"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "as",
+    "to",
+    "ck"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Niue",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Niue/@-19.054445,-169.867233,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "NZD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Ringgit",
+      "Pound",
+      "Vatu"
+    ]
+  },
+  "population": 1937,
+  "size": 260,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "niu",
+        "percentage": 46
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 11
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Niue_K%C3%BCstenlandschaft_2.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Rockpools_and_cliff_at_Niue.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/nicktheworldtraveler/3763768900/in/photolist-6JAinf-6JA3bs-6JvVYg-6JvYap-2iYDbRw-h8vbn9-wcH5qJ-6Jyw9F-6JCLBS-6JB6WA-6JzPHY-6JyKtR-6JwFK6-KFSVJS-vxXcfw-6JzP1Q-6JCKxd-2iYDaHK-6JwJrD-6JzZFS-6JA5yh-6JAf47-6JAd4o-2iYDbf6-6JzSJN-6JA8NU-2iYyQzi-6JAHQE-vxY2XG-6JAKYW-wuiCsE-6JwfPr-wujXLR-vy6Dp8-6JB7YQ-6JAN7U-6JweFe-6JwgP6-6JCPeA-6JzTso-6Jw4PK-2h6BB4t-2iYDaKy-6JwcoT-2iYDc7m-2iYyQAA-2iYBAYc-2iYBARU-6JzUEG-2iYySe5"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/14197492@N07/22991592951/in/photolist-B2FVz2-MEUzpz-MEVwjK-3hHcho-LQTBgx-LQTatk-wv1nxk-MNfE7n-AnJZ9A-MNg4Ve-pS7vdo-LQT4ur-AJ67Aw-LQP45Y-pcRmVT-MEV5Gx-pcRpMK-LQT7FM-2jjcPUs-vVMTb1-MCf9QU-MNfACi-6JCAcG-6JCFAE-MCfbM9-Mz7Lmf-pcRocv-MEUBhn-q9v4Ei-MThLty-q7o9jQ-2jm9rRM-pBaeku-2jpmBPw-MF5twm-MThjnW-M6JZFG-2j5pGd5-q9y2Pu-qgAfCW-MX4wEy-2hqiuCo-M6NNfB-27NpEbE-qgzQv7-M6JXm1-pB9QMo-2jjcPXo-M6K5bd-MVSH5D"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapitaYear": 2021
+}

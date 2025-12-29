@@ -1,0 +1,83 @@
+{
+  "code": "PM",
+  "latitude": 46.941936,
+  "longitude": -56.27111,
+  "name": "Saint Pierre and Miquelon",
+  "names": {
+    "fr": "Saint-Pierre-et-Miquelon",
+    "hu": "Saint-Pierre és Miquelon Saint-Pierre és Miquelon",
+    "nl": "Saint-Pierre en Miquelon",
+    "pl": "Saint-Pierre i Miquelon",
+    "de": "Saint-Pierre und Miquelon",
+    "ja": "サンピエール・エ・ミクロン",
+    "co": "San Pietru è Miquelonu",
+    "es": "San Pedro y Miquelón",
+    "pt": "São Pedro e Miquelão",
+    "eu": "San Piarres eta Mikeloia",
+    "ie": "Saint-Pierre agus Miquelon"
+  },
+  "flags": [
+    "is",
+    "bm",
+    "tc",
+    "gl",
+    "pm",
+    "ai",
+    "ca",
+    "bs"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "ca",
+    "ca"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Saint%20Pierre%20and%20Miquelon/@46.941936,-56.27111,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Franc",
+      "Dollar",
+      "Pound"
+    ]
+  },
+  "population": 5819,
+  "size": 242,
+  "languageData": {},
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/tibarama-caledonia-new-caledonia-6103043/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://www.flickr.com/photos/danteaguiar/48350975052/in/photolist-2i1XMs-paMqWF-tNR3v-SybBmT-TJkcvy-TN16UB-SybCcF-SybByM-TJkcMA-SybyHg-Sybz72-SybCNa-TcXkyL-DsMekt-tNR3r-4foCKY-spg6vf-LaMFG7-EgW8gn-f6xb95-tNR3t-24sZttT-9jemf2-FWVGe8-GQyYH2-28eocaA-JDL2pK-G2W6Bk-GqvS83-GqxyPS-LaMHqY-JDL4Eg-28eoe8U-25xEth7-JDL5rM-LaMGPC-LaMz4h-28eo1Uf-LaMwUh-25xEtyu-LaMxQL-2gEBomU-28eoasN-FVckz2-LaML9d-JDL6RR-JDL1ak-2gqhEc7-2gqhX2q-dqSZQ4"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/benandlarry/52974436753/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/henryksadura/42922938230/"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapitaYear": 2015
+}

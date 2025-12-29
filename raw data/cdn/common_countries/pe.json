@@ -1,0 +1,128 @@
+{
+  "code": "PE",
+  "latitude": -9.189967,
+  "longitude": -75.015152,
+  "name": "Peru",
+  "names": {
+    "fr": "Pérou",
+    "ja": "ペルー",
+    "co": "Perù",
+    "es": "Perú",
+    "ie": "Peiriú"
+  },
+  "flags": [
+    "bo",
+    "br",
+    "cl",
+    "pa",
+    "ve",
+    "co",
+    "pe",
+    "ec"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "bo",
+    "br",
+    "cl",
+    "co",
+    "ec"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Peru",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Peru/@-9.189967,-75.015152,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "PEN",
+    "name": "Sol",
+    "nameChoices": [
+      "Colon",
+      "Peso",
+      "Dollar"
+    ]
+  },
+  "population": 34352720,
+  "size": 1285216,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 82.9
+      },
+      {
+        "languageCode": "que",
+        "percentage": 13.6
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 58172421866.18,
+    "topExports": [
+      {
+        "productCode": "26",
+        "value": 19156470558.984
+      },
+      {
+        "productCode": "71",
+        "value": 7665523931.215
+      },
+      {
+        "productCode": "27",
+        "value": 6214658416.088
+      },
+      {
+        "productCode": "08",
+        "value": 4699577860.306
+      },
+      {
+        "productCode": "74",
+        "value": 3315742929.584
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/hjanvZlqoB8"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/peru-tourism-cuzco-landscape-5143632/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/body-of-water-with-green-mountains-during-daytime-hgxr9EbYZP0"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-4-legged-farm-animal-standing-on-grass-ulUnRNuC_ok"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Machu_Pichu,_Peru_-_Flickr_-_YoTuT.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 8814,
+  "gdpPerCapitaYear": 2025
+}

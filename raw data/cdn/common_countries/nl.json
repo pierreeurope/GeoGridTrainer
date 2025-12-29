@@ -1,0 +1,139 @@
+{
+  "code": "NL",
+  "latitude": 52.132633,
+  "longitude": 5.291266,
+  "name": "Netherlands",
+  "names": {
+    "fr": "Pays-Bas",
+    "hu": "Hollandia",
+    "nl": "Nederland",
+    "pl": "Holandia",
+    "de": "Niederlande",
+    "ja": "オランダ",
+    "co": "Paesi Bassi",
+    "es": "Países Bajos",
+    "pt": "Países Baixos",
+    "eu": "Herbehereak",
+    "ie": "An Ísiltír"
+  },
+  "flags": [
+    "be",
+    "lu",
+    "je",
+    "de",
+    "dk",
+    "gg",
+    "nl",
+    "gb"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "be",
+    "de"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Netherlands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Netherlands/@52.132633,5.291266,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Pound",
+      "Krone",
+      "Franc"
+    ]
+  },
+  "population": 18483600,
+  "size": 41526,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Netherlands"
+      },
+      {
+        "title": "Language Knowledge",
+        "url": "https://languageknowledge.eu/countries/netherlands"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "nld",
+        "percentage": 94.24
+      },
+      {
+        "languageCode": "deu",
+        "percentage": 1.64
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 741804035403.598,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 130554336132.234
+      },
+      {
+        "productCode": "84",
+        "value": 98157102422.772
+      },
+      {
+        "productCode": "85",
+        "value": 65809190473.25
+      },
+      {
+        "productCode": "90",
+        "value": 46271829406.682
+      },
+      {
+        "productCode": "30",
+        "value": 34196050578.073
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/MaNZajl-IFY"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/canal-buildings-city-114290/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-bridge-over-a-body-of-water-with-buildings-in-the-background-b3l4P6PyCQg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-lake-surrounded-by-trees-in-a-park-xGa5-1BABr0"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Goliath_Poldermolen.jpg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Haarlem,_molen_de_Adriaan_foto2_2015-01-04_09.37.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 70480,
+  "gdpPerCapitaYear": 2025
+}

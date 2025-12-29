@@ -1,0 +1,103 @@
+{
+  "code": "NF",
+  "latitude": -29.040835,
+  "longitude": 167.954712,
+  "name": "Norfolk Island",
+  "names": {
+    "fr": "Île Norfolk",
+    "hu": "Norfolk-sziget",
+    "nl": "Norfolk",
+    "pl": "Wyspa Norfolk",
+    "de": "Norfolk-Insel",
+    "ja": "ノーフォーク島",
+    "co": "Isula di Norfolk",
+    "es": "Isla Norfolk",
+    "pt": "Ilha Norfolk",
+    "eu": "Norfolk uhartea",
+    "ie": "Oileán Norfolk"
+  },
+  "flags": [
+    "nc",
+    "nz",
+    "nf",
+    "vu",
+    "wf",
+    "sb",
+    "fj",
+    "to"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "nc",
+    "nz",
+    "vu",
+    "fj",
+    "to"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Norfolk_Island",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Norfolk%20Island/@-29.040835,167.954712,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "size": 34.6,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 44.9
+      },
+      {
+        "languageCode": "pih",
+        "percentage": 40.3
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "population": 2188,
+  "currencyData": {
+    "code": "AUD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Gulden",
+      "Franc",
+      "Paʻanga"
+    ]
+  },
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/coast-coastline-scenic-scenery-2446324/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/norfolk-island-islands-landscape-2446296/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-small-white-bird-sitting-under-a-tree-D1T712fMFiM"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/16938270@N00/53753733338/in/photolist-pSM4bP-2pU2WaQ-26UmQuk-2htGQ9H-2nZmoqC-2kLDp4E-JDVV7P-2oh7p1u-U9Vb6C-9NdigN-8z8Lwo-2kGBDtN-2pkqpLp-2osZvdd-TZ7RWb-2gipgp6-2h7bhPG-2h5EsY3-3z2QGq-2n55Mm2-AZsTUY-n86pEF-2kGBEMe-2kHnp7A-2kLDs9Y-24fdyu6-AYmkHq-ApZA3V-AnFvsP-UCTQYH-2kGBxbx-2kLrs3H-3yZzhE-2h68iW7-2kKKFq9-3DT8yE-2pxHf1h-2kGxTeU-2nzFHfF-AnFuoV-AZsXBN-2hqP6r4-V1wHsR-B2Cwdt"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapitaYear": 2016
+}

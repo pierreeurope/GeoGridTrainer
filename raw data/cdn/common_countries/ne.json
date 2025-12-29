@@ -1,0 +1,125 @@
+{
+  "code": "NE",
+  "latitude": 17.607789,
+  "longitude": 8.081666,
+  "name": "Niger",
+  "names": {
+    "ja": "ニジェール",
+    "es": "Níger",
+    "pt": "Níger",
+    "ie": "An Nígir"
+  },
+  "flags": [
+    "ng",
+    "ly",
+    "dz",
+    "bj",
+    "ne",
+    "td",
+    "bf",
+    "ml"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "dz",
+    "bj",
+    "bf",
+    "td",
+    "ly",
+    "ml",
+    "ng"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Niger",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Niger/@17.607789,8.081666,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XOF",
+    "name": "Franc",
+    "nameChoices": [
+      "Dollar",
+      "Dalasi",
+      "Niara"
+    ]
+  },
+  "population": 26342784,
+  "size": 1267000,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Niger"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "hau",
+        "percentage": 55.4
+      },
+      {
+        "languageCode": "son",
+        "percentage": 21
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 423349061.682,
+    "topExports": [
+      {
+        "productCode": "26",
+        "value": 134866074.317
+      },
+      {
+        "productCode": "27",
+        "value": 121964456.119
+      },
+      {
+        "productCode": "71",
+        "value": 70723362.815
+      },
+      {
+        "productCode": "07",
+        "value": 15667144.966
+      },
+      {
+        "productCode": "84",
+        "value": 12533411.128
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/niger-evils-river-africa-436253/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Niger,_Niamey,_Dunes_%283%29,_landscape.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-dirt-road-in-the-middle-of-a-desert-4sRoy8CwJPw"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/350org/4058383234/in/photolist-7bCgWJ-mLbBW-6yJUhq-Y4PTgb-76jaet-2aDyu3W-5yz3g-7bRNe5-2SmzcV-4G2ZZT-nEzkMi-87tb9h-2kYHGiC-4FCL7t-68nDQe-68rRXC-68rRZS-68nDRT-joXvts-2SmzF4-8WPYHQ-4qZsyZ-pDwney-5CecZy-4qZmEP-9FgZgz-C3v6Sm-9N3AvX-XiXCFz-qfduFo-qfduGW-2mfiWVg-9NcFwm-dCfpgw-7jnWHa-7jrPvd-87tbVE-BNVgr-iQxS4C-7jnWWZ-7jnVWa-82jTEX-pkvvkG-pZW3Vy-6HvuJ4-6uq371-7jrPQU-7jnU3M-7jnXc8-Y8sbwx"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 751,
+  "gdpPerCapitaYear": 2025
+}

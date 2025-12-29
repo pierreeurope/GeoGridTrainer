@@ -1,0 +1,106 @@
+{
+  "code": "PN",
+  "latitude": -24.703615,
+  "longitude": -127.439308,
+  "name": "Pitcairn Islands",
+  "names": {
+    "fr": "Îles Pitcairn",
+    "hu": "Pitcairn-szigetek",
+    "nl": "Pitcairneilanden",
+    "pl": "Wyspy Pitcairn",
+    "de": "Pitcairninseln",
+    "ja": "ピトケアン諸島",
+    "co": "Pitcairni",
+    "es": "Islas Pitcairn",
+    "pt": "Ilhas Pitcairn",
+    "eu": "Pitcairnek",
+    "ie": "Oileáin Pitcairn"
+  },
+  "flags": [
+    "ck",
+    "to",
+    "ws",
+    "tk",
+    "pf",
+    "nu",
+    "as",
+    "pn"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "pf",
+    "ck"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Pitcairn_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Pitcairn%20Islands/@-24.703615,-127.439308,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "NZD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Dirham",
+      "Sol",
+      "Pound"
+    ]
+  },
+  "population": 35,
+  "size": 47,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands#Language"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "pih"
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://www.flickr.com/photos/doublenz/10531933983"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Pitcairn_Island_In_The_Distance.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/s_k_brown/48808216266/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/peterfarr/27923976992"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/tonyprobst/5603232230/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/up70mm/4867915775/"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2005
+}

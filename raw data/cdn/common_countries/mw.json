@@ -1,0 +1,124 @@
+{
+  "code": "MW",
+  "latitude": -13.254308,
+  "longitude": 34.301525,
+  "name": "Malawi",
+  "names": {
+    "ja": "マラウイ",
+    "es": "Malaui",
+    "ie": "An Mhaláiv"
+  },
+  "flags": [
+    "zm",
+    "bi",
+    "tz",
+    "yt",
+    "km",
+    "zw",
+    "mz",
+    "mw"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "mz",
+    "tz",
+    "zm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Malawi",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Malawi/@-13.254308,34.301525,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MWK",
+    "name": "Kwacha",
+    "nameChoices": [
+      "Franc",
+      "Rand",
+      "Shilling"
+    ]
+  },
+  "population": 21240689,
+  "size": 118484,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_Malawi#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "nya",
+        "percentage": 49.9
+      },
+      {
+        "languageCode": "lon",
+        "percentage": 17.6
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 965509352.191,
+    "topExports": [
+      {
+        "productCode": "24",
+        "value": 449206356.32
+      },
+      {
+        "productCode": "12",
+        "value": 102526046.22
+      },
+      {
+        "productCode": "07",
+        "value": 100182107.44
+      },
+      {
+        "productCode": "09",
+        "value": 72912354.41
+      },
+      {
+        "productCode": "23",
+        "value": 52729424.06
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/f8Vkuc6fXQA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/malawi-view-ocean-sea-beach-242567/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/people-on-brown-sand-during-daytime-eFVlSmIyzpM"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-brown-rock-formation-during-daytime-VvV29KYNPVY"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/90672529@N00/20812636645/in/photolist-xH9cLR-xH8Pmk-wL76QL-xGhzSG-xGidwU-xqvxfd-xENDp7-wL7qHq-xqCk2n-xH8XUT-wL6Sp7-xH8amx-xquQxU-wL7KQy-xGhUky-xqC3Gi-xH8zjn-eWFuh-XfqzzA-XfqxZb-xqwcab-xH8Uxn-XicNY6-8yeWxX-2w8AD8-9v3jcc-7cf8XF-3nMCC6-8DnKGa-xqvcUj-2kGV94V-7XTbBa-7cpJCM-2JCJmt-5h8d92-9asi1-9asfG-9asn3-3nSaa3-8yi18q-7ctyuj-7ctA6h-wLf7Hk-7cpJKv-7ctyeW-9asnK-246ws24-9ashe-bSSsQM-674JAg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 579,
+  "gdpPerCapitaYear": 2023
+}

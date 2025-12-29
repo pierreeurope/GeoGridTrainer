@@ -1,0 +1,77 @@
+{
+  "code": "RE",
+  "latitude": -21.115141,
+  "longitude": 55.536384,
+  "name": "Réunion",
+  "names": {
+    "pl": "Reunion",
+    "ja": "レユニオン",
+    "co": "Riunione",
+    "es": "Reunión",
+    "pt": "Reunião",
+    "ie": "La Réunion"
+  },
+  "flags": [
+    "yt",
+    "re",
+    "mg",
+    "km",
+    "mu",
+    "sc",
+    "mz",
+    "io"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "mu",
+    "mg"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/R%C3%A9union",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/R%C3%A9union/@-21.115141,55.536384,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Franc",
+      "Dollar",
+      "Pa'anga"
+    ]
+  },
+  "population": 895312,
+  "size": 2510,
+  "languageData": {},
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/f9xoWEnLxlQ"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://en.wikipedia.org/wiki/R%C3%A9union#/media/File:Ppalmistes2.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-grass-on-brown-rock-formation-near-body-of-water-during-daytime-ODHXC8W0RVg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-bridge-with-a-walkway-over-it-ooompEei8QE"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true
+}

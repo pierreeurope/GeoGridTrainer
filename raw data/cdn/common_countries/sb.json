@@ -1,0 +1,130 @@
+{
+  "code": "SB",
+  "latitude": -9.64571,
+  "longitude": 160.156194,
+  "name": "Solomon Islands",
+  "names": {
+    "fr": "Îles Salomon",
+    "hu": "Salamon-szigetek",
+    "nl": "Salomonseilanden",
+    "pl": "Wyspy Salomona",
+    "de": "Salomoneninseln",
+    "ja": "ソロモン諸島",
+    "co": "Isole Salomone",
+    "es": "Islas Salomón",
+    "pt": "Ilhas Salomão",
+    "eu": "Salomon Uharteak",
+    "ie": "Oileáin Sholaimh"
+  },
+  "flags": [
+    "nc",
+    "nr",
+    "pg",
+    "vu",
+    "au",
+    "sb",
+    "fm",
+    "tv"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "vu",
+    "nc",
+    "pg",
+    "au",
+    "fm"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Solomon_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Solomon%20Islands/@-9.64571,160.156194,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SBD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Tala",
+      "Franc",
+      "Boliviano"
+    ]
+  },
+  "population": 734887,
+  "size": 28896,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_the_Solomon_Islands_archipelago"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "pis",
+        "percentage": 4
+      },
+      {
+        "languageCode": "alu",
+        "percentage": 2.9
+      }
+    ]
+  },
+  "productData": {
+    "year": 2018,
+    "totalValue": 569112008.474,
+    "topExports": [
+      {
+        "productCode": "44",
+        "value": 426694257.941
+      },
+      {
+        "productCode": "16",
+        "value": 40760674.915
+      },
+      {
+        "productCode": "15",
+        "value": 32489068.056
+      },
+      {
+        "productCode": "03",
+        "value": 22554162.198
+      },
+      {
+        "productCode": "26",
+        "value": 21288992.475
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/o7oV-rGy53Y"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/the-solomon-islands-pacific-4573372/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/adelaide_archivist/9526168535/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/152791564@N03/40306538034/"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapita": 2205.25,
+  "gdpPerCapitaYear": 2024
+}

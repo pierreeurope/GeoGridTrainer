@@ -1,0 +1,121 @@
+{
+  "code": "PW",
+  "latitude": 7.51498,
+  "longitude": 134.58252,
+  "name": "Palau",
+  "names": {
+    "fr": "Palaos",
+    "ja": "パラオ",
+    "es": "Palaos",
+    "ie": "Palau"
+  },
+  "flags": [
+    "bn",
+    "pw",
+    "tl",
+    "pg",
+    "gu",
+    "fm",
+    "ph",
+    "mp"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "ph",
+    "fm",
+    "id"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Palau",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Palau/@7.51498,134.58252,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Franc",
+      "Kina",
+      "Birr"
+    ]
+  },
+  "population": 18024,
+  "size": 459,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "pau",
+        "percentage": 65.2
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 19.1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2018,
+    "totalValue": 8620908.05,
+    "topExports": [
+      {
+        "productCode": "03",
+        "value": 7602787.58
+      },
+      {
+        "productCode": "88",
+        "value": 406431.26
+      },
+      {
+        "productCode": "84",
+        "value": 156119.08
+      },
+      {
+        "productCode": "87",
+        "value": 64500
+      },
+      {
+        "productCode": "76",
+        "value": 62807.3
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/0lCw_kqmb7w"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/island-water-resort-hotel-2407521/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/rocks-on-seashore-under-clear-blue-sky-at-daytime-V-DLKzBadVk"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/michael_from_berlin/53318574188/in/photolist-2pezCvS-2peGj57-2peGXsP-2peJLAH-2oJMnQE-2oJK16Q-2oJFWnj-2oJMnTk-2oJFWqL-2oJLUaM-2oJLTZb-2oJJZVe-2oJFWud-awCP6u-2iS9Krf-qq8P7z-2iS5nYK-2iS9KBR-2iS5nWW-2iS5o5M-DWvDJg-2iS5nTQ-a19tqY-a19trG-a16By2-6zEYHd-7TeGCb-6yfAbX-9YFn2Y-njEpxo-9Yt2tD-9YyMkn-2prgnwX-9YK3zU-6zEYgj-6zEYvG-9Yt2yK-6zEXTU-9YqvCn-9YK3Cy-9YBBff-6zEYAG-7XYefy-7Tbsft-9Yqv7r-9YtpXb-9YyMbr-6zARLB-26X319e-njz9yX"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapita": 17448,
+  "gdpPerCapitaYear": 2024
+}

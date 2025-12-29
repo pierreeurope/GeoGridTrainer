@@ -1,0 +1,147 @@
+{
+  "code": "MX",
+  "latitude": 23.634501,
+  "longitude": -102.552784,
+  "name": "Mexico",
+  "names": {
+    "fr": "Mexique",
+    "hu": "Mexikó",
+    "pl": "Meksyk",
+    "de": "Mexiko",
+    "ja": "メキシコ",
+    "co": "Messicu",
+    "es": "México",
+    "pt": "México",
+    "eu": "Mexiko",
+    "ie": "Meicsiceo"
+  },
+  "flags": [
+    "hn",
+    "ni",
+    "gt",
+    "bz",
+    "us",
+    "cu",
+    "sv",
+    "mx"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "bz",
+    "gt",
+    "us"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Mexico",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Mexico/@23.634501,-102.552784,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MXN",
+    "name": "Peso",
+    "nameChoices": [
+      "Real",
+      "Dollar",
+      "Shilling"
+    ]
+  },
+  "population": 131946900,
+  "size": 1958201,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Mexico"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 93.8
+      },
+      {
+        "languageCode": "nah",
+        "percentage": 1.27
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 592997234309,
+    "topExports": [
+      {
+        "productCode": "87",
+        "value": 156466211518
+      },
+      {
+        "productCode": "85",
+        "value": 103407352662
+      },
+      {
+        "productCode": "84",
+        "value": 93498699233
+      },
+      {
+        "productCode": "27",
+        "value": 32593334416
+      },
+      {
+        "productCode": "90",
+        "value": 27332687159
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/OYGN7McXKCM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/guanajuato-city-buildings-mountains-5838206/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/low-angle-photo-of-temple-QKrLdkoYDrc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/people-standing-on-corner-road-near-concrete-buildings-during-daytime-3snKY0XMKwg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/mountain-peak-during-daytime-uILhNE1VcwA"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-city-from-the-top-of-a-hill-8A4E8bGLUqY"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Hot_air_balloons_in_leon_guanajuato_mexico_3.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla,_M%C3%A9xico,_2013-10-11,_DD_17.JPG"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 12692,
+  "gdpPerCapitaYear": 2025
+}

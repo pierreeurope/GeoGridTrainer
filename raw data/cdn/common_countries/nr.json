@@ -1,0 +1,93 @@
+{
+  "code": "NR",
+  "latitude": -0.522778,
+  "longitude": 166.931503,
+  "name": "Nauru",
+  "names": {
+    "ja": "ナウル",
+    "ie": "Nárú"
+  },
+  "flags": [
+    "vu",
+    "sb",
+    "nr",
+    "nc",
+    "tv",
+    "fj",
+    "fm",
+    "wf"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "ki",
+    "fm",
+    "mh"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Nauru",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Nauru/@-0.522778,166.931503,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "AUD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Tala",
+      "Franc",
+      "Peso"
+    ]
+  },
+  "population": 11919,
+  "size": 21,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "nau",
+        "percentage": 93
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 2
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/bjJU61GHALI"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Living_on_a_Blue_Planet_-_Nauru.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/sea-water-and-rocks-by-the-beach-coast-during-daylight-bjJU61GHALI"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/indynelson/50437637018/in/photolist-2jR5vrx-2jR15gm-2bqz6yy-MJUMkR-2pkBHwR"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapita": 10125,
+  "gdpPerCapitaYear": 2022
+}

@@ -1,0 +1,125 @@
+{
+  "code": "PS",
+  "latitude": 31.952162,
+  "longitude": 35.233154,
+  "name": "Palestine",
+  "names": {
+    "hu": "Palesztina",
+    "nl": "Palestina",
+    "pl": "Palestyna",
+    "de": "Palästina",
+    "ja": "パレスチナ",
+    "co": "Palestina",
+    "es": "Palestina",
+    "pt": "Palestina",
+    "eu": "Palestina",
+    "ie": "An Phalaistín"
+  },
+  "flags": [
+    "fr",
+    "jo",
+    "cy",
+    "sy",
+    "lb",
+    "ps",
+    "eg",
+    "il"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "eg",
+    "jo",
+    "il"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/State_of_Palestine",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Palestine/@31.952162,35.233154,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "ILS",
+    "name": "Shekel",
+    "nameChoices": [
+      "Dinar",
+      "Pound",
+      "Riyal"
+    ]
+  },
+  "population": 5483450,
+  "size": 6020,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Palestine"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "heb"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 1525158846.456,
+    "topExports": [
+      {
+        "productCode": "94",
+        "value": 198314548.413
+      },
+      {
+        "productCode": "68",
+        "value": 186053813.186
+      },
+      {
+        "productCode": "72",
+        "value": 180787239.404
+      },
+      {
+        "productCode": "39",
+        "value": 136894866.97
+      },
+      {
+        "productCode": "25",
+        "value": 74661191.029
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/jerusalem-israel-old-town-walls-1712855/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pxhere.com/en/photo/1598181"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/people-on-sea-near-red-and-white-lighthouse-under-white-clouds-during-daytime-l41hUeMwQ-8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-city-from-the-top-of-a-hill-lvyDnUkCmWw"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": false,
+  "gdpPerCapita": 3464,
+  "gdpPerCapitaYear": 2023
+}

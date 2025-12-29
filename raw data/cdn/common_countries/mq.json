@@ -1,0 +1,104 @@
+{
+  "code": "MQ",
+  "latitude": 14.641528,
+  "longitude": -61.024174,
+  "name": "Martinique",
+  "names": {
+    "hu": "Martinique Martinique",
+    "pl": "Martynika",
+    "ja": "マルティニーク",
+    "co": "Martinica",
+    "es": "Martinica",
+    "pt": "Martinica",
+    "eu": "Martinika",
+    "ie": "Martinique"
+  },
+  "flags": [
+    "vc",
+    "gp",
+    "dm",
+    "bb",
+    "gd",
+    "ms",
+    "lc",
+    "mq"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "lc",
+    "dm",
+    "vc",
+    "bb"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Martinique",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Martinique/@14.641528,-61.024174,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Pound",
+      "Dollar",
+      "Guilder"
+    ]
+  },
+  "population": 375265,
+  "size": 1102,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Martinique"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra"
+      },
+      {
+        "languageCode": "gcf"
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/caribbean-martinique-sea-beach-67886/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/nature-sky-blue-sky-clouds-2358189/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-palm-trees-near-mountain-during-daytime-wSEv7Nanuxc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/gray-and-green-mountain-under-white-clouds-during-daytime-E8uYKuyCuhU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/183070308@N06/51861677903/in/photolist-2n1QE1p-2nD8o8K-2n1QeWk-2krQLk4-2nk7Xaq-2nD8nRH-2ne2GwW-2nD8nDd-2nk7XyG-2nk6Qmr-2ndWwfz-2krV2tG-2mkJfUs-2n1TAfz-2krQL5z-2krV2af-2krUAwB-2ne43gm-2n1QE95-2hcxqFX-2fpWkcg-2gLPbuT-2fq2AjF-2eiZu4f-RDx4zB-2hd17vJ-2hcxsmL-2fpWkYM-hEntUT-2e23siZ-ei5BjN-6R3DJm-2eiZt1d-2e23rR6-RDx52i-2eiZupL-2hczb7R-bzxdHT-bzxdz6-bmCm2W-2ej5er9-2eiZtxf-TgGAMA-2hcxqhR-TgGA5d-2eiZstw-RDx1Q8-RDx1ir-bzxdmR-RDx1wc"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/wollis/46077219242/in/photolist-2ormSBz-2kZzj23-Gd5nSf-22YCJkg-2m2hdmp-vJfNXN-H8eU1z-9ojxd2-2dcFMYw-8YnEJW-2iTn552-bd87r2-2mwk5KA-Rmx5je-RGNu2s-2mLk3yd-2o6NS51-YhkmkD-Xe3CfN-ykgWW7-yZFLFs-ykhi1W-PWEPqY-yY2oo1-ymDfaC-2kAVrNv-EF8MXp-VM4QWS-s1iSPD-23TNDNR-CDUzcM-CeYVCY-2ip1ccj-rL3yzD-D8XtUz-DaHCnc-tMzmms-2ipfAXr-2jb6U1J-2kDFDt2-Wqmacf-qSz3YF-27jU1vE-2pympxZ-25WoTds-247Cvqk-X1vJs9-ryakNz-2isP7dZ-RqJtGd"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true
+}

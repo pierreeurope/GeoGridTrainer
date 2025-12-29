@@ -1,0 +1,101 @@
+{
+  "code": "PR",
+  "latitude": 18.220833,
+  "longitude": -66.590149,
+  "name": "Puerto Rico",
+  "names": {
+    "fr": "Porto Rico",
+    "pl": "Portoryko",
+    "ja": "プエルトリコ",
+    "co": "Puerto Ricu",
+    "pt": "Porto Rico",
+    "ie": "Portó Ríce"
+  },
+  "flags": [
+    "do",
+    "ms",
+    "pr",
+    "ai",
+    "ag",
+    "vg",
+    "vi",
+    "kn"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "vi",
+    "vg",
+    "do"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Puerto_Rico",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Puerto%20Rico/@18.220833,-66.590149,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Peso",
+      "Pound",
+      "Cordoba"
+    ]
+  },
+  "population": 3203295,
+  "size": 8875,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Puerto_Rico#Languages:~:text=Out%20of%20people%20aged%20five%20and%20older%2C%2094.3%25%20speak%20only%20Spanish%20at%20home%2C%205.5%25%20speak%20English%2C%20and%200.2%25%20speak%20other%20languages.%5B1%5D"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 94.3
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 5.5
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/48iZAbNgU8U"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/graveyard-san-juan-puerto-rico-602357/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-and-trees-during-daytime-HaFV1cviJ_4"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/blue-sea-under-white-clouds-at-daytime-UzlkIYRM8EE"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/red-bicycle-parked-beside-green-tree-during-daytime-Wi-dnjfkE_0"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 37930,
+  "gdpPerCapitaYear": 2024
+}

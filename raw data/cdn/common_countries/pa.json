@@ -1,0 +1,118 @@
+{
+  "code": "PA",
+  "latitude": 8.537981,
+  "longitude": -80.782127,
+  "name": "Panama",
+  "names": {
+    "ja": "パナマ",
+    "es": "Panamá",
+    "pt": "Panamá",
+    "ie": "Panama"
+  },
+  "flags": [
+    "co",
+    "cr",
+    "ni",
+    "hn",
+    "sv",
+    "jm",
+    "ec",
+    "pa"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "co",
+    "cr"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Panama",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Panama/@8.537981,-80.782127,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "PAB",
+    "name": "Balboa",
+    "nameChoices": [
+      "Cordoba",
+      "Dollar",
+      "Peso"
+    ]
+  },
+  "population": 4337768,
+  "size": 75517,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Panama"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa"
+      },
+      {
+        "languageCode": "gym"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 3366820480,
+    "topExports": [
+      {
+        "productCode": "26",
+        "value": 2469439575
+      },
+      {
+        "productCode": "08",
+        "value": 172001030
+      },
+      {
+        "productCode": "03",
+        "value": 129471600
+      },
+      {
+        "productCode": "15",
+        "value": 93329456
+      },
+      {
+        "productCode": "72",
+        "value": 55900420
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/8oMiql-Q9nM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/beach-san-blas-islands-panama-4388225/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/canoe-on-beach-V-uYocR8k8k"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-floating-cottage-during-daytiem-FR3pMnh6xCA"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 20092,
+  "gdpPerCapitaYear": 2025
+}

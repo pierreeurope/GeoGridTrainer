@@ -1,0 +1,147 @@
+{
+  "code": "PF",
+  "latitude": -17.679742,
+  "longitude": -149.406843,
+  "name": "French Polynesia",
+  "names": {
+    "fr": "Polynésie française",
+    "hu": "Francia Polinézia",
+    "nl": "Frans-Polynesië",
+    "pl": "Polinezja Francuska",
+    "de": "FRANZÖSISCH-POLYNESIEN",
+    "ja": "フランス領ポリネシア",
+    "co": "Polinesia Francesa",
+    "es": "Polinesia Francesa",
+    "pt": "Polinésia Francesa",
+    "eu": "Polinesia Frantsesa",
+    "ie": "Polainéis na Fraince"
+  },
+  "flags": [
+    "tk",
+    "ck",
+    "as",
+    "ws",
+    "pf",
+    "pn",
+    "nu",
+    "ki"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "ck",
+    "nu",
+    "as",
+    "pn",
+    "ws",
+    "ki"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/French_Polynesia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/French%20Polynesia/@-17.679742,-149.406843,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XPF",
+    "name": "Franc",
+    "nameChoices": [
+      "Shilling",
+      "Dollar",
+      "Lempira"
+    ]
+  },
+  "population": 278786,
+  "size": 4167,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra",
+        "percentage": 73.5
+      },
+      {
+        "languageCode": "tah",
+        "percentage": 20.1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 244186132.156,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 162184829.51
+      },
+      {
+        "productCode": "99",
+        "value": 50524330.189
+      },
+      {
+        "productCode": "03",
+        "value": 19147734.431
+      },
+      {
+        "productCode": "09",
+        "value": 5009210.748
+      },
+      {
+        "productCode": "33",
+        "value": 1872700.044
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/ru_MKgg0sws"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/moorea-french-polynesia-tropical-680033/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-houses-on-water-near-green-mountain-under-blue-sky-during-daytime-tF0izq7URoo"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/yellow-bus-diRXmdG0wkc"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-tropical-island-with-palm-trees-5SOTm1RlCmg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/gray-metal-railing-and-huts-near-body-of-water-oDcbtrD3Rrc"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Kaveka_1_(44672764154).jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Borabridge.jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2019,
+  "gdpPerCapita": 21673
+}

@@ -1,0 +1,144 @@
+{
+  "code": "MV",
+  "latitude": 3.202778,
+  "longitude": 73.22068,
+  "name": "Maldives",
+  "names": {
+    "hu": "Maldív-szigetek",
+    "nl": "Malediven",
+    "pl": "Malediwy",
+    "de": "Malediven",
+    "ja": "モルディブ",
+    "co": "Maldive",
+    "es": "Maldivas",
+    "pt": "Maldivas",
+    "eu": "Maldivak",
+    "ie": "Oileáin Mhaildíve"
+  },
+  "flags": [
+    "so",
+    "lk",
+    "in",
+    "bd",
+    "io",
+    "mv",
+    "sc",
+    "om"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "lk",
+    "in",
+    "io"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Maldives",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Maldives/@3.202778,73.22068,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MVR",
+    "name": "Rufiyaa",
+    "nameChoices": [
+      "Dirham",
+      "Franc",
+      "Dollar",
+      "Rufiyaa"
+    ]
+  },
+  "population": 601269,
+  "size": 298,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Maldives"
+      },
+      {
+        "title": "Original Travel",
+        "url": "https://www.originaltravel.co.uk/travel-guide/maldives/culture#:~:text=98.6%25%20of%20Maldivians%20speak%20a%20variety%20of%20Dhivehi.%20Linguistic%20minorities%20are%20small%3A%20Sinhalese%20(0.6%25)%2C%20Gujarati%20(0.1%25)%2C%20Malayalam%20(0.1%25).%20English%20is%20commonly%20spoken%20at%20tourist%20sites."
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "div",
+        "percentage": 98.6
+      },
+      {
+        "languageCode": "sin",
+        "percentage": 0.6
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 162055101.628,
+    "topExports": [
+      {
+        "productCode": "03",
+        "value": 114348440.059
+      },
+      {
+        "productCode": "16",
+        "value": 38667662.237
+      },
+      {
+        "productCode": "72",
+        "value": 3432869.825
+      },
+      {
+        "productCode": "23",
+        "value": 3419860.448
+      },
+      {
+        "productCode": "74",
+        "value": 1336591.333
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/xPsFXsbXJRg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/maldives-hut-shack-villa-beach-4703551/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-dock-beside-white-motor-boat-uWpggIb3iHs"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-cottage-on-blue-body-of-water-during-daytime-k9Zeq6EH_bk"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/47300487@N04/4338710090/in/photolist-7Bp2rG-7Bp2mo-7Bkdua-7Bp2Kh-7BkcXB-7Bp1Kb-7Bp2Hf-7Bp2AQ-7BkdFx-7Bp1Ub-7BkdTB-7Bp1SC-7BkdRR-7Bp2to-7Bp1Py-7Bp1uY-7BkdZT-2JAegu-rBJEuZ-2JvVxT-mwvNj9-76mmXF-cwwe65-7Bp2fq-7Bp29d-ijmeMP-ieQqu4-idupmS-iduKxv-ik6bao-aAmHo4-7Bp1jS-ieQcEY-idue1F-63DdYZ-iduF7r-cwwdZq-X6iGVo-cwwefj-iePVBh-ik5P5t-cwweaA-XChutm-kK9nwK-aAmHKg-iPzP8P-aDXLXK-47VEiY-iPBMFq-iiNfdL"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/riphthootha/5187421779/in/photolist-8UoTLx-2m2f7zg-axUnCT-5npdG1-9csuTm-5Cq5fB-cdk8V3-6zao7Z-2kyTBow-2kAbR99-b4T3xB-5AMaxK-68pF2p-2oRqAvW-Cp87nY-2kEMe3a-2nocRBc-8P8bVD-2oqKLgk-2mUoZXJ-2m7ZPnh-2cZNg4A-2oQThhV-2oB13db-2nPA5UD-ChykeP-2kycx1e-2kvzz9n-24PX7J5-2nLG3Fr-2fyAmRz-2j9NF4M-2ovsdbp-2p7xYnU-2phHD2X-YAs3gH-2nTD3W9-YRrgCH-29aBnJ-2nR3DvP-2iW9iWD-2ofZAZw-297yG15-2kZrv17-2j9eruN-2oL6rAG-D6rm4-2oRfefz-2pCXYBU-2m46qKQ"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Floatplane_at_Bathala_(Maldives).jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapita": 17287,
+  "gdpPerCapitaYear": 2024
+}

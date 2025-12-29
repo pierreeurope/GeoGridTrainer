@@ -1,0 +1,130 @@
+{
+  "code": "RO",
+  "latitude": 45.943161,
+  "longitude": 24.96676,
+  "name": "Romania",
+  "names": {
+    "fr": "Roumanie",
+    "hu": "Románia",
+    "nl": "Roemenië",
+    "pl": "Rumunia",
+    "de": "Rumänien",
+    "ja": "ルーマニア",
+    "es": "Rumanía",
+    "pt": "Roménia",
+    "co": "Rumania",
+    "eu": "Errumania",
+    "ie": "An Rómáin"
+  },
+  "flags": [
+    "rs",
+    "bg",
+    "xk",
+    "hu",
+    "md",
+    "ua",
+    "ro",
+    "sk"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "bg",
+    "hu",
+    "md",
+    "rs",
+    "ua"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Romania",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Romania/@45.943161,24.96676,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "RON",
+    "name": "Leu",
+    "nameChoices": [
+      "Forint",
+      "Lira",
+      "Euro"
+    ]
+  },
+  "population": 19036031,
+  "size": 238391,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ron",
+        "percentage": 91.6
+      },
+      {
+        "languageCode": "hun",
+        "percentage": 6.3
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 100642462676.41,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 18211177073.85
+      },
+      {
+        "productCode": "87",
+        "value": 15625229700.57
+      },
+      {
+        "productCode": "84",
+        "value": 10182522631.84
+      },
+      {
+        "productCode": "27",
+        "value": 5342327594
+      },
+      {
+        "productCode": "10",
+        "value": 4460829176.08
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/nKY59_d9FlA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/transilvania-romania-alpine-5632013/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-house-on-a-hill-8BDuTPoN_jA"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-body-of-water-with-boats-and-trees-around-it-zLIMxP0SHZA"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 22436,
+  "gdpPerCapitaYear": 2025
+}

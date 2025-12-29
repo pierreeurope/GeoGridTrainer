@@ -1,0 +1,105 @@
+{
+  "code": "MP",
+  "latitude": 17.33083,
+  "longitude": 145.38469,
+  "name": "Northern Mariana Islands",
+  "names": {
+    "fr": "Îles Mariannes du Nord",
+    "hu": "Északi-Mariana-szigetek",
+    "nl": "Noordelijke Marianen",
+    "pl": "MARIANY PÓŁNOCNE",
+    "de": "Nördliche Marianen",
+    "ja": "北マリアナ諸島",
+    "co": "Marianu du Nordu",
+    "es": "Islas Marianas del Norte",
+    "pt": "Ilhas Marianas Setentrionais",
+    "eu": "Ipar Marianak",
+    "ie": "Na hOileáin Mháirianacha Thuaidh"
+  },
+  "flags": [
+    "mp",
+    "pw",
+    "fm",
+    "gu",
+    "ph",
+    "tw",
+    "jp",
+    "pg"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "gu",
+    "fm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Northern_Mariana_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Northern%20Mariana%20Islands/@17.33083,145.38469,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Kina",
+      "Franc",
+      "Yen"
+    ]
+  },
+  "population": 55650,
+  "size": 464,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands#Languages:~:text=Filipino%2035.3%25,Chamorro%2023.9%25"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fil",
+        "percentage": 32.8
+      },
+      {
+        "languageCode": "cha",
+        "percentage": 24.1
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/saipan-island-beach-ocean-175425/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/saipan-island-beach-ocean-175424/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/selective-focus-photography-of-kanji-script-lanterns-0PnQQ4hp_u8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-rock-formation-on-sea-under-white-clouds-during-daytime-zCVGDMXRdeQ"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapita": 21239,
+  "gdpPerCapitaYear": 2019
+}

@@ -1,0 +1,125 @@
+{
+  "code": "OM",
+  "latitude": 21.512583,
+  "longitude": 55.923255,
+  "name": "Oman",
+  "names": {
+    "hu": "Omán",
+    "ja": "オマーン",
+    "es": "Omán",
+    "pt": "Omã",
+    "co": "Omanu",
+    "ie": "Óman"
+  },
+  "flags": [
+    "ye",
+    "sa",
+    "qa",
+    "ae",
+    "om",
+    "kw",
+    "bh",
+    "pk"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "ae",
+    "sa",
+    "ye"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Oman",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Oman/@21.512583,55.923255,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "OMR",
+    "name": "Rial",
+    "nameChoices": [
+      "Dinar",
+      "Dollar",
+      "Dirham"
+    ]
+  },
+  "population": 5494691,
+  "size": 309500,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Oman"
+      },
+      {
+        "title": "WorldAtlas",
+        "url": "https://www.worldatlas.com/articles/what-languages-are-spoken-in-oman.html"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "bal"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 59010531457.714,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 41111427139.822
+      },
+      {
+        "productCode": "39",
+        "value": 2363259075.625
+      },
+      {
+        "productCode": "72",
+        "value": 1829077391.156
+      },
+      {
+        "productCode": "26",
+        "value": 1794546821.639
+      },
+      {
+        "productCode": "31",
+        "value": 1174387332.362
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/9R-jEko1PKc"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/sultan-qaboos-grand-mosque-oman-5963726/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-tower-near-body-of-water-during-daytime-RVA1h5Svl1U"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-rock-formation-on-sea-under-blue-sky-during-daytime-ovfdH_3MudQ"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 18097,
+  "gdpPerCapitaYear": 2025
+}

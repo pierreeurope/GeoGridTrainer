@@ -1,0 +1,137 @@
+{
+  "code": "NZ",
+  "latitude": -40.900557,
+  "longitude": 174.885971,
+  "name": "New Zealand",
+  "names": {
+    "fr": "Nouvelle-Zélande",
+    "hu": "Új-Zéland",
+    "nl": "Nieuw-Zeeland",
+    "pl": "Nowa Zelandia",
+    "de": "Neuseeland",
+    "ja": "ニュージーランド",
+    "co": "Nova Zelanda",
+    "es": "Nueva Zelanda",
+    "pt": "Nova Zelândia",
+    "eu": "Zeelanda Berria",
+    "ie": "An Nua-Shéalainn"
+  },
+  "flags": [
+    "nf",
+    "to",
+    "vu",
+    "nc",
+    "nu",
+    "fj",
+    "nz",
+    "au"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "nf",
+    "fj",
+    "au",
+    "to"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/New_Zealand",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/New%20Zealand/@-40.900557,174.885971,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "NZD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Kina",
+      "Euro",
+      "Pound"
+    ]
+  },
+  "population": 5336940,
+  "size": 270534,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 94.5
+      },
+      {
+        "languageCode": "mri",
+        "percentage": 4
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 42170322391.253,
+    "topExports": [
+      {
+        "productCode": "04",
+        "value": 12197069066.674
+      },
+      {
+        "productCode": "02",
+        "value": 5376913418.144
+      },
+      {
+        "productCode": "44",
+        "value": 2890648074.16
+      },
+      {
+        "productCode": "08",
+        "value": 2151312449.111
+      },
+      {
+        "productCode": "22",
+        "value": 1553783113.753
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/73F4pKoUkM0"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/eagle-mountains-lake-reflection-1450672/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/landscape-photography-of-house-between-flowers-v2lJbPVMqr8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/body-of-water-near-green-mountains-during-daytime-zWWq8J6igOo"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Waihi_Beach_Reserve_31.jpg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Bridge_of_Remembrance_during_the_sunset,_Christchurch,_New_Zealand.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 46013,
+  "gdpPerCapitaYear": 2025
+}

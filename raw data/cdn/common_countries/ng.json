@@ -1,0 +1,133 @@
+{
+  "code": "NG",
+  "latitude": 9.081999,
+  "longitude": 8.675277,
+  "name": "Nigeria",
+  "names": {
+    "fr": "Nigéria",
+    "es": "Nigeria",
+    "eu": "Nigeria",
+    "hu": "Nigéria",
+    "nl": "Nigeria",
+    "pl": "Nigeria",
+    "pt": "Nigéria",
+    "de": "Nigeria",
+    "ja": "ナイジェリア",
+    "co": "Nigeria",
+    "ie": "An Nigéir"
+  },
+  "flags": [
+    "td",
+    "cm",
+    "gq",
+    "ne",
+    "ng",
+    "bj",
+    "tg",
+    "st"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "bj",
+    "cm",
+    "td",
+    "ne"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Nigeria",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Nigeria/@9.081999,8.675277,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "NGN",
+    "name": "Naira",
+    "nameChoices": [
+      "Loti",
+      "Franc",
+      "Dollar"
+    ]
+  },
+  "population": 236747130,
+  "size": 923768,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Nigeria"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "hau",
+        "percentage": 34
+      },
+      {
+        "languageCode": "yor",
+        "percentage": 23
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 65129007547.867,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 59664171813.345
+      },
+      {
+        "productCode": "31",
+        "value": 1068131011.991
+      },
+      {
+        "productCode": "12",
+        "value": 856402615.401
+      },
+      {
+        "productCode": "18",
+        "value": 815043553.155
+      },
+      {
+        "productCode": "08",
+        "value": 352445539.022
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/6UqJTfoXIq8"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/vehicles-road-city-traffic-street-5871002/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-tree-that-is-next-to-some-rocks-tSrmA33GnUQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/man-standing-at-grey-concrete-road-tmz3Z1L1qaQ"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:SAN_8439_(Katsina_Emir_Palace).jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1200,
+  "gdpPerCapitaYear": 2025
+}

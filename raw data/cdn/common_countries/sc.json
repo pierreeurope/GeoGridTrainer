@@ -1,0 +1,127 @@
+{
+  "code": "SC",
+  "latitude": -4.679574,
+  "longitude": 55.491977,
+  "name": "Seychelles",
+  "names": {
+    "hu": "Seychelle-szigetek",
+    "nl": "Seychellen",
+    "pl": "Seszele",
+    "de": "Seychellen",
+    "ja": "セーシェル",
+    "pt": "Seicheles",
+    "eu": "Seychelleak",
+    "ie": "Na Séiséil"
+  },
+  "flags": [
+    "mg",
+    "re",
+    "mu",
+    "io",
+    "km",
+    "so",
+    "sc",
+    "yt"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "yt",
+    "km",
+    "mg",
+    "mu",
+    "tz"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Seychelles",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Seychelles/@-4.679574,55.491977,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SCR",
+    "name": "Rupee",
+    "nameChoices": [
+      "Balboa",
+      "Guilder",
+      "Ariary"
+    ]
+  },
+  "population": 121355,
+  "size": 455,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "crs",
+        "percentage": 89.1
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 5.1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 605297871.488,
+    "topExports": [
+      {
+        "productCode": "16",
+        "value": 303006550.782
+      },
+      {
+        "productCode": "27",
+        "value": 135382182.154
+      },
+      {
+        "productCode": "03",
+        "value": 68046409.436
+      },
+      {
+        "productCode": "89",
+        "value": 52867536.684
+      },
+      {
+        "productCode": "88",
+        "value": 13177047.032
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/HoNnEDKIar4"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/seychelles-landscape-sea-beach-4916045/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-beach-with-a-hut-on-it-Iqc0NV05YqQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/people-on-beach-during-daytime-_ropNcPmpW8"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapita": 20889,
+  "gdpPerCapitaYear": 2023
+}

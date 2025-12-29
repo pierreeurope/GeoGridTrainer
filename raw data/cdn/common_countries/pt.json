@@ -1,0 +1,119 @@
+{
+  "code": "PT",
+  "latitude": 39.399872,
+  "longitude": -8.224454,
+  "name": "Portugal",
+  "names": {
+    "hu": "Portugália",
+    "pl": "Portugalia",
+    "ja": "ポルトガル",
+    "co": "Portughal",
+    "ie": "An Phortaingéil"
+  },
+  "flags": [
+    "ad",
+    "es",
+    "pt",
+    "fr",
+    "gi",
+    "gg",
+    "ma",
+    "je"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "es"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Portugal",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Portugal/@39.399872,-8.224454,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Dollar",
+      "Lira",
+      "Peso"
+    ]
+  },
+  "population": 10749635,
+  "size": 91982,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Portugal"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "por",
+        "percentage": 95.06
+      },
+      {
+        "languageCode": "mwl"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 83908917683.589,
+    "topExports": [
+      {
+        "productCode": "87",
+        "value": 10450014115.295
+      },
+      {
+        "productCode": "85",
+        "value": 7187367453.427
+      },
+      {
+        "productCode": "84",
+        "value": 5741896661.717
+      },
+      {
+        "productCode": "27",
+        "value": 5547043266.76
+      },
+      {
+        "productCode": "39",
+        "value": 3946030723.303
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/ljhCEaHYWJ8"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/tram-train-road-building-monument-4379656/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/train-passing-in-between-buildings-Bg8atM-RVuw"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-mountain-near-sea-cWdefpoj3PU"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 31415,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,123 @@
+{
+  "code": "PY",
+  "latitude": -23.442503,
+  "longitude": -58.443832,
+  "name": "Paraguay",
+  "names": {
+    "pl": "Paragwaj",
+    "ja": "パラグアイ",
+    "pt": "Paraguai",
+    "co": "Paraguaiu",
+    "eu": "Paraguai",
+    "ie": "Paragua"
+  },
+  "flags": [
+    "cl",
+    "bo",
+    "ar",
+    "uy",
+    "py",
+    "br",
+    "pe",
+    "sr"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "bo",
+    "br",
+    "ar"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Paraguay",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Paraguay/@-23.442503,-58.443832,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "PYG",
+    "name": "Guarani",
+    "nameChoices": [
+      "Quetzal",
+      "Dollar",
+      "Peso"
+    ]
+  },
+  "population": 6413627,
+  "size": 406752,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "gug",
+        "percentage": 80.3
+      },
+      {
+        "languageCode": "spa",
+        "percentage": 61.5
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 11890536801.81,
+    "topExports": [
+      {
+        "productCode": "12",
+        "value": 3637254261.97
+      },
+      {
+        "productCode": "02",
+        "value": 1626466574.12
+      },
+      {
+        "productCode": "27",
+        "value": 1572139408.75
+      },
+      {
+        "productCode": "10",
+        "value": 1240822857.13
+      },
+      {
+        "productCode": "23",
+        "value": 991150051.37
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/5zqhGcQTMQU"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/road-rain-automobile-woman-184623/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-boat-in-the-water-TYVAt_z5Zyw"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-under-cloudy-sky-during-daytime-AZ7fAnvI3QY"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 7089,
+  "gdpPerCapitaYear": 2025
+}

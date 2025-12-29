@@ -1,0 +1,123 @@
+{
+  "code": "SD",
+  "latitude": 15.8905231,
+  "longitude": 30.7671933,
+  "name": "Sudan",
+  "names": {
+    "fr": "Soudan",
+    "hu": "Szudán",
+    "nl": "Soedan",
+    "ja": "スーダン",
+    "es": "Sudán",
+    "pt": "Sudão",
+    "ie": "An tSúdáin"
+  },
+  "flags": [
+    "sd",
+    "et",
+    "cf",
+    "ly",
+    "td",
+    "eg",
+    "er",
+    "ss"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "cf",
+    "td",
+    "eg",
+    "et",
+    "er",
+    "ss",
+    "ly"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Sudan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Sudan/@15.8905231,30.7671933,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SDG",
+    "name": "Pound",
+    "nameChoices": [
+      "Ringgit",
+      "Dollar",
+      "Leone",
+      "Pound"
+    ]
+  },
+  "population": 50467278,
+  "size": 1886068,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Sudan"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "bej"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2018,
+    "totalValue": 3619251504,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 911413138
+      },
+      {
+        "productCode": "12",
+        "value": 820351017
+      },
+      {
+        "productCode": "01",
+        "value": 765039120
+      },
+      {
+        "productCode": "27",
+        "value": 509491826
+      },
+      {
+        "productCode": "52",
+        "value": 156284000
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/9IafO_YOVik"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-brick-building-with-a-balcony-and-balcony-railing-xks4AnfgxJ8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/red-boat-on-body-of-water-during-daytime-X8U9Hzxy7cE"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 624,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,141 @@
+{
+  "code": "MY",
+  "latitude": 4.040255,
+  "longitude": 109.091912,
+  "name": "Malaysia",
+  "names": {
+    "fr": "Malaisie",
+    "hu": "Malajzia",
+    "nl": "Maleisië",
+    "pl": "Malezja",
+    "ja": "マレーシア",
+    "co": "Malàisia",
+    "es": "Malasia",
+    "pt": "Malásia",
+    "ie": "An Mhalaeisia"
+  },
+  "flags": [
+    "my",
+    "id",
+    "cx",
+    "bn",
+    "th",
+    "vn",
+    "kh",
+    "sg"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "bn",
+    "id",
+    "th",
+    "sg"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Malaysia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Malaysia/@4.040255,109.091912,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MYR",
+    "name": "Ringgit",
+    "nameChoices": [
+      "Kip",
+      "Dong",
+      "Rupiah"
+    ]
+  },
+  "population": 34564810,
+  "size": 329758,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Malaysia"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "msa"
+      },
+      {
+        "languageCode": "cmn"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 312605385581.646,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 119041955238.026
+      },
+      {
+        "productCode": "27",
+        "value": 51637072367.487
+      },
+      {
+        "productCode": "84",
+        "value": 23933353592.581
+      },
+      {
+        "productCode": "15",
+        "value": 16877021317.228
+      },
+      {
+        "productCode": "90",
+        "value": 13655790372.867
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/WaL-LPfgUBg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/kuala-lumpur-petronas-twin-towers-1820944/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/twin-tower-malaysia-6U-sSfBV-gM"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/cars-on-road-between-high-rise-buildings-during-night-time-xuElil9fmfg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/135025625@N03/25000160451/in/photolist-2kGx6mF-2kqmmCR-E6bmHa-4rDrTu-4rDBAj-82cvQx-2kQng9c-2kLgYoK-2kMnxUr-2jKU4tS-4KbhZb-2kqgZuh-2jNdL37-2kLxs1J-2kbbbMX-2kLmchX-2jMfJmL-fK771x-2jNewLr-2m9yTxG-2m9ymT2-fKoDsQ-2kuERC3-fKoHcA-fK77Dg-fK7cDn-2kbruBr-2jW9Yn3-2jV2ASz-fKoNab-UtfBq6-fK7jAt-fKoN1w-2jW9Yfu-3KJYaq-2jMfJpm-2kNypAV-fK74NT-2kQYH4N-2koP7nQ-2kMav8n-DjUFLj-2fDgbYC-VGL1kH-fK7hwc-dC68kV-7Qv7fg-u4hcZd-2jNdLuK-2cgCXeh"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/7976002@N08/535878894/in/photolist-Pmw8h-KoLStf-4vEFCQ-619wSE-59CrLY-2g5oU1n-5ZKtKW-2nAc3a4-28tbdzt-2oxUB9B-CK3Tf-JPbngr-RdKSQs-276qMmX-JPboYe-pUWdVR-3hwzP-5ZKtBb-3hwzQ-eGF1wz-4W5ri3-3hwzM-2nmLf8A-5eYXJ8-28t6mTc-25HchEj-LkdTM5-5f4k3C-bsqj5R-LQp4je-9VV9Ds-rbf14G-qTLw77-rbbHmD-5eYXQp-T1NZrK-2puwbsC-28t7Lnz-LkdG8J-3yF691-2kJ9ALV-4JXGr-WvF3fx-25H8uQE-qhLuLj-276vZPH-qewDY8-2oiD4U1-28tb6N2-pCyHF4"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Sarawak_State_Assembly_Building.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 13140,
+  "gdpPerCapitaYear": 2025
+}

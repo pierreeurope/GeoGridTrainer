@@ -1,0 +1,132 @@
+{
+  "code": "NA",
+  "latitude": -22.95764,
+  "longitude": 18.49041,
+  "name": "Namibia",
+  "names": {
+    "fr": "Namibie",
+    "hu": "Namíbia",
+    "nl": "Namibië",
+    "ja": "ナミビア",
+    "pt": "Namíbia",
+    "ie": "An Namaib"
+  },
+  "flags": [
+    "zw",
+    "ls",
+    "ao",
+    "sz",
+    "za",
+    "na",
+    "bw",
+    "zm"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "ao",
+    "bw",
+    "za",
+    "zm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Namibia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Namibia/@-22.95764,18.49041,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "NAD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Franc",
+      "Naira",
+      "Dinar"
+    ]
+  },
+  "population": 3022401,
+  "size": 824292,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "kua",
+        "percentage": 49.7
+      },
+      {
+        "languageCode": "naq",
+        "percentage": 11
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 5488029686.884,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 2243465449.966
+      },
+      {
+        "productCode": "26",
+        "value": 928861607.591
+      },
+      {
+        "productCode": "03",
+        "value": 728234464.537
+      },
+      {
+        "productCode": "27",
+        "value": 298916967.264
+      },
+      {
+        "productCode": "74",
+        "value": 258440320.234
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/pWshkmAH4qA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/sossusvlei-namib-namibia-sand-dune-5339728/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-bench-near-window-mi9rbLeTj1A"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-man-riding-a-bike-down-a-street-next-to-a-wall-HqM70UrfhiQ"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Dust_Cloud_in_Etosha_National_Park.jpg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:K%C3%B6cherbaumwald-01.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4660,
+  "gdpPerCapitaYear": 2025
+}

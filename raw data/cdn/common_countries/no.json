@@ -1,0 +1,135 @@
+{
+  "code": "NO",
+  "latitude": 60.472024,
+  "longitude": 8.468946,
+  "name": "Norway",
+  "names": {
+    "fr": "Norvège",
+    "es": "Noruega",
+    "eu": "Norvegia",
+    "hu": "Norvégia",
+    "nl": "Noorwegen",
+    "pl": "Norwegia",
+    "pt": "Noruega",
+    "de": "Norwegen",
+    "ja": "ノルウェー",
+    "co": "Norvegia",
+    "ie": "An Iorua"
+  },
+  "flags": [
+    "fo",
+    "nl",
+    "dk",
+    "no",
+    "se",
+    "ru",
+    "fi",
+    "gb"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "fi",
+    "ru",
+    "se"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/NORWAY",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/NORWAY/@60.472024,8.468946,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "NOK",
+    "name": "Krone",
+    "nameChoices": [
+      "Franc",
+      "Krona",
+      "Euro"
+    ]
+  },
+  "population": 5601049,
+  "size": 323877,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Norway"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "nor",
+        "percentage": 95
+      },
+      {
+        "languageCode": "smi"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 176896550418.728,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 120875861216.941
+      },
+      {
+        "productCode": "03",
+        "value": 15438361910.593
+      },
+      {
+        "productCode": "99",
+        "value": 5186620810.609
+      },
+      {
+        "productCode": "84",
+        "value": 5093573663.909
+      },
+      {
+        "productCode": "76",
+        "value": 4829166365.873
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/khbjgGAerPU"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/mountains-sunset-clouds-estuary-5784152/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-and-brown-houses-near-ocean-water-and-mountains-covered-with-green-leafed-tress-landscape-photography--yOZe-6UT1w"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/white-and-gray-house-near-mountain-under-cloud-LNrxP3CWEiQ"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:SJ_Norge_BM_93_Mosj%C3%B8en_-_Eiterstraum.jpg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Fiordo_de_Geiranger_desde_Flydalsjuvet,_Noruega,_2019-09-07,_DD_59.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 89690,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,132 @@
+{
+  "code": "PG",
+  "latitude": -6.314993,
+  "longitude": 143.95555,
+  "name": "Papua New Guinea",
+  "names": {
+    "fr": "Papouasie-Nouvelle-Guinée",
+    "hu": "Pápua Új-Guinea",
+    "nl": "Papoea-Nieuw-Guinea",
+    "pl": "Papua-Nowa Gwinea",
+    "de": "Papua-Neuguinea",
+    "ja": "パプアニューギニア",
+    "co": "Papua Nova Guinia",
+    "es": "Papúa Nueva Guinea",
+    "pt": "Papua-Nova Guiné",
+    "eu": "Papua Ginea Berria",
+    "ie": "Nua-Ghuine Phapua"
+  },
+  "flags": [
+    "fm",
+    "tl",
+    "sb",
+    "pw",
+    "gu",
+    "pg",
+    "au",
+    "nr"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "fm",
+    "sb",
+    "id",
+    "au",
+    "nc"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Papua_New_Guinea",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Papua%20New%20Guinea/@-6.314993,143.95555,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "PGK",
+    "name": "Kina",
+    "nameChoices": [
+      "Dollar",
+      "Riel",
+      "Rupiah"
+    ]
+  },
+  "population": 11781559,
+  "size": 462840,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Papua_New_Guinea"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tpi"
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 9650541017.488,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 4388749997.232
+      },
+      {
+        "productCode": "71",
+        "value": 1659156141.078
+      },
+      {
+        "productCode": "26",
+        "value": 941565306.346
+      },
+      {
+        "productCode": "15",
+        "value": 930257376.673
+      },
+      {
+        "productCode": "03",
+        "value": 394618163.61
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/GOIR5V_OH-k"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/rabaul-volcano-papua-new-guinea-4380826/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-trees-on-island-surrounded-by-water-during-daytime-n1LrwXzsnuU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-person-riding-a-bike-down-the-middle-of-a-road-SrRfS_VQHeM"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 2560,
+  "gdpPerCapitaYear": 2025
+}
