@@ -1,0 +1,186 @@
+{
+  "grid_id": "312",
+  "rows": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the North Atlantic Ocean",
+      "variantId": 5
+    },
+    {
+      "id": "name_x_plus_letters_long",
+      "name": "Name is 10+ letters long",
+      "variantId": 0
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belgium",
+      "Benin",
+      "Brazil",
+      "Cameroon",
+      "Canada",
+      "Côte d'Ivoire",
+      "Dominican Republic",
+      "France",
+      "Germany",
+      "Ghana",
+      "Guinea",
+      "Haiti",
+      "Morocco",
+      "Netherlands",
+      "Nigeria",
+      "Portugal",
+      "Senegal",
+      "Spain",
+      "United Kingdom",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Canada",
+      "Denmark",
+      "Greenland",
+      "Morocco",
+      "Nigeria"
+    ],
+    "match_box_3": [
+      "Bahamas",
+      "Barbados",
+      "Belgium",
+      "Cabo Verde",
+      "Canada",
+      "Denmark",
+      "Dominica",
+      "France",
+      "Germany",
+      "Grenada",
+      "Iceland",
+      "Ireland",
+      "Netherlands",
+      "Norway",
+      "Portugal",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bangladesh",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Dominican Republic",
+      "Kazakhstan",
+      "Madagascar",
+      "Mozambique",
+      "Netherlands",
+      "North Korea",
+      "Papua New Guinea",
+      "Philippines",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "South Sudan",
+      "Tajikistan",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "Federated States of Micronesia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Norfolk Island",
+      "North Macedonia",
+      "Saudi Arabia",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Saudi Arabia",
+      "Seychelles",
+      "South Korea",
+      "Switzerland",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Denmark",
+      "Finland",
+      "Greece",
+      "Greenland",
+      "Latvia",
+      "Poland",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Belgium",
+      "Cyprus",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Ireland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Slovenia",
+      "Spain",
+      "Sweden"
+    ]
+  }
+}

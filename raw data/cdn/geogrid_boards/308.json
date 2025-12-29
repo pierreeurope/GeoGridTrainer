@@ -1,0 +1,156 @@
+{
+  "grid_id": "308",
+  "rows": [
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 5,000 km",
+      "variantId": 4
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "Finland",
+      "France",
+      "India",
+      "Iran",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Chile",
+      "Egypt",
+      "Finland",
+      "Greece",
+      "Indonesia",
+      "Malaysia",
+      "Mexico",
+      "Norway",
+      "Sweden",
+      "Thailand",
+      "Venezuela",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "India",
+      "Myanmar",
+      "New Zealand",
+      "Philippines",
+      "Türkiye",
+      "United States of America",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Brazil",
+      "Egypt",
+      "Iran",
+      "Mexico",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Egypt",
+      "Guatemala",
+      "Mexico",
+      "Oman",
+      "Paraguay",
+      "Slovenia"
+    ],
+    "match_box_6": [
+      "Belize",
+      "Bermuda",
+      "Bolivia",
+      "Brazil",
+      "Dominican Republic",
+      "Ecuador",
+      "Guam",
+      "Montserrat",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "San Marino",
+      "Sint Maarten",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_7": [
+      "Armenia",
+      "Belarus",
+      "Belgium",
+      "Czechia",
+      "Finland",
+      "Hungary",
+      "Romania",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Armenia",
+      "Belgium",
+      "Burundi",
+      "Czechia",
+      "Eritrea",
+      "Finland",
+      "Georgia",
+      "Liberia",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Somalia",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Bermuda",
+      "Bolivia",
+      "Burundi",
+      "Ecuador",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Türkiye",
+      "Vietnam"
+    ]
+  }
+}

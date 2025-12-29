@@ -1,0 +1,156 @@
+{
+  "grid_id": "292",
+  "rows": [
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 500k",
+      "variantId": 3
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_start_end_same_letter",
+      "name": "Starts and ends with the same letter",
+      "variantId": null
+    },
+    {
+      "id": "top_20_wheat_production",
+      "name": "Top 20 in wheat production",
+      "variantId": null
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 70",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Andorra",
+      "Angola",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Aruba",
+      "Central African Republic",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "Egypt",
+      "Ethiopia",
+      "Germany",
+      "Kazakhstan",
+      "Romania",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Bhutan",
+      "Germany",
+      "Seychelles",
+      "Sweden",
+      "Uruguay"
+    ],
+    "match_box_4": [
+      "Albania",
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Armenia",
+      "Austria",
+      "Central African Republic"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "Iran",
+      "Kazakhstan",
+      "Pakistan",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Canada",
+      "Denmark",
+      "Finland",
+      "Germany",
+      "Hong Kong",
+      "Ireland",
+      "Japan",
+      "Netherlands",
+      "Norway",
+      "Singapore",
+      "Sweden",
+      "United Kingdom",
+      "Uruguay"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Central African Republic"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Pakistan",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Canada",
+      "Finland",
+      "Germany",
+      "Japan",
+      "New Zealand",
+      "Norway",
+      "Sweden",
+      "United Kingdom"
+    ]
+  }
+}

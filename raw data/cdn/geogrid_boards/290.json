@@ -1,0 +1,174 @@
+{
+  "grid_id": "290",
+  "rows": [
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "id": "in_eu",
+      "name": "Member of the European Union",
+      "variantId": null
+    },
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Austria",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Portugal",
+      "Spain"
+    ],
+    "match_box_3": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Angola",
+      "Australia",
+      "Burkina Faso",
+      "Cameroon",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America",
+      "Yemen"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Belgium",
+      "Bulgaria",
+      "Caribbean Netherlands",
+      "Curaçao",
+      "Cyprus",
+      "Czechia",
+      "Estonia",
+      "France",
+      "French Guiana",
+      "French Southern Territories",
+      "Germany",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Martinique",
+      "Mayotte",
+      "Netherlands",
+      "Réunion",
+      "Romania",
+      "Slovakia",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Czechia",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Malawi",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Taiwan",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "Cyprus",
+      "France",
+      "Greece",
+      "Latvia",
+      "Poland",
+      "Sweden"
+    ],
+    "match_box_9": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Greece",
+      "Mexico",
+      "Poland",
+      "Russia"
+    ]
+  }
+}

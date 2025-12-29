@@ -1,0 +1,179 @@
+{
+  "grid_id": "316",
+  "rows": [
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "name_start_end_same_letter",
+      "name": "Starts and ends with the same letter",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "name_multiple_words",
+      "name": "Name consists of multiple words",
+      "variantId": null
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    },
+    {
+      "id": "size_under_x",
+      "name": "Area less than 100,000 km²",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Papua New Guinea",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_2": [
+      "Bolivia",
+      "Ecuador",
+      "Egypt",
+      "Guatemala",
+      "Kazakhstan",
+      "Mexico",
+      "Peru",
+      "Serbia",
+      "Spain",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Moldova",
+      "Montenegro",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Serbia",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_4": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "South Africa",
+      "Sri Lanka",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Malaysia",
+      "Mozambique",
+      "Oman",
+      "Pakistan",
+      "Singapore",
+      "Somalia",
+      "South Africa",
+      "Thailand",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "Djibouti",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Seychelles",
+      "Singapore",
+      "Sri Lanka",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Antigua and Barbuda",
+      "Central African Republic",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "match_box_8": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Armenia",
+      "Austria"
+    ],
+    "match_box_9": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Armenia",
+      "Aruba",
+      "Austria",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands"
+    ]
+  }
+}

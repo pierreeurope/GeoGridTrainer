@@ -1,0 +1,160 @@
+{
+  "grid_id": "293",
+  "rows": [
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    },
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 4-5 countries",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Canada",
+      "China",
+      "Finland",
+      "Japan",
+      "Pakistan",
+      "Sweden",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Indonesia",
+      "Pakistan",
+      "Singapore",
+      "Somalia"
+    ],
+    "match_box_3": [
+      "Bangladesh",
+      "Canada",
+      "China",
+      "Indonesia",
+      "Japan",
+      "Kazakhstan",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Poland",
+      "Saudi Arabia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "Finland",
+      "France",
+      "Mexico",
+      "Netherlands",
+      "Slovenia",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Australia",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Mayotte",
+      "Réunion",
+      "South Africa",
+      "Thailand"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Colombia",
+      "France",
+      "Germany",
+      "Mexico",
+      "South Africa",
+      "Spain",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Armenia",
+      "Belarus",
+      "Belgium",
+      "Bulgaria",
+      "Czechia",
+      "Egypt",
+      "Pakistan",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Kenya",
+      "Malaysia",
+      "Myanmar",
+      "Pakistan",
+      "Thailand"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Argentina",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Egypt",
+      "Kazakhstan",
+      "Kenya",
+      "Malaysia",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Spain",
+      "Syria",
+      "Thailand",
+      "Uganda",
+      "Uzbekistan"
+    ]
+  }
+}

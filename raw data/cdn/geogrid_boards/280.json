@@ -1,0 +1,175 @@
+{
+  "grid_id": "280",
+  "rows": [
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 100 Olympic medals",
+      "variantId": 5
+    },
+    {
+      "id": "top_20_rail_size",
+      "name": "Top 20 in rail transport network size",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Pacific Ocean",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belgium",
+      "Brazil",
+      "China",
+      "Germany",
+      "Romania",
+      "Spain",
+      "Sweden",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Austria",
+      "Bulgaria",
+      "Canada",
+      "China",
+      "Cuba",
+      "Czechia",
+      "Kenya",
+      "Romania",
+      "Russia",
+      "South Korea",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Brazil",
+      "China",
+      "Cuba",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "Germany",
+      "Mexico",
+      "Romania",
+      "South Africa",
+      "Spain",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Australia",
+      "Canada",
+      "China",
+      "India",
+      "Romania",
+      "Russia",
+      "South Africa",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Colombia",
+      "Ecuador",
+      "El Salvador",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Guatemala",
+      "Kiribati",
+      "Mexico",
+      "Nauru",
+      "New Caledonia",
+      "Nicaragua",
+      "Niue",
+      "Northern Mariana Islands",
+      "Palau",
+      "Papua New Guinea",
+      "Peru",
+      "Philippines",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "Timor-Leste",
+      "Tokelau",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "match_box_8": [
+      "American Samoa",
+      "Australia",
+      "Canada",
+      "Colombia",
+      "Costa Rica",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Guatemala",
+      "Indonesia",
+      "New Caledonia",
+      "Nicaragua",
+      "Panama",
+      "Papua New Guinea",
+      "Russia",
+      "Samoa",
+      "Tonga",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Chile",
+      "Colombia",
+      "Indonesia",
+      "Japan",
+      "Mexico",
+      "Peru",
+      "Russia",
+      "Taiwan"
+    ]
+  }
+}

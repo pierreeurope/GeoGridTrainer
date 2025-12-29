@@ -1,0 +1,187 @@
+{
+  "grid_id": "297",
+  "rows": [
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    },
+    {
+      "id": "nuclear_power",
+      "name": "Produces nuclear power",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with blue",
+      "variantId": 1
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "Colombia",
+      "France",
+      "Greenland",
+      "Mexico",
+      "South Africa",
+      "Spain",
+      "Thailand",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Australia",
+      "Bolivia",
+      "Botswana",
+      "Brazil",
+      "Central African Republic",
+      "Chad",
+      "Chile",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "France",
+      "India",
+      "Kazakhstan",
+      "Mexico",
+      "Mongolia",
+      "Namibia",
+      "Peru",
+      "Russia",
+      "Somalia",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Tanzania",
+      "Thailand",
+      "Ukraine",
+      "United States of America",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Bolivia",
+      "Brazil",
+      "Canada",
+      "China",
+      "India",
+      "Kazakhstan",
+      "Myanmar",
+      "Nigeria",
+      "Pakistan",
+      "South Africa",
+      "Tanzania",
+      "Türkiye",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Aruba",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Uruguay"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Bolivia",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Ecuador",
+      "Trinidad and Tobago"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "Finland",
+      "France",
+      "Mexico",
+      "Netherlands",
+      "Slovenia",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Argentina",
+      "Armenia",
+      "Brazil",
+      "Czechia",
+      "Finland",
+      "France",
+      "India",
+      "Mexico",
+      "Netherlands",
+      "Romania",
+      "Russia",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Brazil",
+      "Canada",
+      "China",
+      "India",
+      "Pakistan",
+      "South Africa",
+      "Switzerland",
+      "Türkiye",
+      "United Arab Emirates",
+      "United States of America"
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "grid_id": "31",
+  "rows": [
+    {
+      "name": "Flag with only 2 colors",
+      "id": "flag_has_x_colors",
+      "variantId": 0
+    },
+    {
+      "name": "Starts with letter M",
+      "id": "starting_letter",
+      "variantId": 10
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 20 million",
+      "id": "population_over_x",
+      "variantId": 5
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "Canada",
+      "China",
+      "Indonesia",
+      "Japan",
+      "Kazakhstan",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Poland",
+      "Saudi Arabia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Bahrain",
+      "Federated States of Micronesia",
+      "Greenland",
+      "Indonesia",
+      "Japan",
+      "Norfolk Island",
+      "Palau",
+      "Singapore",
+      "Tonga"
+    ],
+    "match_box_3": [
+      "Bangladesh",
+      "China",
+      "Federated States of Micronesia",
+      "Greenland",
+      "Honduras",
+      "Hong Kong",
+      "Israel",
+      "Japan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Morocco",
+      "North Macedonia",
+      "Pakistan",
+      "Singapore",
+      "Somalia",
+      "Tunisia",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Madagascar",
+      "Malawi",
+      "Malaysia",
+      "Mali",
+      "Mexico",
+      "Morocco",
+      "Mozambique",
+      "Myanmar"
+    ],
+    "match_box_5": [
+      "Madagascar",
+      "Maldives",
+      "Malta",
+      "Marshall Islands",
+      "Martinique",
+      "Mauritius",
+      "Mayotte",
+      "Montserrat"
+    ],
+    "match_box_6": [
+      "Macau",
+      "Malawi",
+      "Malaysia",
+      "Marshall Islands",
+      "Mauritania",
+      "Moldova",
+      "Mongolia",
+      "Morocco",
+      "Mozambique",
+      "Myanmar"
+    ],
+    "match_box_7": [
+      "France",
+      "Germany",
+      "Italy",
+      "Kazakhstan",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ]
+  }
+}

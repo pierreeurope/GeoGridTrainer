@@ -1,0 +1,167 @@
+{
+  "grid_id": "305",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Africa",
+      "variantId": 2
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with red",
+      "variantId": 0
+    },
+    {
+      "id": "gdp_per_capita_under_x",
+      "name": "GDP per capita under $10k",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_equator",
+      "name": "Touches the Equator",
+      "variantId": null
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Congo River system",
+      "variantId": 3
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 1 million km²",
+      "variantId": 7
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Democratic Republic of the Congo",
+      "Gabon",
+      "Kenya",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia",
+      "Uganda"
+    ],
+    "match_box_2": [
+      "Angola",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "Rwanda",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Angola",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Niger",
+      "South Africa",
+      "Sudan"
+    ],
+    "match_box_4": [
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Indonesia",
+      "Kenya",
+      "Kiribati",
+      "Maldives",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Uganda"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Australia",
+      "Bolivia",
+      "Canada",
+      "Chad",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Greenland",
+      "Indonesia",
+      "Iran",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Mexico",
+      "Mongolia",
+      "Peru",
+      "Russia",
+      "South Africa",
+      "Sudan",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Brazil",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "Gabon",
+      "Indonesia",
+      "Kenya",
+      "Kiribati",
+      "Republic of the Congo",
+      "São Tomé and Príncipe",
+      "Somalia",
+      "Uganda"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "Rwanda",
+      "Tanzania",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Angola",
+      "Bolivia",
+      "Brazil",
+      "Chad",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Mongolia",
+      "Niger",
+      "Peru",
+      "South Africa",
+      "Sudan"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "grid_id": "284",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In North America",
+      "variantId": 3
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 5 million",
+      "variantId": 6
+    },
+    {
+      "id": "official_language",
+      "name": "French is an official language",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 50",
+      "variantId": 3
+    },
+    {
+      "id": "played_world_cup",
+      "name": "Has played in the Men's FIFA World Cup",
+      "variantId": null
+    },
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 3 tCO₂/year",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bahamas",
+      "Barbados",
+      "Canada",
+      "Costa Rica",
+      "Dominica",
+      "Grenada",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "El Salvador",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Mexico",
+      "Panama",
+      "Trinidad and Tobago",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Bahamas",
+      "Bermuda",
+      "Canada",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Greenland",
+      "Mexico",
+      "Montserrat",
+      "Panama",
+      "Puerto Rico",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "U.S. Virgin Islands",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Chile",
+      "Hong Kong",
+      "Japan",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Chile",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ghana",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Mexico",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Chile",
+      "China",
+      "Hong Kong",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Belgium",
+      "Canada",
+      "France",
+      "Luxembourg",
+      "Rwanda",
+      "Seychelles",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Belgium",
+      "Cameroon",
+      "Canada",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Haiti",
+      "Senegal",
+      "Switzerland",
+      "Togo"
+    ],
+    "match_box_9": [
+      "Belgium",
+      "Canada",
+      "France",
+      "French Polynesia",
+      "Luxembourg",
+      "Monaco",
+      "New Caledonia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Switzerland"
+    ]
+  }
+}

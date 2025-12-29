@@ -1,0 +1,175 @@
+{
+  "grid_id": "302",
+  "rows": [
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    },
+    {
+      "id": "population_under_x",
+      "name": "Population under 50 million",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "id": "bottom_20_population_density",
+      "name": "Bottom 20 in population density",
+      "variantId": null
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.55",
+      "variantId": 3
+    },
+    {
+      "id": "was_ussr",
+      "name": "Was part of the USSR",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Central African Republic",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Gabon",
+      "Guyana",
+      "Libya",
+      "Mauritania",
+      "Namibia",
+      "Pitcairn Islands",
+      "Suriname",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Djibouti",
+      "Eritrea",
+      "Ethiopia",
+      "Guinea",
+      "Guinea-Bissau",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Pakistan",
+      "Senegal",
+      "Sierra Leone",
+      "South Sudan",
+      "Sudan",
+      "The Gambia"
+    ],
+    "match_box_3": [
+      "Azerbaijan",
+      "Belarus",
+      "Lithuania",
+      "Moldova",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Botswana",
+      "Canada",
+      "French Guiana",
+      "Guyana",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Russia",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Eritrea",
+      "Ethiopia",
+      "Guinea",
+      "Liberia",
+      "Somalia",
+      "The Gambia"
+    ],
+    "match_box_6": [
+      "Armenia",
+      "Estonia",
+      "Georgia",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Russia"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Botswana",
+      "Canada",
+      "Central African Republic",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Gabon",
+      "Greenland",
+      "Guyana",
+      "Iceland",
+      "Kazakhstan",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Niue",
+      "Pitcairn Islands",
+      "Suriname",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Djibouti",
+      "Eritrea",
+      "Guinea",
+      "Guinea-Bissau",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Senegal",
+      "Sierra Leone",
+      "Somalia",
+      "South Sudan",
+      "The Gambia",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Armenia",
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ]
+  }
+}

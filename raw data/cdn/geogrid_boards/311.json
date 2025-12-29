@@ -1,0 +1,169 @@
+{
+  "grid_id": "311",
+  "rows": [
+    {
+      "id": "size_under_x",
+      "name": "Area less than 100,000 km²",
+      "variantId": 4
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 50 Olympic medals",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Azerbaijan",
+      "Bhutan",
+      "Burundi",
+      "Czechia",
+      "Eswatini",
+      "Hungary",
+      "Kosovo",
+      "Lesotho",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "Rwanda",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bhutan",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Croatia",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Kiribati",
+      "Malta",
+      "Moldova",
+      "Montenegro",
+      "Montserrat",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Serbia",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Azerbaijan",
+      "Belgium",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "Hungary",
+      "Jamaica",
+      "Netherlands",
+      "Slovenia",
+      "South Korea",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Bhutan",
+      "Kosovo",
+      "Malawi",
+      "Rwanda",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Belize",
+      "Bhutan",
+      "Jersey",
+      "Mexico",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Greece",
+      "Mexico",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Sweden"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_8": [
+      "Bhutan",
+      "Christmas Island",
+      "Egypt",
+      "Kazakhstan",
+      "Sri Lanka"
+    ],
+    "match_box_9": [
+      "Azerbaijan",
+      "China",
+      "Iran",
+      "Japan",
+      "Kazakhstan",
+      "North Korea",
+      "Russia",
+      "South Korea",
+      "Türkiye"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "grid_id": "304",
+  "rows": [
+    {
+      "id": "borders_x",
+      "name": "Borders China",
+      "variantId": 1
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia",
+      "Russia",
+      "Tajikistan"
+    ],
+    "match_box_2": [
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Macau",
+      "Mongolia",
+      "Myanmar",
+      "Tajikistan",
+      "Vietnam"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Hong Kong",
+      "North Korea",
+      "Russia",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "China",
+      "Kazakhstan",
+      "Mongolia",
+      "Russia",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Central African Republic",
+      "Chad",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kazakhstan",
+      "Mali",
+      "Mauritania",
+      "Mexico",
+      "Mongolia",
+      "Mozambique",
+      "Myanmar",
+      "Namibia",
+      "Peru",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Tanzania",
+      "Ukraine",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Mali",
+      "Mexico",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "Somalia",
+      "South Africa",
+      "Spain",
+      "Sudan",
+      "Thailand",
+      "Türkiye",
+      "Ukraine",
+      "Venezuela",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Hungary",
+      "Kazakhstan",
+      "Moldova",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Germany",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Lithuania",
+      "Moldova",
+      "Montenegro",
+      "North Macedonia",
+      "Portugal",
+      "Romania",
+      "San Marino",
+      "Serbia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Ukraine",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Azerbaijan",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ]
+  }
+}

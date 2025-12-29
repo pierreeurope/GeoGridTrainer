@@ -1,0 +1,176 @@
+{
+  "grid_id": "313",
+  "rows": [
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with yellow",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Oceania",
+      "variantId": 6
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "50_plus_skyscrapers",
+      "name": "Has 50+ skyscrapers",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Cook Islands",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Belize",
+      "Bermuda",
+      "Canada",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Liechtenstein",
+      "Montserrat",
+      "Morocco",
+      "New Zealand",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Cambodia",
+      "Canada",
+      "Japan",
+      "Malaysia",
+      "Qatar",
+      "Saudi Arabia",
+      "Thailand",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Australia",
+      "French Polynesia",
+      "Guam",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Pitcairn Islands",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Bermuda",
+      "Brazil",
+      "Canada",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Ecuador",
+      "Guadeloupe",
+      "Guam",
+      "Liechtenstein",
+      "Malta",
+      "New Zealand",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Africa",
+      "Switzerland",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Mexico",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "Nauru",
+      "New Caledonia",
+      "Niue",
+      "Northern Mariana Islands",
+      "Palau",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Solomon Islands",
+      "Tokelau",
+      "Tuvalu",
+      "Vanuatu"
+    ],
+    "match_box_8": [
+      "American Samoa",
+      "Belize",
+      "Benin",
+      "Bermuda",
+      "Bolivia",
+      "Brazil",
+      "Cameroon",
+      "China",
+      "Cocos Islands",
+      "Dominican Republic",
+      "Ecuador",
+      "Guadeloupe",
+      "Guam",
+      "Kazakhstan",
+      "Liechtenstein",
+      "Montserrat",
+      "Myanmar",
+      "Nauru",
+      "Palau",
+      "Philippines",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "San Marino",
+      "Sint Maarten",
+      "South Africa",
+      "Tanzania",
+      "Turks and Caicos Islands",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Brazil",
+      "China",
+      "Malaysia",
+      "Mexico",
+      "Philippines",
+      "Vietnam"
+    ]
+  }
+}

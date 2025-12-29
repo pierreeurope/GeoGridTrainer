@@ -1,0 +1,198 @@
+{
+  "grid_id": "285",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Oceania",
+      "variantId": 6
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "top_20_obesity_rate",
+      "name": "Top 20 in obesity rate",
+      "variantId": null
+    },
+    {
+      "id": "hdi_over_x",
+      "name": "Human Development Index over 0.8",
+      "variantId": 8
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Cook Islands",
+      "Marshall Islands",
+      "Nauru",
+      "New Zealand",
+      "Samoa",
+      "Tokelau",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "American Samoa",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "Niue",
+      "Samoa",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "American Samoa",
+      "Australia",
+      "Cook Islands",
+      "Guam",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Côte d'Ivoire",
+      "Malta",
+      "Nauru",
+      "New Zealand",
+      "Taiwan",
+      "Trinidad and Tobago",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "American Samoa",
+      "Belize",
+      "Federated States of Micronesia",
+      "Nauru",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Australia",
+      "Bermuda",
+      "Canada",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Guadeloupe",
+      "Guam",
+      "Kazakhstan",
+      "Liechtenstein",
+      "Malta",
+      "Montserrat",
+      "New Zealand",
+      "San Marino",
+      "Switzerland",
+      "Taiwan",
+      "Trinidad and Tobago",
+      "Türkiye",
+      "Turks and Caicos Islands",
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Angola",
+      "Armenia",
+      "Australia",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Bulgaria",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Czechia",
+      "Estonia",
+      "French Guiana",
+      "Grenada",
+      "Guinea",
+      "Jamaica",
+      "Liberia",
+      "Lithuania",
+      "Malta",
+      "Mauritania",
+      "Mongolia",
+      "North Korea",
+      "Panama",
+      "Romania",
+      "Russia",
+      "Rwanda",
+      "Samoa",
+      "Slovakia",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_8": [
+      "American Samoa",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Samoa",
+      "Saudi Arabia",
+      "Tonga",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Aruba",
+      "Australia",
+      "Austria",
+      "Bermuda",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Canada",
+      "Costa Rica",
+      "Croatia",
+      "Czechia",
+      "Estonia",
+      "Georgia",
+      "Latvia",
+      "Lithuania",
+      "Malaysia",
+      "Malta",
+      "New Caledonia",
+      "North Macedonia",
+      "Panama",
+      "Romania",
+      "Russia",
+      "Saudi Arabia",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "South Korea",
+      "United States of America"
+    ]
+  }
+}

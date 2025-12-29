@@ -1,0 +1,180 @@
+{
+  "grid_id": "30",
+  "rows": [
+    {
+      "name": "Human Development Index over 0.9",
+      "id": "hdi_over_x",
+      "variantId": 10
+    },
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    },
+    {
+      "name": "Name is 5 letters long",
+      "id": "name_length",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    },
+    {
+      "name": "Population over 50 million",
+      "id": "population_over_x",
+      "variantId": 6
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "France",
+      "Germany",
+      "Israel",
+      "Italy",
+      "Poland",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_2": [
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "South Korea",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Åland",
+      "Aruba",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Cyprus",
+      "Faroe Islands",
+      "Guam",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Japan",
+      "Jersey",
+      "Malta",
+      "Martinique",
+      "New Zealand",
+      "Norfolk Island",
+      "Singapore",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Burkina Faso",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "North Macedonia",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "South Africa",
+      "South Sudan"
+    ],
+    "match_box_5": [
+      "Democratic Republic of the Congo",
+      "South Africa",
+      "South Korea",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "American Samoa",
+      "Antigua and Barbuda",
+      "Bailiwick of Guernsey",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Cabo Verde",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Dominican Republic",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Isle of Man",
+      "Marshall Islands",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "São Tomé and Príncipe",
+      "Sint Maarten",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Svalbard and Jan Mayen",
+      "Timor-Leste",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Kingdom",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "China",
+      "India",
+      "Italy",
+      "Kenya",
+      "Libya",
+      "Niger",
+      "Spain",
+      "Sudan",
+      "Syria"
+    ],
+    "match_box_8": [
+      "China",
+      "Egypt",
+      "India",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Sudan"
+    ],
+    "match_box_9": [
+      "Åland",
+      "Aruba",
+      "Haiti",
+      "Japan",
+      "Malta",
+      "Nauru",
+      "Palau",
+      "Samoa",
+      "Tonga"
+    ]
+  }
+}

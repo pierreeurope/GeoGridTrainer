@@ -1,0 +1,153 @@
+{
+  "grid_id": "307",
+  "rows": [
+    {
+      "id": "top_20_wheat_production",
+      "name": "Top 20 in wheat production",
+      "variantId": null
+    },
+    {
+      "id": "cpi_over_x",
+      "name": "Corruption Perceptions Index over 60",
+      "variantId": 4
+    },
+    {
+      "id": "top_20_tourism",
+      "name": "Top 20 in annual tourist arrivals",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "hosted_olympics",
+      "name": "Has hosted the Olympics",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 500,000 km²",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "India",
+      "Iran",
+      "Kazakhstan",
+      "Pakistan",
+      "Russia",
+      "Türkiye",
+      "Ukraine",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Austria",
+      "France",
+      "Germany",
+      "Israel",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Canada",
+      "Finland",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Japan",
+      "Netherlands",
+      "Norway",
+      "South Korea",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "France",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Austria",
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Saudi Arabia",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Netherlands",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Canada",
+      "China",
+      "France",
+      "Mexico",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United States of America"
+    ]
+  }
+}

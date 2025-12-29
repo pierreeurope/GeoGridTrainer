@@ -1,0 +1,138 @@
+{
+  "grid_id": "318",
+  "rows": [
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter B",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In South America",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "same_sex_marriage_legal",
+      "name": "Same-sex marriage legalised",
+      "variantId": null
+    },
+    {
+      "id": "capital_not_most_populated_city",
+      "name": "Capital is not the most populated city",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "France",
+      "Germany",
+      "Greece",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "India",
+      "Türkiye",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Poland",
+      "Portugal",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Bermuda",
+      "Bouvet Island",
+      "Brazil",
+      "British Indian Ocean Territory"
+    ],
+    "match_box_5": [
+      "Belize",
+      "Benin",
+      "Bermuda",
+      "Bolivia",
+      "Brazil",
+      "Burundi"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "Belgium",
+      "Benin",
+      "Bolivia",
+      "Brazil",
+      "Burkina Faso",
+      "Burundi"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Aruba",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Uruguay"
+    ],
+    "match_box_8": [
+      "Bolivia",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Ecuador",
+      "Trinidad and Tobago"
+    ],
+    "match_box_9": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ]
+  }
+}

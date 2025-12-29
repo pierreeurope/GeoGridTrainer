@@ -1,0 +1,168 @@
+{
+  "grid_id": "283",
+  "rows": [
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    },
+    {
+      "id": "starting_letter",
+      "name": "Starts with letter M",
+      "variantId": 10
+    },
+    {
+      "id": "no_olympic_medals",
+      "name": "Has never won an Olympic medal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_population_density",
+      "name": "Top 20 in population density",
+      "variantId": null
+    },
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 10 million",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Jersey",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan"
+    ],
+    "match_box_2": [
+      "Åland",
+      "Bahamas",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Bouvet Island",
+      "Cuba",
+      "Cyprus",
+      "Faroe Islands",
+      "Greenland",
+      "Haiti",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Saint Pierre and Miquelon",
+      "Svalbard and Jan Mayen",
+      "Turks and Caicos Islands",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Papua New Guinea",
+      "Philippines",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Monaco"
+    ],
+    "match_box_5": [
+      "Malta",
+      "Mexico",
+      "Moldova",
+      "Monaco",
+      "Montenegro"
+    ],
+    "match_box_6": [
+      "Madagascar",
+      "Malawi",
+      "Malaysia",
+      "Mali",
+      "Mexico",
+      "Morocco",
+      "Mozambique",
+      "Myanmar"
+    ],
+    "match_box_7": [
+      "Aruba",
+      "Bailiwick of Guernsey",
+      "Bangladesh",
+      "Gibraltar",
+      "Jersey",
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mayotte",
+      "Monaco",
+      "Palestine",
+      "Sint Maarten",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Bouvet Island",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "Monaco",
+      "Norfolk Island",
+      "Palestine",
+      "Saint Pierre and Miquelon",
+      "Svalbard and Jan Mayen",
+      "Turks and Caicos Islands",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Bangladesh",
+      "Benin",
+      "Bolivia",
+      "Cambodia",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Guinea",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Myanmar",
+      "Nepal",
+      "Papua New Guinea",
+      "Rwanda",
+      "Somalia",
+      "South Sudan",
+      "Yemen"
+    ]
+  }
+}

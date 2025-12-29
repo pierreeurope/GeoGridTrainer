@@ -1,0 +1,195 @@
+{
+  "grid_id": "289",
+  "rows": [
+    {
+      "id": "multiple_time_zones",
+      "name": "Has more than 1 time zone",
+      "variantId": null
+    },
+    {
+      "id": "ending_letter",
+      "name": "Ends with letter A",
+      "variantId": 0
+    },
+    {
+      "id": "air_pollution_under_x",
+      "name": "Air pollution under 5 μg/m³",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    },
+    {
+      "id": "flag_rwb",
+      "name": "Flag with only red, white, and blue",
+      "variantId": null
+    },
+    {
+      "id": "size_over_x",
+      "name": "Area greater than 200,000 km²",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Brazil",
+      "Canada",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "France",
+      "Greenland",
+      "Portugal",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Chile",
+      "France",
+      "New Zealand",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "Ecuador",
+      "France",
+      "Greenland",
+      "Indonesia",
+      "Mexico",
+      "Mongolia",
+      "New Zealand",
+      "Papua New Guinea",
+      "Russia",
+      "Spain",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Angola",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Bermuda",
+      "Canada",
+      "Dominica",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Ghana",
+      "Grenada",
+      "Guinea",
+      "Guyana",
+      "Liberia",
+      "Mauritania",
+      "Namibia",
+      "Nigeria",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "South Africa",
+      "The Gambia",
+      "United States of America",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Costa Rica",
+      "Cuba",
+      "Czechia",
+      "Liberia",
+      "North Korea",
+      "Panama",
+      "Russia",
+      "Samoa",
+      "Slovakia",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Australia",
+      "Bolivia",
+      "Botswana",
+      "Canada",
+      "China",
+      "Colombia",
+      "Ethiopia",
+      "Ghana",
+      "Guinea",
+      "Guyana",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Libya",
+      "Malaysia",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Nigeria",
+      "Papua New Guinea",
+      "Romania",
+      "Russia",
+      "Saudi Arabia",
+      "Somalia",
+      "South Africa",
+      "Tanzania",
+      "Uganda",
+      "United States of America",
+      "Venezuela",
+      "Western Sahara",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cabo Verde",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Greenland",
+      "Grenada",
+      "Iceland",
+      "Martinique",
+      "Mauritania",
+      "Norway",
+      "Puerto Rico",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "U.S. Virgin Islands",
+      "Western Sahara"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Cook Islands",
+      "Faroe Islands",
+      "Iceland",
+      "New Zealand",
+      "Norway",
+      "Puerto Rico",
+      "Samoa"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Finland",
+      "Greenland",
+      "Mauritania",
+      "New Zealand",
+      "Norway",
+      "Sweden",
+      "Western Sahara"
+    ]
+  }
+}

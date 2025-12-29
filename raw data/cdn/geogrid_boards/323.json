@@ -1,0 +1,186 @@
+{
+  "grid_id": "323",
+  "rows": [
+    {
+      "id": "is_monarchy",
+      "name": "Is a monarchy",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_coat_of_arms",
+      "name": "Flag with a coat of arms",
+      "variantId": null
+    },
+    {
+      "id": "island_nation",
+      "name": "Island nation",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 500k",
+      "variantId": 3
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Denmark",
+      "Faroe Islands",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Monaco",
+      "Netherlands",
+      "Norway",
+      "Spain",
+      "Svalbard and Jan Mayen",
+      "Sweden",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Cambodia",
+      "Canada",
+      "Denmark",
+      "Jamaica",
+      "Japan",
+      "Jordan",
+      "Kuwait",
+      "Malaysia",
+      "Morocco",
+      "Netherlands",
+      "Norway",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "Spain",
+      "Sweden",
+      "Thailand",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Andorra",
+      "Bahamas",
+      "Bahrain",
+      "Belgium",
+      "Bermuda",
+      "Curaçao",
+      "Denmark",
+      "Grenada",
+      "Jamaica",
+      "Lesotho",
+      "Morocco",
+      "Tokelau"
+    ],
+    "match_box_4": [
+      "Albania",
+      "Andorra",
+      "Croatia",
+      "Gibraltar",
+      "Jersey",
+      "Moldova",
+      "Montenegro",
+      "Portugal",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Albania",
+      "Bolivia",
+      "Brazil",
+      "Croatia",
+      "Dominican Republic",
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Ethiopia",
+      "Guatemala",
+      "Haiti",
+      "Iran",
+      "Mexico",
+      "Moldova",
+      "Mozambique",
+      "Nicaragua",
+      "Oman",
+      "Peru",
+      "Portugal",
+      "Serbia",
+      "Spain"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Andorra",
+      "Bermuda",
+      "Bolivia",
+      "Croatia",
+      "Ecuador",
+      "Moldova"
+    ],
+    "match_box_7": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_8": [
+      "Cuba",
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "Madagascar",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Bahamas",
+      "Bahrain",
+      "Bermuda",
+      "Comoros",
+      "Curaçao",
+      "Grenada",
+      "Iceland",
+      "Ireland",
+      "Jamaica",
+      "Mayotte",
+      "Réunion",
+      "Tokelau",
+      "Vanuatu"
+    ]
+  }
+}

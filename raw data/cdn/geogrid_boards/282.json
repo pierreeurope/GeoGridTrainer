@@ -1,0 +1,194 @@
+{
+  "grid_id": "282",
+  "rows": [
+    {
+      "id": "olympic_medals_under_x",
+      "name": "Fewer than 10 Olympic medals",
+      "variantId": 0
+    },
+    {
+      "id": "cpi_under_x",
+      "name": "Corruption Perceptions Index under 50",
+      "variantId": 3
+    },
+    {
+      "id": "same_sex_activities_illegal",
+      "name": "Same-sex activities are illegal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "touches_sahara",
+      "name": "Touches the Sahara Desert",
+      "variantId": null
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.55",
+      "variantId": 3
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 2 colors",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Chad",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Niger",
+      "Sudan",
+      "Western Sahara"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Eritrea",
+      "Guinea",
+      "Guinea-Bissau",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Senegal",
+      "Sierra Leone",
+      "Somalia",
+      "South Sudan",
+      "Sudan",
+      "The Gambia",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Albania",
+      "Bahrain",
+      "Bangladesh",
+      "Federated States of Micronesia",
+      "Greenland",
+      "Honduras",
+      "Monaco",
+      "Norfolk Island",
+      "North Macedonia",
+      "Palau",
+      "Qatar",
+      "Saudi Arabia",
+      "Singapore",
+      "Somalia",
+      "Tonga",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Niger",
+      "Sudan",
+      "Tunisia"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Eritrea",
+      "Ethiopia",
+      "Guinea",
+      "Guinea-Bissau",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Pakistan",
+      "Senegal",
+      "Sierra Leone",
+      "Somalia",
+      "South Sudan",
+      "Sudan",
+      "The Gambia",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Bangladesh",
+      "China",
+      "Greece",
+      "Honduras",
+      "Indonesia",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Morocco",
+      "Nigeria",
+      "North Macedonia",
+      "Pakistan",
+      "Somalia",
+      "Tunisia",
+      "Türkiye",
+      "Ukraine",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Libya",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Sudan",
+      "Tunisia"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Burundi",
+      "Chad",
+      "Eritrea",
+      "Ethiopia",
+      "Guinea",
+      "Liberia",
+      "Malawi",
+      "Mali",
+      "Pakistan",
+      "Senegal",
+      "Sierra Leone",
+      "Somalia",
+      "South Sudan",
+      "Sudan",
+      "The Gambia",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Bangladesh",
+      "Indonesia",
+      "Morocco",
+      "Nigeria",
+      "Pakistan",
+      "Qatar",
+      "Saudi Arabia",
+      "Somalia",
+      "Tonga",
+      "Tunisia"
+    ]
+  }
+}

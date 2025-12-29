@@ -1,0 +1,175 @@
+{
+  "grid_id": "321",
+  "rows": [
+    {
+      "id": "top_20_wheat_production",
+      "name": "Top 20 in wheat production",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 500k",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_rail_size",
+      "name": "Top 20 in rail transport network size",
+      "variantId": null
+    },
+    {
+      "id": "touches_eurasian_steppe",
+      "name": "Touches the Eurasian Steppe",
+      "variantId": null
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 6 letters long",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "China",
+      "Kazakhstan",
+      "Romania",
+      "Russia",
+      "Ukraine"
+    ],
+    "match_box_3": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Poland",
+      "Russia"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Austria",
+      "Bulgaria",
+      "China",
+      "Croatia",
+      "Hungary",
+      "Kazakhstan",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "France",
+      "Guinea",
+      "Israel",
+      "Jordan",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Brazil",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Poland",
+      "Romania",
+      "Russia",
+      "South Africa",
+      "Spain",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Austria",
+      "Bulgaria",
+      "China",
+      "Croatia",
+      "Hungary",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Moldova",
+      "Mongolia",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Tajikistan",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Greece",
+      "Guinea",
+      "Israel",
+      "Jordan",
+      "Kuwait",
+      "Latvia",
+      "Malawi",
+      "Mexico",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Rwanda",
+      "Serbia",
+      "Sweden",
+      "Taiwan",
+      "Uganda",
+      "Zambia"
+    ]
+  }
+}

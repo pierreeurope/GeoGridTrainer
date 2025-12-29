@@ -1,0 +1,168 @@
+{
+  "grid_id": "295",
+  "rows": [
+    {
+      "id": "top_20_oil_production",
+      "name": "Top 20 in oil production",
+      "variantId": null
+    },
+    {
+      "id": "coastline_length_over_x",
+      "name": "Has coastline, with length greater than 2,000 km",
+      "variantId": 3
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "official_language",
+      "name": "Arabic is an official language",
+      "variantId": 0
+    },
+    {
+      "id": "continent",
+      "name": "In Asia",
+      "variantId": 0
+    },
+    {
+      "id": "same_sex_activities_illegal",
+      "name": "Same-sex activities are illegal",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Iraq",
+      "Kuwait",
+      "Libya",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "match_box_2": [
+      "China",
+      "Iran",
+      "Iraq",
+      "Kazakhstan",
+      "Kuwait",
+      "Oman",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Iran",
+      "Iraq",
+      "Kuwait",
+      "Libya",
+      "Nigeria",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Egypt",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Saudi Arabia",
+      "Somalia",
+      "Sudan",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Malaysia",
+      "Maldives",
+      "Myanmar",
+      "North Korea",
+      "Oman",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "Sri Lanka",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "Egypt",
+      "Eritrea",
+      "Indonesia",
+      "Iran",
+      "Libya",
+      "Malaysia",
+      "Maldives",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Oman",
+      "Pakistan",
+      "Papua New Guinea",
+      "Saudi Arabia",
+      "Solomon Islands",
+      "Somalia",
+      "Sri Lanka",
+      "Sudan",
+      "Tanzania",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Bahrain",
+      "Comoros",
+      "Lebanon",
+      "Morocco",
+      "Somalia",
+      "Tunisia"
+    ],
+    "match_box_8": [
+      "Armenia",
+      "Bahrain",
+      "Georgia",
+      "Lebanon",
+      "Myanmar",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_9": [
+      "Algeria",
+      "Burundi",
+      "Comoros",
+      "Eritrea",
+      "Grenada",
+      "Jamaica",
+      "Lebanon",
+      "Liberia",
+      "Morocco",
+      "Myanmar",
+      "Nigeria",
+      "Senegal",
+      "Somalia",
+      "Tunisia"
+    ]
+  }
+}

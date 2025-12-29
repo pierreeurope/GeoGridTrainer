@@ -1,0 +1,189 @@
+{
+  "grid_id": "314",
+  "rows": [
+    {
+      "id": "official_language",
+      "name": "Arabic is an official language",
+      "variantId": 0
+    },
+    {
+      "id": "color_on_flag",
+      "name": "Flag with green",
+      "variantId": 4
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 1 million",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "id": "alcohol_ban",
+      "name": "Alcohol prohibition",
+      "variantId": null
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Indian Ocean",
+      "variantId": 1
+    },
+    {
+      "id": "co2_emissions_per_capita_over_x",
+      "name": "CO₂ emissions per capita over 5 tCO₂/year",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Kuwait",
+      "Libya",
+      "Mauritania",
+      "Saudi Arabia",
+      "Somalia",
+      "Sudan",
+      "Yemen"
+    ],
+    "match_box_2": [
+      "Comoros",
+      "Djibouti",
+      "Oman",
+      "Somalia",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Bahrain",
+      "Kuwait",
+      "Libya",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Bangladesh",
+      "Iran",
+      "Kuwait",
+      "Libya",
+      "Maldives",
+      "Mauritania",
+      "Pakistan",
+      "Saudi Arabia",
+      "Sudan"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "Djibouti",
+      "India",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Myanmar",
+      "Oman",
+      "Pakistan",
+      "Seychelles",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "United Arab Emirates"
+    ],
+    "match_box_6": [
+      "Belarus",
+      "Bermuda",
+      "Bulgaria",
+      "Cayman Islands",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Guam",
+      "Iran",
+      "Ireland",
+      "Italy",
+      "Kuwait",
+      "Libya",
+      "Maldives",
+      "Montenegro",
+      "New Caledonia",
+      "Oman",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Saudi Arabia",
+      "Seychelles",
+      "Sint Maarten",
+      "South Africa",
+      "Turkmenistan",
+      "U.S. Virgin Islands",
+      "United Arab Emirates"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Bangladesh",
+      "Iran",
+      "Kuwait",
+      "Libya",
+      "Mauritania",
+      "Pakistan",
+      "Saudi Arabia",
+      "Somalia",
+      "Sudan",
+      "Yemen"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Malaysia",
+      "Mozambique",
+      "Oman",
+      "Pakistan",
+      "Singapore",
+      "Somalia",
+      "South Africa",
+      "Thailand",
+      "United Arab Emirates",
+      "Yemen"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Bulgaria",
+      "Canada",
+      "China",
+      "Czechia",
+      "Germany",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Kazakhstan",
+      "Kuwait",
+      "Libya",
+      "Malaysia",
+      "Mongolia",
+      "Oman",
+      "Poland",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "Serbia",
+      "Singapore",
+      "South Africa",
+      "South Korea",
+      "Taiwan",
+      "Türkiye",
+      "Turkmenistan",
+      "United Arab Emirates"
+    ]
+  }
+}

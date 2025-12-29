@@ -1,0 +1,172 @@
+{
+  "grid_id": "301",
+  "rows": [
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 50 million",
+      "variantId": 6
+    },
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Atlantic Ocean",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": "top_20_world_hertitage_sites",
+      "name": "Top 20 in number of World Heritage sites",
+      "variantId": null
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 200 Olympic medals",
+      "variantId": 6
+    },
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Canada",
+      "Czechia",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Portugal",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Austria",
+      "Canada",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "Norway",
+      "South Korea",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Austria",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Spain",
+      "Taiwan",
+      "United Arab Emirates",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "China",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "Russia",
+      "South Korea",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "Brazil",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "Indonesia",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Sudan",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Brazil",
+      "Canada",
+      "France",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Canada",
+      "Denmark",
+      "France",
+      "Germany",
+      "Netherlands",
+      "Norway",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Argentina",
+      "Brazil",
+      "Cameroon",
+      "Chile",
+      "Democratic Republic of the Congo",
+      "France",
+      "Germany",
+      "Ghana",
+      "Republic of the Congo",
+      "South Africa",
+      "Spain",
+      "United Kingdom",
+      "Venezuela"
+    ]
+  }
+}

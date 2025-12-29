@@ -1,0 +1,165 @@
+{
+  "grid_id": "315",
+  "rows": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "name_length",
+      "name": "Name is 7 letters long",
+      "variantId": 3
+    },
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "id": "coastline_on_x",
+      "name": "Coastline on the Mediterranean Sea",
+      "variantId": 0
+    },
+    {
+      "id": "landlocked",
+      "name": "Is landlocked",
+      "variantId": null
+    },
+    {
+      "id": "borders_x_to_y",
+      "name": "Borders 3-4 countries",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Albania",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "France",
+      "Gibraltar",
+      "Greece",
+      "Italy",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "Slovenia",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Albania",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Czechia",
+      "Finland",
+      "Georgia",
+      "Greece",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Norway",
+      "Slovenia",
+      "Sweden"
+    ],
+    "match_box_4": [
+      "Albania",
+      "Algeria",
+      "Croatia",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Belarus",
+      "Bolivia",
+      "Burundi",
+      "Czechia",
+      "Hungary",
+      "Lesotho",
+      "Moldova"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Armenia",
+      "Belgium",
+      "Burundi",
+      "Czechia",
+      "Eritrea",
+      "Finland",
+      "Georgia",
+      "Liberia",
+      "Morocco",
+      "Namibia",
+      "Nigeria",
+      "Somalia",
+      "Vietnam"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Egypt",
+      "France",
+      "Italy",
+      "Morocco",
+      "Spain",
+      "Syria",
+      "Türkiye"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Ethiopia",
+      "Kazakhstan",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Angola",
+      "Egypt",
+      "Ghana",
+      "Indonesia",
+      "Malawi",
+      "Malaysia",
+      "Mexico",
+      "Morocco",
+      "Nigeria",
+      "North Korea",
+      "Pakistan",
+      "Thailand",
+      "Venezuela",
+      "Vietnam"
+    ]
+  }
+}

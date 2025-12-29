@@ -1,0 +1,164 @@
+{
+  "grid_id": "288",
+  "rows": [
+    {
+      "id": "size_under_x",
+      "name": "Area less than 50,000 km²",
+      "variantId": 3
+    },
+    {
+      "id": "river_x_runs_through",
+      "name": "Is part of the Danube River system",
+      "variantId": 2
+    },
+    {
+      "id": "top_20_alcohol_consumption",
+      "name": "Top 20 in alcohol consumption per capita",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    },
+    {
+      "id": "olympic_medals_over_x",
+      "name": "More than 50 Olympic medals",
+      "variantId": 4
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Albania",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Belgium",
+      "Denmark",
+      "Estonia",
+      "Faroe Islands",
+      "Gibraltar",
+      "Isle of Man",
+      "Jersey",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Moldova",
+      "Monaco",
+      "Montenegro",
+      "Netherlands",
+      "North Macedonia",
+      "San Marino",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Denmark",
+      "Jamaica",
+      "Netherlands",
+      "Slovenia",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Israel",
+      "Montenegro",
+      "North Macedonia",
+      "Slovakia",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Moldova",
+      "Montenegro",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Romania",
+      "Slovenia",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Germany",
+      "Hungary",
+      "Montenegro",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Ukraine"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "Czechia",
+      "Estonia",
+      "France",
+      "Georgia",
+      "Germany",
+      "Ireland",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Moldova",
+      "Poland",
+      "Romania",
+      "Slovenia"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "Czechia",
+      "France",
+      "Germany",
+      "Poland",
+      "Romania",
+      "Slovenia"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Belarus",
+      "Bulgaria",
+      "France",
+      "Germany",
+      "Laos",
+      "Poland",
+      "Romania",
+      "Uganda"
+    ]
+  }
+}
