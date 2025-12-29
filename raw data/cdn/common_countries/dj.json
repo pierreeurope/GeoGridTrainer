@@ -1,0 +1,112 @@
+{
+  "code": "DJ",
+  "latitude": 11.825138,
+  "longitude": 42.590275,
+  "name": "Djibouti",
+  "names": {
+    "hu": "Dzsibuti",
+    "pl": "Dżibuti",
+    "de": "Dschibuti",
+    "ja": "ジブチ",
+    "es": "Yibuti",
+    "pt": "Djibuti",
+    "co": "Ghjibutu",
+    "eu": "Djibuti",
+    "ie": "Diobúití"
+  },
+  "flags": [
+    "et",
+    "er",
+    "dj",
+    "sd",
+    "ke",
+    "ye",
+    "so",
+    "sa"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "er",
+    "et",
+    "so"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Djibouti",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Djibouti/@11.825138,42.590275,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "DJF",
+    "name": "Franc",
+    "nameChoices": [
+      "Dirham",
+      "Kuna",
+      "Rial"
+    ]
+  },
+  "population": 1066809,
+  "size": 23200,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Djibouti"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "som",
+        "percentage": 53.68
+      },
+      {
+        "languageCode": "aar",
+        "percentage": 31.34
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://www.flickr.com/photos/alan-flora_botting/32985022806/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/djibouti-africa-ras-bir-beach-sea-143451/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/herd-of-goat-near-mountains-during-day-vmfKwrqkOkA"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-rock-wallpaper-QGEqzZ7VWqs"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-lone-tree-in-the-middle-of-a-rocky-area-4nU4ztBhXmM"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-rocky-landscape-with-a-cloudy-sky-Vph5Trg5XW8"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://www.flickr.com/photos/dvids/8224423530/"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 3761,
+  "gdpPerCapitaYear": 2023
+}

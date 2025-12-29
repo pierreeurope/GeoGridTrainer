@@ -1,0 +1,131 @@
+{
+  "code": "GW",
+  "latitude": 11.803749,
+  "longitude": -15.180413,
+  "name": "Guinea-Bissau",
+  "names": {
+    "fr": "Guinée-Bissau",
+    "es": "Guinea-Bisáu",
+    "eu": "Ginea-Bissau",
+    "hu": "Bissau-Guinea",
+    "nl": "Guinee-Bissau",
+    "pl": "Gwinea Bissau",
+    "pt": "Guiné-Bissau",
+    "de": "Guinea-Bissau",
+    "ja": "ギニアビサウ",
+    "co": "Ghjine-Bissau",
+    "ie": "An Ghuine-Bhissau"
+  },
+  "flags": [
+    "sl",
+    "sn",
+    "gw",
+    "lr",
+    "gm",
+    "cv",
+    "gn",
+    "mr"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "gn",
+    "sn"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Guinea-Bissau",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/GUINEA-BISSAu/@11.803749,-15.180413,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XOF",
+    "name": "Franc",
+    "nameChoices": [
+      "Ngultrum",
+      "Dobra",
+      "Ouguiya"
+    ]
+  },
+  "population": 2080000,
+  "size": 36125,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Guinea-Bissau"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "pov",
+        "percentage": 90.4
+      },
+      {
+        "languageCode": "por",
+        "percentage": 32.1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2018,
+    "totalValue": 244798758.114,
+    "topExports": [
+      {
+        "productCode": "08",
+        "value": 167802627.45
+      },
+      {
+        "productCode": "44",
+        "value": 76996130.664
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/village-africa-guinea-bissau-431731/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/boat-island-sea-costa-ocean-water-434919/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/man-riding-motorcycle-on-road-during-daytime-h781CadBmuQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/jbdodane/9102589195"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/up70mm/53849161706/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/brettnbutter/33200073206/"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Guineabissau_oli_2018137_lrg.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Entrada_da_cidade,_Bolama,_Guin%C3%A9-Bissau_%E2%80%93_2018-03-02_%E2%80%93_DSCN1004.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1130,
+  "gdpPerCapitaYear": 2025
+}

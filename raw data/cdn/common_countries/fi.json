@@ -1,0 +1,139 @@
+{
+  "code": "FI",
+  "latitude": 61.92411,
+  "longitude": 25.748151,
+  "name": "Finland",
+  "names": {
+    "fr": "Finlande",
+    "hu": "Finnország",
+    "pl": "Finlandia",
+    "de": "Finnland",
+    "ja": "フィンランド",
+    "co": "Finlanda",
+    "es": "Finlandia",
+    "pt": "Finlândia",
+    "eu": "Finlandia",
+    "ie": "An Fhionlainn"
+  },
+  "flags": [
+    "no",
+    "ee",
+    "fi",
+    "lt",
+    "ru",
+    "se",
+    "lv",
+    "by"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "no",
+    "ru",
+    "se"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Finland",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Finland/@61.92411,25.748151,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Dinar",
+      "Dollar",
+      "Krona"
+    ]
+  },
+  "population": 5635971,
+  "size": 338145,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fin",
+        "percentage": 86.5
+      },
+      {
+        "languageCode": "swe",
+        "percentage": 5.2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 82567752672.758,
+    "topExports": [
+      {
+        "productCode": "84",
+        "value": 11911532709.85
+      },
+      {
+        "productCode": "27",
+        "value": 7845810425.753
+      },
+      {
+        "productCode": "85",
+        "value": 7761797149.339
+      },
+      {
+        "productCode": "48",
+        "value": 6815796838.303
+      },
+      {
+        "productCode": "72",
+        "value": 5768023877.635
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/I9SWvZ9sO2U"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/lake-forest-nature-landscape-water-5045059/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/red-and-white-canoe-on-lake-near-green-trees-under-white-clouds-during-daytime-DyDR8oOzuNA"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/sunset-painting-1nBvotYiZQI"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/houses-near-tree-and-mountain-covered-by-snow-MRX-unYU1dc"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:%C3%84k%C3%A4slompolo_and_Yll%C3%A4s_in_Kolari,_Lapland,_Finland,_2018_September.jpg"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Kirsikkapuisto_during_cherry_blossom_in_Roihuvuori,_Helsinki,_2022_May_-_4.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 54160,
+  "gdpPerCapitaYear": 2025
+}

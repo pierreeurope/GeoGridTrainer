@@ -1,0 +1,139 @@
+{
+  "code": "EC",
+  "latitude": -1.831239,
+  "longitude": -78.183406,
+  "name": "Ecuador",
+  "names": {
+    "fr": "Équateur",
+    "pl": "Ekwador",
+    "ja": "エクアドル",
+    "co": "Equatore",
+    "pt": "Equador",
+    "eu": "Ekuador",
+    "ie": "Eacuadór"
+  },
+  "flags": [
+    "ec",
+    "cr",
+    "ni",
+    "pa",
+    "pe",
+    "co",
+    "ve",
+    "aw"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "co",
+    "pe"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Ecuador",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Ecuador/@-1.831239,-78.183406,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Boliviano",
+      "Franc",
+      "Peso"
+    ]
+  },
+  "population": 17483326,
+  "size": 283561,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 93
+      },
+      {
+        "languageCode": "que",
+        "percentage": 4.1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 35380361707,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 12554052659.7
+      },
+      {
+        "productCode": "03",
+        "value": 8453897266.8
+      },
+      {
+        "productCode": "08",
+        "value": 3807888968.7
+      },
+      {
+        "productCode": "26",
+        "value": 2016389971.9
+      },
+      {
+        "productCode": "16",
+        "value": 1583687433.5
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/Gz-ZBb6-mrE"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/lake-wetland-mountains-landscape-6791971/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-and-black-mountain-under-blue-sky-during-daytime--mXlubcOD58"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/two-people-walking-up-a-hill-with-a-scarf-F3BBLFml5Hw"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/train-on-railway-between-green-mountains-during-daytime-qP2bR5Ky3JE"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/53888266@N02/6971569230/in/photolist-bC47Du-bQXMRV-bC459G-bQXLog-bQXPeR-2iYFn5s-2mQwtS3-2iYCBTZ-bC45xo-bQXLyF-bC46RJ-bQXKjP-bC46g7-bQXKs4-bQXKWz-2iYCBLz-5bJ4gT-T857z9-2iYCye9-kdz4BK-2mQAGUB-T8591L-2DZLyU-2mQE1Dm-2mPZEaD-2mQ744Z-2mR3cpR-2mQfP8H-2ksvjjB-2ife5Fa-HryUD4-HrxSxH-212Y4se-22oh6Yi-Hrzyo2-212XXCZ-Hrzqoz-CJLPV8-Hrzzs6-212Y5V4-Hrzt6P-21i21ms-EfwF5d-21i1tU5-HrxZGc-HrzxJB-21i2Y37-21i2Xvf-21i1ukf-HrzsDM"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Cementerio,_Tulc%C3%A1n,_Ecuador,_2015-07-21,_DD_44.JPG"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Santuario_de_El_Quinche,_El_Quinche,_Ecuador,_2015-07-21,_D"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 6630,
+  "gdpPerCapitaYear": 2024
+}

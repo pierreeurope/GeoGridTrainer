@@ -1,0 +1,130 @@
+{
+  "code": "GD",
+  "latitude": 12.262776,
+  "longitude": -61.604171,
+  "name": "Grenada",
+  "names": {
+    "fr": "Grenade",
+    "ja": "グレナダ",
+    "co": "Granata",
+    "es": "Granada",
+    "pt": "Granada",
+    "ie": "Greanáda"
+  },
+  "flags": [
+    "gp",
+    "dm",
+    "tt",
+    "gd",
+    "bb",
+    "vc",
+    "mq",
+    "lc"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "vc",
+    "tt",
+    "lc",
+    "bb"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Grenada",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Grenada/@12.262776,-61.604171,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XCD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Shilling",
+      "Cordoba",
+      "Peso"
+    ]
+  },
+  "population": 114621,
+  "size": 344,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Grenada#Languages:~:text=but%20the%20main%20spoken%20language%20is%20either%20of%20two%20creole%20languages%20(Grenadian%20Creole%20English%20and%2C%20less%20frequently%2C%20Grenadian%20Creole%20French)"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "gcl"
+      },
+      {
+        "languageCode": "gcf"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 46055094.055,
+    "topExports": [
+      {
+        "productCode": "11",
+        "value": 6244914.203
+      },
+      {
+        "productCode": "09",
+        "value": 4823064.09
+      },
+      {
+        "productCode": "23",
+        "value": 4612293.702
+      },
+      {
+        "productCode": "32",
+        "value": 4115294.774
+      },
+      {
+        "productCode": "22",
+        "value": 3064875.06
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/c9yXt2dL1JI"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/caribbean-island-tropical-harbor-1934661/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/body-of-water-near-city-buildings-under-blue-and-white-sunny-cloudy-sky-during-daytime-0pBWK1yGweU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-cars-parked-in-front-of-a-building-Q5ax4B2CgAM"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-small-town-by-the-ocean-NntB-p1ov8k"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-city-next-to-a-body-of-water-lHXfXXvh0lw"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 11437,
+  "gdpPerCapitaYear": 2023
+}

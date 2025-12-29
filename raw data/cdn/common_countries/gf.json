@@ -1,0 +1,113 @@
+{
+  "code": "GF",
+  "latitude": 3.933889,
+  "longitude": -53.125782,
+  "name": "French Guiana",
+  "names": {
+    "fr": "Guyane française",
+    "hu": "Francia Guyana Francia Guyana",
+    "nl": "Frans-Guyana",
+    "pl": "Gujana Francuska",
+    "de": "Französisch-Guayana",
+    "ja": "フランス領ギアナ",
+    "co": "Ghjana Francesa",
+    "es": "Guayana Francesa",
+    "pt": "Guiana Francesa",
+    "eu": "Frantziako Guyana",
+    "ie": "Guáin na Fraince"
+  },
+  "flags": [
+    "gd",
+    "bb",
+    "gf",
+    "tt",
+    "gy",
+    "vc",
+    "sr",
+    "lc"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "sr",
+    "br"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/French_Guiana",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/French%20Guiana/@3.933889,-53.125782,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Real",
+      "Dollar",
+      "Franc"
+    ]
+  },
+  "population": 298682,
+  "size": 85000,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_French_Guiana#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra"
+      },
+      {
+        "languageCode": "gcr"
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/sea-shore-orla-cayenne-2060138/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/french-guiana-rainforest-forest-1207208/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/44584468@N05/6864847932"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/nasawebbtelescope/51584920253"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/michaelfowler/31278785236/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/amanderson/16582857709/"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Ile_St-Joseph_cimeti%C3%A8re_croix_centrale.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:French_Guiana_Cacao_street_towards_church.jpeg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true
+}

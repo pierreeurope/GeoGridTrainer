@@ -1,0 +1,147 @@
+{
+  "code": "ET",
+  "latitude": 9.145,
+  "longitude": 40.489673,
+  "name": "Ethiopia",
+  "names": {
+    "fr": "Éthiopie",
+    "hu": "Etiópia",
+    "nl": "Ethiopië",
+    "pl": "Etiopia",
+    "de": "Äthiopien",
+    "ja": "エチオピア",
+    "co": "Etiopia",
+    "es": "Etiopía",
+    "pt": "Etiópia",
+    "eu": "Etiopia",
+    "ie": "An Aetóip"
+  },
+  "flags": [
+    "sd",
+    "dj",
+    "so",
+    "et",
+    "ye",
+    "er",
+    "ke",
+    "ss"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "dj",
+    "er",
+    "ke",
+    "so",
+    "ss",
+    "sd"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Ethiopia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Ethiopia/@9.145,40.489673,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "ETB",
+    "name": "Birr",
+    "nameChoices": [
+      "Dirham",
+      "Dalasi",
+      "Gourde"
+    ]
+  },
+  "population": 109499000,
+  "size": 1104300,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "orm",
+        "percentage": 33.8
+      },
+      {
+        "languageCode": "amh",
+        "percentage": 29.3
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 3085116109.034,
+    "topExports": [
+      {
+        "productCode": "09",
+        "value": 1525422558.113
+      },
+      {
+        "productCode": "07",
+        "value": 529937002.457
+      },
+      {
+        "productCode": "12",
+        "value": 284516262.811
+      },
+      {
+        "productCode": "06",
+        "value": 255291064.568
+      },
+      {
+        "productCode": "02",
+        "value": 90902985.874
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/TgaK_57wRWU"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/tricycle-road-hills-wet-road-5700034/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/two-people-standing-on-top-of-hill-E0gtyLcD4NE"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/person-in-white-dress-in-front-of-pink-building-6SgfEwkA02Y"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-herd-of-cattle-walking-down-a-dirt-road-F07E5ak-Im8"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-city-at-night-hbRzMp8jl6c"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:ET_Afar_asv2018-01_img48_Dallol.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:ET_Bahir_Dar_asv2018-02_img17_Tis_Issat.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 994,
+  "gdpPerCapitaYear": 2025
+}

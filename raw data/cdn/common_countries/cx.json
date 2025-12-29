@@ -1,0 +1,112 @@
+{
+  "code": "CX",
+  "latitude": -10.447525,
+  "longitude": 105.690449,
+  "name": "Christmas Island",
+  "names": {
+    "fr": "Île Christmas",
+    "hu": "Karácsony-sziget",
+    "nl": "Christmaseiland",
+    "pl": "Wyspa Bożego Narodzenia",
+    "de": "Weihnachtsinsel",
+    "ja": "クリスマス島",
+    "co": "Isula Di Natale",
+    "es": "Isla de Navidad",
+    "pt": "Ilha Christmas",
+    "eu": "Christmas uhartea",
+    "ie": "Oileán na Nollag"
+  },
+  "flags": [
+    "kh",
+    "tl",
+    "bn",
+    "my",
+    "cx",
+    "id",
+    "sg",
+    "cc"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "cc",
+    "id"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Christmas_Island",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Christmas%20Island/@-10.447525,105.690449,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "size": 135,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Christmas_Island"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 27.6
+      },
+      {
+        "languageCode": "cmn",
+        "percentage": 17.2
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "population": 1692,
+  "currencyData": {
+    "nameChoices": [
+      "Pound",
+      "Franc",
+      "Rupiah"
+    ],
+    "name": "Dollar",
+    "code": "AUD"
+  },
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://www.flickr.com/photos/86978295@N00/2132099671/in/album-72157603535150413"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Flying_Fish_Cove_at_Christmas_Island.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/kristianbell/10672861884"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://commons.wikimedia.org/wiki/Category:Christmas_Island#/media/File:The_first_dam_ever_built_on_Christmas_Island.jpg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/crabs-near-seashore-gm5iCSYrLpQ"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/geraintdraheim/19008368439/"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Christmas_Island_(5775087802).jpg"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapitaYear": 2010
+}

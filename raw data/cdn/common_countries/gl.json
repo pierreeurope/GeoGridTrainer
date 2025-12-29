@@ -1,0 +1,130 @@
+{
+  "code": "GL",
+  "latitude": 71.706936,
+  "longitude": -42.604303,
+  "name": "Greenland",
+  "names": {
+    "fr": "Groenland",
+    "hu": "Grönland",
+    "nl": "Groenland",
+    "pl": "Grenlandia",
+    "de": "Grönland",
+    "ja": "グリーンランド",
+    "es": "Groenlandia",
+    "pt": "Gronelândia",
+    "co": "Groenlanda",
+    "eu": "Groenlandia",
+    "ie": "An Ghraonlainn"
+  },
+  "flags": [
+    "sj",
+    "fo",
+    "im",
+    "gb",
+    "ie",
+    "is",
+    "gl",
+    "no"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "is",
+    "sj",
+    "ca"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Greenland",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Greenland/@71.706936,-42.604303,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "DKK",
+    "name": "Krone",
+    "nameChoices": [
+      "Franc",
+      "Euro",
+      "Dollar"
+    ]
+  },
+  "population": 56831,
+  "size": 2166090,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "kal"
+      },
+      {
+        "languageCode": "dan"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2018,
+    "totalValue": 640897343.64,
+    "topExports": [
+      {
+        "productCode": "03",
+        "value": 463474488.37
+      },
+      {
+        "productCode": "16",
+        "value": 127828911
+      },
+      {
+        "productCode": "89",
+        "value": 23974316.89
+      },
+      {
+        "productCode": "99",
+        "value": 19798690.19
+      },
+      {
+        "productCode": "71",
+        "value": 1789410.56
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/EM_G_WFK9z4"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/mountains-snow-glacier-sea-arctic-5559241/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-and-blue-wooden-houses-v7DzvSEcNks"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photo-of-houses--Yfj5PLaFk8"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-tent-pitched-up-on-top-of-a-mountain-9wgSViip524"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 58499,
+  "gdpPerCapitaYear": 2023
+}

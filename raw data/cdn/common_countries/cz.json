@@ -1,0 +1,145 @@
+{
+  "code": "CZ",
+  "latitude": 49.817492,
+  "longitude": 15.472962,
+  "name": "Czechia",
+  "names": {
+    "fr": "Tchéquie",
+    "hu": "Csehország",
+    "nl": "Tsjechië",
+    "pl": "Czechy",
+    "de": "Tschechien",
+    "ja": "チェコ",
+    "co": "Republica Cecca",
+    "es": "República Checa",
+    "pt": "República Checa",
+    "eu": "Txekia",
+    "ie": "An tSeicia"
+  },
+  "flags": [
+    "sk",
+    "de",
+    "hr",
+    "si",
+    "at",
+    "cz",
+    "pl",
+    "hu"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "at",
+    "sk",
+    "pl",
+    "de"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Czechia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Czechia/@49.817492,15.472962,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "CZK",
+    "name": "Koruna",
+    "nameChoices": [
+      "Euro",
+      "Zloty",
+      "Forint"
+    ]
+  },
+  "population": 10900555,
+  "size": 78866,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ces",
+        "percentage": 88.4
+      },
+      {
+        "languageCode": "slk",
+        "percentage": 1.5
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 253327521218,
+    "topExports": [
+      {
+        "productCode": "87",
+        "value": 52225986916
+      },
+      {
+        "productCode": "85",
+        "value": 52059751048
+      },
+      {
+        "productCode": "84",
+        "value": 43227495849
+      },
+      {
+        "productCode": "73",
+        "value": 8134672134
+      },
+      {
+        "productCode": "39",
+        "value": 8112195309
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/1ak3Z7ZmtQA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/bridges-prague-czechia-water-city-3337124/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-1eShNpNUB1U"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/cars-on-road-during-night-time-Ay2lw6vKZyU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-couple-of-people-that-are-walking-down-a-street-UdowKikI1LY"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/brown-and-white-concrete-building-during-daytime--5bKUmWpuSY"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Ka%C5%A1persk%C3%A9_Hory_od_Li%C5%A1%C4%8D%C3%ADho_vrchu.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Znojmo_Old_Town_Panorama_from_Castle_20190217.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 31365,
+  "gdpPerCapitaYear": 2024
+}

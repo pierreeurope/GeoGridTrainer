@@ -1,0 +1,147 @@
+{
+  "code": "GN",
+  "latitude": 9.945587,
+  "longitude": -9.696645,
+  "name": "Guinea",
+  "names": {
+    "fr": "Guinée",
+    "es": "Guinea",
+    "eu": "Ginea",
+    "hu": "Guinea",
+    "nl": "Guinee",
+    "pl": "Gwinea",
+    "pt": "Guiné",
+    "de": "Guinea",
+    "ja": "ギニア",
+    "co": "Ghjine",
+    "ie": "An Ghuine"
+  },
+  "flags": [
+    "lr",
+    "gw",
+    "sl",
+    "sn",
+    "gm",
+    "gn",
+    "ci",
+    "ml"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "ci",
+    "gw",
+    "lr",
+    "ml",
+    "sn",
+    "sl"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Guinea",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/GUINEa/@9.945587,-9.696645,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "GNF",
+    "name": "Franc",
+    "nameChoices": [
+      "Dinar",
+      "Shilling",
+      "Cedi"
+    ]
+  },
+  "population": 13986179,
+  "size": 245857,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Guinea"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ful",
+        "percentage": 34.6
+      },
+      {
+        "languageCode": "mku",
+        "percentage": 24.9
+      }
+    ]
+  },
+  "productData": {
+    "year": 2016,
+    "totalValue": 2394528520.95,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 1562902439.53
+      },
+      {
+        "productCode": "26",
+        "value": 615060496.34
+      },
+      {
+        "productCode": "39",
+        "value": 36416466.21
+      },
+      {
+        "productCode": "03",
+        "value": 34100909.17
+      },
+      {
+        "productCode": "08",
+        "value": 32601353.95
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://en.wikipedia.org/wiki/Guinea#/media/File:Fouta_Djallon_(14582291826).jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/woods-fog-guinea-mist-africa-2357567/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-green-grass-field-FjE-FyxDmlw"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/white-and-brown-concrete-building-near-body-of-water-during-daytime-5Hy1HNPJjcU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-trees-and-beach-wVoZjM8ZYPs"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/ovong/48799992051/"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Dame_de_Mali_Guin%C3%A9e.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Tounty,_L%C3%A9louma_11.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1670,
+  "gdpPerCapitaYear": 2025
+}

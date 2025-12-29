@@ -1,0 +1,106 @@
+{
+  "code": "GP",
+  "latitude": 16.08663,
+  "longitude": -61.422873,
+  "name": "Guadeloupe",
+  "names": {
+    "hu": "Guadeloupe Guadeloupe",
+    "pl": "Gwadelupa",
+    "ja": "グアドループ",
+    "es": "Guadalupe",
+    "pt": "Guadalupe",
+    "co": "Guadelupa",
+    "eu": "Guadelupe",
+    "ie": "Guadalúip"
+  },
+  "flags": [
+    "lc",
+    "gp",
+    "kn",
+    "mq",
+    "ag",
+    "ai",
+    "ms",
+    "dm"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "dm",
+    "ms",
+    "ag",
+    "mq",
+    "kn"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Guadeloupe",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Guadeloupe/@16.08663,-61.422873,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Peso",
+      "Vatu",
+      "Dollar"
+    ]
+  },
+  "population": 378561,
+  "size": 1628,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_Guadeloupe#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra",
+        "percentage": 80.2
+      },
+      {
+        "languageCode": "gcf"
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/y32dchsQ-Gk"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/caribbean-sea-sand-island-holiday-1656604/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-island-with-coconut-trees-under-gray-skies-im43wgQ_81g"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/boats-near-island-during-day-3NCI3Ld2uXc"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-green-trees-and-body-of-water-during-daytime-y32dchsQ-Gk"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/galvanize-iron-house-WW9DVUmBbIA"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true
+}

@@ -1,0 +1,150 @@
+{
+  "code": "GB",
+  "latitude": 55.378051,
+  "longitude": -3.435973,
+  "name": "United Kingdom",
+  "names": {
+    "fr": "Royaume-Uni",
+    "hu": "Egyesült Királyság",
+    "nl": "Verenigd Koninkrijk",
+    "pl": "Wielka Brytania",
+    "de": "Vereinigtes Königreich",
+    "ja": "イギリス",
+    "co": "Regnu Unitu",
+    "es": "Reino Unido",
+    "pt": "Reino Unido",
+    "eu": "Erresuma Batua",
+    "ie": "An Ríocht Aontaithe"
+  },
+  "flags": [
+    "be",
+    "je",
+    "nl",
+    "gb",
+    "gg",
+    "ie",
+    "im",
+    "fr"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "im",
+    "ie",
+    "gg",
+    "nl",
+    "je",
+    "be",
+    "fr",
+    "fo",
+    "no"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/United_Kingdom",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/United%20Kingdom/@55.378051,-3.435973,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "GBP",
+    "name": "Pound",
+    "nameChoices": [
+      "Euro",
+      "Franc",
+      "Dollar"
+    ]
+  },
+  "population": 69281437,
+  "size": 242900,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_the_United_Kingdom"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 98
+      },
+      {
+        "languageCode": "cym",
+        "percentage": 1.7
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 521207222955.329,
+    "topExports": [
+      {
+        "productCode": "84",
+        "value": 86571563367.686
+      },
+      {
+        "productCode": "71",
+        "value": 80789899087.836
+      },
+      {
+        "productCode": "87",
+        "value": 50323592757.629
+      },
+      {
+        "productCode": "27",
+        "value": 42674466288.311
+      },
+      {
+        "productCode": "85",
+        "value": 28470808388.332
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/PhBF73HeEVM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/castle-building-architecture-7728772/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/train-on-bridge-surrounded-with-trees-at-daytime-XVoyX7l9ocY"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/gray-castle-on-shore-ZHF033ykCx8"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/two-person-on-street-near-trees-9lrWn9uo68A"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/cars-parked-near-multi-color-buildings-Ipln10Lk_WY"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Riffa_Farm_-_geograph.org.uk_-_6977228.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:The_descent_to_Smoo_Cave_-_geograph.org.uk_-_5100618.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 56661,
+  "gdpPerCapitaYear": 2025
+}

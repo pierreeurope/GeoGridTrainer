@@ -1,0 +1,148 @@
+{
+  "code": "GR",
+  "latitude": 39.074208,
+  "longitude": 21.824312,
+  "name": "Greece",
+  "names": {
+    "fr": "Grèce",
+    "hu": "Görögország",
+    "nl": "Griekenland",
+    "pl": "Grecja",
+    "de": "Griechenland",
+    "ja": "ギリシャ",
+    "co": "Grecia",
+    "es": "Grecia",
+    "pt": "Grécia",
+    "eu": "Grezia",
+    "ie": "An Ghréig"
+  },
+  "flags": [
+    "rs",
+    "al",
+    "bg",
+    "me",
+    "mk",
+    "xk",
+    "gr",
+    "tr"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "al",
+    "bg",
+    "mk",
+    "tr"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Greece",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Greece/@39.074208,21.824312,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Dollar",
+      "Lev",
+      "Lira"
+    ]
+  },
+  "population": 10400720,
+  "size": 131626,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Greece"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ell",
+        "percentage": 99
+      },
+      {
+        "languageCode": "sqi"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 55051586783.705,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 17815291004.32
+      },
+      {
+        "productCode": "30",
+        "value": 3024663094.374
+      },
+      {
+        "productCode": "76",
+        "value": 2719878815.333
+      },
+      {
+        "productCode": "85",
+        "value": 2378130609.466
+      },
+      {
+        "productCode": "84",
+        "value": 2367723082.187
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/x-HCoTDGgZw"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/santorini-greece-buildings-houses-416135/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/santorini-greece-_vA2q0-NroU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/rocky-and-grass-mountain-island-during-day-bFdC-dVtFT8"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/white-buildings-on-mountain-by-the-sea-during-daytime-uInLh1mVAWg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/buildings-near-ocean-dM_e5u-SM0U"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Aegina_sunset.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Rethymno_old_harbour_lighthouse_1.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 27170,
+  "gdpPerCapitaYear": 2025
+}

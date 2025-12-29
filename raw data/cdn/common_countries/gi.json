@@ -1,0 +1,106 @@
+{
+  "code": "GI",
+  "latitude": 36.137741,
+  "longitude": -5.345374,
+  "name": "Gibraltar",
+  "names": {
+    "hu": "Gibraltár",
+    "ja": "ジブラルタル",
+    "co": "Ghjibiltari",
+    "ie": "Giobráltar"
+  },
+  "flags": [
+    "mc",
+    "pt",
+    "es",
+    "fr",
+    "dz",
+    "ma",
+    "gi",
+    "ad"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "es"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Gibraltar",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Gibraltar/@36.137741,-5.345374,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "GIP",
+    "name": "Pound",
+    "nameChoices": [
+      "Leu",
+      "Euro",
+      "Dinar"
+    ]
+  },
+  "population": 34003,
+  "size": 6,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Gibraltar"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng"
+      },
+      {
+        "languageCode": "spa"
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/dVoNU7j3o_0"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/gibraltar-mediterranean-sea-horn-50863/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/moutanin-and-city-scenery-Fz3vBE8XoHc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/pink-flowers-across-white-and-red-lighthouse-during-daytime-T5ePvSRL5Hg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-city-skyline-by-the-sea-during-daytime-lJkO8GGrIro"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/cliff-beside-seashore-RjJiCLfMzLU"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Europa_Point,_Gibraltar_MOD_45162692.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Gibraltar_03.jpg"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapitaYear": 2024
+}

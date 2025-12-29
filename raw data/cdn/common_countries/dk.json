@@ -1,0 +1,137 @@
+{
+  "code": "DK",
+  "latitude": 56.26392,
+  "longitude": 9.501785,
+  "name": "Denmark",
+  "names": {
+    "fr": "Danemark",
+    "hu": "Dánia",
+    "nl": "Denemarken",
+    "pl": "Dania",
+    "de": "Dänemark",
+    "ja": "デンマーク",
+    "co": "Danimarcu",
+    "es": "Dinamarca",
+    "pt": "Dinamarca",
+    "eu": "Danimarka",
+    "ie": "An Danmhairg"
+  },
+  "flags": [
+    "pl",
+    "no",
+    "se",
+    "nl",
+    "de",
+    "be",
+    "lu",
+    "dk"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "de",
+    "se"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Denmark",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Denmark/@56.26392,9.501785,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "DKK",
+    "name": "Krone",
+    "nameChoices": [
+      "Pound",
+      "Lek",
+      "Euro"
+    ]
+  },
+  "population": 6001008,
+  "size": 43094,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Denmark"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "dan"
+      },
+      {
+        "languageCode": "deu"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 136074397804.553,
+    "topExports": [
+      {
+        "productCode": "30",
+        "value": 21012141752.076
+      },
+      {
+        "productCode": "84",
+        "value": 16117214256.472
+      },
+      {
+        "productCode": "27",
+        "value": 12922621025.449
+      },
+      {
+        "productCode": "85",
+        "value": 9063650279.046
+      },
+      {
+        "productCode": "90",
+        "value": 4777507692.228
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/imLsDPLnr7Y"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/lighthouse-landmark-coast-tower-5606162/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-near-sea-under-white-sky-during-daytime-R2fzDVNkJ6I"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/two-gray-and-black-boats-near-dock-3_ZGrsirryY"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-lots-of-buildings-5sYjHfS1AJE"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Gudhjem_sunset_asv2024-07_img1.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Havne_udsigt_fra_dokken-CN.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 74969,
+  "gdpPerCapitaYear": 2025
+}

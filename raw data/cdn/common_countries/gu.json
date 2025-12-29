@@ -1,0 +1,101 @@
+{
+  "code": "GU",
+  "latitude": 13.444304,
+  "longitude": 144.793731,
+  "name": "Guam",
+  "names": {
+    "ja": "グアム",
+    "ie": "Guam"
+  },
+  "flags": [
+    "fm",
+    "mp",
+    "jp",
+    "ph",
+    "gu",
+    "pw",
+    "pg",
+    "tw"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "mp",
+    "fm",
+    "pw"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Guam",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Guam/@13.444304,144.793731,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Dong",
+      "Yen",
+      "Franc"
+    ]
+  },
+  "population": 168801,
+  "size": 549,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 43.6
+      },
+      {
+        "languageCode": "fil",
+        "percentage": 21.2
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/guam-landscape-scenic-bay-harbor-107281/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/guam-sea-ocean-water-rocks-rocky-102374/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-rock-formation-on-body-of-water-under-blue-sky-during-daytime-Y6Pl62E6lrU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/man-in-black-shirt-sitting-on-white-sand-near-palm-tree-during-daytime-bjKoa34Iv_I"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-traffic-light-sitting-on-the-side-of-a-road-GGnr9_IQx9k"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-body-of-water-surrounded-by-lush-green-hills-ZM34LGY-LXQ"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 37387,
+  "gdpPerCapitaYear": 2019
+}

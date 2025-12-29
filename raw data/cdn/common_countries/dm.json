@@ -1,0 +1,137 @@
+{
+  "code": "DM",
+  "latitude": 15.414999,
+  "longitude": -61.370976,
+  "name": "Dominica",
+  "names": {
+    "fr": "Dominique",
+    "hu": "Dominikai Közösség",
+    "pl": "Dominika",
+    "ja": "ドミニカ",
+    "co": "Dumenica",
+    "eu": "Dominika",
+    "ie": "Doiminice"
+  },
+  "flags": [
+    "mq",
+    "vc",
+    "lc",
+    "gp",
+    "ag",
+    "ms",
+    "dm",
+    "kn"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "gp",
+    "mq"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Dominica",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Dominica/@15.414999,-61.370976,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XCD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Peso",
+      "Som",
+      "Franc"
+    ]
+  },
+  "population": 72412,
+  "size": 751,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dominica#Languages:~:text=English%20is%20the%20official%20language%20of%20Dominica%2C%20universally%20spoken%20and%20understood.%20In%20addition%2C%20Dominican%20Creole%2C%20an%20Antillean%20Creole%20based%20on%20French%2C%20is%20widely%20spoken."
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng"
+      },
+      {
+        "languageCode": "gcf"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 14145191.781,
+    "topExports": [
+      {
+        "productCode": "07",
+        "value": 2157808.213
+      },
+      {
+        "productCode": "84",
+        "value": 2108126.04
+      },
+      {
+        "productCode": "08",
+        "value": 1771733.413
+      },
+      {
+        "productCode": "32",
+        "value": 1634132.44
+      },
+      {
+        "productCode": "34",
+        "value": 1575082.499
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/xQmCJOklax4"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/dominica-roseau-caribbean-holiday-4645317/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/an-old-building-with-arches-and-a-clock-on-the-wall-WSBMYT9tXJQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/ocean-waves-near-forest-p_NYMvnIo4w"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-building-with-trees-in-front-of-it-3yJEoZai94o"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/waterfalls-and-grass-mountain-during-day-vu5Lhk35MRg"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Dominica,_Karibik_-_Fort_Young_Hotel,_Roseau_Dominica_-_panoramio.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Soufriere_bay_1.JPG"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 7860,
+  "gdpPerCapitaYear": 2018
+}

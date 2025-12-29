@@ -1,0 +1,127 @@
+{
+  "code": "GY",
+  "latitude": 4.860416,
+  "longitude": -58.93018,
+  "name": "Guyana",
+  "names": {
+    "pl": "Gujana",
+    "ja": "ガイアナ",
+    "pt": "Guiana",
+    "ie": "An Ghuáin"
+  },
+  "flags": [
+    "br",
+    "bb",
+    "sr",
+    "gy",
+    "ve",
+    "tt",
+    "gf",
+    "gd"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "br",
+    "sr",
+    "ve"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Guyana",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Guyana/@4.860416,-58.93018,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "GYD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Peso",
+      "Shilling",
+      "Real"
+    ]
+  },
+  "population": 835986,
+  "size": 214969,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Guyana#:~:text=The%20vast%20majority,minority%20of%20Amerindians."
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "gyn"
+      },
+      {
+        "languageCode": "ake"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 10811756230.203,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 7315616525.614
+      },
+      {
+        "productCode": "86",
+        "value": 1258838311.197
+      },
+      {
+        "productCode": "71",
+        "value": 589562272.987
+      },
+      {
+        "productCode": "89",
+        "value": 427702867.877
+      },
+      {
+        "productCode": "84",
+        "value": 407092900.755
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/pZyD9-XReQQ"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/guyana-sky-clouds-lake-stream-80836/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/gray-concrete-bridge-over-river-during-daytime-kvOJU3tGexs"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/white-and-brown-concrete-house-ez9RfX6DLUk"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/green-trees-near-white-concrete-building-during-daytime-pZyD9-XReQQ"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/brown-grass-field-1TnaUrrcm88"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 32326,
+  "gdpPerCapitaYear": 2025
+}

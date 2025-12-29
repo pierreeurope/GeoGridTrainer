@@ -1,0 +1,140 @@
+{
+  "code": "FJ",
+  "latitude": -16.578193,
+  "longitude": 179.414413,
+  "name": "Fiji",
+  "names": {
+    "fr": "Fidji",
+    "hu": "Fidzsi",
+    "pl": "Fidżi",
+    "de": "Fidschi",
+    "ja": "フィジー",
+    "co": "Figi",
+    "es": "Fiyi",
+    "ie": "Fidsí"
+  },
+  "flags": [
+    "tv",
+    "wf",
+    "fj",
+    "tk",
+    "to",
+    "as",
+    "ws",
+    "nu"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "wf",
+    "to",
+    "ws",
+    "tv",
+    "as",
+    "nu"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Fiji",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Fiji/@-16.578193,179.414413,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "FJD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Pound",
+      "Kina",
+      "Tala"
+    ]
+  },
+  "population": 926276,
+  "size": 18274,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Fiji"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fij",
+        "percentage": 54
+      },
+      {
+        "languageCode": "hif",
+        "percentage": 37
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 1067689697.639,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 283089784.617
+      },
+      {
+        "productCode": "22",
+        "value": 167544659.616
+      },
+      {
+        "productCode": "17",
+        "value": 71277588.752
+      },
+      {
+        "productCode": "03",
+        "value": 61478699.9
+      },
+      {
+        "productCode": "71",
+        "value": 45763176.253
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/Gg2VVz2ycAc"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/fiji-south-seas-vacations-island-3839354/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-houses-and-trees-MJ7yhD3kz7o"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-house-on-a-rocky-island-hoq8NaDGS64"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/birds-eye-view-of-island-b8RQN7Wtu34"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://www.flickr.com/photos/e_kaspersky/40422741605/"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/e_kaspersky/40422803625/"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapita": 6024,
+  "gdpPerCapitaYear": 2023
+}

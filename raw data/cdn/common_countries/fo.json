@@ -1,0 +1,118 @@
+{
+  "code": "FO",
+  "latitude": 61.892635,
+  "longitude": -6.911806,
+  "name": "Faroe Islands",
+  "names": {
+    "fr": "Îles Féroé",
+    "hu": "Feröer",
+    "nl": "Faeröer",
+    "pl": "Wyspy Owcze",
+    "de": "Färöer",
+    "ja": "フェロー諸島",
+    "co": "Isule Faroe",
+    "es": "Islas Feroe",
+    "pt": "Ilhas Faroé",
+    "eu": "Faroe Uharteak",
+    "ie": "Oileáin Fharó"
+  },
+  "flags": [
+    "dk",
+    "no",
+    "ie",
+    "fo",
+    "gb",
+    "is",
+    "im",
+    "nl"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "is",
+    "gb",
+    "no"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Faroe_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Faroe%20Islands/@61.892635,-6.911806,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "DKK",
+    "name": "Krone",
+    "nameChoices": [
+      "Pound",
+      "Marka",
+      "Euro"
+    ]
+  },
+  "population": 56210,
+  "size": 1399,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fao",
+        "percentage": 93.8
+      },
+      {
+        "languageCode": "dan",
+        "percentage": 3.2
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/NrP9I1utqug"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/sea-ocean-rocks-faroe-islands-7233669/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/lighthouse-near-body-of-water-Iay5RmQZo8Q"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-house-near-green-mountain-during-daytime-nHUWlHLMLZ8"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/calm-body-of-water-and-mountain-1UdiEckjJmM"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/top-view-photography-of-village-UH0-PfiCIaE"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Faroese_sheep_Sumba_1.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Lonely_house_on_the_coast_near_Ei%C3%B0i_-_Faroe_Islands_(50413406426).jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2019,
+  "gdpPerCapita": 58585
+}

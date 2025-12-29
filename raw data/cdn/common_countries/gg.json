@@ -1,0 +1,111 @@
+{
+  "code": "GG",
+  "latitude": 49.465691,
+  "longitude": -2.585278,
+  "name": "Bailiwick of Guernsey",
+  "names": {
+    "fr": "Bailliage de Guernesey",
+    "hu": "Guernsey Bailiffség",
+    "ja": "ガーンジー",
+    "de": "Herrschaft Guernsey",
+    "es": "Guernsey",
+    "nl": "Baljuwschap Guernsey",
+    "pl": "Okręg Guernsey",
+    "pt": "Bailiado de Guernsey",
+    "co": "Balianza di Guernsey",
+    "eu": "Guernsey",
+    "ie": "Geansaí"
+  },
+  "flags": [
+    "be",
+    "im",
+    "nl",
+    "gg",
+    "fr",
+    "ie",
+    "je",
+    "lu"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "je",
+    "fr",
+    "gb"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Bailiwick_of_Guernsey",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Guernsey/@49.465691,-2.585278,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "GBP",
+    "name": "Pound",
+    "nameChoices": [
+      "Dollar",
+      "Guilder",
+      "Lempira",
+      "Pound"
+    ]
+  },
+  "population": 67334,
+  "size": 78,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Guernsey"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng"
+      },
+      {
+        "languageCode": "nrf"
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/N5ZHXIdy-io"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/guernsey-landscape-dusk-2722964/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/watch-tower-on-island-under-blue-skies-xy9Nc9DX2gw"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-people-walking-on-a-street-between-buildings-_T0omPc-qzQ"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/white-boats-xH2EwrttERY"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://www.flickr.com/photos/gertjanvannoord/53938487162/"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/guernsey-kestrel/2195836566/in/photolist-4m3eH9-Qp1riR-2ivgkJN-2ivemuo-2d4ieKN-2ivbPfL-HR6w9B-2ivf4Tk-2e5ZbXC-2ivepSf-oLrD7X-2Pj3j-2ivfsLk-2nwfEv-tyXDkP-oudNKW-6VCBfc-269wZeS-KxGnP-2ivfxQJ-2ivbQXD-2ivbM53-dRCD4d-23xS1ar-Qptv3F-2dkCTY7-8QVwLK-6eRJBP-oudXgo-hvf6R-cADqw3-2iuqHYF-QpjcEn-2e5ZbuJ-2d4Ba8f-2e5ZcxW-2ivehWw-2ivemcp-2iupA6N-2ivfxD6-H4ev8S-KxKor-2ivbRtD-Qpjem8-Qpjfr4-Qpjdbc-QptuRZ-KxFrv-2j4H5Gt-dRx6pt"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true
+}

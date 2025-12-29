@@ -1,0 +1,142 @@
+{
+  "code": "HR",
+  "latitude": 45.1,
+  "longitude": 15.2,
+  "name": "Croatia",
+  "names": {
+    "fr": "Croatie",
+    "es": "Croacia",
+    "eu": "Kroazia",
+    "hu": "Horvátország",
+    "nl": "Kroatië",
+    "pl": "Chorwacja",
+    "pt": "Croácia",
+    "de": "Kroatien",
+    "ja": "クロアチア",
+    "co": "Croazia",
+    "ie": "An Chróit"
+  },
+  "flags": [
+    "rs",
+    "me",
+    "hr",
+    "sm",
+    "at",
+    "si",
+    "hu",
+    "ba"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "ba",
+    "hu",
+    "me",
+    "rs",
+    "si"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Croatia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/CROATIA/@45.1,15.2,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Denar",
+      "Lev",
+      "Ruble"
+    ]
+  },
+  "population": 3861967,
+  "size": 56538,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "hrv",
+        "percentage": 95.6
+      },
+      {
+        "languageCode": "srp",
+        "percentage": 1.2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 24670430758,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 2960102753
+      },
+      {
+        "productCode": "85",
+        "value": 2361085284
+      },
+      {
+        "productCode": "84",
+        "value": 1994771220
+      },
+      {
+        "productCode": "44",
+        "value": 1200113971
+      },
+      {
+        "productCode": "30",
+        "value": 1167113710
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/ohoBiu7_KNc"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/dubrovnik-croatia-kings-landing-512798/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/concrete-house-beside-body-of-water-WS8UKXSHJaE"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-boats-on-pier-and-city-ybUdMTw7-0c"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-blue-trolley-with-a-red-top-on-a-city-street-eR60eyWRous"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Aerial_view_to_Motovun.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Church_of_St._Donatus_in_Zadar_IMG_6839.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 26960,
+  "gdpPerCapitaYear": 2025
+}

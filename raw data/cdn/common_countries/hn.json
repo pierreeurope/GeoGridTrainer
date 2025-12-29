@@ -1,0 +1,125 @@
+{
+  "code": "HN",
+  "latitude": 15.199999,
+  "longitude": -86.241905,
+  "name": "Honduras",
+  "names": {
+    "ja": "ホンジュラス",
+    "ie": "Hondúras"
+  },
+  "flags": [
+    "sv",
+    "pa",
+    "ni",
+    "ky",
+    "gt",
+    "cr",
+    "hn",
+    "bz"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "sv",
+    "gt",
+    "ni"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Honduras",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Honduras/@15.199999,-86.241905,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "HNL",
+    "name": "Lempira",
+    "nameChoices": [
+      "Peso",
+      "Quetzal",
+      "Dollar"
+    ]
+  },
+  "population": 9571352,
+  "size": 112088,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Honduras#Languages:~:text=communities.%5B117%5D-,Languages,Garifuna%20(Arawakan)%20(almost%20100%2C000%20speakers%20in%20Honduras%20including%20monolinguals),-M%C3%ADskito%20(Misumalpan"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa"
+      },
+      {
+        "languageCode": "cab"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 4975948988.14,
+    "topExports": [
+      {
+        "productCode": "09",
+        "value": 1304363010.88
+      },
+      {
+        "productCode": "85",
+        "value": 885535596.47
+      },
+      {
+        "productCode": "03",
+        "value": 601154078.59
+      },
+      {
+        "productCode": "15",
+        "value": 308783931.34
+      },
+      {
+        "productCode": "08",
+        "value": 278458483.23
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/WFFmZ0qIUYU"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/roatan-honduras-port-architecture-1358175/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-mountains-and-river-under-white-clouds-during-daytime-IbNsWIgGyIY"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/group-of-people-at-market-h2kR-y1xUek"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-small-island-in-the-middle-of-the-ocean-yCwiR0wxxoU"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-row-of-three-wheelers-parked-next-to-each-other-on-a-pier-d_X-Usz596Y"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 3245,
+  "gdpPerCapitaYear": 2023
+}

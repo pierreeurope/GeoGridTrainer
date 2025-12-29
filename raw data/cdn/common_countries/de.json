@@ -1,0 +1,150 @@
+{
+  "code": "DE",
+  "latitude": 51.165691,
+  "longitude": 10.451526,
+  "name": "Germany",
+  "names": {
+    "fr": "Allemagne",
+    "hu": "Németország",
+    "nl": "Duitsland",
+    "pl": "Niemcy",
+    "de": "Deutschland",
+    "ja": "ドイツ",
+    "co": "Germania",
+    "es": "Alemania",
+    "pt": "Alemanha",
+    "eu": "Alemania",
+    "ie": "An Ghearmáin"
+  },
+  "flags": [
+    "cz",
+    "lu",
+    "nl",
+    "de",
+    "be",
+    "dk",
+    "at",
+    "fr"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "at",
+    "be",
+    "cz",
+    "dk",
+    "fr",
+    "lu",
+    "nl",
+    "pl",
+    "ch"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Germany",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Germany/@51.165691,10.451526,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Krona",
+      "Shilling",
+      "Dollar"
+    ]
+  },
+  "population": 83491249,
+  "size": 357022,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Germany"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "deu",
+        "percentage": 90
+      },
+      {
+        "languageCode": "tur",
+        "percentage": 2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 1697350367390.709,
+    "topExports": [
+      {
+        "productCode": "87",
+        "value": 295114778164.916
+      },
+      {
+        "productCode": "84",
+        "value": 273783131108.561
+      },
+      {
+        "productCode": "85",
+        "value": 191250918556.759
+      },
+      {
+        "productCode": "30",
+        "value": 120989116878.78
+      },
+      {
+        "productCode": "90",
+        "value": 84253328749.149
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Lindau_Harbor_Lake_Constance_MS_Schwaben_01.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/bastei-bridge-rock-formation-3014467/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-and-pink-petaled-flowers-on-metal-fence-near-concrete-houses-and-tower-at-daytime-g_gwdpsCVAY"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-trees-on-mountain-under-white-clouds-during-daytime-XOVv1zbD-1U"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-highway-with-a-lot-of-traffic-rmeGDP2mAis"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/train-running-on-rail-near-buildings-during-daytime-AWyj7_t8pj0"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Haigerloch_-_Altstadt_-_Ansicht_aus_S%C3%BCden_vom_R%C3%B6merturm_(2).jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Wiesbaden_BW_2017-04-24_20-51-36.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 59925,
+  "gdpPerCapitaYear": 2025
+}

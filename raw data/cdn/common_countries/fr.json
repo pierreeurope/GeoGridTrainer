@@ -1,0 +1,146 @@
+{
+  "code": "FR",
+  "latitude": 46.227638,
+  "longitude": 2.213749,
+  "name": "France",
+  "names": {
+    "hu": "Franciaország",
+    "nl": "Frankrijk",
+    "pl": "Francja",
+    "de": "Frankreich",
+    "ja": "フランス",
+    "co": "Francia",
+    "es": "Francia",
+    "pt": "França",
+    "eu": "Frantzia",
+    "ie": "An Fhrainc"
+  },
+  "flags": [
+    "lu",
+    "it",
+    "de",
+    "es",
+    "fr",
+    "be",
+    "mc",
+    "ad"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "ad",
+    "be",
+    "de",
+    "it",
+    "lu",
+    "es",
+    "ch",
+    "gb",
+    "mc"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/France",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/France/@46.227638,2.213749,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Peso",
+      "Dollar",
+      "Denar",
+      "Euro"
+    ]
+  },
+  "population": 68605616,
+  "size": 551500,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra",
+        "percentage": 87.2
+      },
+      {
+        "languageCode": "ara",
+        "percentage": 3
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 640201369780.317,
+    "topExports": [
+      {
+        "productCode": "84",
+        "value": 71931897223.968
+      },
+      {
+        "productCode": "87",
+        "value": 60375855852.83
+      },
+      {
+        "productCode": "85",
+        "value": 49660776031.743
+      },
+      {
+        "productCode": "88",
+        "value": 37694419096.235
+      },
+      {
+        "productCode": "30",
+        "value": 37337358447.499
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/ZtdNFSpugQE"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/vineyard-field-rural-burgundy-6399505/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/houses-on-top-of-mountain-SYBLkjltGRo"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/gray-bridge-timelapse-photography-mEfIhOTH27w"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/snowy-mountain-JVtcrWcbj1c"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Mont_Blanc_from_Les_Arcs_1950.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Entrance_La_Rochelle_old_harbor.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 46792,
+  "gdpPerCapitaYear": 2025
+}

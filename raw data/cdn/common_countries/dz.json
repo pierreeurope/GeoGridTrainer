@@ -1,0 +1,138 @@
+{
+  "code": "DZ",
+  "latitude": 28.033886,
+  "longitude": 1.659626,
+  "name": "Algeria",
+  "names": {
+    "fr": "Algérie",
+    "hu": "Algéria",
+    "nl": "Algerije",
+    "pl": "Algieria",
+    "de": "Algerien",
+    "ja": "アルジェリア",
+    "es": "Argelia",
+    "pt": "Argélia",
+    "ie": "An Ailgéir"
+  },
+  "flags": [
+    "ma",
+    "mr",
+    "ly",
+    "ne",
+    "ml",
+    "tn",
+    "eh",
+    "dz"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "ml",
+    "mr",
+    "ma",
+    "ne",
+    "tn",
+    "eh",
+    "ly"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Algeria",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Algeria/@28.033886,1.659626,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "DZD",
+    "name": "Dinar",
+    "nameChoices": [
+      "Dirham",
+      "Franc",
+      "Ouguiya"
+    ]
+  },
+  "population": 47400000,
+  "size": 2381741,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Algeria"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara",
+        "percentage": 72
+      },
+      {
+        "languageCode": "ber",
+        "percentage": 27.4
+      }
+    ]
+  },
+  "productData": {
+    "year": 2017,
+    "totalValue": 35191117416.1,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 33822732721.99
+      },
+      {
+        "productCode": "28",
+        "value": 382935868.92
+      },
+      {
+        "productCode": "31",
+        "value": 327040558.11
+      },
+      {
+        "productCode": "17",
+        "value": 228351017.12
+      },
+      {
+        "productCode": "29",
+        "value": 56279989.31
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/-sOS_rLimpQ"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/algeria-hoggar-assekrem-volcano-673777/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/dyuN7GgEyB8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/sZcGzjl9moU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/white-and-brown-concrete-building-near-green-trees-during-daytime-QEupqcxTmY0"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-couple-of-white-buildings-with-blue-windows-neecKxRZLs8"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 5690,
+  "gdpPerCapitaYear": 2025
+}

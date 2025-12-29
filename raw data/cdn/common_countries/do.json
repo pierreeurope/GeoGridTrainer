@@ -1,0 +1,149 @@
+{
+  "code": "DO",
+  "latitude": 18.735693,
+  "longitude": -70.162651,
+  "name": "Dominican Republic",
+  "names": {
+    "fr": "République dominicaine",
+    "hu": "Dominikai Köztársaság",
+    "nl": "Dominicaanse Republiek",
+    "pl": "Republika Dominikańska",
+    "de": "Dominikanische Republik",
+    "ja": "ドミニカ共和国",
+    "co": "Republica Dominica",
+    "es": "República Dominicana",
+    "pt": "República Dominicana",
+    "eu": "Dominikar Errepublika",
+    "ie": "An Phoblacht Dhoiminiceach"
+  },
+  "flags": [
+    "ht",
+    "vi",
+    "aw",
+    "tc",
+    "pr",
+    "do",
+    "vg",
+    "an"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "ht",
+    "tc",
+    "pr",
+    "vi",
+    "vg",
+    "bs",
+    "jm"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Dominican_Republic",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Dominican%20Republic/@18.735693,-70.162651,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "DOP",
+    "name": "Peso",
+    "nameChoices": [
+      "Som",
+      "Franc",
+      "Tenge",
+      "Peso"
+    ]
+  },
+  "population": 11532151,
+  "size": 48511,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dominican_Republic#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 98
+      },
+      {
+        "languageCode": "hat",
+        "percentage": 1.19
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 9836347238.656,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 1457540878.002
+      },
+      {
+        "productCode": "90",
+        "value": 1415152161.951
+      },
+      {
+        "productCode": "85",
+        "value": 1039572074.494
+      },
+      {
+        "productCode": "72",
+        "value": 785961835.376
+      },
+      {
+        "productCode": "39",
+        "value": 693932109.966
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "commons.wikimedia.org/wiki/File:Fortaleza_Ozama_CCSD_11_2018_4353.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/dominican-republic-caribbean-sea-321214/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-and-brown-concrete-buildings-under-white-clouds-during-daytime-r-YpH_-pd34"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-and-white-fruit-on-black-metal-cart-4l1hEB6netE"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-lush-green-hillside-with-a-house-on-top-of-it-dGr89KhNelg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-white-beach-A49CnofKUTo"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_-_Fortaleza_Ozama_0796.JPG"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Dominican_Republic._Palacio_Consistorial_de_Santo_Domingo.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 12452,
+  "gdpPerCapitaYear": 2025
+}

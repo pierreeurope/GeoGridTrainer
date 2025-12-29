@@ -1,0 +1,135 @@
+{
+  "code": "GA",
+  "latitude": -0.803689,
+  "longitude": 11.609444,
+  "name": "Gabon",
+  "names": {
+    "de": "Gabun",
+    "ja": "ガボン",
+    "es": "Gabón",
+    "pt": "Gabão",
+    "co": "Gabone",
+    "ie": "An Ghabúin"
+  },
+  "flags": [
+    "st",
+    "gq",
+    "cd",
+    "cg",
+    "cm",
+    "ng",
+    "cf",
+    "ga"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "cm",
+    "cg",
+    "gq"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Gabon",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Gabon/@-0.803689,11.609444,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XAF",
+    "name": "Franc",
+    "nameChoices": [
+      "Ariary",
+      "Dollar",
+      "Rial"
+    ]
+  },
+  "population": 2397368,
+  "size": 267668,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Gabon"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra",
+        "percentage": 80
+      },
+      {
+        "languageCode": "fan",
+        "percentage": 32
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 8031167846.494,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 4201334198.227
+      },
+      {
+        "productCode": "89",
+        "value": 1967552773.109
+      },
+      {
+        "productCode": "44",
+        "value": 883655334.742
+      },
+      {
+        "productCode": "26",
+        "value": 537932975.918
+      },
+      {
+        "productCode": "84",
+        "value": 113516498.064
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:La_mangrove_Nyoni%C3%A9_au_Gabon.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/africa-gabon-people-travels-379378/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-concrete-statue-near-green-trees-under-blue-sky-during-daytime-Bma9U3Vx1lw"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-fence-near-green-mountain-under-blue-sky-during-daytime-75Q_rXHFLXs"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-lake-surrounded-by-trees-hiPUsUsq8BM"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/rock-formation-on-seashore-NEGV5U_UZio"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://www.flickr.com/photos/fran001/53591211955/"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 9303,
+  "gdpPerCapitaYear": 2025
+}

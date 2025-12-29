@@ -1,0 +1,84 @@
+{
+  "code": "HM",
+  "latitude": -53.08181,
+  "longitude": 73.504158,
+  "name": "Heard Island and McDonald Islands",
+  "names": {
+    "fr": "Îles Heard-et-MacDonald",
+    "hu": "Heard-sziget és McDonald-szigetek",
+    "nl": "Heard en McDonaldeilanden",
+    "pl": "Wyspy Heard i McDonalda",
+    "de": "Heard und McDonaldinseln",
+    "ja": "ハード島とマクドナルド諸島",
+    "co": "Isole Heard e McDonald",
+    "es": "Islas Heard y McDonald",
+    "pt": "Ilhas Heard e McDonald",
+    "eu": "Heard eta McDonald Uharteak",
+    "ie": "Oileán Heard agus Oileáin McDonald"
+  },
+  "flags": [
+    "tf",
+    "aq",
+    "hm",
+    "ls",
+    "re",
+    "mu",
+    "bv",
+    "mg"
+  ],
+  "continent": [
+    "AN"
+  ],
+  "borders": [
+    "tf",
+    "aq"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Heard%20Island%20and%20McDonald%20Islands/@-53.08181,73.504158,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "size": 368,
+  "languageData": {
+    "languageSources": [],
+    "languages": []
+  },
+  "borderMode": "nearby",
+  "population": 0,
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Heard_Island_%28cropped%29.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Heard_Island_by_Sentinel-2_Cloudless.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands#/media/File:Heard_Island_(cropped).jpg"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://commons.wikimedia.org/wiki/Category:Heard_Island_and_McDonald_Islands#/media/File:Heard_Island.jpg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/29261553@N08/32257973995/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/peche-pays-basque/4374498324/"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true
+}

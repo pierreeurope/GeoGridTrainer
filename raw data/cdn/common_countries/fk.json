@@ -1,0 +1,108 @@
+{
+  "code": "FK",
+  "latitude": -51.796253,
+  "longitude": -59.523613,
+  "name": "Falkland Islands (Malvinas)",
+  "names": {
+    "fr": "Îles Malouines",
+    "hu": "Falkland-szigetek",
+    "nl": "Falklandeilanden",
+    "pl": "Wyspy Falklandzkie",
+    "de": "Falklandinseln",
+    "ja": "フォークランド諸島",
+    "co": "Isole Falkland",
+    "es": "Islas Malvinas",
+    "pt": "Ilhas Malvinas",
+    "eu": "Falkland Uharteak",
+    "ie": "Oileáin Fháclainne"
+  },
+  "flags": [
+    "uy",
+    "aq",
+    "ar",
+    "cl",
+    "fk",
+    "py",
+    "gs",
+    "bo"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "ar",
+    "gs",
+    "aq"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Falkland_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Falkland%20Islands%20(Malvinas)/@-51.796253,-59.523613,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "FKP",
+    "name": "Pound",
+    "nameChoices": [
+      "Dollar",
+      "Dinar",
+      "Franc"
+    ]
+  },
+  "population": 3662,
+  "size": 12173,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 89
+      },
+      {
+        "languageCode": "spa",
+        "percentage": 7.7
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/KMLTYWDi0GA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/cruise-falkland-islands-voyage-4709457/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/ocean-waves-UMC5sfWci78"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/mschutt/2245032771/"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-grassy-field-with-houses-and-a-body-of-water-in-the-distance-BWq-vP2D_FY"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-rocky-cliff-vmJwkT_YJ4w"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false
+}

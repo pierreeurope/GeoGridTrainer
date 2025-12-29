@@ -1,0 +1,112 @@
+{
+  "code": "ER",
+  "latitude": 15.179384,
+  "longitude": 39.782334,
+  "name": "Eritrea",
+  "names": {
+    "fr": "Érythrée",
+    "pl": "Erytrea",
+    "ja": "エリトリア",
+    "pt": "Eritreia",
+    "ie": "An Eiritré"
+  },
+  "flags": [
+    "er",
+    "sd",
+    "sa",
+    "dj",
+    "so",
+    "ss",
+    "et",
+    "ye"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "dj",
+    "et",
+    "sd"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Eritrea",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Eritrea/@15.179384,39.782334,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "ERN",
+    "name": "Nakfa",
+    "nameChoices": [
+      "Somoni",
+      "Birr",
+      "Franc"
+    ]
+  },
+  "population": 3500000,
+  "size": 117600,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Eritrea"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tir",
+        "percentage": 50
+      },
+      {
+        "languageCode": "tig",
+        "percentage": 10
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/eritrea-landscape-tents-huts-105081/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/eritrea-mountains-valley-landscape-114822/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/silhouette-of-man-during-sunset-t85pKpB5Zf4"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/danielzolli/28671702110"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/slackadventure/2494677970/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/slackadventure/2494674744/"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://www.flickr.com/photos/hypermobility/19120089274/"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/carlosoliveirareis/28261165321/"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 567,
+  "gdpPerCapitaYear": 2019
+}

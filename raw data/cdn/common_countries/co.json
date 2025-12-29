@@ -1,0 +1,148 @@
+{
+  "code": "CO",
+  "latitude": 4.570868,
+  "longitude": -74.297333,
+  "name": "Colombia",
+  "names": {
+    "fr": "Colombie",
+    "hu": "Kolumbia",
+    "pl": "Kolumbia",
+    "de": "Kolumbien",
+    "ja": "コロンビア",
+    "pt": "Colômbia",
+    "co": "Colòmbia",
+    "eu": "Kolonbia",
+    "ie": "An Cholóim"
+  },
+  "flags": [
+    "br",
+    "ec",
+    "pa",
+    "ve",
+    "co",
+    "pe",
+    "an",
+    "aw"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "br",
+    "ec",
+    "pa",
+    "pe",
+    "ve"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Colombia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Colombia/@4.570868,-74.297333,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "COP",
+    "name": "Peso",
+    "nameChoices": [
+      "Naira",
+      "Dollar",
+      "Colon"
+    ]
+  },
+  "population": 52695952,
+  "size": 1138914,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Colombia"
+      },
+      {
+        "title": "Translators without Borders",
+        "url": "https://translatorswithoutborders.org/colombia-language-map/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 99.7
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 3.1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 49769114432.38,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 25247956829.15
+      },
+      {
+        "productCode": "71",
+        "value": 3622296858.63
+      },
+      {
+        "productCode": "09",
+        "value": 2929197050.28
+      },
+      {
+        "productCode": "06",
+        "value": 2115149941.8
+      },
+      {
+        "productCode": "39",
+        "value": 1551455945.72
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/J0suKy48jfk"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/city-architecture-urban-bogota-4457801/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/smokey-mountain-with-coconut-palm-trees-XV4XUU7gWlk"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-trees-and-body-of-water-during-daytime-PRJWxwDmtsE"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-street-beside-white-structure-ioLq-zmtITA"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-forest-1l6ntLyiUbI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Plaza_de_San_Pedro_Claver,_Cartagena_03.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Calle_5,_Salento_02.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 7327,
+  "gdpPerCapitaYear": 2024
+}

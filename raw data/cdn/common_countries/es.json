@@ -1,0 +1,147 @@
+{
+  "code": "ES",
+  "latitude": 40.463667,
+  "longitude": -3.74922,
+  "name": "Spain",
+  "names": {
+    "fr": "Espagne",
+    "hu": "Spanyolország",
+    "nl": "Spanje",
+    "pl": "Hiszpania",
+    "de": "Spanien",
+    "ja": "スペイン",
+    "co": "Spagna",
+    "eu": "Espainia",
+    "pt": "Espanha",
+    "es": "España",
+    "ie": "An Spáinn"
+  },
+  "flags": [
+    "mc",
+    "gi",
+    "ma",
+    "je",
+    "fr",
+    "pt",
+    "ad",
+    "es"
+  ],
+  "continent": [
+    "EU",
+    "AF"
+  ],
+  "borders": [
+    "ad",
+    "fr",
+    "pt",
+    "gi",
+    "ma"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Spain",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Spain/@40.463667,-3.74922,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Dinar",
+      "Dollar",
+      "Peso"
+    ]
+  },
+  "population": 49442844,
+  "size": 505992,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 74
+      },
+      {
+        "languageCode": "cat",
+        "percentage": 17
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 420169591002.546,
+    "topExports": [
+      {
+        "productCode": "87",
+        "value": 65333940466.375
+      },
+      {
+        "productCode": "84",
+        "value": 28571758603.661
+      },
+      {
+        "productCode": "27",
+        "value": 27988725641.98
+      },
+      {
+        "productCode": "85",
+        "value": 22072898693.093
+      },
+      {
+        "productCode": "30",
+        "value": 21860694238.147
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/PWrNP4bQHB4"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/valencia-spain-calatrava-sunset-1049389/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/group-of-people-sitting-on-grass-field-during-daytime-hTTtWbtQQNY"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/landscape-photo-of-a-row-of-windmills-k7I-Ci7Sq7c"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-white-houses-ovgRb5WLWMQ"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/green-trees-on-gray-rock-mountain-beside-body-of-water-eWFdaPRFjwE"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:View_of_Puente_Nuevo_bridge_in_Ronda_Spain.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Toledo_-_02.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 38040,
+  "gdpPerCapitaYear": 2025
+}

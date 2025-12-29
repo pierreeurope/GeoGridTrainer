@@ -1,0 +1,141 @@
+{
+  "code": "CU",
+  "latitude": 21.521757,
+  "longitude": -77.781167,
+  "name": "Cuba",
+  "names": {
+    "hu": "Kuba",
+    "pl": "Kuba",
+    "de": "Kuba",
+    "ja": "キューバ",
+    "eu": "Kuba",
+    "ie": "Cúba"
+  },
+  "flags": [
+    "tc",
+    "jm",
+    "mx",
+    "ht",
+    "bs",
+    "ky",
+    "us",
+    "cu"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "ky",
+    "jm",
+    "bs",
+    "tc",
+    "ht",
+    "us",
+    "mx"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Cuba",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Cuba/@21.521757,-77.781167,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "CUP",
+    "name": "Peso",
+    "nameChoices": [
+      "Real",
+      "Dollar",
+      "Lempira"
+    ]
+  },
+  "population": 9748007,
+  "size": 110861,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Cuba"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa"
+      },
+      {
+        "languageCode": "hat"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2018,
+    "totalValue": 2313586727.7,
+    "topExports": [
+      {
+        "productCode": "99",
+        "value": 1208977787.2
+      },
+      {
+        "productCode": "24",
+        "value": 260113147.4
+      },
+      {
+        "productCode": "17",
+        "value": 179615905.77
+      },
+      {
+        "productCode": "22",
+        "value": 140576177.91
+      },
+      {
+        "productCode": "03",
+        "value": 83711989.96
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/aZjw7xI3QAA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/cuba-antique-car-automobile-vehicle-1211907/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/man-walking-on-walkway-while-holding-his-bicycle-PubtV8UJxB8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/red-and-black-sedan-traveling-on-road-during-daytime-2rKtspM-FNo"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/pedrosz/33051350992/in/photolist-SmCPab-s8viDV-27dc9XU-rbwhfE-qDXSjV-rQVY6y-s8naVb-913g3R-rbGjqF-913nDk-rQTGqC-RrARkd-LcZq46-913qSH-2beRf4y-KVnCVw-pHmYLt-28A1r4P-qnzsQE-913dLx-qnyLmw-pHmUJR-pH8H1h-rQVa8o-rbuudw-qnztpW-s8noSJ-9USbDH-4AYq5C-qnHhUt-4AYnQu-21MN97g-qE4BXY-bPUDrn-rMadeG-21MN8tx-vqmHk-29SLu7v-rMhdpr-4AYr4N-916iVu-rQVK87-916uoC-ewWTAV-8WvRo2-Rky9pi-d4hteu-916iqu-916myG-KkpoFs"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/66001184@N00/49766850723/in/photolist-2iPJ7Sp-2j1TbWv-SPaaW5-St7i8o-SZmBss-2iQbDwU-RLr2Vm-T5obHx-St6yJ5-SP9TTU-RLsFyW-SZnmMo-SRBE92-SRBDcn-RP1Jnp-SRBExt-2nZpBMm-SZnnyo-SZnmyN-SPaXts-SZnj97-SRBCZD-SZnkLq-SZnna7-SZnk93-SZnkqW-Tp27fD-SRDV3M-RP1HVx-RP1Hve-RLrKLf-SRCHka-St6zAW-2piubRR-RP1H2D-St7kuh-SP9Ucj-SZmH9C-RP1GSk-St7gf5-SP9UEJ-RP1H7D-St7jnC-RLrL9Q-RLrJny-RLsYQu-SPa8ZE-UkE5KQ-SP9S6L-RLrLFG"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:AvMalecon-LaHabanaCuba-04735.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:02.Trinidad_(59).JPG"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 18329,
+  "gdpPerCapitaYear": 2023
+}

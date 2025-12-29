@@ -1,0 +1,122 @@
+{
+  "code": "FM",
+  "latitude": 7.425554,
+  "longitude": 150.550812,
+  "name": "Federated States of Micronesia",
+  "names": {
+    "fr": "ÉTATS FÉDÉRÉS DE MICRONÉSIE",
+    "hu": "MIKRONÉZIAI SZÖVETSÉGI ÁLLAMOK",
+    "nl": "FEDERALE STATEN VAN MICRONESIË",
+    "pl": "SFEDEROWANE STANY MIKRONEZJI",
+    "de": "FÖDERIERTE STAATEN VON MIKRONESIEN",
+    "ja": "ミクロネシア連邦",
+    "pt": "ESTADOS FEDERADOS DA MICRONÉSIA",
+    "eu": "MIKRONESIAKO ESTATU FEDERATUAK",
+    "es": "ESTADOS FEDERADOS DE MICRONESIA",
+    "co": "FEDERAZIONE DI I STATI MICRONESIANI",
+    "ie": "An Mhicrinéis"
+  },
+  "flags": [
+    "gu",
+    "mp",
+    "fm",
+    "vu",
+    "pg",
+    "pw",
+    "nr",
+    "sb"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "gu",
+    "pg",
+    "pw",
+    "mh",
+    "nr",
+    "sb",
+    "mp"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Federated_States_of_Micronesia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Micronesia/@7.425554,150.550812,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Riyal",
+      "Won",
+      "Rupee"
+    ]
+  },
+  "population": 104468,
+  "size": 702,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "chk",
+        "percentage": 44.13
+      },
+      {
+        "languageCode": "pon",
+        "percentage": 28.84
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Islands_on_the_southern_barrier_reef_of_Pohnpei_%28Federated_States_of_Micronesia%29_-_Bikini.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Islands_on_the_southern_barrier_reef_of_Pohnpei_%28Federated_States_of_Micronesia%29_-_Penieu_2.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-trees-and-mountains-g18MsEMgdNY"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/sea-diver-eRGe-x7lI1Q"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/underwater-photo-9yynIWfRCpI"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/frankkehl/15152954985/in/photolist-DL2XoA-oNwAG1-2kqKY7Q-DFxBHc-4x7Zhz-2kqLsF9-CSpP2V-daQqbi-2kqLsFz-p61RAz-KFnQC4-2krAyVY-24A2UJp-a19t9j-7J6uTq-823aVJ-94h8C3-2kqLsDW-2kqLsus-a16BhK-a19tkw-2Q7oSd-9BrrPK-seMPys-2kqGbFH-oNvPGc-a16AZZ-a19sYm-a19t5U-Dwk89W-p3YPU5-a16B8k-oNwBV2-DMubNC-a19t1y-fUJXgX-KBsMdd-mWB84E-oNw51o-8BGndB-p5YNWh-a2S8r1-a16Bpv-9YKrM5-DnFNVU-9Vx9iP-9Vx8ti-a19sWw-LxbArT-9mNB1k"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Chuuk_lighthouse_at_North_east.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Chuuk_Tonoas_and_Etten.jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapita": 5291,
+  "gdpPerCapitaYear": 2025
+}

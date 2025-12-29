@@ -1,0 +1,137 @@
+{
+  "code": "GT",
+  "latitude": 15.783471,
+  "longitude": -90.230759,
+  "name": "Guatemala",
+  "names": {
+    "pl": "Gwatemala",
+    "ja": "グアテマラ",
+    "ie": "Guatamala"
+  },
+  "flags": [
+    "ky",
+    "cr",
+    "hn",
+    "gt",
+    "ni",
+    "bz",
+    "mx",
+    "sv"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "bz",
+    "sv",
+    "hn",
+    "mx"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Guatemala",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Guatemala/@15.783471,-90.230759,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "GTQ",
+    "name": "Quetzal",
+    "nameChoices": [
+      "Peso",
+      "Dollar",
+      "Lempira"
+    ]
+  },
+  "population": 17980803,
+  "size": 108889,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 69.9
+      },
+      {
+        "languageCode": "kek",
+        "percentage": 8.3
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 14261032628,
+    "topExports": [
+      {
+        "productCode": "08",
+        "value": 1565399787
+      },
+      {
+        "productCode": "61",
+        "value": 1383896058
+      },
+      {
+        "productCode": "09",
+        "value": 1331869396
+      },
+      {
+        "productCode": "15",
+        "value": 1051701987
+      },
+      {
+        "productCode": "17",
+        "value": 779418843
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/antigua-guatemala-sunrise-guatemala-2652478/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://unsplash.com/photos/N4gc_5rZ9dM"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-mountains-under-white-clouds-and-blue-sky-during-daytime-_T7cYIPPu9w"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-concrete-building-near-mountain--97MyV1TOJk"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-large-building-sitting-on-the-side-of-a-road-aOSLrM6doeU"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-narrow-street-with-umbrellas-hanging-from-the-ceiling-xqvkvj37EcY"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:View_from_Volcano_Pacaya,_Guatemala.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:San_andres_xecul_church_2009.JPG"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 6682,
+  "gdpPerCapitaYear": 2025
+}

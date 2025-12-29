@@ -1,0 +1,140 @@
+{
+  "code": "CV",
+  "latitude": 16.002082,
+  "longitude": -24.013197,
+  "name": "Cabo Verde",
+  "names": {
+    "fr": "Cap-Vert",
+    "hu": "Zöld-foki Köztársaság",
+    "nl": "Kaapverdië",
+    "pl": "Zielony Przylądek",
+    "de": "Kap Verde",
+    "ja": "カーボベルデ",
+    "co": "Capu Verde",
+    "ie": "Rinn Verde"
+  },
+  "flags": [
+    "mr",
+    "gw",
+    "gm",
+    "eh",
+    "cv",
+    "sl",
+    "sn",
+    "gn"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "gm",
+    "mr",
+    "gw",
+    "sn"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Cape_Verde",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Cape%20Verde/@16.002082,-24.013197,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "CVE",
+    "name": "Escudo",
+    "nameChoices": [
+      "Dollar",
+      "Franc",
+      "Naira"
+    ]
+  },
+  "population": 491233,
+  "size": 4033,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_Cape_Verde#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "por"
+      },
+      {
+        "languageCode": "kea"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 281684067.383,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 171719349.163
+      },
+      {
+        "productCode": "16",
+        "value": 40446163.58
+      },
+      {
+        "productCode": "86",
+        "value": 25877697.158
+      },
+      {
+        "productCode": "03",
+        "value": 13095863.768
+      },
+      {
+        "productCode": "84",
+        "value": 3831232.415
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/-1EKogAcUNc"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/fisherman-sea-atlantic-island-678467/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/lRowikzz4cw"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/7Zl9mnvMGxI"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-people-standing-on-the-side-of-a-road-4zpXZBxOPkk"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-city-with-mountains-in-the-background-RucY9lINMsY"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Cape_Verde_isle_of_Fogo_Park_panel.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Wreck_of_Cabo_de_Santa_Maria,_2010_December.jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4502,
+  "gdpPerCapitaYear": 2023
+}

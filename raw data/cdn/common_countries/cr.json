@@ -1,0 +1,137 @@
+{
+  "code": "CR",
+  "latitude": 9.748917,
+  "longitude": -83.753428,
+  "name": "Costa Rica",
+  "names": {
+    "pl": "Kostaryka",
+    "ja": "コスタリカ",
+    "ie": "Cósta Ríce"
+  },
+  "flags": [
+    "cr",
+    "pa",
+    "gt",
+    "bz",
+    "ni",
+    "hn",
+    "sv",
+    "ky"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "pa",
+    "ni"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Costa_Rica",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Costa%20Rica/@9.748917,-83.753428,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "CRC",
+    "name": "Colon",
+    "nameChoices": [
+      "Peso",
+      "Franc",
+      "Balboa"
+    ]
+  },
+  "population": 5044197,
+  "size": 51100,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Costa_Rica"
+      },
+      {
+        "title": "BLEND",
+        "url": "https://www.getblend.com/blog/costa-rica-languages-tourism/#:~:text=and%20Providencia%20Creole.-,Languages%20of%20The%20Original%20Inhabitants%20of%20Costa%20Rica,-The%20following%20are"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa"
+      },
+      {
+        "languageCode": "bzd"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 15319695069.468,
+    "topExports": [
+      {
+        "productCode": "90",
+        "value": 5737157299.128
+      },
+      {
+        "productCode": "08",
+        "value": 2228445257.527
+      },
+      {
+        "productCode": "21",
+        "value": 878706503.44
+      },
+      {
+        "productCode": "85",
+        "value": 655227714.19
+      },
+      {
+        "productCode": "39",
+        "value": 466101890.229
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/-TvZ6VB915M"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/volcano-eruption-costa-rica-arenal-718277/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-trees-beside-blue-sea-xGhaXZtQb1s"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/person-walking-on-hanging-bridge-surrounded-by-green-trees-during-daytime-RrAlOoykABQ"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/fifthfairway/2206624617/in/photolist-4mZwC2-7kjW2-2kP9ao3-feQapv-ff5t1J-feQiQX-ff5y8Q-feQ9UX-ff5sPu-feQbBH-ff5veq-ff5x77-feQbP8-feQb5v-feQdyg-feQcNe-feQak2-ff5xFU-ff5x33-feQaPr-ff5C3f-feQfsX-ebmoC3-ff5v7f-ff5vXh-feQdEX-7kj6i-feQiqP-ff5Bmy-feQhKK-feQk4P-ff5By5-23LqbRx-7iK8u-7rzNX-7tE2k-7sFB7-7kkhY-7sE7c-7rxt2-7tvhw-7sEH8-dLBUYT-7iGDa-7u1MW-7sEve-7tHCM-7kk7D-7tYfm-7rypf"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/green-trees-under-blue-sky-0cPWvLRhadE"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Santa_Elena_Reserve_08.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:View_from_Irazu_volcano_CRI_09_2022_8360.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 19095,
+  "gdpPerCapitaYear": 2025
+}

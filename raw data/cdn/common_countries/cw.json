@@ -1,0 +1,103 @@
+{
+  "code": "CW",
+  "name": "Curaçao",
+  "autoUpdateBorders": false,
+  "borders": [
+    "aw",
+    "ve",
+    "bq"
+  ],
+  "borderMode": "nearby",
+  "continent": [
+    "SA"
+  ],
+  "currencyData": {
+    "name": "Guilder",
+    "code": "ANG",
+    "nameChoices": [
+      "Dollar",
+      "Florin",
+      "Franc"
+    ]
+  },
+  "flags": [],
+  "languageData": {
+    "languages": [
+      {
+        "languageCode": "pap",
+        "percentage": 80
+      },
+      {
+        "languageCode": "nld",
+        "percentage": 8
+      }
+    ],
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ]
+  },
+  "latitude": 12.169009225185517,
+  "longitude": -68.93593252202126,
+  "names": {
+    "ja": "キュラソー",
+    "es": "Curazao",
+    "pt": "CURAÇAU",
+    "co": "Curaçau",
+    "ie": "Curaçao"
+  },
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Curaçao",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Curaçao/@12.1909694,-69.1010178,11z/data=!3m1!4b1!4m6!3m5!1s0x8e849dbe62c7fdc7:0xfc7f9228dbc64723!8m2!3d12.16957!4d-68.99002!16zL20vMGhiZ2g?entry=ttu&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "population": 155826,
+  "size": 444,
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/cKbKFQa32Q4"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Handelskade,_Willemstad,_Cura%C3%A7ao_%284383516303%29.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/two-person-lying-on-chaise-lounge-under-sunset-xQF1ZLPqXio"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-rock-formation-near-body-of-water-during-daytime-I3-3_ZLKtTU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-small-boat-floating-on-top-of-a-body-of-water-cnu_Cd1ACZk"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-white-boat-on-sea-during-daytime-ceA-EdYxQec"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Tula_museum,_Landhuis_Knip.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Curacao_Spaanse_Santa_Barbara_(36699626795).jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 22581,
+  "gdpPerCapitaYear": 2021
+}

@@ -1,0 +1,119 @@
+{
+  "code": "GQ",
+  "latitude": 1.650801,
+  "longitude": 10.267895,
+  "name": "Equatorial Guinea",
+  "names": {
+    "fr": "Guinée équatoriale",
+    "hu": "Egyenlítői-Guinea",
+    "nl": "Equatoriaal-Guinea",
+    "pl": "Gwinea Równikowa",
+    "de": "Äquatorialguinea",
+    "ja": "赤道ギニア",
+    "co": "Guinèa Equatoriale",
+    "es": "Guinea Ecuatorial",
+    "pt": "Guiné Equatorial",
+    "eu": "Ekuatore Ginea",
+    "ie": "An Ghuine Mheánchiorclach"
+  },
+  "flags": [
+    "cm",
+    "tg",
+    "gq",
+    "ga",
+    "ng",
+    "st",
+    "cg",
+    "bj"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "cm",
+    "ga"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Equatorial_Guinea",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Equatorial%20Guinea/@1.650801,10.267895,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XAF",
+    "name": "Franc",
+    "nameChoices": [
+      "Dollar",
+      "Metical",
+      "Nakfa"
+    ]
+  },
+  "population": 1795834,
+  "size": 28051,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Equatorial_Guinea#Languages"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa"
+      },
+      {
+        "languageCode": "fan"
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://www.flickr.com/photos/equatorial_guinea/4641618625"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://www.flickr.com/photos/equatorial_guinea/5238701955"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/rjroberts/26168766041"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/equatorial_guinea/4727255945"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/rbcav2003/530802424/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/emekab/16012940600/"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:SipopoConferenceBuildings.JPG"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/equatorial_guinea/5152831703/"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 7750,
+  "gdpPerCapitaYear": 2025
+}

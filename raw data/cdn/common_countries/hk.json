@@ -1,0 +1,138 @@
+{
+  "code": "HK",
+  "latitude": 22.396428,
+  "longitude": 114.109497,
+  "name": "Hong Kong",
+  "names": {
+    "hu": "Hongkong",
+    "nl": "Hongkong",
+    "pl": "Hongkong",
+    "de": "Hongkong",
+    "ja": "香港",
+    "ie": "Hong Cong"
+  },
+  "flags": [
+    "tw",
+    "la",
+    "hk",
+    "ch",
+    "mo",
+    "vn",
+    "kh",
+    "ph"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "mo",
+    "cn"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Hong_Kong",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Hong%20Kong/@22.396428,114.109497,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "HKD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Rupee",
+      "Yuan",
+      "Won"
+    ]
+  },
+  "population": 7498100,
+  "size": 2755,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "yue",
+        "percentage": 88.9
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 4.3
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 575044377645.823,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 335498782152.549
+      },
+      {
+        "productCode": "71",
+        "value": 81497441698.142
+      },
+      {
+        "productCode": "84",
+        "value": 72783163707.989
+      },
+      {
+        "productCode": "90",
+        "value": 14450086797.914
+      },
+      {
+        "productCode": "91",
+        "value": 6962147221.769
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/WMSvsWzhM0g"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/the-peak-hong-kong-scenic-romantic-243269/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-city-during-day-time-kCABKZBt4Gk"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-side-of-road-DdQkVaQbSsg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/green-trees-near-water-fountain-33IMGbXx7-4"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-cityscape-qpWRtUL6NQ4"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Kowloon_Waterfront,_Hong_Kong,_2013-08-09,_DD_03.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Duck_ling_ship_hong_kong.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": false,
+  "gdpPerCapita": 56844,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,146 @@
+{
+  "code": "CY",
+  "latitude": 35.126413,
+  "longitude": 33.429859,
+  "name": "Cyprus",
+  "names": {
+    "fr": "Chypre",
+    "hu": "Ciprus",
+    "pl": "Cypr",
+    "de": "Zypern",
+    "ja": "キプロス",
+    "co": "Chipre",
+    "es": "Chipre",
+    "pt": "Chipre",
+    "eu": "Zipre",
+    "ie": "An Chipir"
+  },
+  "flags": [
+    "il",
+    "tr",
+    "jo",
+    "lb",
+    "cy",
+    "sy",
+    "ps",
+    "fr"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "tr",
+    "lb",
+    "il",
+    "eg",
+    "sy",
+    "ps"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Cyprus",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Cyprus/@35.126413,33.429859,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Lari",
+      "Dollar",
+      "Pound"
+    ]
+  },
+  "population": 923272,
+  "size": 9251,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ell",
+        "percentage": 80.9
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 4.1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 5067129604.032,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 1680685927.686
+      },
+      {
+        "productCode": "89",
+        "value": 1459116946.654
+      },
+      {
+        "productCode": "30",
+        "value": 436423405.035
+      },
+      {
+        "productCode": "04",
+        "value": 348899902.498
+      },
+      {
+        "productCode": "33",
+        "value": 148894073.345
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/i51lWwDYHzQ"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/cyprus-coast-cliff-cavo-greko-3184019/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-statue-of-a-man-and-a-woman-in-the-water-ewz1UASAhHA"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/gray-concrete-pathway-between-walls-with-plants-JPSTXKbqUHw"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-birds-eye-view-of-a-sandy-beach-and-lagoon-Me8Lp4Fn87U"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/people-on-beach-during-daytime-PDoWMD5cy9I"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Kyrenia_01-2017_img04_view_from_castle_bastion.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Episkopi_01-2017_img11_Kourion.jpg"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 42413,
+  "gdpPerCapitaYear": 2025
+}

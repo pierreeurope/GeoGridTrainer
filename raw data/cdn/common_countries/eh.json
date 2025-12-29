@@ -1,0 +1,106 @@
+{
+  "code": "EH",
+  "latitude": 24.215527,
+  "longitude": -12.885834,
+  "name": "Western Sahara",
+  "names": {
+    "fr": "Sahara occidental",
+    "hu": "Nyugat-Szahara",
+    "nl": "Westelijke Sahara",
+    "pl": "Sahara Zachodnia",
+    "de": "Westsahara",
+    "ja": "西サハラ",
+    "co": "Sahara di u Rettu",
+    "es": "República Árabe Saharaui Democrática",
+    "pt": "Saara Ocidental",
+    "eu": "Mendebaldeko Sahara",
+    "ie": "An Sahára Thiar"
+  },
+  "flags": [
+    "gm",
+    "mr",
+    "ma",
+    "eh",
+    "sn",
+    "cv",
+    "ml",
+    "gw"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "mr",
+    "ma",
+    "dz"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Western_Sahara",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Western%20Sahara/@24.215527,-12.885834,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "MAD",
+    "name": "Dirham",
+    "nameChoices": [
+      "Dollar",
+      "Dinar",
+      "Franc"
+    ]
+  },
+  "population": 597339,
+  "size": 266000,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_Western_Sahara#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "ber"
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Western_sahara_landscape.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://www.jns.org/report-israel-us-consider-deal-to-recognize-moroccan-sovereignty-over-western-sahara/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/un_photo/4796660796"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/un_photo/5309455601"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/motorcycle-in-the-middle-of-desert-sberykLLUmw"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/top-view-of-white-boat-docked-on-shore-Cn-EpLcknlY"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true
+}

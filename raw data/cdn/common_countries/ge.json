@@ -1,0 +1,144 @@
+{
+  "code": "GE",
+  "latitude": 42.315407,
+  "longitude": 43.356892,
+  "name": "Georgia",
+  "names": {
+    "fr": "Géorgie",
+    "hu": "Grúzia",
+    "nl": "Georgië",
+    "pl": "Gruzja",
+    "de": "Georgien",
+    "ja": "ジョージア",
+    "pt": "Geórgia",
+    "co": "Ghjorgia",
+    "ie": "An tSeoirsia"
+  },
+  "flags": [
+    "am",
+    "ge",
+    "lb",
+    "sy",
+    "az",
+    "ru",
+    "tr",
+    "iq"
+  ],
+  "continent": [
+    "AS",
+    "EU"
+  ],
+  "borders": [
+    "am",
+    "az",
+    "ru",
+    "tr"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Georgia_(country)",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Georgia/@42.315407,43.356892,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "GEL",
+    "name": "Lari",
+    "nameChoices": [
+      "Ruble",
+      "Euro",
+      "Dram"
+    ]
+  },
+  "population": 3657000,
+  "size": 69700,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "kat",
+        "percentage": 87.6
+      },
+      {
+        "languageCode": "aze",
+        "percentage": 6.2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 6090504274.431,
+    "topExports": [
+      {
+        "productCode": "87",
+        "value": 2261229411.399
+      },
+      {
+        "productCode": "22",
+        "value": 706036960.303
+      },
+      {
+        "productCode": "26",
+        "value": 546974906.58
+      },
+      {
+        "productCode": "08",
+        "value": 206856828.616
+      },
+      {
+        "productCode": "72",
+        "value": 193318375.7
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Georgia_Jvari_monastery_IMG_9345_2070.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/caucasus-mountains-georgia-country-3110386/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/person-paragliding-on-mountain-cliff-during-daytime-Edx0NpJ29fQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-concrete-building-under-cloudy-sky-during-daytime-fp-f0-reO7U"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-photo-of-houses-b-eGDk5_gPo"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-houses-beside-rocky-mountains-during-daytime-DOhXyRS3_n0"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Sioni,_Khevi,_Bell_tower,_Georgia.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Gergeti_Trinity_Church_14th_century_in_Georgia.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 9570,
+  "gdpPerCapitaYear": 2025
+}

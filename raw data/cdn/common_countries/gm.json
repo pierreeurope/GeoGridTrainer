@@ -1,0 +1,127 @@
+{
+  "code": "GM",
+  "latitude": 13.443182,
+  "longitude": -15.310139,
+  "name": "The Gambia",
+  "names": {
+    "fr": "Gambie",
+    "ja": "ガンビア",
+    "pt": "Gâmbia",
+    "ie": "An Ghaimbia"
+  },
+  "flags": [
+    "sl",
+    "cv",
+    "gm",
+    "gw",
+    "mr",
+    "sn",
+    "lr",
+    "gn"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "sn"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Gambia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Gambia/@13.443182,-15.310139,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "GMD",
+    "name": "Dalasi",
+    "nameChoices": [
+      "Pula",
+      "Franc",
+      "Rupee"
+    ]
+  },
+  "population": 2422712,
+  "size": 11295,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Gambia"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "mnk",
+        "percentage": 38
+      },
+      {
+        "languageCode": "fuc",
+        "percentage": 21
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 26401460.44,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 12056241.27
+      },
+      {
+        "productCode": "10",
+        "value": 3726980.58
+      },
+      {
+        "productCode": "12",
+        "value": 2836658.3
+      },
+      {
+        "productCode": "84",
+        "value": 1616391.69
+      },
+      {
+        "productCode": "08",
+        "value": 1591430.01
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/GygPFmXGD1o"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/river-scene-gambia-fishing-village-2667905/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-and-blue-boat-on-water-near-houses-during-daytime-uOgB_xCBT4M"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/landscape-photography-of-mountain-GygPFmXGD1o"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/beach-near-houses-ELHzK-UFabY"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-people-standing-around-a-herd-of-animals-6vIOlt3ijoA"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 903,
+  "gdpPerCapitaYear": 2023
+}

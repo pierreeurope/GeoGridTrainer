@@ -1,0 +1,76 @@
+{
+  "code": "GS",
+  "latitude": -54.429579,
+  "longitude": -36.587909,
+  "name": "South Georgia and the South Sandwich Islands",
+  "names": {
+    "fr": "Géorgie du Sud et les îles Sandwich du Sud",
+    "hu": "Déli-Georgia és Déli-Sandwich-szigetek",
+    "nl": "Zuid-Georgië en de Zuidelijke Sandwicheilanden",
+    "pl": "Georgia Południowa i Sandwich Południowy",
+    "de": "Südgeorgien und die Südlichen Sandwichinseln",
+    "ja": "南ジョージア島および南サンドウィッチ諸島",
+    "co": "Sud-Giorgia è isule di Sandwitch",
+    "es": "Islas Georgias del Sur y Sandwich del Sur",
+    "pt": "Geórgia do Sul e Ilhas Sandwich do Sul",
+    "eu": "Hegoaldeko Georgiak eta Hegoaldeko Sandwichak",
+    "ie": "An tSeoirsia Theas agus Oileáin Sandwich Theas"
+  },
+  "flags": [
+    "cl",
+    "ar",
+    "py",
+    "aq",
+    "uy",
+    "fk",
+    "gs",
+    "bv"
+  ],
+  "continent": [
+    "AN"
+  ],
+  "borders": [
+    "bv",
+    "ar",
+    "aq",
+    "fk"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/South%20Georgia%20and%20the%20South%20Sandwich%20Islands/@-54.429579,-36.587909,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "FKP",
+    "name": "Pound",
+    "nameChoices": [
+      "Franc",
+      "Dollar",
+      "Peso"
+    ]
+  },
+  "population": 22,
+  "size": 3903,
+  "languageData": {},
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/Z3EwKKX513k"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/south-georgia-king-penguins-4709461/"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false
+}

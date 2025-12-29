@@ -1,0 +1,142 @@
+{
+  "code": "EG",
+  "latitude": 26.820553,
+  "longitude": 30.802498,
+  "name": "Egypt",
+  "names": {
+    "fr": "Égypte",
+    "hu": "Egyiptom",
+    "nl": "Egypte",
+    "pl": "Egipt",
+    "de": "Ägypten",
+    "ja": "エジプト",
+    "co": "Egitu",
+    "es": "Egipto",
+    "pt": "Egito",
+    "eu": "Egipto",
+    "ie": "An Éigipt"
+  },
+  "flags": [
+    "ps",
+    "il",
+    "sa",
+    "ly",
+    "eg",
+    "sd",
+    "fr",
+    "jo"
+  ],
+  "continent": [
+    "AF",
+    "AS"
+  ],
+  "borders": [
+    "il",
+    "ly",
+    "sd",
+    "ps"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Egypt",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Egypt/@26.820553,30.802498,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EGP",
+    "name": "Pound",
+    "nameChoices": [
+      "Dinar",
+      "Dollar",
+      "Dirham"
+    ]
+  },
+  "population": 109450000,
+  "size": 1001450,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Egypt"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara",
+        "percentage": 70
+      },
+      {
+        "languageCode": "aec",
+        "percentage": 22.73
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 42051584005.016,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 7372488320.655
+      },
+      {
+        "productCode": "85",
+        "value": 2643386654.809
+      },
+      {
+        "productCode": "31",
+        "value": 2457894739.192
+      },
+      {
+        "productCode": "72",
+        "value": 2330132768.809
+      },
+      {
+        "productCode": "39",
+        "value": 2294128505.616
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/pwMbtwA9LRc"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/felucca-nile-sunset-flow-sailboat-7237715/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/white-sailboat-on-water-under-blue-cloudy-sky-during-daytime-photo-Si1MFhSLNWY"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/five-persons-riding-camels-walking-on-sand-beside-pyramid-of-egypt-boyXZfqpwpU"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-pyramids-of-egypt-rxv2qwYPe6s"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Giza_Pyramids_during_%22Forever_is_Now%22_exhibition.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_13.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 3174,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,139 @@
+{
+  "code": "EE",
+  "latitude": 58.595272,
+  "longitude": 25.013607,
+  "name": "Estonia",
+  "names": {
+    "fr": "Estonie",
+    "hu": "Észtország",
+    "nl": "Estland",
+    "de": "Estland",
+    "ja": "エストニア",
+    "pt": "Estônia",
+    "ie": "An Eastóin"
+  },
+  "flags": [
+    "lv",
+    "by",
+    "lt",
+    "se",
+    "fi",
+    "ru",
+    "pl",
+    "ee"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "lv",
+    "ru"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Estonia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Estonia/@58.595272,25.013607,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Leu",
+      "Dollar",
+      "Ruble"
+    ]
+  },
+  "population": 1373101,
+  "size": 45227,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "est",
+        "percentage": 68.5
+      },
+      {
+        "languageCode": "rus",
+        "percentage": 29.6
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 20108196603,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 2805426550.84
+      },
+      {
+        "productCode": "44",
+        "value": 2100320217.44
+      },
+      {
+        "productCode": "84",
+        "value": 1860682149.7
+      },
+      {
+        "productCode": "87",
+        "value": 1804364126.94
+      },
+      {
+        "productCode": "27",
+        "value": 1776214815.45
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/2OSEWkQHiGI"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/estonia-tallinn-roofs-architecture-912315/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-trees-near-body-of-water-during-daytime-xgNDOT9F2l8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-street-near-brown-concrete-building-during-nighttime-Xy5yA42GHvQ"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-narrow-cobblestone-street-in-an-old-european-city-twzONVjsWbw"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/purple-flower-field-near-road-during-daytime-JDAS7shUy-Q"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Torm_detsembris._Meriv%C3%A4lja_Muul.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:M%C3%B5rdama_raba03.jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 32760,
+  "gdpPerCapitaYear": 2025
+}
