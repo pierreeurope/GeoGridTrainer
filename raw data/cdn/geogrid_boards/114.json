@@ -1,0 +1,159 @@
+{
+  "grid_id": "114",
+  "rows": [
+    {
+      "name": "Name is 6 letters long",
+      "id": "name_length",
+      "variantId": 2
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with only red, white, and blue",
+      "id": "flag_rwb",
+      "variantId": null
+    },
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "France",
+      "Norway",
+      "Panama",
+      "Russia",
+      "Taiwan"
+    ],
+    "match_box_2": [
+      "Canada",
+      "France",
+      "Guinea",
+      "Monaco",
+      "Rwanda"
+    ],
+    "match_box_3": [
+      "France",
+      "Greece",
+      "Jersey",
+      "Kosovo",
+      "Latvia",
+      "Monaco",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Sweden"
+    ],
+    "match_box_4": [
+      "Australia",
+      "Chile",
+      "Cook Islands",
+      "Cuba",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Liberia",
+      "Nepal",
+      "New Zealand",
+      "North Korea",
+      "Panama",
+      "Puerto Rico",
+      "Samoa",
+      "Taiwan",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Rwanda",
+      "Saint Martin",
+      "Senegal",
+      "Togo"
+    ],
+    "match_box_6": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Cuba",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Iceland",
+      "Mayotte",
+      "New Zealand",
+      "Puerto Rico",
+      "Samoa",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "United Kingdom",
+      "Wallis and Futuna"
+    ],
+    "match_box_8": [
+      "Comoros",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Haiti",
+      "Madagascar",
+      "Martinique",
+      "Mayotte",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "grid_id": "107",
+  "rows": [
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "name": "GDP per capita over $40k",
+      "id": "gdp_per_capita_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    }
+  ],
+  "columns": [
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    },
+    {
+      "name": "Population under 2 million",
+      "id": "population_under_x",
+      "variantId": 2
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Azerbaijan",
+      "China",
+      "India",
+      "Iran",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Laos",
+      "Myanmar",
+      "Russia",
+      "Saudi Arabia",
+      "Syria",
+      "Türkiye",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Bahrain",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Macau",
+      "Maldives",
+      "Timor-Leste"
+    ],
+    "match_box_3": [
+      "Bahrain",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Indonesia",
+      "Japan",
+      "Maldives",
+      "Philippines",
+      "Singapore",
+      "Sri Lanka",
+      "Taiwan",
+      "Timor-Leste"
+    ],
+    "match_box_4": [
+      "Austria",
+      "France",
+      "Germany",
+      "Israel",
+      "Italy",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Macau",
+      "Malta",
+      "Monaco",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Greenland",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Singapore",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "U.S. Virgin Islands",
+      "United Kingdom"
+    ],
+    "match_box_7": [
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Guinea",
+      "Niger",
+      "Republic of the Congo",
+      "Senegal",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Comoros",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Luxembourg",
+      "Martinique",
+      "Mayotte",
+      "Monaco",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Comoros",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Haiti",
+      "Madagascar",
+      "Martinique",
+      "Mayotte",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ]
+  }
+}

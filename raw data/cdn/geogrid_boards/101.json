@@ -1,0 +1,170 @@
+{
+  "grid_id": "101",
+  "rows": [
+    {
+      "name": "Member of the European Union",
+      "id": "in_eu",
+      "variantId": null
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "name": "Human Development Index under 0.6",
+      "id": "hdi_under_x",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population under 5 million",
+      "id": "population_under_x",
+      "variantId": 3
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Borders 2-3 countries",
+      "id": "borders_x_to_y",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Aruba",
+      "Caribbean Netherlands",
+      "Croatia",
+      "Curaçao",
+      "Cyprus",
+      "Estonia",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Greenland",
+      "Guadeloupe",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Martinique",
+      "Mayotte",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Slovenia",
+      "Wallis and Futuna"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Czechia",
+      "Hungary",
+      "Luxembourg",
+      "Slovakia"
+    ],
+    "match_box_3": [
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "French Guiana",
+      "Luxembourg",
+      "Netherlands",
+      "Sweden"
+    ],
+    "match_box_4": [
+      "Armenia",
+      "Bahrain",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Georgia",
+      "Kuwait",
+      "Macau",
+      "Maldives",
+      "Mongolia",
+      "Qatar",
+      "Timor-Leste"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "Bhutan",
+      "Cambodia",
+      "Hong Kong",
+      "Indonesia",
+      "Kuwait",
+      "Lebanon",
+      "Macau",
+      "Mongolia",
+      "Nepal",
+      "North Korea",
+      "Oman",
+      "Palestine",
+      "United Arab Emirates",
+      "Vietnam",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Djibouti",
+      "Eritrea",
+      "Guinea-Bissau",
+      "Lesotho",
+      "Mauritania",
+      "Solomon Islands",
+      "The Gambia"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Burundi",
+      "Djibouti",
+      "Eritrea",
+      "Guinea-Bissau",
+      "Liberia",
+      "Malawi",
+      "Sierra Leone",
+      "Somalia",
+      "Togo",
+      "Yemen"
+    ]
+  }
+}

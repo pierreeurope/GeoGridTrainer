@@ -1,0 +1,184 @@
+{
+  "grid_id": "102",
+  "rows": [
+    {
+      "name": "GDP per capita over $50k",
+      "id": "gdp_per_capita_over_x",
+      "variantId": 5
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Flag with only red, white, and blue",
+      "id": "flag_rwb",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Capital city population under 500k",
+      "id": "captial_population_under_x",
+      "variantId": 3
+    },
+    {
+      "name": "Name is 10+ letters long",
+      "id": "name_x_plus_letters_long",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Austria",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Switzerland"
+    ],
+    "match_box_2": [
+      "Australia",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Gibraltar",
+      "Greenland",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Monaco",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Bailiwick of Guernsey",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Liechtenstein",
+      "Luxembourg",
+      "Netherlands",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Andorra",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Estonia",
+      "Faroe Islands",
+      "Gibraltar",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "San Marino",
+      "Slovakia",
+      "Slovenia",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_6": [
+      "Azerbaijan",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Faroe Islands",
+      "Kazakhstan",
+      "Liechtenstein",
+      "Luxembourg",
+      "Montenegro",
+      "Netherlands",
+      "North Macedonia",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_7": [
+      "Czechia",
+      "Laos",
+      "Luxembourg",
+      "Nepal",
+      "Slovakia"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Cook Islands",
+      "Costa Rica",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Iceland",
+      "Luxembourg",
+      "Mayotte",
+      "New Zealand",
+      "Panama",
+      "Puerto Rico",
+      "Samoa",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ]
+  }
+}

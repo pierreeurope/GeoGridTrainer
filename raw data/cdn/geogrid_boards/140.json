@@ -1,0 +1,135 @@
+{
+  "grid_id": "140",
+  "rows": [
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    },
+    {
+      "name": "Was part of the USSR",
+      "id": "was_ussr",
+      "variantId": null
+    },
+    {
+      "id": "flag_has_animal",
+      "name": "Flag with an animal",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "id": "observes_dst",
+      "name": "Observes Daylight Savings Time",
+      "variantId": null
+    },
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Belgium",
+      "France",
+      "Luxembourg",
+      "Monaco",
+      "Switzerland"
+    ],
+    "match_box_2": [
+      "Belgium",
+      "Canada",
+      "France",
+      "Haiti",
+      "Luxembourg",
+      "Monaco",
+      "Saint Pierre and Miquelon",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Guinea",
+      "Niger",
+      "Republic of the Congo",
+      "Senegal",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Georgia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Russia",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Estonia",
+      "Latvia",
+      "Lithuania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "match_box_6": [
+      "Azerbaijan",
+      "Belarus",
+      "Kazakhstan",
+      "Russia",
+      "Ukraine",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Albania",
+      "Andorra",
+      "Croatia",
+      "Jersey",
+      "Kazakhstan",
+      "Malta",
+      "Moldova",
+      "Montenegro",
+      "Serbia",
+      "Spain"
+    ],
+    "match_box_8": [
+      "Albania",
+      "Andorra",
+      "Bermuda",
+      "Croatia",
+      "Egypt",
+      "Jersey",
+      "Malta",
+      "Mexico",
+      "Moldova",
+      "Montenegro",
+      "Saint Pierre and Miquelon",
+      "Serbia",
+      "Spain",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_9": [
+      "Bolivia",
+      "Croatia",
+      "Kazakhstan",
+      "Montenegro",
+      "Peru",
+      "Serbia",
+      "Spain",
+      "Uganda",
+      "Zambia"
+    ]
+  }
+}

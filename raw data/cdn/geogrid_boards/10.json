@@ -1,0 +1,185 @@
+{
+  "grid_id": "10",
+  "rows": [
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "Flag with green",
+      "id": "color_on_flag",
+      "variantId": 4
+    },
+    {
+      "name": "Capital city population over 1 million",
+      "id": "capital_population_over_x",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "name": "In North America",
+      "id": "continent",
+      "variantId": 3
+    },
+    {
+      "name": "Top 20 in annual tourist arrivals",
+      "id": "top_20_tourism",
+      "variantId": null
+    },
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Canada",
+      "Dominican Republic",
+      "Guatemala",
+      "Haiti",
+      "Mexico",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Netherlands",
+      "Portugal",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Belgium",
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "Chad",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Guinea",
+      "Haiti",
+      "Madagascar",
+      "Niger",
+      "Rwanda",
+      "Senegal"
+    ],
+    "match_box_4": [
+      "Belize",
+      "Bermuda",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Dominica",
+      "Dominican Republic",
+      "El Salvador",
+      "Grenada",
+      "Guadeloupe",
+      "Guatemala",
+      "Haiti",
+      "Jamaica",
+      "Martinique",
+      "Mexico",
+      "Montserrat",
+      "Nicaragua",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_5": [
+      "Italy",
+      "Macau",
+      "Mexico",
+      "Portugal",
+      "Saudi Arabia",
+      "Spain"
+    ],
+    "match_box_6": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Comoros",
+      "Côte d'Ivoire",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Gabon",
+      "Guadeloupe",
+      "Guinea",
+      "Haiti",
+      "Madagascar",
+      "Martinique",
+      "New Caledonia",
+      "Niger",
+      "Republic of the Congo",
+      "Rwanda",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Senegal",
+      "Seychelles",
+      "Togo",
+      "Vanuatu"
+    ],
+    "match_box_7": [
+      "Canada",
+      "Cuba",
+      "Dominican Republic",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Mexico",
+      "Nicaragua"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Canada",
+      "China",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Saudi Arabia",
+      "Spain",
+      "Thailand",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Belgium",
+      "Cameroon",
+      "Canada",
+      "Democratic Republic of the Congo",
+      "France",
+      "Guinea",
+      "Haiti",
+      "Madagascar",
+      "Niger",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Togo"
+    ]
+  }
+}

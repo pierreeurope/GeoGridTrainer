@@ -1,0 +1,165 @@
+{
+  "grid_id": "120",
+  "rows": [
+    {
+      "name": "Population under 20 million",
+      "id": "population_under_x",
+      "variantId": 5
+    },
+    {
+      "id": "flag_has_x_colors",
+      "name": "Flag with only 3 colors",
+      "variantId": 1
+    },
+    {
+      "id": "continent",
+      "name": "In Europe",
+      "variantId": 1
+    }
+  ],
+  "columns": [
+    {
+      "name": "Ends with letter Y",
+      "id": "ending_letter",
+      "variantId": 10
+    },
+    {
+      "id": "borders_x_or_more",
+      "name": "Borders 5+ countries",
+      "variantId": 0
+    },
+    {
+      "name": "Has hosted the Men's FIFA World Cup",
+      "id": "hosted_world_cup",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bailiwick of Guernsey",
+      "British Indian Ocean Territory",
+      "Hungary",
+      "Jersey",
+      "Norway",
+      "Paraguay",
+      "Saint Barthélemy",
+      "Uruguay",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Bulgaria",
+      "Central African Republic",
+      "Chad",
+      "Croatia",
+      "Guinea",
+      "Hungary",
+      "Israel",
+      "Jordan",
+      "Laos",
+      "Libya",
+      "Montenegro",
+      "North Macedonia",
+      "Republic of the Congo",
+      "Romania",
+      "Senegal",
+      "Serbia",
+      "Slovakia",
+      "South Sudan",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Chile",
+      "Qatar",
+      "Sweden",
+      "Switzerland",
+      "Uruguay"
+    ],
+    "match_box_4": [
+      "Bailiwick of Guernsey",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Norway"
+    ],
+    "match_box_5": [
+      "Algeria",
+      "Belarus",
+      "Bulgaria",
+      "Burkina Faso",
+      "Cameroon",
+      "Chad",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "France",
+      "Germany",
+      "Guinea",
+      "Hungary",
+      "Iran",
+      "Italy",
+      "Laos",
+      "Mali",
+      "Niger",
+      "Republic of the Congo",
+      "Romania",
+      "Russia",
+      "Senegal",
+      "Slovakia"
+    ],
+    "match_box_6": [
+      "Chile",
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Bailiwick of Guernsey",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Jersey",
+      "Norway",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Bulgaria",
+      "Croatia",
+      "France",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Kazakhstan",
+      "Montenegro",
+      "North Macedonia",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Spain",
+      "Switzerland",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_9": [
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "grid_id": "137",
+  "rows": [
+    {
+      "name": "Area less than 1 million km²",
+      "id": "size_under_x",
+      "variantId": 7
+    },
+    {
+      "name": "Flag with blue",
+      "id": "color_on_flag",
+      "variantId": 1
+    },
+    {
+      "name": "GDP per capita under $30k",
+      "id": "gdp_per_capita_under_x",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "name": "Starts with letter A",
+      "id": "starting_letter",
+      "variantId": 0
+    },
+    {
+      "name": "Has hosted the Olympics",
+      "id": "hosted_olympics",
+      "variantId": null
+    },
+    {
+      "name": "Top 20 in population density",
+      "id": "top_20_population_density",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Åland",
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Armenia",
+      "Aruba",
+      "Austria",
+      "Azerbaijan"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Finland",
+      "France",
+      "French Polynesia",
+      "Germany",
+      "Greece",
+      "Hong Kong",
+      "Italy",
+      "Japan",
+      "Netherlands",
+      "Norway",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Bangladesh",
+      "Barbados",
+      "Bermuda",
+      "Gibraltar",
+      "Hong Kong",
+      "Jersey",
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Monaco",
+      "Palestine",
+      "Singapore",
+      "Sint Maarten",
+      "Taiwan",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "Åland",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Aruba",
+      "Australia",
+      "Azerbaijan"
+    ],
+    "match_box_5": [
+      "Australia",
+      "Bosnia and Herzegovina",
+      "Brazil",
+      "Finland",
+      "France",
+      "French Polynesia",
+      "Greece",
+      "Mexico",
+      "Netherlands",
+      "Norway",
+      "Russia",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Aruba",
+      "Barbados",
+      "Bermuda",
+      "Jersey",
+      "Mauritius",
+      "Mayotte",
+      "Sint Maarten",
+      "Taiwan"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Albania",
+      "Algeria",
+      "American Samoa",
+      "Angola",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Azerbaijan"
+    ],
+    "match_box_8": [
+      "Bosnia and Herzegovina",
+      "Brazil",
+      "China",
+      "French Polynesia",
+      "Greece",
+      "Mexico",
+      "Russia"
+    ],
+    "match_box_9": [
+      "Bahrain",
+      "Bangladesh",
+      "Barbados",
+      "Maldives",
+      "Mauritius",
+      "Mayotte",
+      "Palestine",
+      "Vatican City"
+    ]
+  }
+}

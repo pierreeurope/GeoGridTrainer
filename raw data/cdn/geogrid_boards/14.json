@@ -1,0 +1,157 @@
+{
+  "grid_id": "14",
+  "rows": [
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Population over 1 million",
+      "id": "population_over_x",
+      "variantId": 1
+    },
+    {
+      "name": "Flag with red",
+      "id": "color_on_flag",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Borders France",
+      "id": "borders_x",
+      "variantId": 3
+    },
+    {
+      "name": "Name is 6 letters long",
+      "id": "name_length",
+      "variantId": 2
+    },
+    {
+      "name": "Ends with letter D",
+      "id": "ending_letter",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Andorra",
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_2": [
+      "France",
+      "Greece",
+      "Jersey",
+      "Kosovo",
+      "Latvia",
+      "Monaco",
+      "Norway",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Sweden"
+    ],
+    "match_box_3": [
+      "Åland",
+      "Finland",
+      "Iceland",
+      "Ireland",
+      "Poland",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_5": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Greece",
+      "Guinea",
+      "Israel",
+      "Jordan",
+      "Kosovo",
+      "Kuwait",
+      "Latvia",
+      "Malawi",
+      "Mexico",
+      "Norway",
+      "Panama",
+      "Poland",
+      "Russia",
+      "Rwanda",
+      "Serbia",
+      "Sweden",
+      "Taiwan",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_6": [
+      "Chad",
+      "Finland",
+      "Ireland",
+      "New Zealand",
+      "Poland",
+      "Switzerland",
+      "Thailand"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Spain",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Angola",
+      "Belize",
+      "Brunei",
+      "Canada",
+      "France",
+      "Guinea",
+      "Guyana",
+      "Jersey",
+      "Jordan",
+      "Kuwait",
+      "Latvia",
+      "Malawi",
+      "Mexico",
+      "Monaco",
+      "Norway",
+      "Panama",
+      "Poland",
+      "Russia",
+      "Serbia",
+      "Taiwan",
+      "Tuvalu",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Åland",
+      "Bouvet Island",
+      "Chad",
+      "Greenland",
+      "Iceland",
+      "New Zealand",
+      "Poland",
+      "Switzerland",
+      "Thailand"
+    ]
+  }
+}

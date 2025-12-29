@@ -1,0 +1,198 @@
+{
+  "grid_id": "134",
+  "rows": [
+    {
+      "name": "Capital is not the most populated city",
+      "id": "capital_not_most_populated_city",
+      "variantId": null
+    },
+    {
+      "name": "Member of the European Union",
+      "id": "in_eu",
+      "variantId": null
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Population under 2 million",
+      "id": "population_under_x",
+      "variantId": 2
+    },
+    {
+      "name": "Flag with yellow",
+      "id": "color_on_flag",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bolivia",
+      "Burundi",
+      "Kazakhstan",
+      "Liechtenstein",
+      "San Marino",
+      "Switzerland"
+    ],
+    "match_box_2": [
+      "American Samoa",
+      "Belize",
+      "Bermuda",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Federated States of Micronesia",
+      "Guadeloupe",
+      "Guam",
+      "Liechtenstein",
+      "Malta",
+      "Montserrat",
+      "Nauru",
+      "Palau",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "San Marino",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_3": [
+      "American Samoa",
+      "Belize",
+      "Benin",
+      "Bermuda",
+      "Bolivia",
+      "Brazil",
+      "Cameroon",
+      "China",
+      "Cocos Islands",
+      "Dominican Republic",
+      "Ecuador",
+      "Guadeloupe",
+      "Guam",
+      "Kazakhstan",
+      "Liechtenstein",
+      "Montserrat",
+      "Myanmar",
+      "Nauru",
+      "Palau",
+      "Philippines",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "San Marino",
+      "Sint Maarten",
+      "South Africa",
+      "Tanzania",
+      "Turks and Caicos Islands",
+      "Vietnam"
+    ],
+    "match_box_4": [
+      "Austria",
+      "Czechia",
+      "Hungary",
+      "Luxembourg",
+      "Slovakia"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Aruba",
+      "Caribbean Netherlands",
+      "Curaçao",
+      "Cyprus",
+      "Estonia",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Greenland",
+      "Guadeloupe",
+      "Latvia",
+      "Luxembourg",
+      "Malta",
+      "Martinique",
+      "Mayotte",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Wallis and Futuna"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Aruba",
+      "Belgium",
+      "Croatia",
+      "Curaçao",
+      "French Guiana",
+      "French Polynesia",
+      "Germany",
+      "Guadeloupe",
+      "Lithuania",
+      "New Caledonia",
+      "Portugal",
+      "Réunion",
+      "Romania",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Slovenia",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_8": [
+      "Bahrain",
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cyprus",
+      "Macau",
+      "Maldives",
+      "Timor-Leste"
+    ],
+    "match_box_9": [
+      "Bhutan",
+      "British Indian Ocean Territory",
+      "Brunei",
+      "China",
+      "Christmas Island",
+      "Cocos Islands",
+      "Egypt",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Macau",
+      "Malaysia",
+      "Mongolia",
+      "Myanmar",
+      "Philippines",
+      "Sri Lanka",
+      "Tajikistan",
+      "Timor-Leste",
+      "Turkmenistan",
+      "Vietnam"
+    ]
+  }
+}

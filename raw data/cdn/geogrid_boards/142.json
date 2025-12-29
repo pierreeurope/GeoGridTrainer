@@ -1,0 +1,189 @@
+{
+  "grid_id": "142",
+  "rows": [
+    {
+      "name": "GDP per capita under $10k",
+      "id": "gdp_per_capita_under_x",
+      "variantId": 1
+    },
+    {
+      "name": "Flag with 5+ colors",
+      "id": "flag_has_x_or_more_colors",
+      "variantId": 0
+    },
+    {
+      "name": "Drives on the left",
+      "id": "drives_left",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Bottom 20 in population density",
+      "id": "bottom_20_population_density",
+      "variantId": null
+    },
+    {
+      "name": "Flag with a coat of arms",
+      "id": "flag_has_coat_of_arms",
+      "variantId": null
+    },
+    {
+      "name": "Coastline on the Indian Ocean",
+      "id": "coastline_on_x",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Botswana",
+      "Central African Republic",
+      "Gabon",
+      "Libya",
+      "Mauritania",
+      "Mongolia",
+      "Namibia",
+      "Suriname"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Belize",
+      "Bolivia",
+      "Brazil",
+      "Ecuador",
+      "Egypt",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Ethiopia",
+      "Fiji",
+      "Guatemala",
+      "Haiti",
+      "Iran",
+      "Moldova",
+      "Montserrat",
+      "Mozambique",
+      "Nicaragua",
+      "Paraguay",
+      "Peru"
+    ],
+    "match_box_3": [
+      "Bangladesh",
+      "Comoros",
+      "Djibouti",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Kenya",
+      "Madagascar",
+      "Mozambique",
+      "Myanmar",
+      "Pakistan",
+      "Somalia",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Timor-Leste",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Central African Republic",
+      "Falkland Islands (Malvinas)",
+      "Guyana",
+      "Namibia",
+      "Pitcairn Islands"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Anguilla",
+      "Belize",
+      "Bermuda",
+      "Bolivia",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Croatia",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Guam",
+      "Guatemala",
+      "Haiti",
+      "Mexico",
+      "Moldova",
+      "Montserrat",
+      "Mozambique",
+      "Nicaragua",
+      "Paraguay",
+      "Peru",
+      "Pitcairn Islands",
+      "Portugal",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Martin",
+      "San Marino",
+      "Sint Maarten",
+      "South Georgia and the South Sandwich Islands",
+      "Spain",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_6": [
+      "British Indian Ocean Territory",
+      "Comoros",
+      "Mozambique",
+      "Seychelles",
+      "South Africa"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Botswana",
+      "Falkland Islands (Malvinas)",
+      "Guyana",
+      "Namibia",
+      "Niue",
+      "Pitcairn Islands",
+      "Suriname"
+    ],
+    "match_box_8": [
+      "Anguilla",
+      "Bermuda",
+      "British Virgin Islands",
+      "Brunei",
+      "Cayman Islands",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Jersey",
+      "Montserrat",
+      "Mozambique",
+      "Pitcairn Islands",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Bangladesh",
+      "Christmas Island",
+      "Cocos Islands",
+      "India",
+      "Indonesia",
+      "Kenya",
+      "Malaysia",
+      "Maldives",
+      "Mauritius",
+      "Mozambique",
+      "Pakistan",
+      "Seychelles",
+      "Singapore",
+      "South Africa",
+      "Sri Lanka",
+      "Tanzania",
+      "Thailand",
+      "Timor-Leste"
+    ]
+  }
+}

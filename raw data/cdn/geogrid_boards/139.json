@@ -1,0 +1,173 @@
+{
+  "grid_id": "139",
+  "rows": [
+    {
+      "name": "Starts and ends with the same letter",
+      "id": "name_start_end_same_letter",
+      "variantId": null
+    },
+    {
+      "name": "Coastline on the Mediterranean Sea",
+      "id": "coastline_on_x",
+      "variantId": 0
+    },
+    {
+      "name": "Has 50+ skyscrapers",
+      "id": "50_plus_skyscrapers",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with only 3 colors",
+      "id": "flag_has_x_colors",
+      "variantId": 1
+    },
+    {
+      "name": "Ends with letter A",
+      "id": "ending_letter",
+      "variantId": 0
+    },
+    {
+      "name": "Human Development Index over 0.55",
+      "id": "hdi_over_x",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Algeria",
+      "Angola",
+      "Armenia",
+      "Australia",
+      "Saint Vincent and the Grenadines"
+    ],
+    "match_box_2": [
+      "Albania",
+      "Algeria",
+      "American Samoa",
+      "Andorra",
+      "Angola",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Aruba",
+      "Australia",
+      "Austria"
+    ],
+    "match_box_3": [
+      "Albania",
+      "Algeria",
+      "American Samoa",
+      "Andorra",
+      "Angola",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Aruba",
+      "Australia",
+      "Austria",
+      "Saint Kitts and Nevis",
+      "Saint Vincent and the Grenadines",
+      "Seychelles",
+      "Solomon Islands"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Cyprus",
+      "France",
+      "Italy",
+      "Lebanon",
+      "Malta"
+    ],
+    "match_box_5": [
+      "Albania",
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Libya",
+      "Malta",
+      "Slovenia",
+      "Syria",
+      "Tunisia"
+    ],
+    "match_box_6": [
+      "Albania",
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Cyprus",
+      "Egypt",
+      "France",
+      "Gibraltar",
+      "Greece",
+      "Israel",
+      "Italy",
+      "Lebanon",
+      "Libya",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "Morocco",
+      "Palestine",
+      "Slovenia",
+      "Spain",
+      "Syria",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_7": [
+      "Australia",
+      "Panama",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_8": [
+      "Australia",
+      "Cambodia",
+      "Canada",
+      "China",
+      "India",
+      "Indonesia",
+      "Malaysia",
+      "Panama",
+      "Russia",
+      "Saudi Arabia",
+      "South Korea",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Brazil",
+      "Cambodia",
+      "Canada",
+      "China",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Malaysia",
+      "Mexico",
+      "Panama",
+      "Philippines",
+      "Qatar",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Taiwan",
+      "Thailand",
+      "Türkiye",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Vietnam"
+    ]
+  }
+}

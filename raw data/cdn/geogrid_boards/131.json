@@ -1,0 +1,171 @@
+{
+  "grid_id": "131",
+  "rows": [
+    {
+      "name": "Population over 1 million",
+      "id": "population_over_x",
+      "variantId": 1
+    },
+    {
+      "name": "Area greater than 200,000 km²",
+      "id": "size_over_x",
+      "variantId": 5
+    },
+    {
+      "name": "Flag with green",
+      "id": "color_on_flag",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "name": "Coastline on the Mediterranean Sea",
+      "id": "coastline_on_x",
+      "variantId": 0
+    },
+    {
+      "name": "Member of the European Union",
+      "id": "in_eu",
+      "variantId": null
+    },
+    {
+      "name": "In South America",
+      "id": "continent",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Albania",
+      "Algeria",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Egypt",
+      "France",
+      "Greece",
+      "Israel",
+      "Italy",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Palestine",
+      "Slovenia",
+      "Spain",
+      "Syria",
+      "Tunisia",
+      "Türkiye"
+    ],
+    "match_box_2": [
+      "Austria",
+      "Belgium",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Paraguay",
+      "Peru",
+      "Trinidad and Tobago",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_4": [
+      "Algeria",
+      "Egypt",
+      "France",
+      "Italy",
+      "Libya",
+      "Morocco",
+      "Spain",
+      "Türkiye"
+    ],
+    "match_box_5": [
+      "Finland",
+      "France",
+      "Germany",
+      "Greenland",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Spain",
+      "Sweden"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "Algeria",
+      "Cyprus",
+      "Italy",
+      "Lebanon",
+      "Libya",
+      "Montenegro",
+      "Morocco",
+      "Palestine",
+      "Spain",
+      "Syria"
+    ],
+    "match_box_8": [
+      "Bulgaria",
+      "Cyprus",
+      "French Guiana",
+      "Guadeloupe",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Lithuania",
+      "Martinique",
+      "New Caledonia",
+      "Portugal",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Spain"
+    ],
+    "match_box_9": [
+      "Bolivia",
+      "Brazil",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname"
+    ]
+  }
+}

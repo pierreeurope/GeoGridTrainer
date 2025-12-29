@@ -1,0 +1,192 @@
+{
+  "grid_id": "103",
+  "rows": [
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "GDP per capita over $40k",
+      "id": "gdp_per_capita_over_x",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    },
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burkina Faso",
+      "Central African Republic",
+      "North Macedonia",
+      "San Marino",
+      "South Sudan",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "American Samoa",
+      "Antigua and Barbuda",
+      "Bailiwick of Guernsey",
+      "Bouvet Island",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Cabo Verde",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Cook Islands",
+      "Dominican Republic",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Isle of Man",
+      "Marshall Islands",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "São Tomé and Príncipe",
+      "Sint Maarten",
+      "Solomon Islands",
+      "South Georgia and the South Sandwich Islands",
+      "Sri Lanka",
+      "Svalbard and Jan Mayen",
+      "Timor-Leste",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Kingdom",
+      "Wallis and Futuna"
+    ],
+    "match_box_3": [
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "New Caledonia",
+      "Republic of the Congo",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Wallis and Futuna"
+    ],
+    "match_box_4": [
+      "Andorra",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Belgium",
+      "France",
+      "Luxembourg",
+      "Monaco",
+      "Switzerland"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Austria",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Switzerland"
+    ],
+    "match_box_8": [
+      "Åland",
+      "Bailiwick of Guernsey",
+      "Bermuda",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cyprus",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Greenland",
+      "Iceland",
+      "Ireland",
+      "Isle of Man",
+      "Jersey",
+      "Malta",
+      "New Zealand",
+      "Norfolk Island",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Singapore",
+      "Sint Maarten",
+      "Svalbard and Jan Mayen",
+      "U.S. Virgin Islands",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "Belgium",
+      "Canada",
+      "France",
+      "Luxembourg",
+      "Monaco",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "Switzerland"
+    ]
+  }
+}

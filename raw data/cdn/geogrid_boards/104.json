@@ -1,0 +1,149 @@
+{
+  "grid_id": "104",
+  "rows": [
+    {
+      "name": "Has never won an Olympic medal",
+      "id": "no_olympic_medals",
+      "variantId": null
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Name is 5 letters long",
+      "id": "name_length",
+      "variantId": 1
+    },
+    {
+      "name": "Starts with letter S",
+      "id": "starting_letter",
+      "variantId": 13
+    },
+    {
+      "name": "Human Development Index under 0.5",
+      "id": "hdi_under_x",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Aruba",
+      "Benin",
+      "Libya",
+      "Macau",
+      "Malta",
+      "Nauru",
+      "Nepal",
+      "Palau",
+      "Yemen"
+    ],
+    "match_box_2": [
+      "Saint Barthélemy",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "São Tomé and Príncipe",
+      "Seychelles",
+      "Sierra Leone",
+      "Sint Maarten",
+      "Solomon Islands",
+      "Somalia",
+      "South Georgia and the South Sandwich Islands",
+      "South Sudan",
+      "Svalbard and Jan Mayen"
+    ],
+    "match_box_3": [
+      "Central African Republic",
+      "Chad",
+      "Madagascar",
+      "Mali",
+      "Sierra Leone",
+      "Somalia",
+      "South Sudan",
+      "Yemen"
+    ],
+    "match_box_4": [
+      "Aruba",
+      "Chile",
+      "China",
+      "Ghana",
+      "Japan",
+      "Libya",
+      "Macau",
+      "Nauru",
+      "Nepal",
+      "Samoa",
+      "Syria"
+    ],
+    "match_box_5": [
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Senegal",
+      "Singapore",
+      "Sint Maarten",
+      "Slovenia",
+      "Solomon Islands",
+      "Somalia",
+      "South Sudan",
+      "Suriname",
+      "Syria"
+    ],
+    "match_box_6": [
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Ethiopia",
+      "Mozambique",
+      "Somalia",
+      "South Sudan"
+    ],
+    "match_box_7": [
+      "China",
+      "India",
+      "Italy",
+      "Kenya",
+      "Libya",
+      "Niger",
+      "Spain",
+      "Sudan",
+      "Syria"
+    ],
+    "match_box_8": [
+      "Saudi Arabia",
+      "Senegal",
+      "Serbia",
+      "Slovakia",
+      "South Africa",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Switzerland",
+      "Syria"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "South Sudan"
+    ]
+  }
+}

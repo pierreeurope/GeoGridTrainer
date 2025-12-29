@@ -1,0 +1,198 @@
+{
+  "grid_id": "108",
+  "rows": [
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Capital city population under 5 million",
+      "id": "captial_population_under_x",
+      "variantId": 6
+    },
+    {
+      "name": "Population under 20 million",
+      "id": "population_under_x",
+      "variantId": 5
+    }
+  ],
+  "columns": [
+    {
+      "name": "In Oceania",
+      "id": "continent",
+      "variantId": 6
+    },
+    {
+      "name": "Spanish is an official language",
+      "id": "official_language",
+      "variantId": 1
+    },
+    {
+      "name": "Ends with letter O",
+      "id": "ending_letter",
+      "variantId": 7
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Australia",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Zealand",
+      "Niue",
+      "Northern Mariana Islands",
+      "Papua New Guinea",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tuvalu",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Cuba",
+      "Ecuador",
+      "Equatorial Guinea",
+      "Honduras",
+      "Panama",
+      "Paraguay",
+      "Puerto Rico",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_3": [
+      "Burkina Faso",
+      "Curaçao",
+      "Democratic Republic of the Congo",
+      "Kosovo",
+      "Morocco",
+      "Puerto Rico",
+      "Togo"
+    ],
+    "match_box_4": [
+      "American Samoa",
+      "Australia",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Caledonia",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Palau",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tonga",
+      "Tuvalu",
+      "United States of America",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Bolivia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela",
+      "Western Sahara"
+    ],
+    "match_box_6": [
+      "Burkina Faso",
+      "Curaçao",
+      "Kosovo",
+      "Lesotho",
+      "Monaco",
+      "Montenegro",
+      "Morocco",
+      "Puerto Rico",
+      "Republic of the Congo",
+      "San Marino",
+      "Togo",
+      "Trinidad and Tobago"
+    ],
+    "match_box_7": [
+      "American Samoa",
+      "Cook Islands",
+      "Federated States of Micronesia",
+      "Fiji",
+      "French Polynesia",
+      "Guam",
+      "Kiribati",
+      "Marshall Islands",
+      "Nauru",
+      "New Caledonia",
+      "New Zealand",
+      "Niue",
+      "Norfolk Island",
+      "Northern Mariana Islands",
+      "Palau",
+      "Papua New Guinea",
+      "Pitcairn Islands",
+      "Samoa",
+      "Solomon Islands",
+      "Tokelau",
+      "Tonga",
+      "Tuvalu",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_8": [
+      "Bolivia",
+      "Chile",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Puerto Rico",
+      "Uruguay",
+      "Western Sahara"
+    ],
+    "match_box_9": [
+      "Curaçao",
+      "Kosovo",
+      "Lesotho",
+      "Monaco",
+      "Montenegro",
+      "Puerto Rico",
+      "Republic of the Congo",
+      "San Marino",
+      "Togo",
+      "Trinidad and Tobago"
+    ]
+  }
+}

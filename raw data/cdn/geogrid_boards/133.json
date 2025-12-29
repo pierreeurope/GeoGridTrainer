@@ -1,0 +1,164 @@
+{
+  "grid_id": "133",
+  "rows": [
+    {
+      "name": "Starts with letter C",
+      "id": "starting_letter",
+      "variantId": 2
+    },
+    {
+      "name": "In North America",
+      "id": "continent",
+      "variantId": 3
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    },
+    {
+      "name": "Area greater than 10,000 km²",
+      "id": "size_over_x",
+      "variantId": 2
+    },
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Côte d'Ivoire"
+    ],
+    "match_box_2": [
+      "Cambodia",
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Chile",
+      "China",
+      "Colombia",
+      "Costa Rica",
+      "Côte d'Ivoire",
+      "Croatia",
+      "Cuba",
+      "Czechia"
+    ],
+    "match_box_3": [
+      "Cambodia",
+      "Cameroon",
+      "Canada",
+      "Chad",
+      "Chile",
+      "China",
+      "Colombia",
+      "Côte d'Ivoire",
+      "Czechia"
+    ],
+    "match_box_4": [
+      "Canada",
+      "Guadeloupe",
+      "Haiti",
+      "Martinique",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon"
+    ],
+    "match_box_5": [
+      "Bahamas",
+      "Belize",
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "El Salvador",
+      "Greenland",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Canada",
+      "Dominican Republic",
+      "Guatemala",
+      "Haiti",
+      "Mexico",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Comoros",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Haiti",
+      "Madagascar",
+      "Martinique",
+      "Mayotte",
+      "New Caledonia",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Seychelles",
+      "Vanuatu",
+      "Wallis and Futuna"
+    ],
+    "match_box_8": [
+      "Bahamas",
+      "Cuba",
+      "Dominican Republic",
+      "Falkland Islands (Malvinas)",
+      "Fiji",
+      "Greenland",
+      "Haiti",
+      "Iceland",
+      "Indonesia",
+      "Ireland",
+      "Jamaica",
+      "Japan",
+      "Madagascar",
+      "New Caledonia",
+      "New Zealand",
+      "Papua New Guinea",
+      "Philippines",
+      "Solomon Islands",
+      "Sri Lanka",
+      "Svalbard and Jan Mayen",
+      "Taiwan",
+      "Timor-Leste",
+      "United Kingdom",
+      "Vanuatu"
+    ],
+    "match_box_9": [
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Papua New Guinea",
+      "Philippines",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ]
+  }
+}

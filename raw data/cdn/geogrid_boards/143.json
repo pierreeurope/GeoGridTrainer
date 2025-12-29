@@ -1,0 +1,142 @@
+{
+  "grid_id": "143",
+  "rows": [
+    {
+      "name": "Member of the European Union",
+      "id": "in_eu",
+      "variantId": null
+    },
+    {
+      "name": "Flag with blue",
+      "id": "color_on_flag",
+      "variantId": 1
+    },
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Borders Russia",
+      "id": "borders_x",
+      "variantId": 0
+    },
+    {
+      "name": "Coastline on the Mediterranean Sea",
+      "id": "coastline_on_x",
+      "variantId": 0
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Estonia",
+      "Finland",
+      "Latvia",
+      "Lithuania",
+      "Poland"
+    ],
+    "match_box_2": [
+      "Croatia",
+      "Cyprus",
+      "France",
+      "Greece",
+      "Italy",
+      "Malta",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_3": [
+      "Austria",
+      "Czechia",
+      "Hungary",
+      "Luxembourg",
+      "Slovakia"
+    ],
+    "match_box_4": [
+      "Azerbaijan",
+      "Estonia",
+      "Finland",
+      "Kazakhstan",
+      "Mongolia",
+      "North Korea",
+      "Norway",
+      "Ukraine"
+    ],
+    "match_box_5": [
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "France",
+      "Greece",
+      "Israel",
+      "Montenegro",
+      "Slovenia",
+      "Spain"
+    ],
+    "match_box_6": [
+      "Andorra",
+      "Armenia",
+      "Azerbaijan",
+      "Bolivia",
+      "Botswana",
+      "Central African Republic",
+      "Chad",
+      "Czechia",
+      "Eswatini",
+      "Ethiopia",
+      "Kazakhstan",
+      "Kosovo",
+      "Laos",
+      "Lesotho",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "Mongolia",
+      "Nepal",
+      "Paraguay",
+      "Rwanda",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "South Sudan",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Azerbaijan",
+      "China",
+      "Georgia",
+      "Kazakhstan",
+      "Mongolia",
+      "North Korea"
+    ],
+    "match_box_8": [
+      "Cyprus",
+      "Egypt",
+      "Israel",
+      "Lebanon",
+      "Palestine",
+      "Syria",
+      "Türkiye"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "grid_id": "118",
+  "rows": [
+    {
+      "name": "In South America",
+      "id": "continent",
+      "variantId": 4
+    },
+    {
+      "name": "Starts with letter A",
+      "id": "starting_letter",
+      "variantId": 0
+    },
+    {
+      "name": "Ends with letter Y",
+      "id": "ending_letter",
+      "variantId": 10
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with blue",
+      "id": "color_on_flag",
+      "variantId": 1
+    },
+    {
+      "name": "Capital city population over 200k",
+      "id": "capital_population_over_x",
+      "variantId": 2
+    },
+    {
+      "name": "GDP per capita over $10k",
+      "id": "gdp_per_capita_over_x",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Aruba",
+      "Caribbean Netherlands",
+      "Chile",
+      "Curaçao",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Trinidad and Tobago",
+      "Uruguay"
+    ],
+    "match_box_4": [
+      "Åland",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Aruba",
+      "Australia",
+      "Azerbaijan"
+    ],
+    "match_box_5": [
+      "Afghanistan",
+      "Albania",
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Armenia",
+      "Australia",
+      "Austria",
+      "Azerbaijan"
+    ],
+    "match_box_6": [
+      "Åland",
+      "Albania",
+      "American Samoa",
+      "Andorra",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Aruba",
+      "Australia",
+      "Austria"
+    ],
+    "match_box_7": [
+      "British Indian Ocean Territory",
+      "Jersey",
+      "Norway",
+      "Paraguay",
+      "Saint Barthélemy",
+      "Uruguay"
+    ],
+    "match_box_8": [
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Norway",
+      "Paraguay",
+      "Uruguay"
+    ],
+    "match_box_9": [
+      "Bailiwick of Guernsey",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Jersey",
+      "Norway",
+      "Saint Barthélemy",
+      "Uruguay",
+      "Vatican City"
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "grid_id": "105",
+  "rows": [
+    {
+      "id": "capital_population_over_x",
+      "name": "Capital city population over 2 million",
+      "variantId": 5
+    },
+    {
+      "name": "Population over 50 million",
+      "id": "population_over_x",
+      "variantId": 6
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Flag with only red, white, and blue",
+      "id": "flag_rwb",
+      "variantId": null
+    },
+    {
+      "name": "Name is 10+ letters long",
+      "id": "name_x_plus_letters_long",
+      "variantId": 0
+    },
+    {
+      "name": "In Africa",
+      "id": "continent",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Chile",
+      "Cuba",
+      "France",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bangladesh",
+      "Burkina Faso",
+      "Democratic Republic of the Congo",
+      "North Korea",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "United Arab Emirates",
+      "United Kingdom",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "Algeria",
+      "Angola",
+      "Burkina Faso",
+      "Cameroon",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Ghana",
+      "Kenya",
+      "Mali",
+      "Republic of the Congo",
+      "Somalia",
+      "South Africa",
+      "Spain",
+      "Sudan"
+    ],
+    "match_box_4": [
+      "France",
+      "Russia",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_5": [
+      "Bangladesh",
+      "Democratic Republic of the Congo",
+      "Philippines",
+      "South Africa",
+      "South Korea",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "Kenya",
+      "Nigeria",
+      "South Africa",
+      "Sudan",
+      "Tanzania"
+    ],
+    "match_box_7": [
+      "Czechia",
+      "Laos",
+      "Luxembourg",
+      "Nepal",
+      "Slovakia"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Burkina Faso",
+      "Central African Republic",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Liechtenstein",
+      "Luxembourg",
+      "North Macedonia",
+      "South Sudan",
+      "Switzerland",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  }
+}

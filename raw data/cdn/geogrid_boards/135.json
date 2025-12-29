@@ -1,0 +1,153 @@
+{
+  "grid_id": "135",
+  "rows": [
+    {
+      "name": "Has nuclear weapons",
+      "id": "has_nuclear_weapons",
+      "variantId": null
+    },
+    {
+      "name": "In South America",
+      "id": "continent",
+      "variantId": 4
+    },
+    {
+      "name": "Member of the European Union",
+      "id": "in_eu",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 20 million",
+      "id": "population_over_x",
+      "variantId": 5
+    },
+    {
+      "name": "Ends with letter A",
+      "id": "ending_letter",
+      "variantId": 0
+    },
+    {
+      "name": "Flag with blue",
+      "id": "color_on_flag",
+      "variantId": 1
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "China",
+      "France",
+      "India",
+      "North Korea",
+      "Pakistan",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_2": [
+      "China",
+      "India",
+      "North Korea",
+      "Russia",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "France",
+      "India",
+      "Israel",
+      "North Korea",
+      "Russia",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Venezuela"
+    ],
+    "match_box_6": [
+      "Argentina",
+      "Aruba",
+      "Bolivia",
+      "Brazil",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "match_box_7": [
+      "France",
+      "Germany",
+      "Italy",
+      "Poland",
+      "Spain"
+    ],
+    "match_box_8": [
+      "Aruba",
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Estonia",
+      "French Guiana",
+      "French Polynesia",
+      "Latvia",
+      "Lithuania",
+      "Malta",
+      "New Caledonia",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Åland",
+      "Aruba",
+      "Caribbean Netherlands",
+      "Croatia",
+      "Curaçao",
+      "Czechia",
+      "Estonia",
+      "Finland",
+      "France",
+      "French Polynesia",
+      "French Southern Territories",
+      "Greece",
+      "Guadeloupe",
+      "Luxembourg",
+      "Mayotte",
+      "Netherlands",
+      "New Caledonia",
+      "Portugal",
+      "Réunion",
+      "Romania",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Wallis and Futuna"
+    ]
+  }
+}

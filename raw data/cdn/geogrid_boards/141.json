@@ -1,0 +1,161 @@
+{
+  "grid_id": "141",
+  "rows": [
+    {
+      "name": "Has won the Men's FIFA World Cup",
+      "id": "won_world_cup",
+      "variantId": null
+    },
+    {
+      "name": "Population over 50 million",
+      "id": "population_over_x",
+      "variantId": 6
+    },
+    {
+      "name": "Name is 7 letters long",
+      "id": "name_length",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Flag with blue",
+      "id": "color_on_flag",
+      "variantId": 1
+    },
+    {
+      "name": "Has hosted a Formula 1 Grand Prix",
+      "id": "hosted_f1",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Argentina",
+      "Brazil",
+      "France",
+      "Spain",
+      "United Kingdom",
+      "Uruguay"
+    ],
+    "match_box_3": [
+      "Argentina",
+      "Brazil",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "United Kingdom"
+    ],
+    "match_box_4": [
+      "France",
+      "Germany",
+      "Italy",
+      "Russia",
+      "Türkiye",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Brazil",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "France",
+      "India",
+      "Mexico",
+      "Philippines",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Tanzania",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Brazil",
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Italy",
+      "Japan",
+      "Mexico",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "Türkiye",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "Albania",
+      "Andorra",
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Croatia",
+      "Czechia",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Germany",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Moldova",
+      "Romania",
+      "Türkiye",
+      "Ukraine"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Armenia",
+      "Bahamas",
+      "Bermuda",
+      "Bolivia",
+      "Comoros",
+      "Croatia",
+      "Curaçao",
+      "Czechia",
+      "Ecuador",
+      "Eritrea",
+      "Estonia",
+      "Finland",
+      "Iceland",
+      "Lesotho",
+      "Liberia",
+      "Mayotte",
+      "Moldova",
+      "Namibia",
+      "Réunion",
+      "Romania",
+      "Somalia",
+      "Tokelau",
+      "Ukraine",
+      "Uruguay"
+    ],
+    "match_box_9": [
+      "Austria",
+      "Bahrain",
+      "Belgium",
+      "Germany",
+      "Hungary",
+      "Morocco",
+      "Türkiye"
+    ]
+  }
+}

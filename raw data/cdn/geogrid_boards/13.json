@@ -1,0 +1,193 @@
+{
+  "grid_id": "13",
+  "rows": [
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Top 20 in population density",
+      "id": "top_20_population_density",
+      "variantId": null
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population under 5 million",
+      "id": "population_under_x",
+      "variantId": 3
+    },
+    {
+      "name": "Capital city population under 200k",
+      "id": "captial_population_under_x",
+      "variantId": 2
+    },
+    {
+      "name": "Flag with green",
+      "id": "color_on_flag",
+      "variantId": 4
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Åland",
+      "Albania",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Estonia",
+      "Faroe Islands",
+      "Georgia",
+      "Gibraltar",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Kosovo",
+      "Latvia",
+      "Liechtenstein",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Moldova",
+      "Monaco",
+      "Montenegro",
+      "North Macedonia",
+      "San Marino",
+      "Slovenia",
+      "Svalbard and Jan Mayen",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Åland",
+      "Andorra",
+      "Bailiwick of Guernsey",
+      "Faroe Islands",
+      "Gibraltar",
+      "Iceland",
+      "Isle of Man",
+      "Jersey",
+      "Liechtenstein",
+      "Luxembourg",
+      "Malta",
+      "Monaco",
+      "Montenegro",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_3": [
+      "Azerbaijan",
+      "Belarus",
+      "Bulgaria",
+      "Hungary",
+      "Ireland",
+      "Italy",
+      "Lithuania",
+      "Moldova",
+      "Montenegro",
+      "Portugal",
+      "San Marino",
+      "Spain"
+    ],
+    "match_box_4": [
+      "Aruba",
+      "Bahrain",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Gibraltar",
+      "Jersey",
+      "Macau",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Monaco",
+      "Sint Maarten",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Aruba",
+      "Bailiwick of Guernsey",
+      "Barbados",
+      "Bermuda",
+      "Gibraltar",
+      "Jersey",
+      "Malta",
+      "Mauritius",
+      "Mayotte",
+      "Monaco",
+      "Sint Maarten",
+      "Vatican City"
+    ],
+    "match_box_6": [
+      "Bangladesh",
+      "Bermuda",
+      "Macau",
+      "Maldives",
+      "Mauritius",
+      "Palestine",
+      "Sint Maarten"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Armenia",
+      "Bhutan",
+      "Botswana",
+      "Eswatini",
+      "Kosovo",
+      "Lesotho",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "Mongolia",
+      "North Macedonia",
+      "San Marino",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Bhutan",
+      "Burundi",
+      "Eswatini",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Ethiopia",
+      "Hungary",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Moldova",
+      "Niger",
+      "Paraguay",
+      "Rwanda",
+      "San Marino",
+      "South Sudan",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  }
+}

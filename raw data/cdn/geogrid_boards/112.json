@@ -1,0 +1,188 @@
+{
+  "grid_id": "112",
+  "rows": [
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Borders 1-2 countries",
+      "id": "borders_x_to_y",
+      "variantId": 0
+    },
+    {
+      "name": "Flag with only red, white, and blue",
+      "id": "flag_rwb",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Azerbaijan",
+      "Belgium",
+      "Czechia",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Kazakhstan",
+      "Netherlands",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Russia",
+      "Spain",
+      "Sweden",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_2": [
+      "Bangladesh",
+      "Canada",
+      "Dominican Republic",
+      "Ecuador",
+      "Haiti",
+      "Nepal",
+      "Netherlands",
+      "Papua New Guinea",
+      "Portugal",
+      "South Korea",
+      "Tunisia",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Yemen"
+    ],
+    "match_box_3": [
+      "Australia",
+      "Chile",
+      "Czechia",
+      "France",
+      "Nepal",
+      "Netherlands",
+      "North Korea",
+      "Russia",
+      "Taiwan",
+      "Thailand",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_4": [
+      "Bailiwick of Guernsey",
+      "Bosnia and Herzegovina",
+      "Faroe Islands",
+      "Isle of Man",
+      "North Macedonia",
+      "San Marino",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Costa Rica",
+      "Dominican Republic",
+      "El Salvador",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Guinea-Bissau",
+      "Hong Kong",
+      "Papua New Guinea",
+      "Saint Martin",
+      "San Marino",
+      "Sierra Leone",
+      "Sint Maarten",
+      "South Korea",
+      "The Gambia",
+      "Timor-Leste",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Vatican City"
+    ],
+    "match_box_6": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Costa Rica",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_7": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ],
+    "match_box_8": [
+      "Bangladesh",
+      "Ecuador",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Greenland",
+      "Guinea-Bissau",
+      "Hong Kong",
+      "Macau",
+      "Moldova",
+      "Mongolia",
+      "Nepal",
+      "Panama",
+      "Papua New Guinea",
+      "Saint Martin",
+      "Singapore",
+      "Sint Maarten",
+      "Timor-Leste",
+      "Tunisia",
+      "United States of America",
+      "Uruguay"
+    ],
+    "match_box_9": [
+      "Australia",
+      "Chile",
+      "Cook Islands",
+      "Cuba",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Liberia",
+      "Nepal",
+      "New Zealand",
+      "North Korea",
+      "Panama",
+      "Puerto Rico",
+      "Samoa",
+      "Taiwan",
+      "United States of America"
+    ]
+  }
+}

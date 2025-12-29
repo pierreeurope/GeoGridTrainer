@@ -1,0 +1,163 @@
+{
+  "grid_id": "126",
+  "rows": [
+    {
+      "name": "Flag with an animal",
+      "id": "flag_has_animal",
+      "variantId": null
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "In Africa",
+      "id": "continent",
+      "variantId": 2
+    },
+    {
+      "name": "Human Development Index under 0.65",
+      "id": "hdi_under_x",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bolivia",
+      "Ecuador",
+      "Egypt",
+      "Guatemala",
+      "Kazakhstan",
+      "Mexico",
+      "Papua New Guinea",
+      "Peru",
+      "Spain",
+      "Sri Lanka",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Egypt",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Spain",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_3": [
+      "Kiribati",
+      "Papua New Guinea",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_4": [
+      "Dominican Republic",
+      "Haiti",
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Papua New Guinea",
+      "Philippines",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Cabo Verde",
+      "Comoros",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_6": [
+      "Comoros",
+      "Federated States of Micronesia",
+      "Haiti",
+      "Kiribati",
+      "Madagascar",
+      "Papua New Guinea",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "Timor-Leste",
+      "Vanuatu"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bolivia",
+      "Burkina Faso",
+      "Burundi",
+      "Chad",
+      "Czechia",
+      "Ethiopia",
+      "Kazakhstan",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Tajikistan",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Laos",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "grid_id": "109",
+  "rows": [
+    {
+      "name": "Capital is not the most populated city",
+      "id": "capital_not_most_populated_city",
+      "variantId": null
+    },
+    {
+      "name": "Flag with a star/sun",
+      "id": "flag_has_star",
+      "variantId": null
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Population under 1 million",
+      "id": "population_under_x",
+      "variantId": 1
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "French is an official language",
+      "id": "official_language",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "American Samoa",
+      "Belize",
+      "Bermuda",
+      "Caribbean Netherlands",
+      "Cocos Islands",
+      "Federated States of Micronesia",
+      "Guadeloupe",
+      "Guam",
+      "Liechtenstein",
+      "Malta",
+      "Montserrat",
+      "Nauru",
+      "Palau",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "San Marino",
+      "Sint Maarten",
+      "Turks and Caicos Islands"
+    ],
+    "match_box_2": [
+      "Kazakhstan",
+      "Liechtenstein",
+      "Malta",
+      "San Marino",
+      "Switzerland",
+      "Türkiye"
+    ],
+    "match_box_3": [
+      "Benin",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "Côte d'Ivoire",
+      "Guadeloupe",
+      "Switzerland"
+    ],
+    "match_box_4": [
+      "Antigua and Barbuda",
+      "Aruba",
+      "Cabo Verde",
+      "Cayman Islands",
+      "Christmas Island",
+      "Cocos Islands",
+      "Comoros",
+      "Cook Islands",
+      "Curaçao",
+      "Dominica",
+      "Falkland Islands (Malvinas)",
+      "Federated States of Micronesia",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Heard Island and McDonald Islands",
+      "Kiribati",
+      "Macau",
+      "Marshall Islands",
+      "Nauru",
+      "Niue",
+      "Northern Mariana Islands",
+      "Saint Kitts and Nevis",
+      "Saint Martin",
+      "Samoa",
+      "São Tomé and Príncipe",
+      "Sint Maarten",
+      "Solomon Islands",
+      "Suriname",
+      "Tokelau",
+      "Tuvalu",
+      "Western Sahara"
+    ],
+    "match_box_5": [
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Kazakhstan",
+      "Kosovo",
+      "Moldova",
+      "North Macedonia",
+      "Slovenia",
+      "Türkiye"
+    ],
+    "match_box_6": [
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Comoros",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "French Guiana",
+      "French Polynesia",
+      "French Southern Territories",
+      "Guadeloupe",
+      "Rwanda",
+      "Saint Martin",
+      "Senegal",
+      "Togo"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Bhutan",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Vatican City"
+    ],
+    "match_box_8": [
+      "Andorra",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Czechia",
+      "Hungary",
+      "Kazakhstan",
+      "Kosovo",
+      "Liechtenstein",
+      "Luxembourg",
+      "Moldova",
+      "North Macedonia",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "match_box_9": [
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Luxembourg",
+      "Niger",
+      "Rwanda",
+      "Switzerland"
+    ]
+  }
+}

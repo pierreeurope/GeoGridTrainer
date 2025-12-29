@@ -1,0 +1,147 @@
+{
+  "grid_id": "117",
+  "rows": [
+    {
+      "name": "Capital city population under 2 million",
+      "id": "captial_population_under_x",
+      "variantId": 5
+    },
+    {
+      "name": "Flag with red",
+      "id": "color_on_flag",
+      "variantId": 0
+    },
+    {
+      "name": "Population over 5 million",
+      "id": "population_over_x",
+      "variantId": 3
+    }
+  ],
+  "columns": [
+    {
+      "name": "In South America",
+      "id": "continent",
+      "variantId": 4
+    },
+    {
+      "name": "Ends with letter D",
+      "id": "ending_letter",
+      "variantId": 2
+    },
+    {
+      "name": "Starts with letter G",
+      "id": "starting_letter",
+      "variantId": 5
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Aruba",
+      "Bolivia",
+      "Curaçao",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Uruguay"
+    ],
+    "match_box_2": [
+      "Åland",
+      "Chad",
+      "Christmas Island",
+      "Finland",
+      "Greenland",
+      "Iceland",
+      "Ireland",
+      "New Zealand",
+      "Norfolk Island",
+      "Poland",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Gabon",
+      "Georgia",
+      "Gibraltar",
+      "Greece",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Guam",
+      "Guatemala",
+      "Guinea",
+      "Guinea-Bissau",
+      "Guyana"
+    ],
+    "match_box_4": [
+      "Aruba",
+      "Bolivia",
+      "Caribbean Netherlands",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Falkland Islands (Malvinas)",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Venezuela"
+    ],
+    "match_box_5": [
+      "Åland",
+      "Bouvet Island",
+      "Chad",
+      "Greenland",
+      "Iceland",
+      "New Zealand",
+      "Poland",
+      "Switzerland",
+      "Thailand"
+    ],
+    "match_box_6": [
+      "Georgia",
+      "Germany",
+      "Ghana",
+      "Gibraltar",
+      "Greenland",
+      "Grenada",
+      "Guadeloupe",
+      "Guam",
+      "Guatemala",
+      "Guinea",
+      "Guinea-Bissau",
+      "Guyana"
+    ],
+    "match_box_7": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Paraguay",
+      "Peru",
+      "Venezuela"
+    ],
+    "match_box_8": [
+      "Chad",
+      "Finland",
+      "Ireland",
+      "New Zealand",
+      "Poland",
+      "Switzerland",
+      "Thailand"
+    ],
+    "match_box_9": [
+      "Germany",
+      "Ghana",
+      "Greece",
+      "Guatemala",
+      "Guinea"
+    ]
+  }
+}

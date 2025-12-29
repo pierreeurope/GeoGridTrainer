@@ -1,0 +1,173 @@
+{
+  "grid_id": "128",
+  "rows": [
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "id": "gdp_per_capita_over_x",
+      "name": "GDP per capita over $30k",
+      "variantId": 3
+    },
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Capital city population over 5 million",
+      "id": "capital_population_over_x",
+      "variantId": 6
+    },
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "Hong Kong",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Japan",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "Thailand",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_2": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_3": [
+      "British Indian Ocean Territory",
+      "Christmas Island",
+      "Cocos Islands",
+      "Hong Kong",
+      "North Korea",
+      "Saudi Arabia",
+      "South Korea",
+      "Sri Lanka",
+      "Timor-Leste",
+      "United Arab Emirates"
+    ],
+    "match_box_4": [
+      "Hong Kong",
+      "Japan",
+      "Saudi Arabia",
+      "Singapore",
+      "South Korea",
+      "United Kingdom"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Austria",
+      "Czechia",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Bailiwick of Guernsey",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Christmas Island",
+      "Falkland Islands (Malvinas)",
+      "Faroe Islands",
+      "Hong Kong",
+      "Isle of Man",
+      "New Caledonia",
+      "New Zealand",
+      "Norfolk Island",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Saudi Arabia",
+      "Sint Maarten",
+      "South Korea",
+      "Svalbard and Jan Mayen",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_7": [
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Iran",
+      "Iraq",
+      "Peru",
+      "Russia",
+      "Saudi Arabia",
+      "Sudan",
+      "Türkiye"
+    ],
+    "match_box_8": [
+      "Afghanistan",
+      "Austria",
+      "Azerbaijan",
+      "Belarus",
+      "Bolivia",
+      "Burkina Faso",
+      "Central African Republic",
+      "Chad",
+      "Ethiopia",
+      "Hungary",
+      "Kazakhstan",
+      "Laos",
+      "Mali",
+      "Niger",
+      "North Macedonia",
+      "Serbia",
+      "Slovakia",
+      "South Sudan",
+      "Switzerland",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia"
+    ],
+    "match_box_9": [
+      "Burkina Faso",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "North Macedonia",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "South Africa",
+      "South Sudan"
+    ]
+  }
+}

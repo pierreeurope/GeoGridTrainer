@@ -1,0 +1,155 @@
+{
+  "grid_id": "119",
+  "rows": [
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Borders 5+ countries",
+      "id": "borders_x_or_more",
+      "variantId": 0
+    },
+    {
+      "name": "Population over 50 million",
+      "id": "population_over_x",
+      "variantId": 6
+    }
+  ],
+  "columns": [
+    {
+      "name": "In Asia",
+      "id": "continent",
+      "variantId": 0
+    },
+    {
+      "name": "GDP per capita over $40k",
+      "id": "gdp_per_capita_over_x",
+      "variantId": 4
+    },
+    {
+      "name": "Name is 10+ letters long",
+      "id": "name_x_plus_letters_long",
+      "variantId": 0
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Bhutan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Nepal",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "Andorra",
+      "Austria",
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Switzerland"
+    ],
+    "match_box_3": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Burkina Faso",
+      "Central African Republic",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Liechtenstein",
+      "Luxembourg",
+      "North Macedonia",
+      "South Sudan",
+      "Switzerland",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Vatican City"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Azerbaijan",
+      "China",
+      "India",
+      "Iran",
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Kazakhstan",
+      "Laos",
+      "Myanmar",
+      "Russia",
+      "Saudi Arabia",
+      "Syria",
+      "Türkiye",
+      "Uzbekistan"
+    ],
+    "match_box_5": [
+      "Austria",
+      "France",
+      "Germany",
+      "Israel",
+      "Italy",
+      "Switzerland"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Burkina Faso",
+      "Central African Republic",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Kazakhstan",
+      "Montenegro",
+      "Mozambique",
+      "North Macedonia",
+      "Republic of the Congo",
+      "Saudi Arabia",
+      "South Africa",
+      "South Sudan",
+      "Switzerland",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Bangladesh",
+      "China",
+      "Egypt",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Japan",
+      "Myanmar",
+      "Pakistan",
+      "Philippines",
+      "Russia",
+      "South Korea",
+      "Thailand",
+      "Türkiye",
+      "Vietnam"
+    ],
+    "match_box_8": [
+      "France",
+      "Germany",
+      "Italy",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Bangladesh",
+      "Democratic Republic of the Congo",
+      "Philippines",
+      "South Africa",
+      "South Korea",
+      "United Kingdom",
+      "United States of America"
+    ]
+  }
+}

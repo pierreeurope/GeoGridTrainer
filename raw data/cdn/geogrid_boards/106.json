@@ -1,0 +1,163 @@
+{
+  "grid_id": "106",
+  "rows": [
+    {
+      "id": "population_over_x",
+      "name": "Population over 20 million",
+      "variantId": 5
+    },
+    {
+      "name": "Borders 1-2 countries",
+      "id": "borders_x_to_y",
+      "variantId": 0
+    },
+    {
+      "name": "Flag with only red, white, and blue",
+      "id": "flag_rwb",
+      "variantId": null
+    }
+  ],
+  "columns": [
+    {
+      "name": "Name is 10+ letters long",
+      "id": "name_x_plus_letters_long",
+      "variantId": 0
+    },
+    {
+      "name": "In Europe",
+      "id": "continent",
+      "variantId": 1
+    },
+    {
+      "name": "Name is 6 letters long",
+      "id": "name_length",
+      "variantId": 2
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Afghanistan",
+      "Bangladesh",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Kazakhstan",
+      "Madagascar",
+      "Mozambique",
+      "North Korea",
+      "Philippines",
+      "Saudi Arabia",
+      "South Africa",
+      "South Korea",
+      "United Kingdom",
+      "United States of America",
+      "Uzbekistan"
+    ],
+    "match_box_2": [
+      "France",
+      "Germany",
+      "Italy",
+      "Kazakhstan",
+      "Poland",
+      "Russia",
+      "Spain",
+      "Türkiye",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "match_box_3": [
+      "Angola",
+      "Brazil",
+      "Canada",
+      "France",
+      "Malawi",
+      "Mexico",
+      "Poland",
+      "Russia",
+      "Taiwan",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_4": [
+      "Bangladesh",
+      "Dominican Republic",
+      "El Salvador",
+      "Equatorial Guinea",
+      "French Guiana",
+      "Guinea-Bissau",
+      "Liechtenstein",
+      "Netherlands",
+      "Papua New Guinea",
+      "Saint Martin",
+      "Sierra Leone",
+      "Sint Maarten",
+      "South Korea",
+      "Timor-Leste",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States of America",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Andorra",
+      "Denmark",
+      "Estonia",
+      "Gibraltar",
+      "Ireland",
+      "Liechtenstein",
+      "Moldova",
+      "Monaco",
+      "Netherlands",
+      "Portugal",
+      "San Marino",
+      "United Kingdom",
+      "Vatican City"
+    ],
+    "match_box_6": [
+      "Belize",
+      "Bhutan",
+      "Brunei",
+      "Canada",
+      "Kuwait",
+      "Monaco",
+      "Panama"
+    ],
+    "match_box_7": [
+      "Bouvet Island",
+      "Caribbean Netherlands",
+      "Cook Islands",
+      "Faroe Islands",
+      "French Southern Territories",
+      "Heard Island and McDonald Islands",
+      "Luxembourg",
+      "Netherlands",
+      "New Zealand",
+      "North Korea",
+      "Puerto Rico",
+      "Svalbard and Jan Mayen",
+      "United Kingdom",
+      "United States of America",
+      "Wallis and Futuna"
+    ],
+    "match_box_8": [
+      "Czechia",
+      "Faroe Islands",
+      "France",
+      "Iceland",
+      "Luxembourg",
+      "Netherlands",
+      "Norway",
+      "Russia",
+      "Slovakia",
+      "Svalbard and Jan Mayen",
+      "United Kingdom"
+    ],
+    "match_box_9": [
+      "France",
+      "Norway",
+      "Panama",
+      "Russia",
+      "Taiwan"
+    ]
+  }
+}

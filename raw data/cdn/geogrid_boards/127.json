@@ -1,0 +1,180 @@
+{
+  "grid_id": "127",
+  "rows": [
+    {
+      "name": "Name consists of multiple words",
+      "id": "name_multiple_words",
+      "variantId": null
+    },
+    {
+      "name": "Name is 10+ letters long",
+      "id": "name_x_plus_letters_long",
+      "variantId": 0
+    },
+    {
+      "name": "Population over 10 million",
+      "id": "population_over_x",
+      "variantId": 4
+    }
+  ],
+  "columns": [
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "In North America",
+      "id": "continent",
+      "variantId": 3
+    },
+    {
+      "name": "Ends with letter N",
+      "id": "ending_letter",
+      "variantId": 6
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Burkina Faso",
+      "Central African Republic",
+      "North Macedonia",
+      "San Marino",
+      "South Sudan",
+      "Vatican City"
+    ],
+    "match_box_2": [
+      "Antigua and Barbuda",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Costa Rica",
+      "Dominican Republic",
+      "El Salvador",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United States of America"
+    ],
+    "match_box_3": [
+      "Isle of Man",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Sudan",
+      "Svalbard and Jan Mayen"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Burkina Faso",
+      "Central African Republic",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Liechtenstein",
+      "Luxembourg",
+      "North Macedonia",
+      "South Sudan",
+      "Switzerland",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Vatican City"
+    ],
+    "match_box_5": [
+      "Antigua and Barbuda",
+      "British Virgin Islands",
+      "Caribbean Netherlands",
+      "Cayman Islands",
+      "Dominican Republic",
+      "El Salvador",
+      "Guadeloupe",
+      "Martinique",
+      "Montserrat",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saint Vincent and the Grenadines",
+      "Sint Maarten",
+      "Trinidad and Tobago",
+      "Turks and Caicos Islands",
+      "U.S. Virgin Islands",
+      "United States of America"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Liechtenstein",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Sint Maarten",
+      "South Sudan",
+      "Svalbard and Jan Mayen",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "match_box_7": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Bolivia",
+      "Burkina Faso",
+      "Burundi",
+      "Chad",
+      "Czechia",
+      "Ethiopia",
+      "Kazakhstan",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Tajikistan",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_8": [
+      "Canada",
+      "Dominican Republic",
+      "Guatemala",
+      "Haiti",
+      "Mexico",
+      "United States of America"
+    ],
+    "match_box_9": [
+      "Afghanistan",
+      "Azerbaijan",
+      "Benin",
+      "Cameroon",
+      "Iran",
+      "Japan",
+      "Jordan",
+      "Kazakhstan",
+      "Pakistan",
+      "South Sudan",
+      "Spain",
+      "Sudan",
+      "Sweden",
+      "Taiwan",
+      "Tajikistan",
+      "Uzbekistan",
+      "Yemen"
+    ]
+  }
+}

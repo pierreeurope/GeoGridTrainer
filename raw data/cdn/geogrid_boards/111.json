@@ -1,0 +1,177 @@
+{
+  "grid_id": "111",
+  "rows": [
+    {
+      "name": "In Africa",
+      "id": "continent",
+      "variantId": 2
+    },
+    {
+      "name": "Population over 20 million",
+      "id": "population_over_x",
+      "variantId": 5
+    },
+    {
+      "name": "Ends with letter A",
+      "id": "ending_letter",
+      "variantId": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Is landlocked",
+      "id": "landlocked",
+      "variantId": null
+    },
+    {
+      "name": "Island nation",
+      "id": "island_nation",
+      "variantId": null
+    },
+    {
+      "id": "hdi_under_x",
+      "name": "Human Development Index under 0.55",
+      "variantId": 3
+    }
+  ],
+  "answers": {
+    "match_box_1": [
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Eswatini",
+      "Ethiopia",
+      "Lesotho",
+      "Malawi",
+      "Mali",
+      "Niger",
+      "Rwanda",
+      "South Sudan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "match_box_2": [
+      "Cabo Verde",
+      "Comoros",
+      "Madagascar",
+      "Mauritius",
+      "Mayotte",
+      "Réunion",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "São Tomé and Príncipe",
+      "Seychelles"
+    ],
+    "match_box_3": [
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Central African Republic",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Djibouti",
+      "Eritrea",
+      "Ethiopia",
+      "Guinea",
+      "Guinea-Bissau",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Senegal",
+      "Sierra Leone",
+      "Somalia",
+      "South Sudan",
+      "Sudan",
+      "The Gambia"
+    ],
+    "match_box_4": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Ethiopia",
+      "Kazakhstan",
+      "Malawi",
+      "Mali",
+      "Nepal",
+      "Niger",
+      "Uganda",
+      "Uzbekistan",
+      "Zambia"
+    ],
+    "match_box_5": [
+      "Indonesia",
+      "Japan",
+      "Madagascar",
+      "Philippines",
+      "Sri Lanka",
+      "Taiwan",
+      "United Kingdom"
+    ],
+    "match_box_6": [
+      "Afghanistan",
+      "Burkina Faso",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mozambique",
+      "Niger",
+      "Pakistan",
+      "Sudan",
+      "Yemen"
+    ],
+    "match_box_7": [
+      "Andorra",
+      "Armenia",
+      "Austria",
+      "Bolivia",
+      "Botswana",
+      "Czechia",
+      "Ethiopia",
+      "Moldova",
+      "Mongolia",
+      "North Macedonia",
+      "Rwanda",
+      "Serbia",
+      "Slovakia",
+      "Uganda",
+      "Zambia"
+    ],
+    "match_box_8": [
+      "American Samoa",
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Aruba",
+      "Bermuda",
+      "Cuba",
+      "Dominica",
+      "Federated States of Micronesia",
+      "French Polynesia",
+      "Grenada",
+      "Indonesia",
+      "Jamaica",
+      "Malta",
+      "New Caledonia",
+      "Papua New Guinea",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "Saint Lucia",
+      "Samoa",
+      "Sri Lanka",
+      "Tonga",
+      "Wallis and Futuna"
+    ],
+    "match_box_9": [
+      "Eritrea",
+      "Ethiopia",
+      "Guinea",
+      "Liberia",
+      "Somalia",
+      "The Gambia"
+    ]
+  }
+}
