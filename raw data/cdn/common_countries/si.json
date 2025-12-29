@@ -1,0 +1,141 @@
+{
+  "code": "SI",
+  "latitude": 46.151241,
+  "longitude": 14.995463,
+  "name": "Slovenia",
+  "names": {
+    "fr": "Slovénie",
+    "hu": "Szlovénia",
+    "nl": "Slovenië",
+    "pl": "Słowenia",
+    "de": "Slowenien",
+    "ja": "スロベニア",
+    "es": "Eslovenia",
+    "pt": "Eslovênia",
+    "co": "Sluvènia",
+    "eu": "Eslovenia",
+    "ie": "An tSlóivéin"
+  },
+  "flags": [
+    "si",
+    "hr",
+    "cz",
+    "it",
+    "hu",
+    "at",
+    "sm",
+    "ba"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "at",
+    "hr",
+    "hu",
+    "it"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Slovenia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Slovenia/@46.151241,14.995463,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Denar",
+      "Leu",
+      "Franc"
+    ]
+  },
+  "population": 2130850,
+  "size": 20256,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "slv",
+        "percentage": 87.7
+      },
+      {
+        "languageCode": "hrv",
+        "percentage": 2.8
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 59506954977.681,
+    "topExports": [
+      {
+        "productCode": "30",
+        "value": 20151111545.157
+      },
+      {
+        "productCode": "85",
+        "value": 5489100159.619
+      },
+      {
+        "productCode": "84",
+        "value": 5021327756.281
+      },
+      {
+        "productCode": "87",
+        "value": 5012537815.77
+      },
+      {
+        "productCode": "27",
+        "value": 3310014962.254
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/W3FC_bCPw8E"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/ljubljana-flow-slovenia-bridge-2149704/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/view-of-mountain-sQLri8iHb58"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/high-angle-photography-of-white-building-surrounded-by-body-of-water-at-daytime-34RmaD-jVbY"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/island-surrounded-by-water-and-mountains-at-daytime-pOWBHdgy1Lo"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/green-trees-and-mountains-under-blue-sky-and-white-clouds-during-daytime-vEArMceumaI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:%C5%A0kofja_Loka_Castle_(%C5%A0kofjelo%C5%A1ki_grad,_Slovenija).jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 37178,
+  "gdpPerCapitaYear": 2025
+}

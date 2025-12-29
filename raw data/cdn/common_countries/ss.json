@@ -1,0 +1,105 @@
+{
+  "code": "SS",
+  "latitude": 6.85065,
+  "longitude": 30.659016,
+  "name": "South Sudan",
+  "names": {
+    "fr": "Soudan du Sud",
+    "hu": "Dél-Szudán",
+    "nl": "Zuid-Soedan",
+    "pl": "Sudan Południowy",
+    "de": "Südsudan",
+    "ja": "南スーダン",
+    "co": "Sud di Sur",
+    "es": "Sudán del Sur",
+    "pt": "Sudão do Sul",
+    "eu": "Hego Sudán",
+    "ie": "An tSúdáin Theas"
+  },
+  "flags": [
+    "ke",
+    "rw",
+    "ss",
+    "cf",
+    "cd",
+    "ug",
+    "et",
+    "sd"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "cf",
+    "cd",
+    "et",
+    "ke",
+    "sd",
+    "ug"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/South_Sudan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/South%20Sudan/@6.85065,30.659016,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SSP",
+    "name": "Pound",
+    "nameChoices": [
+      "Kwacha",
+      "Dinar",
+      "Dollar"
+    ]
+  },
+  "population": 12703714,
+  "size": 619745,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_South_Sudan#:~:text=In%20South%20Sudan%2C%20the%20languages%20with%20the%20most%20speakers%20are%20Nuer%20with%201.8%C2%A0million%20speakers%20in%202022%2C%20Dinka%20with%20perhaps%204.5%C2%A0million%20in%202022"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "din",
+        "percentage": 37.13
+      },
+      {
+        "languageCode": "nus",
+        "percentage": 14.85
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://en.wikipedia.org/wiki/Juba#/media/File:John_Garang_Mausoleum_Square_in_Juba.JPG"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:JUBA_VIEW.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/worldhumanitariansummit/27097432156/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/white-aircraft-7MXH1282qaM"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 326,
+  "gdpPerCapitaYear": 2022
+}

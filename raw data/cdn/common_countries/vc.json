@@ -1,0 +1,128 @@
+{
+  "code": "VC",
+  "latitude": 12.984305,
+  "longitude": -61.287228,
+  "name": "Saint Vincent and the Grenadines",
+  "names": {
+    "fr": "Saint-Vincent-et-les Grenadines",
+    "hu": "Saint Vincent és a Grenadine-szigetek",
+    "nl": "Saint Vincent en de Grenadines",
+    "pl": "Saint Vincent i Grenadyny",
+    "de": "Saint Vincent und die Grenadinen",
+    "ja": "セントビンセント・グレナディーン",
+    "co": "San Vincente è e Grenadine",
+    "es": "San Vicente y las Granadinas",
+    "pt": "São Vicente e Granadinas",
+    "eu": "Saint Vincent eta Grenadinak",
+    "ie": "San Uinseann agus na Grenadines"
+  },
+  "flags": [
+    "gp",
+    "dm",
+    "tt",
+    "bb",
+    "mq",
+    "lc",
+    "vc",
+    "gd"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "gd",
+    "lc",
+    "bb",
+    "tt",
+    "ve"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Saint%20Vincent%20and%20the%20Grenadines/@12.984305,-61.287228,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XCD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Real",
+      "Peso",
+      "Balboa"
+    ]
+  },
+  "population": 110872,
+  "size": 388,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_Saint_Vincent_and_the_Grenadines#Language"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "svc"
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 34719205.288,
+    "topExports": [
+      {
+        "productCode": "11",
+        "value": 9117081.98
+      },
+      {
+        "productCode": "23",
+        "value": 5163591.532
+      },
+      {
+        "productCode": "03",
+        "value": 5083157.21
+      },
+      {
+        "productCode": "22",
+        "value": 2092116.42
+      },
+      {
+        "productCode": "07",
+        "value": 1864241.876
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/jetty-sea-boats-sunset-dock-6643909/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/shipwreck-sea-6643956/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-sandy-beach-with-palm-trees-on-a-sunny-day-6BpsiQs0dkk"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/black-and-white-whale-on-blue-water-fVn_l9Nfdd8"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapita": 9360,
+  "gdpPerCapitaYear": 2023
+}

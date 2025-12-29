@@ -1,0 +1,125 @@
+{
+  "code": "SL",
+  "latitude": 8.460555,
+  "longitude": -11.779889,
+  "name": "Sierra Leone",
+  "names": {
+    "ja": "シエラレオネ",
+    "es": "Sierra Leona",
+    "pt": "Serra Leoa",
+    "eu": "Sierra Leoa",
+    "ie": "Siarra Leon"
+  },
+  "flags": [
+    "sl",
+    "lr",
+    "gw",
+    "sn",
+    "ci",
+    "gn",
+    "gm",
+    "gh"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "gn",
+    "lr"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Sierra_Leone",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Sierra%20Leone/@8.460555,-11.779889,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SLE",
+    "name": "Leone",
+    "nameChoices": [
+      "Shilling",
+      "Franc",
+      "Dalasi"
+    ]
+  },
+  "population": 8460512,
+  "size": 71740,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Sierra_Leone"
+      },
+      {
+        "title": "Translators without Borders",
+        "url": "https://translatorswithoutborders.org/language-data-sierra-leone"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "men",
+        "percentage": 32
+      },
+      {
+        "languageCode": "tem",
+        "percentage": 30
+      }
+    ]
+  },
+  "productData": {
+    "year": 2018,
+    "totalValue": 205368284.276,
+    "topExports": [
+      {
+        "productCode": "03",
+        "value": 42027967.4
+      },
+      {
+        "productCode": "26",
+        "value": 32191757.8
+      },
+      {
+        "productCode": "18",
+        "value": 22349930.18
+      },
+      {
+        "productCode": "44",
+        "value": 20306429.52
+      },
+      {
+        "productCode": "87",
+        "value": 20151359.82
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/coast-sea-sierra-leone-island-6508040/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/sierra-leone-town-coast-sea-ocean-6508049/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-city-with-a-body-of-water-in-the-background-Vqd22Lb0rJc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-building-on-a-rocky-hill-7S028lQqTSs"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 915,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,138 @@
+{
+  "code": "SZ",
+  "latitude": -26.522503,
+  "longitude": 31.465866,
+  "name": "Eswatini",
+  "names": {
+    "hu": "Szváziföld",
+    "nl": "Swaziland",
+    "ja": "スワジランド",
+    "es": "Esuatini",
+    "co": "Swaziland",
+    "ie": "eSuatíní"
+  },
+  "flags": [
+    "mz",
+    "za",
+    "ls",
+    "mw",
+    "sz",
+    "na",
+    "bw",
+    "zw"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "za",
+    "mz"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Eswatini",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Eswatini/@-26.522503,31.465866,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SZL",
+    "name": "Lilangeni",
+    "nameChoices": [
+      "Dirham",
+      "Cedi",
+      "Dollar",
+      "Lilangeni"
+    ]
+  },
+  "population": 1236126,
+  "size": 17364,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Eswatini"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ssw",
+        "percentage": 95
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 2068468810.41,
+    "topExports": [
+      {
+        "productCode": "33",
+        "value": 621315331.58
+      },
+      {
+        "productCode": "17",
+        "value": 469374135.44
+      },
+      {
+        "productCode": "38",
+        "value": 267116158.76
+      },
+      {
+        "productCode": "62",
+        "value": 149793922.14
+      },
+      {
+        "productCode": "44",
+        "value": 142246629.25
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/swaziland-africa-village-swazi-2035749/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://en.wikipedia.org/wiki/File:Central_Bank_of_Eswatini.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-city-with-a-large-building-_-qgwT7a2WM"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-greenhouses-in-a-field-p3xW6mqxhzs"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-lone-tree-in-a-field-with-mountains-in-the-background-tjzLXXCpxdw"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-dirt-road-with-a-hill-in-the-background-7UElMY_jVKE"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Nguni_cattle.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/boundless-southernafrica/52937593648/"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 3995,
+  "gdpPerCapitaYear": 2023
+}

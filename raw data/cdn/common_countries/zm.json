@@ -1,0 +1,135 @@
+{
+  "code": "ZM",
+  "latitude": -13.133897,
+  "longitude": 27.849332,
+  "name": "Zambia",
+  "names": {
+    "fr": "Zambie",
+    "de": "Sambia",
+    "ja": "ザンビア",
+    "pt": "Zâmbia",
+    "ie": "An tSaimbia"
+  },
+  "flags": [
+    "zm",
+    "mw",
+    "na",
+    "cd",
+    "mz",
+    "bw",
+    "tz",
+    "ao"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "ao",
+    "bw",
+    "cd",
+    "mw",
+    "mz",
+    "na",
+    "tz",
+    "zw"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Zambia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Zambia/@-13.133897,27.849332,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "ZMW",
+    "name": "Kwacha",
+    "nameChoices": [
+      "Dollar",
+      "Naira",
+      "Franc"
+    ]
+  },
+  "population": 20216029,
+  "size": 752618,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "bem",
+        "percentage": 33.4
+      },
+      {
+        "languageCode": "nya",
+        "percentage": 14.7
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 10431183715.611,
+    "topExports": [
+      {
+        "productCode": "74",
+        "value": 6726121609.357
+      },
+      {
+        "productCode": "25",
+        "value": 510995659.068
+      },
+      {
+        "productCode": "27",
+        "value": 415950235.786
+      },
+      {
+        "productCode": "26",
+        "value": 248440261.137
+      },
+      {
+        "productCode": "72",
+        "value": 193602247.872
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/zambia-sky-clouds-mountains-lake-94526/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/rainbow-waterfall-water-landscape-3320571/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/silhouette-of-trees-near-body-of-water-62CtkV44DuY"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-people-walking-on-a-train-track-3RsU_reOgO0"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/man-riding-on-motorcycle-between-trees-CvOLyQRE5vE"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-body-of-water-with-trees-around-it-and-a-sunset-4N15WgbmA9I"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1435,
+  "gdpPerCapitaYear": 2023
+}

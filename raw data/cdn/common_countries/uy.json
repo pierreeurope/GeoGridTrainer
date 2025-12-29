@@ -1,0 +1,138 @@
+{
+  "code": "UY",
+  "latitude": -32.522779,
+  "longitude": -55.765835,
+  "name": "Uruguay",
+  "names": {
+    "pl": "Urugwaj",
+    "ja": "ウルグアイ",
+    "pt": "Uruguai",
+    "co": "Uruguaiana",
+    "eu": "Uruguai",
+    "ie": "Uraiguá"
+  },
+  "flags": [
+    "gs",
+    "py",
+    "br",
+    "fk",
+    "uy",
+    "bo",
+    "ar",
+    "cl"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "ar",
+    "br"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Uruguay",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Uruguay/@-32.522779,-55.765835,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "UYU",
+    "name": "Peso",
+    "nameChoices": [
+      "Guarani",
+      "Dollar",
+      "Real"
+    ]
+  },
+  "population": 3499451,
+  "size": 175016,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Uruguay"
+      },
+      {
+        "title": "WorldAtlas",
+        "url": "https://www.worldatlas.com/articles/languages-of-uruguay.html"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa",
+        "percentage": 99
+      },
+      {
+        "languageCode": "por",
+        "percentage": 1
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 9192776209,
+    "topExports": [
+      {
+        "productCode": "02",
+        "value": 2329262196
+      },
+      {
+        "productCode": "44",
+        "value": 1188263649
+      },
+      {
+        "productCode": "10",
+        "value": 910947990
+      },
+      {
+        "productCode": "04",
+        "value": 823339149
+      },
+      {
+        "productCode": "12",
+        "value": 627442616
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento3_-_Uruguay.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/palacio-salvo-montevideo-uruguay-2830233/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-lighthouse-on-gray-sand-during-sunset-8xWgYDhAGrQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-under-blue-sky-during-daytime-YqUW7fT5NwM"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-bunch-of-boats-that-are-in-the-water-LjEuThIORwU"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-brown-and-white-horse-standing-on-top-of-a-lush-green-field-cc58bUVWxWI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Palacio_Legislativo_(30401067518).jpg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 23088,
+  "gdpPerCapitaYear": 2024
+}

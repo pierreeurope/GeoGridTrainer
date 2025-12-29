@@ -1,0 +1,122 @@
+{
+  "code": "WS",
+  "latitude": -13.759029,
+  "longitude": -172.104629,
+  "name": "Samoa",
+  "names": {
+    "hu": "Szamoa",
+    "ja": "サモア",
+    "ie": "Samó"
+  },
+  "flags": [
+    "nu",
+    "as",
+    "fj",
+    "to",
+    "tk",
+    "ki",
+    "ws",
+    "wf"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "as",
+    "tk",
+    "wf",
+    "to"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Samoa",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Samoa/@-13.759029,-172.104629,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "WST",
+    "name": "Tala",
+    "nameChoices": [
+      "Pound",
+      "Dollar",
+      "Ngultrum",
+      "Tala"
+    ]
+  },
+  "population": 205557,
+  "size": 2831,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "smo",
+        "percentage": 91.1
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 6.7
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 28836585.461,
+    "topExports": [
+      {
+        "productCode": "03",
+        "value": 4899661.712
+      },
+      {
+        "productCode": "15",
+        "value": 4450762.15
+      },
+      {
+        "productCode": "27",
+        "value": 3138626.903
+      },
+      {
+        "productCode": "07",
+        "value": 2969789.593
+      },
+      {
+        "productCode": "85",
+        "value": 2956557.363
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/palm-trees-beach-dream-beach-59/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/palm-trees-beach-dream-beach-52/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-house-on-white-sand-under-white-clouds-during-daytime-BR1ixF95cGs"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/black-and-red-rooster-on-road-during-daytime-1K52ZwwDLD4"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4420,
+  "gdpPerCapitaYear": 2024
+}

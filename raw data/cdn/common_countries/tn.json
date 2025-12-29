@@ -1,0 +1,135 @@
+{
+  "code": "TN",
+  "latitude": 33.886917,
+  "longitude": 9.537499,
+  "name": "Tunisia",
+  "names": {
+    "fr": "Tunisie",
+    "hu": "Tunézia",
+    "nl": "Tunesië",
+    "pl": "Tunezja",
+    "de": "Tunesien",
+    "ja": "チュニジア",
+    "es": "Túnez",
+    "pt": "Tunísia",
+    "ie": "An Túinéis"
+  },
+  "flags": [
+    "it",
+    "sm",
+    "ly",
+    "dz",
+    "mc",
+    "va",
+    "tn",
+    "mt"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "dz",
+    "ly"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Tunisia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Tunisia/@33.886917,9.537499,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "TND",
+    "name": "Dinar",
+    "nameChoices": [
+      "Franc",
+      "Dirham",
+      "Kyat"
+    ]
+  },
+  "population": 11972169,
+  "size": 163610,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Tunisia"
+      },
+      {
+        "title": "Statista",
+        "url": "https://www.statista.com/statistics/1279956/main-languages-spoken-at-home-in-tunisia/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "fra"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 18545384594.149,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 4649562631.764
+      },
+      {
+        "productCode": "62",
+        "value": 1795552749.333
+      },
+      {
+        "productCode": "27",
+        "value": 1489010799.86
+      },
+      {
+        "productCode": "15",
+        "value": 983305926.105
+      },
+      {
+        "productCode": "90",
+        "value": 722169748.586
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/5NqUXa6pZDM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/tunis-tunisia-cityscape-city-106951/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-camel-on-desert-during-daytime-KZrumAkJWnQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/people-walking-on-white-and-brown-concrete-building-during-daytime-SIvfVmejLyY"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/people-near-white-and-blue-seaside-resort-viewing-blue-sea-under-blue-and-white-sky-RRHmfYRIXXo"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-large-building-with-domed-roofs-with-kairouan-in-the-background-CHkhYa4aI-A"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4530,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,99 @@
+{
+  "code": "TF",
+  "latitude": -49.280366,
+  "longitude": 69.348557,
+  "name": "French Southern Territories",
+  "names": {
+    "fr": "Terres australes françaises",
+    "hu": "Francia déli és antarktiszi területek",
+    "nl": "Franse Zuidelijke Gebieden",
+    "pl": "Francuskie Terytoria Południowe",
+    "de": "Französische Süd- und Antarktisgebiete",
+    "ja": "フランス領南方・南極地域",
+    "co": "Terre Francesce Meridiunali",
+    "es": "Tierras Australes y Antárticas Francesas",
+    "pt": "Territórios Franceses do Sul",
+    "eu": "Frantziaren Lurralde Austral eta Antartikoak",
+    "ie": "Críocha Francacha Deisceartacha agus Antartacha"
+  },
+  "flags": [
+    "mu",
+    "ls",
+    "sz",
+    "mg",
+    "hm",
+    "re",
+    "tf",
+    "aq"
+  ],
+  "continent": [
+    "AN"
+  ],
+  "borders": [
+    "hm",
+    "aq",
+    "za"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/French%20Southern%20Territories%20-%20Kerguelen%20Islands/@-49.280366,69.348557,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "size": 7781,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kerguelen_Islands"
+      }
+    ],
+    "languages": []
+  },
+  "borderMode": "nearby",
+  "currencyData": {
+    "name": "Euro",
+    "nameChoices": [
+      "Franc",
+      "Dollar",
+      "\tAriary"
+    ],
+    "code": "EUR"
+  },
+  "population": 0,
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Volcan_du_Diable_%28Kerguelen_islands%29.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Kerguelen_CookGlacier.JPG"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/dominique_filippi/3534835906"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://en.wikipedia.org/wiki/Kerguelen_Islands#/media/File:Kerguelen_CookGlacier.JPG"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/seeschloss/5223155784/in/album-72157625358299925"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/seeschloss/5207019791/in/album-72157625358299925"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false
+}

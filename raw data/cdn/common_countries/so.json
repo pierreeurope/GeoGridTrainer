@@ -1,0 +1,106 @@
+{
+  "code": "SO",
+  "latitude": 5.152149,
+  "longitude": 46.199616,
+  "name": "Somalia",
+  "names": {
+    "fr": "Somalie",
+    "es": "Somalia",
+    "eu": "Somalia",
+    "hu": "Szomália",
+    "nl": "Somalië",
+    "pl": "Somalia",
+    "pt": "Somália",
+    "de": "Somalia",
+    "ja": "ソマリア",
+    "co": "Somalia",
+    "ie": "An tSomáil"
+  },
+  "flags": [
+    "so",
+    "ye",
+    "er",
+    "ke",
+    "et",
+    "sc",
+    "dj",
+    "ug"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "dj",
+    "et",
+    "ke"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Somalia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/SOMALIA/@5.152149,46.199616,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SOS",
+    "name": "Shilling",
+    "nameChoices": [
+      "Franc",
+      "Ouguiya",
+      "Pound"
+    ]
+  },
+  "population": 19280850,
+  "size": 637657,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Somalia"
+      },
+      {
+        "title": "Translators without Borders",
+        "url": "https://public.tableau.com/app/profile/guilherme.iablonovski2639/viz/LanguagemapofSomalia/LanguagemapofSomalia?publish=yes"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "som",
+        "percentage": 98.9
+      },
+      {
+        "languageCode": "xma",
+        "percentage": 0.2
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/I7c0n1_7dZs"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/river-somalia-water-5049398/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-rocky-beach-with-a-building-in-the-background-I7c0n1_7dZs"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/white-rock-formation-beside-body-of-water-during-daytime-dfoAUysuiBI"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 766,
+  "gdpPerCapitaYear": 2025
+}

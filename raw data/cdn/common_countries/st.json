@@ -1,0 +1,128 @@
+{
+  "code": "ST",
+  "latitude": 0.18636,
+  "longitude": 6.613081,
+  "name": "São Tomé and Príncipe",
+  "names": {
+    "fr": "Sao Tomé-et-Principe",
+    "hu": "São Tomé és Príncipe",
+    "nl": "São Tomé en Principe",
+    "pl": "Wyspy Świętego Tomasza i Książęca",
+    "de": "São Tomé und Príncipe",
+    "ja": "サントメ・プリンシペ",
+    "co": "San Tomè è Principe",
+    "es": "Santo Tomé y Príncipe",
+    "pt": "São Tomé e Príncipe",
+    "eu": "Sao Tome eta Principe",
+    "ie": "São Tomé agus Príncipe"
+  },
+  "flags": [
+    "cm",
+    "st",
+    "ng",
+    "cg",
+    "tg",
+    "gq",
+    "bj",
+    "ga"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "gq",
+    "ga",
+    "ng"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/São_Tomé_and_Príncipe",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe/@0.18636,6.613081,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "STN",
+    "name": "Dobra",
+    "nameChoices": [
+      "Dollar",
+      "Escudo",
+      "Franc"
+    ]
+  },
+  "population": 220372,
+  "size": 964,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "por",
+        "percentage": 98.4
+      },
+      {
+        "languageCode": "cri",
+        "percentage": 36.2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 16554568.871,
+    "topExports": [
+      {
+        "productCode": "18",
+        "value": 10181240.632
+      },
+      {
+        "productCode": "15",
+        "value": 5598751.216
+      },
+      {
+        "productCode": "09",
+        "value": 325057.411
+      },
+      {
+        "productCode": "88",
+        "value": 53995.794
+      },
+      {
+        "productCode": "84",
+        "value": 53032.861
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Sao_Tome_Praia_Inhame_14_%2816247212021%29.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://www.flickr.com/photos/43789968@N05/4056983982"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/afdbprojects/49748624168/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/ximopons/49736970988/"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 3167,
+  "gdpPerCapitaYear": 2024
+}

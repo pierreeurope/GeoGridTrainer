@@ -1,0 +1,140 @@
+{
+  "code": "TR",
+  "latitude": 38.963745,
+  "longitude": 35.243322,
+  "name": "Türkiye",
+  "names": {
+    "fr": "Turquie",
+    "hu": "Törökország",
+    "nl": "Turkije",
+    "pl": "Turcja",
+    "de": "Türkei",
+    "ja": "トルコ",
+    "co": "Turchia",
+    "es": "Turquía",
+    "pt": "Turquia",
+    "eu": "Turkia",
+    "ie": "An Tuirc"
+  },
+  "flags": [
+    "tr",
+    "ir",
+    "am",
+    "az",
+    "gr",
+    "bg",
+    "ge",
+    "iq"
+  ],
+  "continent": [
+    "AS",
+    "EU"
+  ],
+  "borders": [
+    "am",
+    "bg",
+    "ge",
+    "gr",
+    "ir",
+    "iq",
+    "sy",
+    "az"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Turkey",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Turkey/@38.963745,35.243322,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "TRY",
+    "name": "Lira",
+    "nameChoices": [
+      "Hryvnia",
+      "Leu",
+      "Euro"
+    ]
+  },
+  "population": 85664944,
+  "size": 774815,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Turkey"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tur"
+      },
+      {
+        "languageCode": "kur"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 255627429011,
+    "topExports": [
+      {
+        "productCode": "87",
+        "value": 30829182199
+      },
+      {
+        "productCode": "84",
+        "value": 25262261707
+      },
+      {
+        "productCode": "27",
+        "value": 16389206844
+      },
+      {
+        "productCode": "85",
+        "value": 15453920756
+      },
+      {
+        "productCode": "71",
+        "value": 13646812069
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/bBF9e2UUh88"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/river-sunset-maiden-s-tower-views-4873198/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-and-white-concrete-building-under-blue-sky-during-daytime-T3jvNXWWpy0"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/photography-of-tower-and-buildings-tR05vRFVa-4"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/green-mountains-near-body-of-water-during-daytime-8nVmfffGh5k"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 18200,
+  "gdpPerCapitaYear": 2025
+}

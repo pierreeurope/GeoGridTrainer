@@ -1,0 +1,130 @@
+{
+  "code": "VN",
+  "latitude": 14.058324,
+  "longitude": 108.277199,
+  "name": "Vietnam",
+  "names": {
+    "fr": "Viêt Nam",
+    "hu": "Vietnám",
+    "pl": "Wietnam",
+    "ja": "ベトナム",
+    "co": "Vietnamu",
+    "pt": "Vietname",
+    "ie": "Vítneam"
+  },
+  "flags": [
+    "id",
+    "my",
+    "la",
+    "cn",
+    "kh",
+    "vn",
+    "th",
+    "ph"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "kh",
+    "cn",
+    "la"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Vietnam",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Vietnam/@14.058324,108.277199,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "VND",
+    "name": "Dong",
+    "nameChoices": [
+      "Riel",
+      "Yuan",
+      "Won"
+    ]
+  },
+  "population": 100300000,
+  "size": 331689,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vietnam#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "vie"
+      },
+      {
+        "languageCode": "tyz"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 370909157438.999,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 140341805989.326
+      },
+      {
+        "productCode": "84",
+        "value": 29505373275.469
+      },
+      {
+        "productCode": "64",
+        "value": 24553245995.376
+      },
+      {
+        "productCode": "61",
+        "value": 17320344735.458
+      },
+      {
+        "productCode": "62",
+        "value": 16693637657.745
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/vcu-OZBxxRk"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/view-landscape-nature-vietnam-2843338/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/white-house-between-two-cliffs-8MhejqEghLk"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-photography-of-brown-pagoda-temple-during-daytime-JF4o7WErDn8"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/high-rise-building-near-body-of-water-during-daytime-soYzQJvctKI"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:V%C5%A9ng_T%C3%A0u_sunset.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4806,
+  "gdpPerCapitaYear": 2025
+}

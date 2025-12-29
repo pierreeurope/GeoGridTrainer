@@ -1,0 +1,136 @@
+{
+  "code": "SV",
+  "latitude": 13.794185,
+  "longitude": -88.89653,
+  "name": "El Salvador",
+  "names": {
+    "fr": "Salvador",
+    "hu": "Salvador",
+    "pl": "Salwador",
+    "ja": "エルサルバドル",
+    "co": "Salvadoru",
+    "ie": "An tSalvadóir"
+  },
+  "flags": [
+    "ky",
+    "hn",
+    "gt",
+    "pa",
+    "ni",
+    "cr",
+    "bz",
+    "sv"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "gt",
+    "hn"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/El_Salvador",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/El%20Salvador/@13.794185,-88.89653,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Bolboa",
+      "Peso",
+      "Real"
+    ]
+  },
+  "population": 6029976,
+  "size": 21041,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_El_Salvador#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa"
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 6498092242,
+    "topExports": [
+      {
+        "productCode": "61",
+        "value": 1735128580
+      },
+      {
+        "productCode": "39",
+        "value": 505528365
+      },
+      {
+        "productCode": "48",
+        "value": 388817843
+      },
+      {
+        "productCode": "85",
+        "value": 351976281
+      },
+      {
+        "productCode": "27",
+        "value": 344174105
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://www.flickr.com/photos/damejiar/2297774363/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/el-salvador-cerro-el-pimp-moutains-1820097/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-trees-near-body-of-water-bK-SRSgPWz8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-trees-near-body-of-water-under-blue-sky-during-daytime-YT4pUNOa5wI"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-mountain-range-with-trees-and-mountains-in-the-background-OJa2mbeN4p8"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Iglesia_Colonial_Metapan.jpg"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Monumento_a_los_Proceres.JPG"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/27781737@N05/40522757871/in/album-72157666212302038"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 5893,
+  "gdpPerCapitaYear": 2025
+}

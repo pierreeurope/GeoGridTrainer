@@ -1,0 +1,144 @@
+{
+  "code": "US",
+  "latitude": 37.09024,
+  "longitude": -95.712891,
+  "name": "United States of America",
+  "names": {
+    "fr": "ÉTATS-UNIS D'AMÉRIQUE",
+    "hu": "Amerikai Egyesült Államok",
+    "nl": "VERENIGDE STATEN VAN AMERIKA",
+    "pl": "STANY ZJEDNOCZONE AMERYKI",
+    "de": "VEREINIGTEN STAATEN VON AMERIKA",
+    "ja": "アメリカ合衆国",
+    "co": "STATI UNITI D'AMERICA",
+    "es": "ESTADOS UNIDOS DE AMÉRICA",
+    "pt": "Estados Unidos da América",
+    "eu": "Ameriketako Estatu Batuak",
+    "ie": "Stáit Aontaithe Mheiriceá"
+  },
+  "flags": [
+    "cu",
+    "bs",
+    "bz",
+    "mx",
+    "ky",
+    "gt",
+    "us",
+    "ca"
+  ],
+  "continent": [
+    "NA",
+    "OC"
+  ],
+  "borders": [
+    "ca",
+    "mx"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/United_States",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/United%20States/@37.09024,-95.712891,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Pound",
+      "Euro",
+      "Peso"
+    ]
+  },
+  "population": 340110988,
+  "size": 9363520,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng",
+        "percentage": 78.2
+      },
+      {
+        "languageCode": "spa",
+        "percentage": 13.4
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 2018542583771,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 323170541814
+      },
+      {
+        "productCode": "84",
+        "value": 233009958652
+      },
+      {
+        "productCode": "85",
+        "value": 200654688507
+      },
+      {
+        "productCode": "87",
+        "value": 152826672481
+      },
+      {
+        "productCode": "88",
+        "value": 124909470220
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/-rNlq4IN_1k"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/big-bend-texas-landscape-scenic-113099/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/golden-gate-bridge-california-o4mP43oPGHk"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-pine-trees-near-body-of-water-during-daytime-yf0v_jHm9Ds"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-under-white-clouds-during-daytime-KQSCcRim-s8"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-building-with-graffiti-on-the-side-of-it-XFXz574267k"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-beach-with-mountains-in-the-background-USFi1OKy9LE"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://unsplash.com/photos/body-of-water-near-trees-during-daytime-PuJc2Sodi94"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 89599,
+  "gdpPerCapitaYear": 2025
+}

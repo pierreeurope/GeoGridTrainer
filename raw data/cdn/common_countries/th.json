@@ -1,0 +1,129 @@
+{
+  "code": "TH",
+  "latitude": 15.870032,
+  "longitude": 100.992541,
+  "name": "Thailand",
+  "names": {
+    "fr": "Thaïlande",
+    "es": "Tailandia",
+    "eu": "Thailandia",
+    "hu": "Thaiföld",
+    "nl": "Thailand",
+    "pl": "Tajlandia",
+    "pt": "Tailândia",
+    "de": "Thailand",
+    "ja": "タイ",
+    "co": "Thailandu",
+    "ie": "An Téalainn"
+  },
+  "flags": [
+    "my",
+    "mm",
+    "mo",
+    "la",
+    "kh",
+    "vn",
+    "th",
+    "bd"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "kh",
+    "la",
+    "my",
+    "mm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/THAILAND",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/THAILAND/@15.870032,100.992541,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "THB",
+    "name": "Baht",
+    "nameChoices": [
+      "Ringgit",
+      "Pataca",
+      "Won"
+    ]
+  },
+  "population": 65975198,
+  "size": 513115,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Thailand#:~:text=Language%20Family-,Central%20Thai,Tai%2DKadai,-Kham%20Muang%20(Northern"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tha",
+        "percentage": 28.71
+      },
+      {
+        "languageCode": "tts",
+        "percentage": 21.82
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 283820499831.646,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 45486407189.983
+      },
+      {
+        "productCode": "84",
+        "value": 43900962658.572
+      },
+      {
+        "productCode": "87",
+        "value": 31365264585.705
+      },
+      {
+        "productCode": "40",
+        "value": 18805249630.17
+      },
+      {
+        "productCode": "39",
+        "value": 15073624216.176
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/BU6lABNbTpA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/grand-palace-bangkok-temple-night-1822487/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/photo-of-brown-bench-near-swimming-pool-Koei_7yYtIo"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 7942,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,57 @@
+{
+  "code": "SX",
+  "name": "Sint Maarten",
+  "autoUpdateBorders": false,
+  "borders": [
+    "vi",
+    "bl",
+    "mf",
+    "ai",
+    "bq"
+  ],
+  "borderMode": "nearby",
+  "continent": [
+    "NA"
+  ],
+  "currencyData": {
+    "name": "Guilder",
+    "code": "ANG",
+    "nameChoices": [
+      "Euro",
+      "Peso",
+      "Franc"
+    ]
+  },
+  "flags": [],
+  "languageData": {
+    "languages": [],
+    "languageSources": []
+  },
+  "latitude": 18.0293645,
+  "longitude": -63.2235687,
+  "names": {
+    "fr": "Sint-Maarten",
+    "ja": "シント・マールテン",
+    "nl": "SINT-MAARTEN",
+    "pt": "São Martinho (Países Baixos)",
+    "co": "Santa Martinu",
+    "ie": "Sint Maarten"
+  },
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Sint_Maarten",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Sint%20Maarten/@18.0293645,-63.2235687,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "population": 58477,
+  "size": 34,
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2018
+}

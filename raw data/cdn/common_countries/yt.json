@@ -1,0 +1,85 @@
+{
+  "code": "YT",
+  "latitude": -12.8275,
+  "longitude": 45.166244,
+  "name": "Mayotte",
+  "names": {
+    "hu": "Mayotte Mayotte",
+    "pl": "Majotta",
+    "ja": "マヨット",
+    "ie": "Mayotte"
+  },
+  "flags": [
+    "mw",
+    "re",
+    "mz",
+    "tz",
+    "mg",
+    "km",
+    "sc",
+    "yt"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "km",
+    "mg",
+    "mz"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Mayotte",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Mayotte/@-12.8275,45.166244,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Tenge",
+      "Dinar",
+      "Franc",
+      "Euro"
+    ]
+  },
+  "population": 320901,
+  "size": 373,
+  "languageData": {},
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/tr%c3%a9vani-beach-mayotte-indian-ocean-604064/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/sada-mayotte-mosque-604056/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/silhouette-of-mountain-near-body-of-water-during-sunset-qjyY80RtOEU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/gray-rock-formation-on-sea-shore-during-daytime-fAXuwGnZJFc"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/42276499@N08/4226235492/in/photolist-b25Ccz-b25D6x-b25CFT-b25Dnx-b25Cni-7rsyzb-21nCjjz-2fpqgLD-5Piy7X-RBLMG8-2jmjpHL-4piJn9-RBLMAr-6GiHkD-avKJ6T-6GiBii-DeXHPq-21nCo6x-21nCj8c-DeXP3m-21nCkjR-7VHZQe-6GiCdc-4yfvoK-JL73qf-7qinp9-21nCkzv-DeXM39-7qetSM-21nCp8n-21nCoUX-21nCppz-21nCmz6-DeXKGy-21nCnLK-DeXNgb-c6kWwb-7qDGwW-5hwu7y-acW6VE-ZhpjBL-7rEMZZ-7yU37p-7yU39x-4HDMce-4HDM8B-g5B3H-2kWFjcs-5PkdYV-2nd4tzz"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/130828646@N02/49752546348/in/photolist-2dHTDHx-SYz2sf-ghj3BM-2iNsNFf-2iNvMXJ-GP8tFF-2f7Jtck-2dHTUfP-SYzgTu-2f36dAW-24veQ1z-2e1PoYs-RmmNfF-2e1PkZG-SYzjQG-2dHTyp6-4DL37d-4DL3aW-GLXpbG-4DL3af-4DFLgp-4DFLhz-4DL36w-4DFLda-4DL3eQ-GERqpC-GLXohs-pXhJbj-Gp4sWm-5doGPT-7yU37p-7yU39x-4DL3dh-4DFLbr-Gp4tK5-8SXwDe-m7dNVD-FTCZSC-4DL31S-c3nuW5-pX9Pdx-4DFL7g-4DL365-4DFCPX-4DL34j-4DFL8x-4DKUQ5-4DL32S-4DFgqc-4DFL7K"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true
+}

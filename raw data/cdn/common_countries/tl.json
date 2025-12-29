@@ -1,0 +1,126 @@
+{
+  "code": "TL",
+  "latitude": -8.874217,
+  "longitude": 125.727539,
+  "name": "Timor-Leste",
+  "names": {
+    "hu": "Kelet-Timor",
+    "nl": "Oost-Timor",
+    "pl": "Timor Wschodni",
+    "de": "Osttimor",
+    "ja": "東ティモール",
+    "co": "Timor orientale",
+    "fr": "Timor oriental",
+    "es": "Timor Oriental",
+    "eu": "Ekialdeko Timor",
+    "ie": "Tíomór Thoir"
+  },
+  "flags": [
+    "id",
+    "pw",
+    "bn",
+    "my",
+    "tl",
+    "cx",
+    "au",
+    "pg"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "id",
+    "au"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Timor-Leste",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Timor-Leste/@-8.874217,125.727539,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Rupee",
+      "Pound",
+      "Guilder"
+    ]
+  },
+  "population": 1354662,
+  "size": 14919,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tet",
+        "percentage": 30.6
+      },
+      {
+        "languageCode": "mgm",
+        "percentage": 16.6
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 471773786.06,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 323699864.26
+      },
+      {
+        "productCode": "09",
+        "value": 126042789.95
+      },
+      {
+        "productCode": "84",
+        "value": 10060222.21
+      },
+      {
+        "productCode": "85",
+        "value": 2511443.32
+      },
+      {
+        "productCode": "73",
+        "value": 1885602.84
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/mangrove-timor-leste-atauro-tree-7507812/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Timor-Leste_Coastline.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-beach-with-a-clock-tower-pxJkmLhBhCc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-beach-and-ocean-52CdMdfFhxE"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1490,
+  "gdpPerCapitaYear": 2025
+}

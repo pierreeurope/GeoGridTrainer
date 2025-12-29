@@ -1,0 +1,127 @@
+{
+  "code": "SN",
+  "latitude": 14.497401,
+  "longitude": -14.452362,
+  "name": "Senegal",
+  "names": {
+    "fr": "Sénégal",
+    "hu": "Szenegál",
+    "ja": "セネガル",
+    "ie": "An tSeineagáil"
+  },
+  "flags": [
+    "ml",
+    "gm",
+    "cv",
+    "gn",
+    "gw",
+    "sl",
+    "sn",
+    "mr"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "gm",
+    "gn",
+    "gw",
+    "ml",
+    "mr"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Senegal",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Senegal/@14.497401,-14.452362,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XOF",
+    "name": "Franc",
+    "nameChoices": [
+      "Kwanza",
+      "Dollar",
+      "Cedi"
+    ]
+  },
+  "population": 18847519,
+  "size": 196722,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Senegal"
+      },
+      {
+        "title": "Translators without Borders",
+        "url": "https://translatorswithoutborders.org/language-data-for-senegal#:~:text=The%20census%20indicates%20that%20Wolof%20is%20also%20the%20most%20widely%20spoken%20first%20language%20(50%25%20of%20the%20population)%2C%20followed%20by%20Pular%20(25%25)"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "wol",
+        "percentage": 50
+      },
+      {
+        "languageCode": "fuc",
+        "percentage": 25
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 5710291923.345,
+    "topExports": [
+      {
+        "productCode": "27",
+        "value": 1042332646.321
+      },
+      {
+        "productCode": "71",
+        "value": 932114404.662
+      },
+      {
+        "productCode": "28",
+        "value": 764087770.809
+      },
+      {
+        "productCode": "03",
+        "value": 603644332.706
+      },
+      {
+        "productCode": "26",
+        "value": 326252398.435
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/-n1rIjE55Mw"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/fisherman-mosque-dakar-senegal-246976/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/blue-and-white-boat-on-water-near-city-buildings-during-daytime--n1rIjE55Mw"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-houses-near-green-trees-under-white-clouds-during-daytime-8nb36vQrjTc"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1811,
+  "gdpPerCapitaYear": 2025
+}

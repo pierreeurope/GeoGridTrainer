@@ -1,0 +1,77 @@
+{
+  "code": "SM",
+  "latitude": 43.94236,
+  "longitude": 12.457777,
+  "name": "San Marino",
+  "names": {
+    "fr": "Saint-Marin",
+    "ja": "サンマリノ",
+    "pt": "San Marinho",
+    "co": "San Marinu",
+    "ie": "San Mairíne"
+  },
+  "flags": [
+    "sm",
+    "mc",
+    "li",
+    "va",
+    "hr",
+    "si",
+    "it",
+    "ba"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "it"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/San_Marino",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/San%20Marino/@43.94236,12.457777,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Leu",
+      "Franc",
+      "Dollar"
+    ]
+  },
+  "population": 34132,
+  "size": 61,
+  "languageData": {},
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/S1JVabNkXP0"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/san-marino-city-urban-buildings-1966566/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-many-buildings-noMwZfUFghU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-city-with-mountains-in-the-background-NQ30CZe_h_E"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapita": 59405,
+  "gdpPerCapitaYear": 2024
+}

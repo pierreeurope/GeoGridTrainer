@@ -1,0 +1,122 @@
+{
+  "code": "SR",
+  "latitude": 3.919305,
+  "longitude": -56.027783,
+  "name": "Suriname",
+  "names": {
+    "pl": "Surinam",
+    "ja": "スリナム",
+    "es": "Surinam",
+    "co": "Surinami",
+    "eu": "Surinam",
+    "ie": "Suranam"
+  },
+  "flags": [
+    "gd",
+    "bb",
+    "tt",
+    "gf",
+    "br",
+    "sr",
+    "vc",
+    "gy"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "br",
+    "gf",
+    "gy"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Suriname",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Suriname/@3.919305,-56.027783,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SRD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Peso",
+      "Pound",
+      "Balboa"
+    ]
+  },
+  "population": 632638,
+  "size": 163265,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Suriname"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "nld",
+        "percentage": 60
+      },
+      {
+        "languageCode": "srn"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 2310899797.996,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 1710062963.641
+      },
+      {
+        "productCode": "26",
+        "value": 133643296.934
+      },
+      {
+        "productCode": "84",
+        "value": 103117263.249
+      },
+      {
+        "productCode": "44",
+        "value": 74589350.922
+      },
+      {
+        "productCode": "24",
+        "value": 44165323.899
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/amazon-suriname-south-america-265260/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/water-boat-travel-vacation-3338367/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/143274264@N07/25367857139/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/driftwood-on-shore-oKyF4ZYUo2k"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 6858,
+  "gdpPerCapitaYear": 2025
+}

@@ -1,0 +1,89 @@
+{
+  "code": "VA",
+  "latitude": 41.902916,
+  "longitude": 12.453389,
+  "name": "Vatican City",
+  "names": {
+    "fr": "Cité du Vatican",
+    "hu": "Vatikán",
+    "nl": "Vaticaanstad",
+    "pl": "Watykan",
+    "de": "Vatikanstadt",
+    "ja": "バチカン市国",
+    "co": "Cità di u Vaticanu",
+    "es": "Ciudad del Vaticano",
+    "pt": "Vaticano",
+    "eu": "Vatikano Hiria",
+    "ie": "Cathair na Vatacáine"
+  },
+  "flags": [
+    "va",
+    "mc",
+    "hr",
+    "me",
+    "si",
+    "ba",
+    "sm",
+    "it"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "it"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Vatican_City",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Vatican%20City/@41.902916,12.453389,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Dollar",
+      "Pound",
+      "Lira"
+    ]
+  },
+  "population": 882,
+  "size": 0.4,
+  "languageData": {},
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/mJDuO7CzO74"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/vatican-rome-st-peters-basilica-594612/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/white-concrete-building-under-white-clouds-during-daytime-tG8CuF9KG5I"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-city-0Bs3et8FYyg"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Fire_station_Vatican_12.jpg"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Patio_del_Belvedere,_Ciudad_del_Vaticano,_2022-09-14,_DD_73-75_HDR.jpg"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true
+}

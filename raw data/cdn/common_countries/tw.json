@@ -1,0 +1,123 @@
+{
+  "code": "TW",
+  "latitude": 23.69781,
+  "longitude": 120.960515,
+  "name": "Taiwan",
+  "names": {
+    "fr": "Taïwan",
+    "hu": "Tajvan",
+    "pl": "Tajwan",
+    "ja": "台湾",
+    "es": "Taiwán",
+    "ie": "An Téaváin"
+  },
+  "flags": [
+    "kr",
+    "tw",
+    "cn",
+    "mo",
+    "hk",
+    "vn",
+    "ph",
+    "kp"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "ph",
+    "jp",
+    "cn"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Taiwan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Taiwan/@23.69781,120.960515,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "TWD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Yuan",
+      "Won",
+      "Kip"
+    ]
+  },
+  "population": 23396049,
+  "size": 36188,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Taiwan"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "cmn",
+        "percentage": 83.5
+      },
+      {
+        "languageCode": "nan",
+        "percentage": 81.9
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 477816742263.5,
+    "topExports": [
+      {
+        "productCode": "85",
+        "value": 245995561299.06
+      },
+      {
+        "productCode": "84",
+        "value": 63113700126.37
+      },
+      {
+        "productCode": "39",
+        "value": 22889770837.85
+      },
+      {
+        "productCode": "27",
+        "value": 17547405947.3
+      },
+      {
+        "productCode": "90",
+        "value": 16447170095.79
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/UDv1n0xIpU8"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/cityscape-city-city-lights-evening-5543224/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-and-red-pagoda-temple-ZAwMMAoabrU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-grass-field-near-mountain-under-white-sky-during-daytime-L6xHmv2R3G4"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 34426,
+  "gdpPerCapitaYear": 2025
+}

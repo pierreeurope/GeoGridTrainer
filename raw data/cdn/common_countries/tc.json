@@ -1,0 +1,108 @@
+{
+  "code": "TC",
+  "latitude": 21.694025,
+  "longitude": -71.797928,
+  "name": "Turks and Caicos Islands",
+  "names": {
+    "fr": "Îles Turques-et-Caïques",
+    "es": "Islas Turcas y Caicos",
+    "eu": "Turks eta Caicos Uharteak",
+    "hu": "Turks- és Caicos-szigetek",
+    "nl": "Turks- en Caicoseilanden",
+    "pl": "Turks i Caicos",
+    "pt": "Ilhas Turks e Caicos",
+    "de": "Turks- und Caicosinseln",
+    "ja": "タークス・カイコス諸島",
+    "co": "Turchini è Caiques",
+    "ie": "Oileáin na dTurcach agus Caicos"
+  },
+  "flags": [
+    "ht",
+    "bs",
+    "pr",
+    "tc",
+    "jm",
+    "do",
+    "cu",
+    "vi"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "ht",
+    "do",
+    "cu",
+    "bs"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Turks_and_Caicos_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/TURKS%20AND%20CAICOS%20ISLANDS/@21.694025,-71.797928,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Pound",
+      "Peso",
+      "Quetzal"
+    ]
+  },
+  "population": 49309,
+  "size": 430,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands#Language"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng"
+      },
+      {
+        "languageCode": "tch"
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/turks-caicos-island-teal-water-2307310/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/turks-and-caicos-beach-caicos-ocean-1220019/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/coconut-trees-mW5oo5llyoY"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/birds-eye-view-of-dock-and-house-gXGSp7-KUQQ"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/green-trees-near-blue-sea-under-blue-and-white-cloudy-sky-during-daytime-erbh0VzctyE"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/people-in-swimming-pool-during-daytime-ynHcCuvABCg"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2020
+}

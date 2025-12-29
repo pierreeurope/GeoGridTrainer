@@ -1,0 +1,100 @@
+{
+  "code": "VE",
+  "latitude": 6.42375,
+  "longitude": -66.58973,
+  "name": "Venezuela",
+  "names": {
+    "pl": "Wenezuela",
+    "ja": "ベネズエラ",
+    "ie": "Veiniséala"
+  },
+  "flags": [
+    "br",
+    "co",
+    "ve",
+    "aw",
+    "an",
+    "gy",
+    "tt",
+    "gd"
+  ],
+  "continent": [
+    "SA"
+  ],
+  "borders": [
+    "br",
+    "co",
+    "gy"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Venezuela",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Venezuela/@6.42375,-66.58973,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "VES",
+    "name": "Bolivar",
+    "nameChoices": [
+      "Peso",
+      "Dollar",
+      "Florin"
+    ]
+  },
+  "population": 30518260,
+  "size": 912050,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Venezuela"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "spa"
+      },
+      {
+        "languageCode": "guc"
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/ZZeuF8ZLi3o"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/caracas-venezuela-sunset-clouds-4539664/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/ferjflores/12125381824/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/coconut-trees-bn873zF3ekc"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://pixabay.com/photos/venezuela-cross-port-dairy-991906/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-boat-in-the-water-with-palm-trees-in-the-background-8wEun5h7ycc"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 4068,
+  "gdpPerCapitaYear": 2025
+}

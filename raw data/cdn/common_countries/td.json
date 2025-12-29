@@ -1,0 +1,122 @@
+{
+  "code": "TD",
+  "latitude": 15.454166,
+  "longitude": 18.732207,
+  "name": "Chad",
+  "names": {
+    "fr": "Tchad",
+    "hu": "Csád",
+    "nl": "Tsjaad",
+    "pl": "Czad",
+    "de": "Tschad",
+    "ja": "チャド",
+    "co": "Ciad",
+    "pt": "Chade",
+    "eu": "Txad",
+    "ie": "Sead"
+  },
+  "flags": [
+    "cm",
+    "ne",
+    "sd",
+    "ly",
+    "ss",
+    "ng",
+    "td",
+    "cf"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "cm",
+    "cf",
+    "ly",
+    "ne",
+    "ng",
+    "sd"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Chad",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Chad/@15.454166,18.732207,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XAF",
+    "name": "Franc",
+    "nameChoices": [
+      "Dinar",
+      "Pula",
+      "Dollar"
+    ]
+  },
+  "population": 19093595,
+  "size": 1284000,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Chad"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.worldatlas.com/articles/what-languages-are-spoken-in-chad.html"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "fra"
+      },
+      {
+        "languageCode": "ara"
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/caravan-desert-sahara-sand-camel-4483792/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/road-tree-africa-path-chad-696570/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/isa-boutriau/8598444136/in/album-72157633005229113/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/isa-boutriau/8562596717/in/album-72157633005229113/"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/abstract-wallpaper-WDSeM4shYTA"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/ismouz/4951716013/in/photolist-8xyQE2-8xC3vy-2ob1VYm-UUs5f-2oaW5cn-UUsjy-USRWz-UUzM3-USSNi-2ob123F-4QgzYk-2oc6xzp-21UYMRb-ivQ4Rr-2ocav1R-8xzA1v-8xCCuy-8xzAn8-8xzBnn-8xzBKr-6ax6pa-USSmv-UUtMy-aAhizp-aAhi9V-vJkM8-2dnqUnA-ab6wVs-USTzv-88sG8P-rQ5yYR-88wdEo-88wdSw-88sXx4-88vUZ1-2fy5JVV-88wdZ1-DNtHV-DNtBc-DNtTH-DNtUL-2n1F8mE-DNty4-DNu24-DNtDJ-66NVAQ-2hMZjvd-2n1FxXR-DNoKw-2oaYFY2"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Les_chameaux_et_les_chevaux_mobilis%C3%A9s_pour_le_campagne_7.jpg"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Chad_Tousside_Trou_au_Natron_2310-3.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 702,
+  "gdpPerCapitaYear": 2023
+}

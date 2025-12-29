@@ -1,0 +1,99 @@
+{
+  "code": "SJ",
+  "latitude": 77.553604,
+  "longitude": 23.670272,
+  "name": "Svalbard and Jan Mayen",
+  "names": {
+    "fr": "Svalbard et Jan Mayen",
+    "hu": "Norvégia Spitzbergák és Jan Mayen-sziget",
+    "nl": "Spitsbergen en Jan Mayen",
+    "pl": "Svalbard i Jan Mayen",
+    "de": "Spitzbergen und Jan Mayen",
+    "ja": "スヴァールバル諸島とヤンマイエン",
+    "co": "Svalbard è Jan Mayen",
+    "es": "Svalbard y Jan Mayen",
+    "pt": "Svalbard e Jan Mayen",
+    "eu": "Svalbard eta Jan Mayen",
+    "ie": "Svalbard agus Jan Mayen"
+  },
+  "flags": [
+    "se",
+    "is",
+    "sj",
+    "gl",
+    "ee",
+    "fi",
+    "no",
+    "fo"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "gl",
+    "no",
+    "ru",
+    "is"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Svalbard_and_Jan_Mayen",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/78%C2%B038'06.7%22N+21%C2%B059'38.0%22E/@78.3084435,21.3567986,6.87z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "size": 61399,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "nor"
+      },
+      {
+        "languageCode": "rus"
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "population": 2530,
+  "currencyData": {
+    "code": "NOK",
+    "name": "Krone",
+    "nameChoices": [
+      "Euro",
+      "Ruble",
+      "Dollar"
+    ]
+  },
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/NmXaYwkw560"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/snow-mountain-winter-hiking-1185467/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-bunch-of-animals-that-are-laying-in-the-snow-B89HI-j1k6M"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/high-angle-photo-of-landscape-NqankxAMqxs"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false
+}

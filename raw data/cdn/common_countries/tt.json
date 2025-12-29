@@ -1,0 +1,129 @@
+{
+  "code": "TT",
+  "latitude": 10.691803,
+  "longitude": -61.222503,
+  "name": "Trinidad and Tobago",
+  "names": {
+    "fr": "Trinité-et-Tobago",
+    "hu": "Trinidad és Tobago",
+    "nl": "Trinidad en Tobago",
+    "pl": "Trynidad i Tobago",
+    "de": "Trinidad und Tobago",
+    "ja": "トリニダード・トバゴ",
+    "es": "Trinidad y Tobago",
+    "pt": "Trinidad e Tobago",
+    "co": "Trinitate eta Tobago",
+    "eu": "Trinidad eta Tobago",
+    "ie": "Oileán na Tríonóide agus Tobága"
+  },
+  "flags": [
+    "tt",
+    "gp",
+    "bb",
+    "mq",
+    "vc",
+    "gd",
+    "dm",
+    "lc"
+  ],
+  "continent": [
+    "NA",
+    "SA"
+  ],
+  "borders": [
+    "gd",
+    "vc",
+    "bb",
+    "gy",
+    "ve"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Trinidad_and_Tobago",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Trinidad%20and%20Tobago/@10.691803,-61.222503,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "TTD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Bolivar",
+      "Lira",
+      "Peso"
+    ]
+  },
+  "population": 1508635,
+  "size": 5130,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago#Languages:~:text=the%20main%20spoken%20language%20is%20either%20of%20two%20English%2Dbased%20creole%20languages%20(Trinidadian%20Creole%20or%20Tobagonian%20Creole)%2C%20which%20reflects%20the%20Indigenous%2C%20European%2C%20African%2C%20and%20Asian%20heritage%20of%20the%20nation."
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "trf"
+      },
+      {
+        "languageCode": "tgh"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 11529004578.974,
+    "topExports": [
+      {
+        "productCode": "28",
+        "value": 3696151135.173
+      },
+      {
+        "productCode": "27",
+        "value": 3324686868.361
+      },
+      {
+        "productCode": "29",
+        "value": 1858237228.773
+      },
+      {
+        "productCode": "72",
+        "value": 881401730.571
+      },
+      {
+        "productCode": "31",
+        "value": 832495811.834
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/DEMrRuvJvqo"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/water-nature-landscape-panoramic-3274999/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-mountain-in-the-background-5eYQc8J2WGc"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/house-on-shore-during-day-UCKqi8xqIOc"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 19621,
+  "gdpPerCapitaYear": 2023
+}

@@ -1,0 +1,131 @@
+{
+  "code": "YE",
+  "latitude": 15.552727,
+  "longitude": 48.516388,
+  "name": "Yemen",
+  "names": {
+    "fr": "Yémen",
+    "hu": "Jemen",
+    "nl": "Jemen",
+    "pl": "Jemen",
+    "de": "Jemen",
+    "ja": "イエメン",
+    "pt": "Iêmen",
+    "co": "Yemenu",
+    "ie": "Éimin"
+  },
+  "flags": [
+    "so",
+    "dj",
+    "ye",
+    "ae",
+    "er",
+    "sa",
+    "om",
+    "qa"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "om",
+    "sa"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Yemen",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Yemen/@15.552727,48.516388,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "YER",
+    "name": "Rial",
+    "nameChoices": [
+      "Dinar",
+      "Tenge",
+      "Soum"
+    ]
+  },
+  "population": 42091194,
+  "size": 527968,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Yemen"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ara"
+      },
+      {
+        "languageCode": "gdq"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2019,
+    "totalValue": 23783553.271,
+    "topExports": [
+      {
+        "productCode": "11",
+        "value": 22882218.082
+      },
+      {
+        "productCode": "23",
+        "value": 353107.85
+      },
+      {
+        "productCode": "44",
+        "value": 163088.748
+      },
+      {
+        "productCode": "15",
+        "value": 125284.59
+      },
+      {
+        "productCode": "61",
+        "value": 55944
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/REwZEYzw19g"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/yemen-middle-east-neighborhood-6037293/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-YY9_yyBD-UU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-group-of-trees-in-the-middle-of-a-forest-nQvFebPtqbw"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/the-sun-is-setting-over-the-sand-dunes-f9rQRvPkWds"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-large-canyon-with-a-few-buildings-NSEluxZW_k88"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 416,
+  "gdpPerCapitaYear": 2025
+}

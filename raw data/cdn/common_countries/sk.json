@@ -1,0 +1,130 @@
+{
+  "code": "SK",
+  "latitude": 48.669026,
+  "longitude": 19.699024,
+  "name": "Slovakia",
+  "names": {
+    "fr": "Slovaquie",
+    "hu": "Szlovákia",
+    "nl": "Slowakije",
+    "pl": "Słowacja",
+    "de": "Slowakei",
+    "ja": "スロバキア",
+    "co": "Slovacchia",
+    "es": "Eslovaquia",
+    "pt": "Eslováquia",
+    "eu": "Eslovakia",
+    "ie": "An tSlóvaic"
+  },
+  "flags": [
+    "hu",
+    "sk",
+    "ua",
+    "si",
+    "ro",
+    "cz",
+    "at",
+    "pl"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "at",
+    "cz",
+    "hu",
+    "pl",
+    "ua"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Slovakia",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Slovakia/@48.669026,19.699024,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "EUR",
+    "name": "Euro",
+    "nameChoices": [
+      "Koruna",
+      "Ruble",
+      "Forint"
+    ]
+  },
+  "population": 5413813,
+  "size": 49012,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "slk",
+        "percentage": 81.8
+      },
+      {
+        "languageCode": "hun",
+        "percentage": 8.5
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 117062730020.954,
+    "topExports": [
+      {
+        "productCode": "87",
+        "value": 41341266678.464
+      },
+      {
+        "productCode": "85",
+        "value": 18385186399.192
+      },
+      {
+        "productCode": "84",
+        "value": 13521040340.778
+      },
+      {
+        "productCode": "72",
+        "value": 4694806752.492
+      },
+      {
+        "productCode": "27",
+        "value": 4090903535.944
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/vgPgg8X2NyA"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/tatra-mountains-slovakia-lake-7231545/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/green-trees-covered-mountains-RErhr8r1q6s"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-wooden-house-on-snow-covered-ground-during-daytime-krp9O-SbTTA"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 28180,
+  "gdpPerCapitaYear": 2025
+}

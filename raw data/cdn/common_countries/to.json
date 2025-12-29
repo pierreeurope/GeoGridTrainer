@@ -1,0 +1,99 @@
+{
+  "code": "TO",
+  "latitude": -21.178986,
+  "longitude": -175.198242,
+  "name": "Tonga",
+  "names": {
+    "ja": "トンガ",
+    "ie": "Tonga"
+  },
+  "flags": [
+    "to",
+    "as",
+    "ck",
+    "nu",
+    "fj",
+    "wf",
+    "ws",
+    "tk"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "nu",
+    "fj",
+    "wf",
+    "ws",
+    "as",
+    "nz"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Tonga_(Tongatapu_and_'Eua)",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Tonga/@-18.8651065,-177.38905,7z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "TOP",
+    "name": "Pa'anga",
+    "nameChoices": [
+      "Kwanza",
+      "Dollar",
+      "Ringgit"
+    ]
+  },
+  "population": 100209,
+  "size": 748,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Tonga"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ton",
+        "percentage": 85
+      },
+      {
+        "languageCode": "eng"
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://www.britannica.com/place/Tonga/Economy"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/shipwreck-ocean-sea-rusty-3821992/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/10869636@N08/14699199006/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/liz_detheo/4074850751/"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapita": 4888,
+  "gdpPerCapitaYear": 2019
+}

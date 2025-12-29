@@ -1,0 +1,107 @@
+{
+  "code": "TM",
+  "latitude": 38.969719,
+  "longitude": 59.556278,
+  "name": "Turkmenistan",
+  "names": {
+    "fr": "Turkménistan",
+    "hu": "Türkmenisztán",
+    "ja": "トルクメニスタン",
+    "es": "Turkmenistán",
+    "pt": "Turquemenistão",
+    "co": "Turkmenistanu",
+    "ie": "An Tuircméanastáin"
+  },
+  "flags": [
+    "am",
+    "az",
+    "tj",
+    "tm",
+    "kz",
+    "ir",
+    "af",
+    "uz"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "af",
+    "ir",
+    "kz",
+    "uz"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Turkmenistan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Turkmenistan/@38.969719,59.556278,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "TMT",
+    "name": "Manat",
+    "nameChoices": [
+      "Soum",
+      "Dinar",
+      "Riyal"
+    ]
+  },
+  "population": 7057841,
+  "size": 488100,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tuk",
+        "percentage": 72
+      },
+      {
+        "languageCode": "rus",
+        "percentage": 12
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Turkmenistan-Ashgabat.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Turkmenistan.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-deserted-place-with-hole-in-middle-VOinFS9FDkQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/mountain-covered-with-snow-view-WdKBrVAKN4U"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-stone-walkway-with-a-pergolated-arbor-in-the-middle-of-it-PcETEa8v6MI"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/white-bridge-over-the-sea-during-daytime-ew2LSkOXuqc"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 13334,
+  "gdpPerCapitaYear": 2025
+}

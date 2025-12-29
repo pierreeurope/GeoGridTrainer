@@ -1,0 +1,99 @@
+{
+  "code": "TV",
+  "latitude": -7.109535,
+  "longitude": 177.64933,
+  "name": "Tuvalu",
+  "names": {
+    "ja": "ツバル",
+    "ie": "Tuvalu"
+  },
+  "flags": [
+    "fj",
+    "tv",
+    "tk",
+    "ws",
+    "nr",
+    "vu",
+    "as",
+    "wf"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "wf",
+    "fj",
+    "ki"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Tuvalu",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Tuvalu/@-7.109535,177.64933,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "AUD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Vatu",
+      "Pound",
+      "Rupee"
+    ]
+  },
+  "population": 10643,
+  "size": 26,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Tuvalu"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tvl"
+      },
+      {
+        "languageCode": "gil"
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/sea-ocean-water-beach-nature-384055/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://www.flickr.com/photos/dfataustralianaid/12779525995"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/asiandevelopmentbank/32895329278"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/mrlins/304276123"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/michael_from_berlin/52829984615/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/gosha_krzystkiewicz/4519730272/"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapita": 6113,
+  "gdpPerCapitaYear": 2023
+}

@@ -1,0 +1,128 @@
+{
+  "code": "TJ",
+  "latitude": 38.861034,
+  "longitude": 71.276093,
+  "name": "Tajikistan",
+  "names": {
+    "fr": "Tadjikistan",
+    "hu": "Tádzsikisztán",
+    "nl": "Tadzjikistan",
+    "pl": "Tadżykistan",
+    "de": "Tadschikistan",
+    "ja": "タジキスタン",
+    "es": "Tayikistán",
+    "pt": "Tajiquistão",
+    "co": "Tadjikistan",
+    "ie": "An Táidsíceastáin"
+  },
+  "flags": [
+    "cn",
+    "uz",
+    "tm",
+    "pk",
+    "kg",
+    "af",
+    "tj",
+    "kz"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "af",
+    "cn",
+    "kg",
+    "uz"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Tajikistan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Tajikistan/@38.861034,71.276093,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "TJS",
+    "name": "Somoni",
+    "nameChoices": [
+      "Dinar",
+      "Som",
+      "Manat"
+    ]
+  },
+  "population": 10786734,
+  "size": 143100,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tgk",
+        "percentage": 84.4
+      },
+      {
+        "languageCode": "uzb",
+        "percentage": 11.9
+      }
+    ]
+  },
+  "productData": {
+    "year": 2022,
+    "totalValue": 1669060470,
+    "topExports": [
+      {
+        "productCode": "26",
+        "value": 731065007
+      },
+      {
+        "productCode": "52",
+        "value": 249796218
+      },
+      {
+        "productCode": "76",
+        "value": 173609120
+      },
+      {
+        "productCode": "27",
+        "value": 116993071
+      },
+      {
+        "productCode": "81",
+        "value": 102425490
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/zot26dCO_4I"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/tajikistan-iskanderkul-alex-andersee-4584690/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-castle-through-two-brick-walls-4MLxMrsSEaA"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-and-white-mountain-under-blue-sky-during-daytime-lywaqpgB9sg"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1276,
+  "gdpPerCapitaYear": 2024
+}

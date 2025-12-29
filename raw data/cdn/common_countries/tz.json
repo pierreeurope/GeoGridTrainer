@@ -1,0 +1,133 @@
+{
+  "code": "TZ",
+  "latitude": -6.369028,
+  "longitude": 34.888822,
+  "name": "Tanzania",
+  "names": {
+    "fr": "Tanzanie",
+    "hu": "Tanzánia",
+    "de": "Tansania",
+    "ja": "タンザニア",
+    "co": "Tanzania, Republica unita di",
+    "pt": "Tanzânia",
+    "ie": "An Tansáin"
+  },
+  "flags": [
+    "rw",
+    "mw",
+    "ke",
+    "ug",
+    "cd",
+    "mz",
+    "tz",
+    "bi"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "bi",
+    "cd",
+    "ke",
+    "mw",
+    "mz",
+    "rw",
+    "ug",
+    "zm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Tanzania",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Tanzania/@-6.369028,34.888822,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "TZS",
+    "name": "Shilling",
+    "nameChoices": [
+      "Franc",
+      "Escudo",
+      "Dollar"
+    ]
+  },
+  "population": 67462121,
+  "size": 883749,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Tanzania"
+      },
+      {
+        "title": "Statista",
+        "url": "https://www.statista.com/statistics/1289025/primary-languages-spoken-at-home-in-tanzania/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "swa",
+        "percentage": 61.4
+      },
+      {
+        "languageCode": "suk",
+        "percentage": 12.8
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 7274328787.87,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 3139495834.43
+      },
+      {
+        "productCode": "12",
+        "value": 391488620.78
+      },
+      {
+        "productCode": "24",
+        "value": 378436929.38
+      },
+      {
+        "productCode": "07",
+        "value": 318713520.6
+      },
+      {
+        "productCode": "09",
+        "value": 293754601.87
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/B8QoatPKAJg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/mount-kilimanjaro-mountain-mount-7287226/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-window-07MPxe8sEEU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/photo-of-mountain-with-brown-soil-in-vicinity-UNOMwllEXfg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1280,
+  "gdpPerCapitaYear": 2025
+}

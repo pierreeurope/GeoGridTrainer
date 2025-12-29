@@ -1,0 +1,83 @@
+{
+  "code": "SH",
+  "latitude": -24.143474,
+  "longitude": -10.030696,
+  "name": "Saint Helena, Ascension and Tristan da Cunha",
+  "names": {
+    "fr": "Sainte-Hélène, Ascension et Tristan da Cunha",
+    "hu": "Szent Ilona",
+    "nl": "Sint-Helena, Ascension en Tristan da Cunha",
+    "pl": "Święta Helena, Wyspa Wniebowstąpienia i Tristan da Cunha",
+    "de": "St. Helena, Ascension und Tristan da Cunha",
+    "ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+    "co": "Santa Helena, Ascensione è Tristan da Cunha",
+    "es": "Santa Elena, Ascensión y Tristán de Acuña",
+    "pt": "Santa Helena, Ascensão e Tristão da Cunha",
+    "eu": "Santa Elena, Ascension eta Tristan da Cunha",
+    "ie": "San Héilin, Ascension agus Tristan da Cunha"
+  },
+  "flags": [
+    "ao",
+    "lr",
+    "ga",
+    "bw",
+    "sh",
+    "na",
+    "st",
+    "za"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "st",
+    "bv",
+    "gs"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Saint%20Helena/@-24.143474,-10.030696,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "SHP",
+    "name": "Pound",
+    "nameChoices": [
+      "Dollar",
+      "Franc",
+      "Dong"
+    ]
+  },
+  "population": 5633,
+  "size": 394,
+  "languageData": {},
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:St-Helena-Jamestown.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:St_Helena,_view_south_over_%27Lot%27_toward_Sandy_Bay,_from_Sandy_Bay_Ridge,_1985-6._Peter_Neaum._-_panoramio.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/hukalo/52757629502/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/hukalo/52758574270/"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false
+}

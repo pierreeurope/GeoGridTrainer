@@ -1,0 +1,115 @@
+{
+  "code": "VG",
+  "latitude": 18.420695,
+  "longitude": -64.639968,
+  "name": "British Virgin Islands",
+  "names": {
+    "fr": "Îles Vierges britanniques",
+    "hu": "Brit Virgin-szigetek",
+    "nl": "Britse Maagdeneilanden",
+    "pl": "Brytyjskie Wyspy Dziewicze",
+    "de": "Britische Jungferninseln",
+    "ja": "イギリス領ヴァージン諸島",
+    "co": "Isuli Vergini Britanniche",
+    "es": "Islas Vírgenes Británicas",
+    "pt": "Ilhas Virgens Britânicas",
+    "eu": "Birjina uharte britainiarrak",
+    "ie": "Oileáin Bhriotanacha na Maighdean"
+  },
+  "flags": [
+    "kn",
+    "ag",
+    "vi",
+    "ai",
+    "vg",
+    "pr",
+    "ms",
+    "gp"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "vi",
+    "ai",
+    "pr",
+    "kn"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/British_Virgin_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/British%20Virgin%20Islands/@18.420695,-64.639968,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Pound",
+      "Peso",
+      "Tala"
+    ]
+  },
+  "population": 30030,
+  "size": 151,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/British_Virgin_Islands#Language"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng"
+      },
+      {
+        "languageCode": "spa"
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/bay-british-virgin-islands-yacht-434934/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://www.flickr.com/photos/terryott/49490167052/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/N4-ghgyy9-M"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/BKFtc2QfiaY"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/andrewmilligansumo/53763991340/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-beach-with-trees-and-houses-Q8Ox8kojpZ0"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://www.flickr.com/photos/terryott/49485216103/"
+    },
+    {
+      "imageCode": 8,
+      "sourceLink": "https://www.flickr.com/photos/andrewmilligansumo/53763906589/"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false
+}

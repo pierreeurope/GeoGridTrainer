@@ -1,0 +1,96 @@
+{
+  "code": "TK",
+  "latitude": -8.967363,
+  "longitude": -171.855881,
+  "name": "Tokelau",
+  "names": {
+    "hu": "Tokelau-szigetek",
+    "ja": "トケラウ",
+    "ie": "Tócalá"
+  },
+  "flags": [
+    "ws",
+    "as",
+    "tv",
+    "ki",
+    "wf",
+    "fj",
+    "tk",
+    "nu"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "ws",
+    "as",
+    "ki",
+    "wf",
+    "ck"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Tokelau",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Tokelau/@-8.967363,-171.855881,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "NZD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Pound",
+      "Pula",
+      "Som"
+    ]
+  },
+  "population": 1499,
+  "size": 12,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "tkl",
+        "percentage": 88.1
+      },
+      {
+        "languageCode": "eng",
+        "percentage": 48.6
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Tokelau_barge.JPG"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Aerial-view-tokelau-2012-photo-new-zealand-ministry-of-foreign-affairs-and-trade_12780239164_o.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/72923065@N00/2930850430/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/raobhask/3409238336/"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2017,
+  "gdpPerCapita": 6275
+}

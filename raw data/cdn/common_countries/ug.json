@@ -1,0 +1,129 @@
+{
+  "code": "UG",
+  "latitude": 1.373333,
+  "longitude": 32.290275,
+  "name": "Uganda",
+  "names": {
+    "fr": "Ouganda",
+    "nl": "Oeganda",
+    "ja": "ウガンダ",
+    "ie": "Uganda"
+  },
+  "flags": [
+    "cd",
+    "ke",
+    "ug",
+    "rw",
+    "ss",
+    "tz",
+    "et",
+    "bi"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "cd",
+    "ke",
+    "rw",
+    "ss",
+    "tz"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Uganda",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Uganda/@1.373333,32.290275,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "UGX",
+    "name": "Shilling",
+    "nameChoices": [
+      "Franc",
+      "Dollar",
+      "Kwanza"
+    ]
+  },
+  "population": 49283041,
+  "size": 241038,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Uganda"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "lug"
+      },
+      {
+        "languageCode": "swa"
+      }
+    ]
+  },
+  "productData": {
+    "year": 2021,
+    "totalValue": 3965317044.55,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 1033978306.8
+      },
+      {
+        "productCode": "09",
+        "value": 818992031.28
+      },
+      {
+        "productCode": "27",
+        "value": 136571892.11
+      },
+      {
+        "productCode": "07",
+        "value": 124084531.54
+      },
+      {
+        "productCode": "03",
+        "value": 116166852.58
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/murchison-national-park-uganda-2111157/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/lake-victoria-beach-africa-uganda-2108871/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/silhouette-of-people-riding-boat-on-sea-during-daytime-j9kIRsK8jqU"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-trees-on-mountain-during-daytime-8PF8fl6e6yE"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/high-angle-photography-of-lake-at-the-forest-wrM9TOVDSrs"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-photography-of-hills-and-trees-KQ5djKAN35s"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1340,
+  "gdpPerCapitaYear": 2025
+}

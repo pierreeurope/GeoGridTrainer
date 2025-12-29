@@ -1,0 +1,146 @@
+{
+  "code": "UA",
+  "latitude": 48.379433,
+  "longitude": 31.16558,
+  "name": "Ukraine",
+  "names": {
+    "hu": "Ukrajna",
+    "nl": "Oekraïne",
+    "pl": "Ukraina",
+    "ja": "ウクライナ",
+    "co": "Ukraina",
+    "es": "Ucrania",
+    "pt": "Ucrânia",
+    "eu": "Ukraina",
+    "ie": "An Úcráin"
+  },
+  "flags": [
+    "sk",
+    "by",
+    "pl",
+    "ru",
+    "ua",
+    "ro",
+    "md",
+    "hu"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "by",
+    "hu",
+    "md",
+    "pl",
+    "ro",
+    "ru",
+    "sk"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Ukraine",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Ukraine/@48.379433,31.16558,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "UAH",
+    "name": "Hryvnia",
+    "nameChoices": [
+      "Lev",
+      "Zloty",
+      "Euro"
+    ]
+  },
+  "population": 32862000,
+  "size": 603700,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      },
+      {
+        "title": "Translators without Borders",
+        "url": "https://translatorswithoutborders.org/language-data-for-ukraine"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ukr",
+        "percentage": 67.5
+      },
+      {
+        "languageCode": "rus",
+        "percentage": 29
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 36185539498.82,
+    "topExports": [
+      {
+        "productCode": "10",
+        "value": 8306532857.02
+      },
+      {
+        "productCode": "15",
+        "value": 5648707871.05
+      },
+      {
+        "productCode": "12",
+        "value": 2819417787.84
+      },
+      {
+        "productCode": "72",
+        "value": 2647708198.28
+      },
+      {
+        "productCode": "26",
+        "value": 1870049735.56
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/a6jaMBfDeoo"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/river-buildings-street-kiev-6824576/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/hays-on-field--YGqltMewrI"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/fCOgPYP_bHU"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/brown-and-white-concrete-building-jTboXfpKqUA"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-truck-is-parked-in-front-of-a-windmill-bUgP0IWJRPU"
+    },
+    {
+      "imageCode": 7,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%9C%D1%96%D1%81%D1%8F%D1%87%D0%BD%D0%B8%D0%B9_%D0%B2%D0%B5%D1%87%D1%96%D1%80_%D0%BD%D0%B0_%D0%97%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D1%96%D0%B9_%D0%B3%D0%BE%D1%80%D1%96.jpg"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 6261,
+  "gdpPerCapitaYear": 2025
+}

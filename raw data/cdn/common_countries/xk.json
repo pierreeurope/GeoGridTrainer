@@ -1,0 +1,105 @@
+{
+  "code": "XK",
+  "latitude": 42.602636,
+  "longitude": 20.902977,
+  "name": "Kosovo",
+  "names": {
+    "hu": "Koszovó",
+    "pl": "Kosowo",
+    "ja": "コソボ",
+    "co": "Kosova",
+    "ie": "An Chosaiv"
+  },
+  "flags": [
+    "me",
+    "gr",
+    "mk",
+    "al",
+    "bg",
+    "rs",
+    "ba",
+    "xk"
+  ],
+  "continent": [
+    "EU"
+  ],
+  "borders": [
+    "me",
+    "mk",
+    "rs",
+    "al"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Kosovo",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Kosovo/@42.602636,20.902977,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "size": 10887,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "sqi",
+        "percentage": 94.5
+      },
+      {
+        "languageCode": "bos",
+        "percentage": 1.7
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "population": 1585566,
+  "currencyData": {
+    "name": "Euro",
+    "code": "EUR",
+    "nameChoices": [
+      "Mark",
+      "Dinar",
+      "Dollar"
+    ]
+  },
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/bwSYcD0okkM"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/prizren-kosovo-city-view-town-3430989/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-and-green-mountain-under-blue-sky-during-daytime-9ut57M5CsUQ"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/white-clouds-over-green-mountain-bHDns51fR7I"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-grassy-hill-with-trees-on-it-j_tT1s0MCa4"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/a-white-building-with-a-black-bench-in-front-of-it-pW3yssrTMmk"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": true,
+  "gdpPerCapita": 7048,
+  "gdpPerCapitaYear": 2024
+}

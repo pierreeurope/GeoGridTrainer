@@ -1,0 +1,102 @@
+{
+  "code": "VU",
+  "latitude": -15.376706,
+  "longitude": 166.959158,
+  "name": "Vanuatu",
+  "names": {
+    "ja": "バヌアツ",
+    "ie": "Vanuatú"
+  },
+  "flags": [
+    "tv",
+    "wf",
+    "sb",
+    "vu",
+    "nc",
+    "nf",
+    "fj",
+    "nr"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "nc",
+    "sb",
+    "fj"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Vanuatu",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Vanuatu/@-15.376706,166.959158,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "VUV",
+    "name": "Vatu",
+    "nameChoices": [
+      "Leu",
+      "Dinar",
+      "Peso",
+      "Vatu"
+    ]
+  },
+  "population": 335908,
+  "size": 12189,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Vanuatu"
+      },
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "bis",
+        "percentage": 14.5
+      },
+      {
+        "languageCode": "tnl",
+        "percentage": 4
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/JxL6t8iVri4"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/vanuatu-harbor-bay-water-shoreline-80771/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/green-grass-and-trees-S_r6KV1xihE"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/body-of-water-YkMC1mqegTw"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/white-concrete-building-near-green-trees-during-daytime--SYNBazCTds"
+    }
+  ],
+  "difficulty": "hard",
+  "approvedForMapster": false,
+  "gdpPerCapita": 3188,
+  "gdpPerCapitaYear": 2023
+}

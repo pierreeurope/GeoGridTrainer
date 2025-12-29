@@ -1,0 +1,131 @@
+{
+  "code": "ZA",
+  "latitude": -30.559482,
+  "longitude": 22.937506,
+  "name": "South Africa",
+  "names": {
+    "fr": "Afrique du Sud",
+    "hu": "Dél-afrikai Köztársaság",
+    "nl": "Zuid-Afrika",
+    "pl": "Południowa Afryka",
+    "de": "Südafrika",
+    "ja": "南アフリカ",
+    "co": "Africa di Sud",
+    "es": "Sudáfrica",
+    "pt": "África do Sul",
+    "eu": "Hegoafrika",
+    "ie": "An Afraic Theas"
+  },
+  "flags": [
+    "mz",
+    "zw",
+    "na",
+    "sz",
+    "ls",
+    "za",
+    "zm",
+    "bw"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "bw",
+    "ls",
+    "mz",
+    "na",
+    "sz",
+    "zw"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/South_Africa",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/South%20Africa/@-30.559482,22.937506,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "ZAR",
+    "name": "Rand",
+    "nameChoices": [
+      "Dollar",
+      "Leone",
+      "Loti"
+    ]
+  },
+  "population": 63015904,
+  "size": 1221037,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "zul",
+        "percentage": 25.3
+      },
+      {
+        "languageCode": "xho",
+        "percentage": 14.8
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 110607523884.529,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 19593179503.468
+      },
+      {
+        "productCode": "26",
+        "value": 16272430782.946
+      },
+      {
+        "productCode": "87",
+        "value": 12723940212.512
+      },
+      {
+        "productCode": "27",
+        "value": 11855076704.893
+      },
+      {
+        "productCode": "72",
+        "value": 6486118902.645
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/1GgWbP74phY"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/capetown-beach-sunset-aerial-view-2295679/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/body-of-water-city-and-mountain-J-yDj62KSxE"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/african-penguins-on-seashore-beside-boulder-UjpEGHu8uNU"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 6670,
+  "gdpPerCapitaYear": 2025
+}

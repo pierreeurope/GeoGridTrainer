@@ -1,0 +1,136 @@
+{
+  "code": "UZ",
+  "latitude": 41.377491,
+  "longitude": 64.585262,
+  "name": "Uzbekistan",
+  "names": {
+    "fr": "Ouzbékistan",
+    "hu": "Üzbegisztán",
+    "nl": "Oezbekistan",
+    "de": "Usbekistan",
+    "ja": "ウズベキスタン",
+    "es": "Uzbekistán",
+    "pt": "Uzbequistão",
+    "co": "Uzbekistanu",
+    "ie": "Úisbéiceastáin"
+  },
+  "flags": [
+    "af",
+    "kz",
+    "kg",
+    "tm",
+    "uz",
+    "tj",
+    "pk",
+    "ir"
+  ],
+  "continent": [
+    "AS"
+  ],
+  "borders": [
+    "af",
+    "kz",
+    "kg",
+    "tj",
+    "tm"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Uzbekistan",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Uzbekistan/@41.377491,64.585262,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "UZS",
+    "name": "Som",
+    "nameChoices": [
+      "Tugrik",
+      "Manat",
+      "Dinar"
+    ]
+  },
+  "population": 38000269,
+  "size": 447400,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "uzb",
+        "percentage": 74.3
+      },
+      {
+        "languageCode": "rus",
+        "percentage": 14.2
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 21016916974.258,
+    "topExports": [
+      {
+        "productCode": "71",
+        "value": 8341315746.97
+      },
+      {
+        "productCode": "52",
+        "value": 1687922039.11
+      },
+      {
+        "productCode": "74",
+        "value": 1287086439.61
+      },
+      {
+        "productCode": "61",
+        "value": 1105262727.61
+      },
+      {
+        "productCode": "27",
+        "value": 968413712.59
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://unsplash.com/photos/x-xwFxX2wVU"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/bibi-xanom-mosque-samarkand-196944/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/brown-house-2O8sAwInqT8"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/brown-field-under-white-sky-during-daytime-6HJ0-lKtpsc"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/a-dirt-road-surrounded-by-trees-under-a-cloudy-sky-q7A2qWWKAUw"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/aerial-view-of-city-under-blue-sky-during-daytime-VYBSxYpCUOc"
+    }
+  ],
+  "difficulty": "easy",
+  "approvedForMapster": true,
+  "gdpPerCapita": 3510,
+  "gdpPerCapitaYear": 2025
+}

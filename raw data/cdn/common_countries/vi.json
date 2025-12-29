@@ -1,0 +1,111 @@
+{
+  "code": "VI",
+  "latitude": 18.335765,
+  "longitude": -64.896335,
+  "name": "U.S. Virgin Islands",
+  "names": {
+    "fr": "Îles Vierges des États-Unis",
+    "hu": "Amerikai Virgin-szigetek",
+    "nl": "Amerikaanse Maagdeneilanden",
+    "pl": "Wyspy Dziewicze Stanów Zjednoczonych",
+    "de": "Amerikanische Jungferninseln",
+    "ja": "アメリカ領ヴァージン諸島",
+    "co": "Isule Vergine Americane",
+    "es": "Islas Vírgenes de los Estados Unidos",
+    "pt": "Ilhas Virgens dos Estados Unidos",
+    "eu": "Birjina uharte amerikarrak",
+    "ie": "Oileáin na Maighdean S.A.M."
+  },
+  "flags": [
+    "ai",
+    "vg",
+    "pr",
+    "ms",
+    "gp",
+    "kn",
+    "vi",
+    "ag"
+  ],
+  "continent": [
+    "NA"
+  ],
+  "borders": [
+    "vg",
+    "pr",
+    "ai",
+    "kn",
+    "bq",
+    "sx",
+    "mf"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/U.S._Virgin_Islands",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/U.S.%20Virgin%20Islands/@18.335765,-64.896335,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "USD",
+    "name": "Dollar",
+    "nameChoices": [
+      "Pataca",
+      "Tala",
+      "Kina"
+    ]
+  },
+  "population": 87146,
+  "size": 347,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_States_Virgin_Islands#Languages"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "eng"
+      },
+      {
+        "languageCode": "spa"
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Magens_Bay,_St._Thomas,_USVI.jpg"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Cruz_Bay,_Saint_John;_United_States_Virgin_Islands.jpg"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://unsplash.com/photos/grayscale-photo-of-beach-shore-99eHoxAvneI"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://unsplash.com/photos/a-bird-flying-over-water-aFmpIn4OJ_s"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://unsplash.com/photos/white-boat-on-sea-during-daytime-iBjow4JiQpU"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://unsplash.com/photos/brown-and-gray-rock-formation-on-sea-shore-during-daytime-k4dds3yHxm4"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": true,
+  "gdpPerCapitaYear": 2019
+}

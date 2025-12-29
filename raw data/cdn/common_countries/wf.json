@@ -1,0 +1,112 @@
+{
+  "code": "WF",
+  "latitude": -13.768752,
+  "longitude": -177.156097,
+  "name": "Wallis and Futuna",
+  "names": {
+    "fr": "Wallis-et-Futuna",
+    "hu": "Wallis és Futuna Wallis és Futuna",
+    "nl": "Wallis en Futuna",
+    "pl": "Wallis i Futuna",
+    "de": "Wallis und Futuna",
+    "ja": "ウォリス・フツナ",
+    "co": "Wallis è Futuna",
+    "es": "Wallis y Futuna",
+    "pt": "Wallis e Futuna",
+    "eu": "Wallis eta Futuna",
+    "ie": "Wallis agus Futuna"
+  },
+  "flags": [
+    "fj",
+    "ws",
+    "wf",
+    "as",
+    "tk",
+    "tv",
+    "to",
+    "nu"
+  ],
+  "continent": [
+    "OC"
+  ],
+  "borders": [
+    "fj",
+    "ws",
+    "tk",
+    "tv",
+    "to"
+  ],
+  "autoUpdateBorders": false,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Wallis_and_Futuna",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Wallis%20and%20Futuna/@-13.768752,-177.156097,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XPF",
+    "name": "Franc",
+    "nameChoices": [
+      "Vatu",
+      "Dollar",
+      "Tala"
+    ]
+  },
+  "population": 11151,
+  "size": 142,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "The World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/field/languages/"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "wls",
+        "percentage": 58.9
+      },
+      {
+        "languageCode": "fud",
+        "percentage": 30.1
+      }
+    ]
+  },
+  "borderMode": "nearby",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://commons.wikimedia.org/wiki/File:Mata-Utu_seen_from_a_drone_%28Wallis_and_Futuna%29.png"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pxhere.com/en/photo/1642780"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/frf123/27192910604"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/frf123/27704836162/in/pool-wallis_and_futuna/"
+    },
+    {
+      "imageCode": 5,
+      "sourceLink": "https://www.flickr.com/photos/neumuller/34055199544/"
+    },
+    {
+      "imageCode": 6,
+      "sourceLink": "https://www.flickr.com/photos/klm_pics/8233178829/"
+    }
+  ],
+  "difficulty": "extreme",
+  "approvedForMapster": false,
+  "gdpPerCapitaYear": 2019,
+  "gdpPerCapita": 18360
+}

@@ -1,0 +1,123 @@
+{
+  "code": "TG",
+  "latitude": 8.619543,
+  "longitude": 0.824782,
+  "name": "Togo",
+  "names": {
+    "ja": "トーゴ",
+    "ie": "Tóga"
+  },
+  "flags": [
+    "bf",
+    "st",
+    "gh",
+    "ci",
+    "ml",
+    "tg",
+    "ng",
+    "bj"
+  ],
+  "continent": [
+    "AF"
+  ],
+  "borders": [
+    "bj",
+    "gh",
+    "bf"
+  ],
+  "autoUpdateBorders": true,
+  "links": [
+    {
+      "type": "Wikipedia",
+      "url": "https://${cc}.wikipedia.org/wiki/Togo",
+      "languageCode": "en"
+    },
+    {
+      "type": "GoogleMaps",
+      "url": "https://www.google.com/maps/place/Togo/@8.619543,0.824782,11z&hl=${cc}",
+      "languageCode": "en"
+    }
+  ],
+  "currencyData": {
+    "code": "XOF",
+    "name": "Franc",
+    "nameChoices": [
+      "Rand",
+      "Colon",
+      "Dirham"
+    ]
+  },
+  "population": 9583381,
+  "size": 56785,
+  "languageData": {
+    "languageSources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Languages_of_Togo"
+      },
+      {
+        "title": "Minority Rights Group",
+        "url": "https://minorityrights.org/country/togo/#:~:text=The%20largest%20group%20was%20%C3%89w%C3%A9%2C%20at%201%2C324%2C157%20(22.3%20per%20cent)%2C%20followed%20by%20Kaby%C3%A9%20853%2C391%20(14.3%20per%20cent)%2C"
+      }
+    ],
+    "languages": [
+      {
+        "languageCode": "ewe",
+        "percentage": 22.3
+      },
+      {
+        "languageCode": "kbp",
+        "percentage": 14.3
+      }
+    ]
+  },
+  "productData": {
+    "year": 2023,
+    "totalValue": 1455558435.282,
+    "topExports": [
+      {
+        "productCode": "25",
+        "value": 331483793.737
+      },
+      {
+        "productCode": "27",
+        "value": 203185231.773
+      },
+      {
+        "productCode": "39",
+        "value": 125501858.775
+      },
+      {
+        "productCode": "15",
+        "value": 97176473.893
+      },
+      {
+        "productCode": "23",
+        "value": 84651411.886
+      }
+    ]
+  },
+  "borderMode": "bordering",
+  "images": [
+    {
+      "imageCode": 1,
+      "sourceLink": "https://pixabay.com/photos/africa-togo-village-6170643/"
+    },
+    {
+      "imageCode": 2,
+      "sourceLink": "https://pixabay.com/photos/africa-togo-village-6170633/"
+    },
+    {
+      "imageCode": 3,
+      "sourceLink": "https://www.flickr.com/photos/153562252@N05/49570659711/"
+    },
+    {
+      "imageCode": 4,
+      "sourceLink": "https://www.flickr.com/photos/faceofclimate/8735553697/"
+    }
+  ],
+  "difficulty": "normal",
+  "approvedForMapster": true,
+  "gdpPerCapita": 1050,
+  "gdpPerCapitaYear": 2025
+}
