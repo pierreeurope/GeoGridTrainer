@@ -9,6 +9,7 @@ Create a simple UI that looks like a big excel sheet with all categories as colu
 ### Web UI (React + TypeScript)
 
 This repo now includes a React+TypeScript UI (Vite) that loads:
+
 - `public/data/ui_countries.csv` (a UI-focused subset of the dataset)
 - `public/flags/{cc}.svg` (flag assets)
 
@@ -42,6 +43,7 @@ python3 scripts/geogrid_fetch_and_build.py
 ```
 
 This will:
+
 - Download raw CDN JSON into `raw data/cdn/`
 - Validate that every downloaded file parses as JSON
 - Export cleaned CSVs into `cleaned/`
@@ -94,7 +96,15 @@ The UI uses a smaller CSV exported by the pipeline:
 
 ## Level 2
 
-Add another UI to learn from prompt. The screen would say things like, which countries have more than 50 medals at the olympic games ? UI has 2 modes, one for single prompts and one for double prompts. Upon entering my results it would tell me which one are good, which one are wrong, and which one are missing.
+One new learning page:
+
+- **Learning a Country** : Flashcard mode for country facts. Shows only labels first; click/tap to reveal values. Includes a big flag, name, and all grid-relevant facts (rarity, population/area, flags, geography, economy, politics, sports, facts) sorted by usefulness. “New card” pulls another random country.
+
+Navigation is via the top bar:
+
+- `Table` → main filterable/sortable dataset table
+- `Learning a Country` → flashcard practice for countries
+- `Learning a Category` → (empty, reserved for next iteration)
 
 ## Level 3
 

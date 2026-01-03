@@ -29,15 +29,46 @@ body {
 body {
   margin: 0;
   font-family: var(--sans);
-  background: radial-gradient(1000px 700px at 25% 10%, rgba(124, 108, 255, 0.25), transparent 55%),
-    radial-gradient(900px 650px at 80% 20%, rgba(33, 199, 168, 0.18), transparent 55%),
-    radial-gradient(1100px 700px at 50% 80%, rgba(255, 92, 122, 0.12), transparent 60%),
-    var(--bg);
+  background: #0b0f19; /* solid to avoid banding */
   color: var(--text);
 }
 
 a {
   color: inherit;
+}
+
+.appShell {
+  min-height: 100vh;
+}
+
+.appNav {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 24px 20px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.navLinks {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.navLink {
+  padding: 8px 12px;
+  border-radius: 12px;
+  border: 1px solid transparent;
+  text-decoration: none;
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.navLinkActive {
+  border-color: rgba(124, 108, 255, 0.55);
+  color: var(--text);
+  background: rgba(124, 108, 255, 0.16);
 }
 
 .container {
@@ -91,8 +122,8 @@ a {
 }
 
 .panel {
-  background: var(--panel);
-  border: 1px solid var(--border);
+  background: #0d111a;
+  border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   overflow: hidden;
@@ -364,4 +395,93 @@ a {
   flex: 1;
 }
 
+.card {
+  width: min(1380px, 98vw);
+  min-height: 760px;
+  perspective: 1200px;
+  background: linear-gradient(180deg, rgba(15, 20, 33, 0.9) 0%, rgba(15, 20, 33, 0.86) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 20px;
+  position: relative;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.cardInner {
+  display: contents;
+}
+
+.cardCountryName {
+  font-size: clamp(28px, 5vw, 42px);
+  font-weight: 800;
+}
+
+.cardHeaderRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-bottom: 8px;
+}
+
+.cardFlagWrap {
+  flex: 0 0 auto;
+  padding: 10px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border);
+}
+
+.cardFlag {
+  width: 140px;
+  height: 92px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0.06);
+  object-fit: cover;
+  display: block;
+}
+
+.cardHint {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.cardList {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(4, minmax(240px, 1fr));
+  flex: 1;
+  overflow: visible;
+  padding-top: 6px;
+}
+
+.frontList .cardItemValue {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.cardItem {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.cardItemKey {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.cardItemValue {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.mutedValue {
+  color: rgba(255, 255, 255, 0.35);
+}
 
