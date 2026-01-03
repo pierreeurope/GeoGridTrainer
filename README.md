@@ -108,10 +108,6 @@ Navigation is via the top bar:
 
 ## Level 3
 
-Here we would use meta elements for example by looking at historical grids and what people answered. The goal is to know **in advance** which ones are most likely to be legendary. Maybe even creating a 'people interest' index that just looks at the number of connection of a country on wikipedia or something like this.
-
-### Level 3 (implemented): Learning a Category
-
 The **Learning a Category** page is now an interactive drill tool:
 
 - **Pick a category** (any column) from a small dropdown, or click **Random**
