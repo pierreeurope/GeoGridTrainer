@@ -34,10 +34,12 @@ export function TablePage() {
           ...c,
           hiddenByDefault: c.key === 'flag_svg',
         }));
-        setColumns(specs);
+        const columnsToRemove = new Set(['code', 'flag_svg', 'Continent codes']);
+        const filteredSpecs = specs.filter((c) => !columnsToRemove.has(c.key));
+        setColumns(filteredSpecs);
 
         const nextVisible: Record<string, boolean> = {};
-        for (const c of specs) nextVisible[c.key] = true; // show everything by default
+        for (const c of filteredSpecs) nextVisible[c.key] = true; // show everything by default
         setVisible(nextVisible);
 
         if (headers.includes('Rarity')) {
