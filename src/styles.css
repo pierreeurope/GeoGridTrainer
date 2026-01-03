@@ -338,9 +338,9 @@ a {
 }
 
 .flag {
-  width: 24px;
-  height: 16px;
-  border-radius: 3px;
+  width: 48px;
+  height: 32px;
+  border-radius: 6px;
   border: 1px solid rgba(255, 255, 255, 0.18);
   background: rgba(255, 255, 255, 0.06);
   object-fit: cover;
