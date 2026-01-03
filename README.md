@@ -61,7 +61,7 @@ This will:
 - `cleaned/common_country_details.csv`
   - Extra country facts (population, languages, currencyData, borders, etc.)
 
-#### One final “everything” CSV (for the Level 1 spreadsheet UI)
+#### One final "everything" CSV (for the Level 1 spreadsheet UI)
 
 - `cleaned/final_countries.csv`
   - One row per country
@@ -90,7 +90,7 @@ The pipeline also mirrors **all flag SVGs** keyed by country code:
 
 The UI uses a smaller CSV exported by the pipeline:
 
-- `cleaned/ui_countries.csv` → copied to `public/data/ui_countries.csv`
+- `cleaned/ui_countries.csv` -> copied to `public/data/ui_countries.csv`
 - Only includes columns that back GeoGrid-style prompts (flag colors, medals, landlocked, etc.)
 - Includes `flag_svg` as a ready-to-use URL (ex: `/flags/af.svg`)
 
@@ -98,14 +98,30 @@ The UI uses a smaller CSV exported by the pipeline:
 
 One new learning page:
 
-- **Learning a Country** : Flashcard mode for country facts. Shows only labels first; click/tap to reveal values. Includes a big flag, name, and all grid-relevant facts (rarity, population/area, flags, geography, economy, politics, sports, facts) sorted by usefulness. “New card” pulls another random country.
+- **Learning a Country** : Flashcard mode for country facts. Shows only labels first; click/tap to reveal values. Includes a big flag, name, and all grid-relevant facts (rarity, population/area, flags, geography, economy, politics, sports, facts) sorted by usefulness. "New card" pulls another random country.
 
 Navigation is via the top bar:
 
-- `Table` → main filterable/sortable dataset table
-- `Learning a Country` → flashcard practice for countries
-- `Learning a Category` → (empty, reserved for next iteration)
+- `Table` -> main filterable/sortable dataset table
+- `Learning a Country` -> flashcard practice for countries
+- `Learning a Category` -> (empty, reserved for next iteration)
 
 ## Level 3
 
 Here we would use meta elements for example by looking at historical grids and what people answered. The goal is to know **in advance** which ones are most likely to be legendary. Maybe even creating a 'people interest' index that just looks at the number of connection of a country on wikipedia or something like this.
+
+### Level 3 (implemented): Learning a Category
+
+The **Learning a Category** page is now an interactive drill tool:
+
+- **Pick a category** (any column) from a small dropdown, or click **Random**
+- **Practice by guessing countries** that match the category:
+  - A grid of hidden tiles is built from all countries matching the category
+  - Tiles are **sorted by Rarity** (rarest first)
+  - Type in the input (substring search like `bah` -> Bahamas) and click a suggestion
+  - If correct, the tile reveals the **flag + country name**
+  - If wrong, the input blinks red briefly
+- **Boolean categories** train only the **true** cases (e.g., "Was USSR" shows only former USSR countries)
+- **Numeric categories** let you choose **<= / >=** and enter a number manually
+- **Flag colors** supports selecting **Any** vs **All** combinations of colors
+- **Reveal all** button shows the full answer set for a category
