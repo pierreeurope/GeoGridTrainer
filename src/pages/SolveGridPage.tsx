@@ -418,11 +418,30 @@ function rarityScore(row: Row): number {
   return Number.isFinite(n) ? n : 0;
 }
 
+// Type for tracking skipped countries per cell
+type SkippedMap = { [cellKey: string]: Set<string> };
+
+// Get all candidates for a cell (sorted by rarity)
+function getCellCandidates(
+  rows: Row[],
+  rowCategory: string,
+  colCategory: string
+): Row[] {
+  const rowFilter = CATEGORY_MAP.get(rowCategory);
+  const colFilter = CATEGORY_MAP.get(colCategory);
+  if (!rowFilter || !colFilter) return [];
+  return rows
+    .filter((r) => rowFilter(r) && colFilter(r))
+    .sort((a, b) => rarityScore(b) - rarityScore(a));
+}
+
 // Solve the grid: find best country for each cell without duplicates
+// Respects skipped countries per cell
 function solveGrid(
   rows: Row[],
   rowCategories: string[],
-  colCategories: string[]
+  colCategories: string[],
+  skipped: SkippedMap = {}
 ): (Row | null)[][] {
   const result: (Row | null)[][] = [
     [null, null, null],
@@ -436,17 +455,16 @@ function solveGrid(
   const cellCandidates: Row[][][] = [];
   for (let ri = 0; ri < 3; ri++) {
     cellCandidates[ri] = [];
-    const rowFilter = CATEGORY_MAP.get(rowCategories[ri]);
     for (let ci = 0; ci < 3; ci++) {
-      const colFilter = CATEGORY_MAP.get(colCategories[ci]);
-      if (!rowFilter || !colFilter) {
-        cellCandidates[ri][ci] = [];
-        continue;
-      }
-      const matches = rows
-        .filter((r) => rowFilter(r) && colFilter(r))
-        .sort((a, b) => rarityScore(b) - rarityScore(a));
-      cellCandidates[ri][ci] = matches;
+      const candidates = getCellCandidates(rows, rowCategories[ri], colCategories[ci]);
+      const cellKey = `${ri}-${ci}`;
+      const cellSkipped = skipped[cellKey] || new Set();
+      // Filter out skipped countries for this cell
+      const filtered = candidates.filter((r) => {
+        const code = String((r as any).code ?? '').toUpperCase();
+        return !cellSkipped.has(code);
+      });
+      cellCandidates[ri][ci] = filtered;
     }
   }
 
@@ -472,6 +490,20 @@ function solveGrid(
   }
 
   return result;
+}
+
+// Count how many alternatives are available for a cell
+function countAlternatives(
+  rows: Row[],
+  rowCategory: string,
+  colCategory: string,
+  skipped: Set<string>
+): number {
+  const candidates = getCellCandidates(rows, rowCategory, colCategory);
+  return candidates.filter((r) => {
+    const code = String((r as any).code ?? '').toUpperCase();
+    return !skipped.has(code);
+  }).length;
 }
 
 // Autocomplete category picker component
@@ -570,6 +602,7 @@ export function SolveGridPage() {
   const [rowCats, setRowCats] = React.useState<string[]>(['', '', '']);
   const [colCats, setColCats] = React.useState<string[]>(['', '', '']);
   const [solution, setSolution] = React.useState<(Row | null)[][] | null>(null);
+  const [skipped, setSkipped] = React.useState<SkippedMap>({});
 
   React.useEffect(() => {
     loadCsv(DATA_URL)
@@ -581,30 +614,65 @@ export function SolveGridPage() {
 
   React.useEffect(() => {
     if (allFilled && rows.length > 0) {
-      const sol = solveGrid(rows, rowCats, colCats);
+      const sol = solveGrid(rows, rowCats, colCats, skipped);
       setSolution(sol);
     } else {
       setSolution(null);
     }
-  }, [rows, rowCats, colCats, allFilled]);
+  }, [rows, rowCats, colCats, allFilled, skipped]);
 
   const updateRowCat = (idx: number, val: string) => {
     const next = [...rowCats];
     next[idx] = val;
     setRowCats(next);
+    // Reset skipped when categories change
+    setSkipped({});
   };
 
   const updateColCat = (idx: number, val: string) => {
     const next = [...colCats];
     next[idx] = val;
     setColCats(next);
+    // Reset skipped when categories change
+    setSkipped({});
   };
 
   const clearAll = () => {
     setRowCats(['', '', '']);
     setColCats(['', '', '']);
     setSolution(null);
+    setSkipped({});
   };
+
+  const resetAlternatives = () => {
+    setSkipped({});
+  };
+
+  // Skip the current country in a cell and show the next alternative
+  const skipCountry = (ri: number, ci: number) => {
+    const currentRow = solution?.[ri]?.[ci];
+    if (!currentRow) return;
+
+    const code = String((currentRow as any).code ?? '').toUpperCase();
+    const cellKey = `${ri}-${ci}`;
+    
+    setSkipped((prev) => {
+      const cellSet = new Set(prev[cellKey] || []);
+      cellSet.add(code);
+      return { ...prev, [cellKey]: cellSet };
+    });
+  };
+
+  // Get count of remaining alternatives for a cell
+  const getAlternativesCount = (ri: number, ci: number): number => {
+    if (!allFilled) return 0;
+    const cellKey = `${ri}-${ci}`;
+    const cellSkipped = skipped[cellKey] || new Set();
+    return countAlternatives(rows, rowCats[ri], colCats[ci], cellSkipped);
+  };
+
+  // Check if there are any skipped countries
+  const hasSkipped = Object.values(skipped).some((s) => s.size > 0);
 
   return (
     <div className="container solveGridPage">
@@ -613,10 +681,19 @@ export function SolveGridPage() {
           <h2>Solve Grid</h2>
           <p className="subtext">
             Select 3 row categories and 3 column categories. The solver will find the highest-rarity country for each cell (no duplicates).
+            <br />
+            <strong>Click a cell</strong> to cycle to the next best alternative if the data seems wrong.
           </p>
-          <button className="btn" onClick={clearAll}>
-            Clear All
-          </button>
+          <div className="panelHeaderBtns">
+            <button className="btn" onClick={clearAll}>
+              Clear All
+            </button>
+            {hasSkipped && (
+              <button className="btn btnSecondary" onClick={resetAlternatives}>
+                Reset Alternatives
+              </button>
+            )}
+          </div>
         </div>
 
         <div className="solveGridContainer">
@@ -650,16 +727,28 @@ export function SolveGridPage() {
               {colCats.map((_, ci) => {
                 const row = solution?.[ri]?.[ci];
                 const flagUrl = row ? (row as any).flag_svg : null;
-                const countryName = row ? row.Country : null;
+                const name = row ? row.Country : null;
                 const rarity = row ? rarityScore(row) : null;
+                const altCount = getAlternativesCount(ri, ci);
+                const cellKey = `${ri}-${ci}`;
+                const skippedCount = skipped[cellKey]?.size || 0;
 
                 return (
-                  <div key={`cell-${ri}-${ci}`} className={`gridCell ${row ? 'gridCellFilled' : ''}`}>
+                  <div
+                    key={`cell-${ri}-${ci}`}
+                    className={`gridCell ${row ? 'gridCellFilled gridCellClickable' : ''}`}
+                    onClick={() => row && skipCountry(ri, ci)}
+                    title={row ? `Click to see next alternative (${altCount - 1} more)` : undefined}
+                  >
                     {row ? (
                       <>
-                        {flagUrl && <img className="gridFlag" src={flagUrl} alt={String(countryName)} />}
-                        <div className="gridCountryName">{countryName}</div>
+                        {flagUrl && <img className="gridFlag" src={flagUrl} alt={String(name)} />}
+                        <div className="gridCountryName">{name}</div>
                         <div className="gridRarity">Rarity: {rarity}</div>
+                        <div className="gridAltCount">
+                          {skippedCount > 0 && <span className="gridSkipped">#{skippedCount + 1}</span>}
+                          {altCount > 1 && <span className="gridMore">+{altCount - 1} more</span>}
+                        </div>
                       </>
                     ) : allFilled ? (
                       <div className="gridNoMatch">No match</div>
