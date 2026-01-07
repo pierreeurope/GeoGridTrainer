@@ -583,3 +583,279 @@ a {
   color: rgba(255, 255, 255, 0.35);
 }
 
+/* ---------- SOLVE GRID PAGE ---------- */
+.solveGridPage {
+  padding-top: 20px;
+}
+
+.solveGridPage .panel {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.solveGridPage .panelHeader {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.solveGridPage .panelHeader h2 {
+  margin-bottom: 0;
+}
+
+.subtext {
+  color: var(--muted);
+  font-size: 13px;
+  margin: 0;
+}
+
+.solveGridContainer {
+  display: grid;
+  grid-template-columns: 220px repeat(3, 1fr);
+  gap: 8px;
+  padding: 20px;
+}
+
+.gridCorner {
+  /* empty top-left corner */
+}
+
+.gridColHeader,
+.gridRowHeader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 8px;
+}
+
+.gridColHeader {
+  min-height: 100px;
+}
+
+.gridRowHeader {
+  min-width: 220px;
+}
+
+.catPickerWrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.catInputRow {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.catSearchInput {
+  font-size: 12px;
+  padding: 10px 32px 10px 12px;
+  width: 100%;
+  text-overflow: ellipsis;
+}
+
+.catClearBtn {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  border: none;
+  background: rgba(255, 255, 255, 0.15);
+  color: var(--text);
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.catClearBtn:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.catSuggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: rgba(15, 20, 33, 0.98);
+  border: 1px solid var(--border);
+  border-top: none;
+  border-radius: 0 0 12px 12px;
+  box-shadow: var(--shadow);
+  z-index: 50;
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+.catSuggestionItem {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 10px 12px;
+  border: none;
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+  font-size: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.catSuggestionItem:last-child {
+  border-bottom: none;
+}
+
+.catSuggestionItem:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.catSuggestionSelected {
+  background: rgba(124, 108, 255, 0.15);
+  color: white;
+}
+
+.catSuggestionSelected:hover {
+  background: rgba(124, 108, 255, 0.22);
+}
+
+.catNoResults {
+  padding: 12px;
+  color: var(--muted);
+  font-size: 12px;
+  text-align: center;
+}
+
+.gridCell {
+  aspect-ratio: 1;
+  min-height: 180px;
+  border: 2px solid rgba(255, 255, 255, 0.12);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.03);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px;
+  transition: all 0.2s ease;
+}
+
+.gridCell:hover {
+  border-color: rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.gridCellFilled {
+  border-color: rgba(124, 108, 255, 0.35);
+  background: rgba(124, 108, 255, 0.08);
+}
+
+.gridFlag {
+  width: 100%;
+  max-width: 140px;
+  height: auto;
+  max-height: 90px;
+  object-fit: contain;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.gridCountryName {
+  font-weight: 700;
+  font-size: 14px;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.gridRarity {
+  font-size: 11px;
+  color: var(--muted);
+  font-family: var(--mono);
+}
+
+.gridNoMatch {
+  color: var(--danger);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.gridEmpty {
+  font-size: 48px;
+  color: rgba(255, 255, 255, 0.15);
+  font-weight: 700;
+}
+
+.solutionStats {
+  padding: 16px 20px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+
+.solutionStats p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+/* Responsive adjustments for solve grid */
+@media (max-width: 900px) {
+  .solveGridContainer {
+    grid-template-columns: 160px repeat(3, 1fr);
+    gap: 6px;
+    padding: 12px;
+  }
+  
+  .gridCell {
+    min-height: 140px;
+    padding: 10px;
+  }
+  
+  .gridFlag {
+    max-width: 100px;
+    max-height: 65px;
+  }
+  
+  .gridCountryName {
+    font-size: 12px;
+  }
+  
+  .catSearchInput {
+    font-size: 11px;
+    padding: 8px 28px 8px 8px;
+  }
+}
+
+@media (max-width: 650px) {
+  .solveGridContainer {
+    grid-template-columns: 120px repeat(3, 1fr);
+    gap: 4px;
+    padding: 8px;
+  }
+  
+  .gridCell {
+    min-height: 100px;
+    padding: 6px;
+    gap: 4px;
+  }
+  
+  .gridFlag {
+    max-width: 70px;
+    max-height: 45px;
+  }
+  
+  .gridCountryName {
+    font-size: 10px;
+  }
+  
+  .gridRarity {
+    display: none;
+  }
+}
+

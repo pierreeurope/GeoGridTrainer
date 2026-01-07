@@ -3,11 +3,13 @@ import { BrowserRouter, NavLink, Route, Routes } from 'react-router-dom';
 import { TablePage } from './pages/TablePage';
 import { LearningCountryPage } from './pages/LearningCountryPage';
 import { LearningCategoryPage } from './pages/LearningCategoryPage';
+import { SolveGridPage } from './pages/SolveGridPage';
 
 const navItems = [
   { to: '/', label: 'Table' },
   { to: '/learning-country', label: 'Learning a Country' },
   { to: '/learning-category', label: 'Learning a Category' },
+  { to: '/solve-grid', label: 'Solve Grid' },
 ];
 
 export function App() {
@@ -37,6 +39,7 @@ export function App() {
             <Route path="/" element={<TablePage />} />
             <Route path="/learning-country" element={<LearningCountryPage />} />
             <Route path="/learning-category" element={<LearningCategoryPage />} />
+            <Route path="/solve-grid" element={<SolveGridPage />} />
           </Routes>
         </main>
       </div>
